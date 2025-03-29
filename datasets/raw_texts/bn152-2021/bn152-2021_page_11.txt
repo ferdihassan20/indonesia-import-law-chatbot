@@ -1,0 +1,64 @@
+-1l1-
+
+40. | 7210.12.10 - - - Mengandung karbon 0,6 % atau lebih menurut
+beratnya
+
+41. | 7210.12.90 - - - Lain-lain
+
+42. | 7210.20.10 - - Mengandung karbon kurang dan i 0,6 % menurut
+beratnya dan dengan ketebalan 1,5 mm atau kurang
+
+43. | 7210.20.90 - - Lain-lain
+
+44. | 7210.30.11 - - - Dengan ketebalan tidak melebihi 1,2 mm
+
+45. | 7210.30.12 - - - Dengan ketebalan melebihi 1,2 mm tetapi tidak
+melebihi 1,5 mm
+
+46. | 7210.30.19 - - - Lain-lain
+
+47. | 7210.30.91 - - - Dengan ketebalan tidak melebihi 1,2 mm
+
+48. | 7210.30.99 - - - Lain-lain
+
+49. | 7210.41.11 --- Dengan ketebalan tidak melebihi 1,2 mm
+
+50. | 7210.41.12 - - - - Dengan ketebalan melebihi 1,2 mm tetapi tidak
+melebihi 1,5 mm
+
+Sl. | 7210.41.19 - - - - Lain-lain
+
+52. | 7210.41.91 ---- Dengan ketebalan tidak melebihi 1,2 mm
+
+53. | 7210.41.99 - - - - Lain-lain
+
+54. | 7210.49.11 - - - - Dilapisi dengan seng dengan metode paduan
+besi-seng, mengandung karbon kurang dari 0,04 %
+menurut beratnya dan dengan ketebalan tidak melebihi
+1,2 mm
+
+55. | 7210.49.12 - - - - Lain-lain, dengan ketebalan tidak melebihi 1,2
+mm
+
+56. | 7210.49.13 - - - - Dengan ketebalan melebihi 1,2 mm tetapi tidak
+melebihi 1,5 mm
+
+57. | 7210.49.19 - - - - Lain-lain
+
+58. | 7210.49.91 - - - - Dengan ketebalan tidak melebihi 1,2 mm
+
+59. | 7210.49.99 - - - - Lain-lain
+
+60. | 7210.61.11 - - - - Dengan ketebalan tidak melebihi 1,2 mm
+
+61. | 7210.61.12 - - - - Dengan ketebalan melebihi 1,2 mm tetapi tidak
+melebihi 1,5 mm
+
+62. | 7210.61.19 - - - - Lain-lain
+
+63. | 7210.61.91 - - - - Dengan ketebalan tidak melebihi 1,2 mm
+
+64. | 7210.61.92 - - - - Lain-lain, bergelombang
+
+2021, No.152
+

@@ -1,0 +1,33 @@
+15 2010, No.353
+NO. | URAIAN BARANG SPESIFIKASI TERMASUK
+DALAM POS
+TARIF
+107 |R SUSPENSION | Sistem suspensi belakang dan} 8708.80.14.00
+ASSY bagiannya
+108 |RADIATOR = ASSY/ | Untuk dump truck 8708.91.14.00
+RADIATOR
+109 | RADIATOR Untuk alat besar 8419.50.90.00
+110 | COUPLING Kopling dan bagiannya untuk} 8708.93.40.00
+dump truck
+111 | STEERING COLUMN | Roda kemudi dan kolom kemudi| 8708.94.99.00
+dan bagiannya untuk dump truck
+112 | FUEL TANK | Tangki bahan bakar dan lainnya} 8708.99.19.00
+ASSY/TANK/TANK __ | untuk dump truck 8708.99.99.00
+ASSY
+113. | SEAT/SEAT Tempat duduk untuk alat besar| 9401.71.00.00
+SUSPENSION ASSY | dan dump truck 9401.20.00.00
+114 | STEEL PLATE SS400 (or equivalents : SS490 or} 7208.51.00.00
+SS540 or KN400 or SS41 or} 7208.52.00.00
+WS41 or ASTM),dengan | 7208.53.00.00
+ketebalan > 25 mm dan / atau
+lebar > 2000 mm
+115 | STEEL PLATE SHTS50 (or equivalents : SM490A | 7208.51.00.00
+or SHT540 or SMS50A/B or} 7208.52.00.00
+SM400A/B/C or KN490E_ or] 7208.53.00.00
+ST442), dengan ketebalan > 25
+mm dan / atau lebar > 2000 mm
+116 | STEEL PLATE S43C or equivalent S45C 7208.51.00.00
+
+7208.52.00.00
+7208.53.00.00
+

@@ -1,0 +1,33 @@
+_30- 2018, No.1234
+
+C. DAFTAR IMPOR BARANG BERUPA KEDELAI, GANDUM, DAN TEPUNG
+TERIGU YANG DIKENAKAN PEMUNGUTAN PAJAK PENGHASILAN
+PASAL 22 SEBESAR 0,5% (NOL KOMA LIMA PERSEN)
+
+1
+2
+3
+4
+5
+6
+7
+
+1001.99.12
+1001.99.19
+1001.99.99
+1101.00.11
+1101.00.19
+1201.90.00
+
+- -- - Biji gandum tanpa cangkang
+---- Lain-lain
+
+---- Lain-lain
+
+- - Telah difortifikasi
+
+- - Lain-lain
+
+- Lain-lain
+
+www.peraturan.go.id

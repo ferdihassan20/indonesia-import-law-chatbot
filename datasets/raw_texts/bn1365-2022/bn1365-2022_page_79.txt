@@ -1,0 +1,73 @@
+79. 2022, No.1365
+
+3) Kode barang
+Kode barang yang dibuat oleh Penerima Fasilitas KITE
+untuk setiap jenis Barang dan Bahan Fasilitas KITE dalam
+proses (work in process) yang berbeda. Kode barang ini
+menjadi salah satu elemen data utama untuk menelusuri
+keterkaitan dalam setiap proses mutasi Barang Berfasilitas
+KITE.
+
+4) Nama barang
+Nama setiap jenis Barang dan Bahan Fasilitas KITE dalam
+proses (work in process) yang berbeda sesuai dengan kode
+barang, dapat dipahami secara jelas dan bukan merupakan
+singkatan atau penamaan yang hanya dipahami oleh
+internal Penerima Fasilitas KITE atau perusahaan penerima
+subkontrak. Nama barang ini menjadi salah satu elemen
+data utama untuk menelusuri keterkaitan dalam setiap
+proses mutasi Barang Berfasilitas KITE.
+
+5) Satuan barang
+Satuan Barang dan Bahan Fasilitas KITE dalam proses
+(work in process) yang dikeluarkan dari lokasi Penerima
+Fasilitas KITE ke lokasi penerima subkontrak atau
+pemasukan Barang dan Bahan Fasilitas KITE dalam proses
+(work in process) dari lokasi penerima subkontrak ke lokasi
+usaha Penerima Fasilitas KITE (contoh: liter, kilogram,
+dan/atau meter}.
+
+6) Jumlah
+Jumlah Barang dan Bahan Fasilitas KITE dalam proses
+(work in process) untuk setiap satuan barang yang
+dikeluarkan dari lokasi usaha Penerima Fasilitas KITE
+untuk digunakan proses produksi di lokasi penerima
+subkontrak atau dimasukkan dari lokasi penerima
+subkontrak ke lokasi Penerima Fasilitas KITE.
+
+7) Nama perusahaan subkontrak
+Nama pihak yang menerima pekerjaan dari Penerima
+Fasilitas KITE dengan perjanjian subkontrak untuk
+kegiatan olah, rakit, dan/atau pasang yang merupakan
+bagian proses produksi atas Barang dan Bahan Fasilitas
+KITE dalam proses (work in process).
+
+3. Go terkait barang hasil produksi
+
+Laporan Pemasukan Hasil Produksi
+
+Laporan ini menampilkan pencatatan barang hasil produksi
+
+yang dimasukan ke lokasi penyimpanan hasil produksi,
+
+termasuk pemasukan kembali (re-impor) hasil produksi, dengan
+
+kode barang yang dapat dibedakan.
+
+Laporan ini minimal memuat elemen data dan/atau informasi
+
+terkait:
+
+1) Nomor bukti penerimaan barang
+Nomor dokumen dan/atau surat internal Penerima Fasilitas
+KITE yang digunakan untuk bukti kegiatan penerimaan
+hasil produksi di lokasi penyimpanan Penerima Fasilitas
+KITE.
+
+2) Tanggal bukti penerimaan barang
+Tanggal dokumen dan/atau surat internal Penerima
+Fasilitas KITE yang digunakan untuk bukti kegiatan
+penerimaan hasil produksi di lokasi penyimpanan Penerima
+Fasilitas KITE.
+
+www.peraturan.go.id

@@ -1,0 +1,87 @@
+-27 -
+
+konsentrasi > 10! Bq/g
+
+aktivitas
+
+aktivitas > 10° Bq
+Br-83 konsentrasi > 10° Bq/g
+
+aktivitas
+
+aktivitas > 10° Bq
+Br-84 konsentrasi > 10! Bq/g
+
+aktivitas
+
+aktivitas > 10° Bq
+Carbon (C-11) konsentrasi > 10! Bq/g
+
+aktivitas
+
+aktivitas > 107Bq
+C-14 konsentrasi > 104 Bq/g
+
+aktivitas
+
+aktivitas > 107 Bq
+Calcium (Ca-41) konsentrasi > 105 Bq/g
+
+aktivitas
+
+aktivitas > 107 Bq
+Ca-45 konsentrasi > 104 Bq/g
+
+aktivitas
+
+aktivitas > 10° Bq
+Ca-47 konsentrasi > 101 Bq/g
+
+aktivitas
+
+aktivitas > 107 Bq
+Cadmium (Cd-104) konsentrasi > 102 Bq/g
+
+aktivitas
+
+aktivitas > 107 Bq
+Cd-107 konsentrasi > 103 Bq/g
+
+aktivitas
+
+aktivitas > 10° Bq
+Cd-109 konsentrasi > 10* Bq/g
+
+aktivitas
+
+aktivitas > 10° Bq
+Cd-113 konsentrasi > 103 Bq/g
+
+aktivitas
+
+aktivitas > 10° Bq
+Cd-113m konsentrasi > 103 Bq/g
+
+aktivitas
+
+aktivitas > 10° Bq
+Cd-115 konsentrasi > 102 Bq/g
+
+aktivitas
+
+aktivitas > 10°Bq
+Cd-115m konsentrasi > 103 Bq/g
+
+aktivitas
+
+aktivitas > 10° Bq
+Cd-117 konsentrasi > 101 Bq/g
+
+aktivitas
+
+aktivitas > 10° Bq
+Cd-117m konsentrasi > 101 Bq/g
+
+aktivitas
+Cerium (Ce-134) aktivitas > 107Bq
+

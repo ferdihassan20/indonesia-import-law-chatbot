@@ -1,0 +1,123 @@
+- (1)
+- (2)
+- (3)
+- (4)
+- (5)
+- (6)
+
+- (7)
+
+- (8)
+
+. (10)
+.(11)
+. (12)
+. (13)
+
+. (14)
+. (15)
+
+. (16)
+. (17)
+
+_ (18)
+. (19)
+. (20)
+. (2)
+. (22)
+. (23)
+
+. (24)
+. (25)
+. (26)
+. (27)
+. (28)
+. (29)
+. (30)
+
+MENTERI KEUANGAN
+REPUBLIK INDONESIA
+
+-2-
+PETUNJUK PENGISIAN
+
+: Diisi hari saat pelaksanaan pemusnahan.
+
+: Diisi tanggal saat pelaksanaan pemusnahan.
+
+: Diisi bulan saat pelaksanaan pemusnahan.
+
+: Diisi tahun saat pelaksanaan pemusnahan.
+
+: Diisi tempat (kota) pelaksanaan pemusnahan.
+
+: Diisi nama pejabat Kementerian Sekretariat Negara yang menyaksikan
+
+pemusnahan.
+
+: Diisi NIP pejabat Kementerian Sekretariat Negara yang menyaksikan
+
+pemusnahan.
+
+: Diisi nama unit kerja pejabat Kementerian Sekretariat Negara yang menyaksikan
+
+pemusnahan.
+
+: Diisi nama jabatan pejabat Kementerian Sekretariat Negara yang
+
+menyaksikan pemusnahan.
+
+: Diisi nama Pejabat Bea dan Cukai yang mewal<li Kementerian Keuangan
+
+untuk menyaksikan pemusnahan.
+
+: Diisi NIP Pejabat Bea dan Cukai yang mewal<ili Kementerian Keuangan untuk
+
+menyaksikan pemusnahan.
+
+: Diisi nama unit kerja Pejabat Bea dan Cukai yang mewakili Kementerian
+
+Keuangan untuk menyaksikan pemusnahan.
+
+: Diisi nama jabatan Pejabat Bea dan Cukai yang mewakili Kementerian
+
+Keuangan untuk menyalksikan pemusnahan.
+
+: Diisi nama Pejabat Badan Internasional yang menyaksikan pemusnahan.
+: Diisi nomor identitas Pejabat Badan Internasional yang menyaksikan
+
+pemusnahan.
+
+: Diisi nama Badan Internasional.
+: Diisi nama jabatan Pejabat Badan Internasional yang menyaksikan
+
+pemusnahan.
+
+: Diisi nama pihak yang melakukan pemusnahan.
+
+: Diisi nomor identitas pihak yang melakukan pemusnahan.
+
+: Diisi nama entitas (perusahaan/badan/lainnya) yang melakukan pemusnahan.
+
+: Diisi nama jabatan yang melakukan pemusnahan.
+
+: Diisi nama tempat pelaksanaan pemusnahan.
+
+: Disii nama Badan Internasional pemilik Kendaraan Bermotor yang
+
+dimusnahkan.
+
+: Diisi nomor Pemberitahuan Impor Barang (PIB).
+
+: Diisi tanggal Pemberitahuan Impor Barang (PIB).
+
+: Diisi nomor Formulir B.
+
+: Diisi tanggal Formulir B.
+
+: Diisi nama pemilik/penerima fasilitas yang tercantum dalam Formulir B.
+: Diisi jenis, merek, tipe Kendaraan Bermotor yang akan dimusnahkan.
+
+: Diisi tahun pembuatan Kendaraan Bermotor sesuai dengan Invoice.
+
+sow jdih-kemenkeu. got

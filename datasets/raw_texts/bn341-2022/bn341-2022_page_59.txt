@@ -1,0 +1,59 @@
+“59. 2022, No. 341
+
+6212.30.10 ~ - Dari kapas
+6212.30.90 ~ - Dari bahan tekstil lainnya
+6212.90 ~ Lain-lain :
+- - Dari kapas :
+6212.90.12 ~~ - Perlengkapan atictik
+6212.90.19 ~-- Lain-lain
+~ - Dari bahan tekstil lainnya :
+6212.90.92 ~ - - Perlengkapan atictik
+6212.90.99 ~-- Lain-lain
+62.13 Saputangan.
+6213.20 ~ Dari kapas :
+6213.20.10 ~ - Dicetak dengan proses batik tradisional
+6213.20.90 ~ - Lain-lain
+6213.90 - Dari bahan tekstil lainnya :
+- - Dari sutra atau sisa sutra :
+6213.90.11 - - - Dicetak dengan proses batik tradisional
+6213.90.19 --- Lain-lain
+~ - Lain-lain :
+6213.90.91 ~ - - Dicetak dengan proses batik tradisional
+6213.90.99 - --Lain-lain
+62.14 Syal, scarf, muffler, mantilla, veil dan sejenisnya.
+6214.10 ~ Dari sutra atau sisa sutra :
+6214.10.10 ~ - Dicetak dengan proses batik tradisional
+6214.10.90 - - Lain-lain
+6214.20.00 ~ Dari wol atau bulu hewan halus
+6214.30 ~ Dari serat sintetik ;
+6214.30.10 - - Dicetak dengan proses batik tradisional
+6214.30.90 ~~ Lain-lain
+6214.40 ~ Dari serat artifisial :
+6214.40.10 ~ - Dicetak dengan proses batik tradisional
+6214.40.90 - - Lain-lain
+6214.90 ~ Dari bahan tekstil lainnya :
+6214.90.10 ~ - Dicetak dengan proses batik tradisional
+6214.90.90 - - Lain-lain
+62.16 Sarung tangan, mitten dan mitt.
+6216.00.10 ~ Sarung tangan, mitten dan mitt pelindung kerja
+~ Lain-lain :
+6216.00.91 ~ - Dari wol stau bulu hewan halus
+6216.00.92 ~- Dari kapas
+6216.00.99 - - Lain-lain
+SUB-BAB I
+BARANG TEKSTIL SUDAH JADI LAINNYA
+63.01 Selimut dan selimut kecil untuk perjalanan.
+6301.10.00 ~ Selimut listrik
+6301.20.00 ~ Selimut (selain selimut listrik) dan sclimut kecil untuk perjalanan,
+dari wol atau dari bulu hewan halus
+6301.30 - Selimut (selain selimut listrik) dan selimut kecil untuk perjalanan,
+dari kapas =
+6301.30.10 ~ - Dicetak dengan proses batik tradisional
+6301.30.90 - - Lain-lain
+6301.40 - Selimut (selain sclimut listrik) dan selimut kecil untuk perjalanan,
+dari scrat sintetik :
+6301.40.10 - - Dari kain bukan tenunan
+6301.40.90 - - Lain-lain
+6301.90 - Sclimut dan selimut kecil untuk perjalanan lainnya :
+
+www.peraturan.go.id

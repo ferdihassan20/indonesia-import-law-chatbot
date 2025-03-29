@@ -1,0 +1,80 @@
+81. 2022, No.1365
+
+4) Nama barang
+Nama setiap hasil produksi yang berbeda sesuai dengan
+kode barang, dapat dipahami secara jelas dan bukan
+merupakan singkatan atau penamaan yang hanya dipahami
+oleh internal Penerima Fasilitas KITE. Nama barang ini
+menjadi salah satu elemen data utama untuk menelusuri
+keterkaitan dalam setiap proses mutasi Barang Berfasilitas
+KITE.
+
+5) Satuan barang
+Satuan hasil produksi yang dikeluarkan dari lokasi
+penyimpanan hasil produksi Penerima Fasilitas KITE
+(contoh: liter, kilogram, dan/atau meter).
+
+6) Jumlah
+Jumlah hasil produksi untuk setiap satuan barang yang
+dikeluarkan dari lokasi penyimpanan Penerima Fasilitas
+KITE.
+
+7) Mata uang
+Mata uang yang digunakan untuk setiap hasil produksi
+yang dikeluarkan dari lokasi penyimpanan sesuai dengan
+mata uang seri barang terkait pada dokumen pabean.
+
+8) Nilai barang
+Nilai Barang dan Bahan Fasilitas KITE yang dikeluarkan
+dari lokasi penyimpanan sesuai dengan satuan mata uang
+
+akan.
+
+yang digun: .
+
+9) Pembeli/penerima barang
+Nama perusahaan yang menjadi tujuan hasil produksi atau
+penerima hasil produksi,
+
+10) Negara tujuan barang
+Negara yang menjadi tujuan hasil produksi atau penerima
+hasil produksi.
+
+11) Nomor pendaftaran dokumen pabean
+Nomor dokumen pabean yang diberikan oleh Kantor Pabean
+atas pengeluaran dalam rangka ekspor dan/atau
+penyerahan hasil produksi (contoh: BC 3.0, BC 2.4, BC 2.5,
+dan/atau BC 2.8)
+
+12) Tanggal dokumen pabean
+Tanggal dokumen pabean mendapatkan nomor pendaftaran
+atas pengeluaran hasil produksi (contoh; BC 3.0, BC 2.4,
+BC 2.5, dan/atau BC 2.8)
+
+Laporan Mutasi Barang Hasil Produksi
+
+Laporan ini menampilkan pencatatan atas barang hasil produksi
+
+yang dimasukkan dan/atau dikeluarkan dari suatu lokasi
+
+penyimpanan ke lokasi penyimpanan lain milik Penerima
+
+Fasilitas KITE.
+
+Laporan ini minimal memuat elemen data dan/atau informasi
+
+terkait:
+
+1) Kode barang
+Kode barang yang dibuat oleh Penerima Fasilitas KITE
+untuk setiap jenis hasil produksi yang berbeda. Kode
+barang ini menjadi salah satu elemen data utama untuk
+menelusuri keterkaitan dalam setiap proses mutasi Barang
+Berfasilitas KITE.
+
+2) Nama
+Nama setiap jenis hasil produksi yang berbeda sesuai
+dengan kode barang, dapat dipahami secara jelas dan
+bukan merupakan singkatan atau penamaan yang hanya
+
+www.peraturan.go.id

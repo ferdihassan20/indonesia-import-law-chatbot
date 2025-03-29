@@ -1,0 +1,101 @@
+-13-
+
+2016, No.302
+
+Pos Tarif/ HS Uraian
+
+Kriteria Teknis
+
+kapasitas diatas 5000
+m3)
+
+10 | 8905.20.00.00 | - Platform pengeboran atau produksi
+
+terapung atau di bawah air
+
+(khusus khusus
+platform dengan
+ukuran tonase diatas
+2000 GT)
+
+11_| 8905,90,10.00
+
+- - Dok terapun;
+- - Lain-lain
+
+12 | 8905,90,90.00
+
+D. Kelompok Industri Elektronika dan Telematika
+
+Pos Tarif/ HS Uraian
+
+Kriteria Teknis
+
+84.14 Pompa udara atau pompa vakum,
+kompresor udara atau kompresor gas
+Jainnya dan kipas angin atau kipas gas
+lainnya; hood ventilasi atau hood daur
+ulang yang digabung dengan kipas,
+dilengkapi dengan saringan maupun.
+tidak.
+
+8414.80
+8414.80,90,00
+
+- Lain-lain:
+- - Lain-lain
+
+(FAN / BLOWER DC,
+sampai dengan 20
+Watt)
+
+Mesin cetak digunakan untuk
+mencetak dengan memakai pelat,
+silinder dan komponen cetak lainnya
+dari pos 84.42; mesin cetak, mesin
+fotocopy dan mesin faksimili lainnya,
+dikombinasi atau tidak; bagian dan
+aksesori lainnya.
+
+- Mesin cetak digunakan untuk
+mencetak dengan memakai pelat,
+silinder dan komponen cetak lainnya
+dari pos 84.42:
+
+8443.19.00.00 | - - Lain-lain
+
+(Mesin cetak produk
+thick film substrate)
+
+8443.31 - - Mesin yang menjalankan dua fungsi
+atau lebih untuk mencetak,
+menggandakan atau transmisi
+faksimili, memiliki kemampuan untuk
+berhubungan dengan mesin pengolah
+
+data otomatis atau jaringan:
+
+8443.32
+
+- - Lainnya, memiliki kemampuan
+berhubungan dengan mesin pengolah
+data otomatis atau jaringan:
+
+- - - Printer laser:
+
+3 | 8443.32.30.90
+
+mesin Cetak
+Computer to Plate
+(CtP) system untuk
+pembuatan
+Photopolymer Plate
+
+84.62 Mesin perkakas (termasuk pengepres)
+untuk mengerjakan logam dengan
+menempa, memalu atau menumbuk,
+mesin perkakas (termasuk pengepres)
+untuk mengerjakan logam dengan cara
+
+membengkokkan, melipat, meluruskan,
+

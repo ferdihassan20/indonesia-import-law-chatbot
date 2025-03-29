@@ -1,0 +1,68 @@
+2011, No.657
+
+14
+
+www.djpp.kemenkumham.go.id
+
+POS/SUB POS BEA MASUK/
+NO. | HEADING) sUB URAIAN BARANG DESCRIPTION OF GOODS IMPORT DUTY
+BEscING) 201 2012 2013
+a) @ @) (4) 45) (6) @
+— ic
+-Beku -Frozen :
+214 [0306.11.00.00 _|--Lobster Karang dan udang laut besar lainnya ~-Rock lobsters and other sea crawfish (Palinurus spp., 0,00% | 0,00% | 0,00%
+(Palinurus spp., Panulirus spp..Jasus spp.) Panulirus spp.Jasus spp.)
+215. |0306.12.00.00 _|--Lobster (Homarus spp.) --Lobsters (Homarus spp.) 0,00% | 0,00% | 0,00%
+216 0306.13.00.00 | -Udang kceil dan udang biasa --Shrimps and prawns 0,00% | 0,00% | 0,00%
+217 {0306.14.00.00_|--Kepiting --Crabs 0,00% | 0,00% | 0,00%
+218 /0306.19.00.00 _|--Lain-lain, termasuk tepung, tepung kasar dan pellet --Other, including flours, meals and pellets of crustaceans, 0,00% | 0,00% | 0,00%
+dari udang-udangan, layak untuk dikonsumsi manusia fit for human consumption
+-Tidak beku : -Not frozen
+0306.21 --Lobster karang dan udang laut besar lainnya (Palinurus spp., Rock lobster and other sea crawfish (Palinurus spp.,
+Panulirus spp., Jasus spp): Panulirus spp.,Jasus spp.):
+219. }0306.21.10.00 bit reeding 0,00% | 0,00% | 0,00%
+220 /0306.21.20.00 —_|-Lain-lain, hidup Other, live 0,00% | 0,00% | 0,00%
+221, J0306.21.30.00 ‘egar atau dingin 0,00% | 0,00% | 0,00%
+Lain-lain :
+222 /0306.21.91.00 __}.-Dalam kemasan kedap udara 0,00% | 0,00% } 0,00%
+223, /0306.21.99.00 —|-~-Lain-lain 0,00% | 0,00% | 0,00%
+0306.22 ~-Lobster (Homarus spp )
+224. [0306.22.10.00 0,00% | 0,00% | 0,00%
+225 [0306.22.20.00 —_|---Lain-lain, hidup -Other, live 0,00% | 0,00% | 0,00%
+226 |0306.22.30.00 _|-—-Segar atau dingin Fresh or chilled 0,00% | 0.00% | 0,00%
+-—Dikeringkan -Dried
+227 10306.22.41.00 | —--Dalam kemasan kedap udara In airtight containers 0,00% | 0.00% | 0,00%
+28 ain-lain Other 0,00% | 0.00% | 0,00%
+‘Other
+229 10306.22.91.00 |-—-In airtight containers 0,00% | 0,00% | 0,00%
+230. |0306.22.99.00 -—-Other 0,00% | 0,00% | 0,00%
+0306.23 --Udang kecil dan udang biasa : Shrimps and prawns
+231 /0306.23.10.00 —_|.-Bibit 0,00% | 0,00% | 0,00%
+232 10306.23.20.00 | —Lain-Iain, hidup e 0,00% | 0,00% | 0,00%
+233, |0306.23.30.00 _|-~Segar atau dingin -—Fresh or chilled 0,00% | 0,00% | 0,00%
+ikeringhan Dried
+234. |0306.23.41.00 -Dalam kemasan kedap udara In airtight containers 0.00% | 0,00% | 0,00%
+235. |0306.23.49.00 -Lain-lain Other 0,00% | 0,00% | 0,00%
+~Lain-lain Other:
+236 0306.23.91.00 -Dalam kemasan kedap udara In airtight containers 0.00% | 0,00% | 0,00%
+237. |0306.23.99.00 -Lain-lain Other 0,00% | 0,00% | 0,00%
+0306.24 epiting --Crabs
+238, [0306.24.10.00 Hidup Live 0,00% | 0,00% | 0,00%
+239 |0306.24.20.00 —_|-~Segar atau dingin Fresh or chilled 0,00% | 0,00% | 0,00%
+-~-Lain-lain Other:
+240 10306.24.91.00 —_|-—-Dalam kemasan kedap udara -—-In airtight containers 0,00% | 0,00% | 0,00%
+241 ]0306.24.99.00 ain-lain Other 0,00% | 0,00% | 0,00%
+0306.29 --Lain-Iain, termasuk tepung,tepung kasar dan pellet --Other, including flours, meals and pellets of crustaceans,
+dari udang-udangan, layak untuk dikonsumsi manusia : fit for human consumption
+242 [0306.29.10.00 | --Hidup Live 0,00% | 0,00% | 0,00%
+243, ]0306.29.20.00 | --Segar atau dingin -—Fresh or chilled 0,00% | 0,00% | 0,00%
+-—Lain-lain :
+244 |0306.29.91.00 Dalam kemasan kedap udara ight containers 0,00% | 0,00% | 0,00%
+245. |0306.29.99.00 Lain-lain -—-Other 0,00% | 0,00% | 0,00%
+03.07 Moluska, berkulit maupun tidak, hidup, segar, dingin, Molluscs, whether in shell or not, live, fresh, chilled,
+foeku, kering. asin atau dalam air garam; invertebrata air frozen, dried, salted or in brine ; aquatic invertebrates
+selain krustasea dan moluska, hidup, segar, dingin, beku, Jother than crustaceans and molluscs , live, fresh,
+ering, asin atau dalam air garam; tepung, tepung kasar chilled, frozen, dried,saited or in brine ; flours, meals, and
+[dan pellet dari invertebrata air selain krustasea, pellets of aquatic invertebrates other than crustaceans,
+layak untuk dikonsumsi manusia fit for human consumption
+

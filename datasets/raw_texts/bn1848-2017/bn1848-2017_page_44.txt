@@ -1,0 +1,98 @@
+2017, No.1848 _44-
+
+[No [POS TARIF/HS URAIAN BARANG KETERANGAN,
+
+[| 8447.11 - - Dengan garis tengah silinder tidak melebihi 165 mm: |
+
+70 [8447.11.10 - ~~ Dioperasikan secara elektrik fo |
+
+| _ [8447.12 - - Dengan garis tengah silinder melebihi 165 mm:
+
+71 [8447.12.10 - - - Dioperasikan secara elektrik |
+
+- Mesin rajut datar; mesin tusuk ikat
+
+- - Dioperasikan secara elektrik
+
+IMesin pembantu untuk digunakan dengan mesin dari
+pos 84.44, 84.45, 84.46 atau 84.47 (misalnya, dobi,
+jacquard, penghenti gerak otomatis, mekanisme
+[pengubah puntalan); bagian dan aksesori yang cocok
+ldigunakan semata-mata atau terutama dengan mesin
+dalam pos ini atau dari pos 84.44, 84.45, 84.46 atau
+184.47 (misalnya, spindel dan spindel flyer, card
+clothing, sisir, extruding nipple, puntalan, heald dan
+Iheald-frame, jarum rajut).
+
+- Mesin pembantu untuk mesin dari pos 84.44, 84.45,
+184.46 atau 84.47:
+
+-—Dobi dan jacquard; reduksi kartu, mesin pengganda,
+pelubang atau perakit mesin untuk digunakan sesuai
+dengan mesinnya:
+
+3448.11.10 - = - Dioperasikan secara elektrik
+a Ga > = Lain-lain’
+
+74 [8448.19.10 ~~~ Dioperasikan secara elektrik
+
+8448.20.00 - Bagian dan aksesori mesin dari pos 84.44 atau dari
+Imesin pembantunya
+- Bagian dan aksesori mesin dari pos 84.45 atau dari
+/mesin pembantunya:
+
+8448.32.00 ~~ Dari mesin untuk pengolahan serat tekstil,
+card clothing
+8448.39.00 -Tain-lain’
+
+IMesin (selain mesin dari pos 84.50) untuk mencuci,
+Imembersihkan, memeras, mengeringkan,
+menyetrika, mengepres (termasuk pengepres fusi),
+!mengelantang, mencelup, menata, merampungkan,
+melapisi atau meresapi benang tekstil, kain atau
+barang tekstil sudah jadi dan mesin untuk memberi
+pasta pada kain dasar atau kain dasar lainnya yang
+ldigunakan dalam pembuatan penutup lantai seperti
+hinoleum; mesin untuk menggulung, melepas
+|gulungan, melipat, memotong atau memotong
+bergerigi kain tekstil.
+
+78 [8451.10.00 - Mesin pembersih kering
+
+- Mesin pengering:
+
+79 |8451.29,00 - - Lain-lain
+
+(8451.30 Mesin penyeterika dan pengepres (termasuk pengepres
+fusi):
+
+1845 1.40.00 - Mesin pencuci, pengelantang atau pencelup
+82 [8451.50.00 - Mesin untuk menggulung, melepas gulungan, melipat,
+Jmemotong atau memotong bergerigi kain tekstil
+
+IMesin jahit, selain dari mesin penjahit buku yang
+dimaksud dari pos 84.40; perabotan, dasar dan tutup
+ldirancang secara khusus untuk mesin jahit; jarum
+/mesin jahit.
+
+- Mesin jahit lainya:
+
+-—Gnit otomatis
+
+iMesin untuk mengolah, menyamak atau mengerjakan
+jangat, kulit atau kulit samak atau untuk membuat
+latau memperbaiki alas kaki atau barang lain dari
+jangat, kulit atau kulit samak, selain mesin jahit.
+
+[8453.10 > Mesin untuk mengolah, menyamak atau mengerjakan
+jangat, kulit atau kulit samak.
+
+84 [8453.10.10 |- - Dioperasikan secara elektrik
+| _ [8453.20 - Mesin untuk membuat atau memperbaiki alas kaki:
+85 [8453.20.10 -— Dioperasikan secara elektrik
+
+84.54 Converter, ladle, mesin cetakan ingot dan mesin
+tuang, dari jenis yang digunakan dalam metalurgi
+latau pengecoran logam.
+
+www.peraturan.go.id

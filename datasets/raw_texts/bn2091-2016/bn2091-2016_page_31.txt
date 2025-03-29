@@ -1,0 +1,73 @@
+-31-
+
+322 | 7312.10.91.90 - - - - Lain-lain
+
+323 | 7312.10.99.00 - - - Lain-lain
+
+324 | 7312.90.00.00 - Lain-lain
+
+73.15 Rantai dan bagiannya, dari besi atau baja.
+
+7315.90 - Bagian lainnya:
+
+325 | 7315.90.90.00 - - Lain-lain
+
+326 | 7316.00.00.00 Jangkar, jangkar kecil dan bagiannya, dari besi
+atau baja.
+
+73.17 Paku, pasak, paku payung, corrugated nail, paku
+kokot (selain yang dimaksud pos 83.05) dan
+barang semacam itu, dari besi atau baja, dengan
+kepala dari bahan lain maupun tidak, tetapi tidak
+termasuk barang seperti itu dengan kepala dari
+tembaga.
+
+327 | 7317.00.10.00 - Paku kawat
+
+328 | 7317.00.20.00 - Paku kokot
+
+7317.00.90 - Lain-lain:
+
+329 | 7317.00.90.10 - - Paku rel untuk bantalan rel; pasak sikat untuk
+mesin sikat tekstil; gang nail, konektor dan anti-
+splitting
+
+330 | 7317.00.90.90 - - Lain-lain
+
+73.18 Sekrup, baut, mur, sekrup rel, kait sekrup, paku
+keling, pasak, pasak kunci, cincin pipih
+(termasuk cincin pipih pegas) dan barang
+semacam itu, dari besi atau baja.
+
+- Barang berulir:
+
+331 | 7318.11.00.00 - - Sekrup rel
+
+332 | 7318.12.00.00 - - Sekrup kayu lainnya
+
+333 | 7318.13.00.00 - - Kait sekrup dan cincin sekrup
+
+334 | 7318.14.00.00 - - Sekrup menakik sendiri
+
+335 | 7318.15.00.00 - - Sekrup dan baut lainnya, dengan mur atau cincin
+pipih maupun tidak
+
+336 | 7318.16.00.00 -- Mur
+
+337 | 7318.19.00.00 - - Lain-lain
+- Barang tidak berulir:
+
+338 | 7318.21.00.00 - - Cincin pipih pegas dan cincin pipih kunci lainnya
+
+339 | 7318.22.00.00 - - Cincin pipih lainnya
+
+340 | 7318.23.00.00 - - Paku keling
+
+341 | 7318.24.00.00 - - Pasak dan pasak kunci
+
+342 | 7318.29.00.00 - - Lain-lain
+
+www.peraturan.go.id
+
+2016, No. 2091
+

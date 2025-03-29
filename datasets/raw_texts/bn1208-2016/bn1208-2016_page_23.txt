@@ -1,0 +1,32 @@
+2016, No.1208
+
+-23-
+9. 0105.11.10.00 ---Ayam bibit Pedaging dan
+Petelur
+0105.13 --Bebek
+10. | 0105.13.10.00 ---Bebek bibit Pedaging dan
+Petelur
+0105.94 --Ayam dari spesies Gallus
+domesticus
+11. | 0105.94.10.00 ---Ayam bibit, selain ayam
+sabung
+No POS TARIF / HS URAIAN BARANG KETERANGAN
+1 2 3 4
+0106 Binatang lainnya, hidup.
+- Binatang menyusui:
+12. | Ex. 0106.14.00.00 | -- Kelinci dan hare Bibit Kelinci
+13. | Ex. 0106.39.00.00 | -- Lain-lain Bibit Puyuh dan
+Bibit Merpati
+14. | Ex 05.11.99.10.00 | --- Mani dari binatang | Mani Babi,
+peliharaan Kambing atau Biri-
+
+biri mini straw dan
+standar
+
+MENTERI PERDAGANGAN REPUBLIK INDONESIA,
+
+ttd.
+
+ENGGARTIASTO LUKITA
+
+www.peraturan.go.id

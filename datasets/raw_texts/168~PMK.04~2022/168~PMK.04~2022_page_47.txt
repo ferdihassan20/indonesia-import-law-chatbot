@@ -1,0 +1,81 @@
+~47-
+
+PETUNJUK PENGISIAN
+
+Nomor (1) : diisinama Kantor Bea dan Cukai tempat pemenuhan kewajiban
+kepabeanan/cukai.
+
+Nomor (2) : diisi kode Kantor Bea dan Cukai tempat pemenuhan kewajiban
+kepabeanan/cukai.
+
+Nomor (3) : diisi nomor bukti penerimaan Jaminan.
+
+Nomor (4) : diisi nomor identitas perusahaan/orang yang wajib
+menyerahkan Jaminan sesuai jenis identitas yang dipilih.
+
+Nomor (5) : diisi nama perusahaan/orang yang menyerahkan Jaminan.
+
+Nomor (6) : diisi alamat lengkap perusahaan/orang yang menyerahkan
+Jaminan.
+
+Nomor (7) : diisi bentuk Jaminan yang diserahkan .
+
+Misalnya: Jaminan tunai, Jaminan Indonesia Lembaga
+Pembiayaan Ekspor Indonesia, Customs Bond,
+Excise Bond, Jaminan Perusahaan (Corporate
+Guarantee), Jaminan Tertulis, atau Jaminan aset
+
+berwujud).
+Nomor (8) : diisi nomor Jaminan yang diserahkan.
+Nomor (9) : diisi tanggal, bulan, dan tahun Jaminan yang diserahkan.
+Nomor (10) : diisi nama Penjamin atas Jaminan yang diserahkan.
+Nomor (11) : diisi alamat lengkap Penjamin atas Jaminan yang diserahkan
+Nomor (12) : diisi nilai Jaminan yang diserahkan (dengan angka).
+Nomor (13) : diisi nilai Jaminan yang diserahkan (dengan huruf).
+
+Nomor (14) : diisi tanggal, bulan, dan tahun mulai berlakunya Jaminan
+(diisi jika Jaminan memiliki jangka waktu).
+
+Nomor (15) : diisi tanggal, bulan, dan tahun berakhirnya Jaminan (diisi jika
+Jaminan memiliki jangka waktu).
+
+Nomor (16) : diisi jenis kegiatan kepabeanan dan/atau cukai yang dijamin,
+misalnya impor sementara, keberatan, atau rush handling.
+
+Nomor (17) : diisi jenis dokumen sumber yang menjadi dasar penyerahan
+Jaminan, Misalnya: PIB Impor sementara atau Surat Penetapan
+Tarif dan Nilai Pabean (SPTNP) yang diajukan keberatan.
+
+Nomor (18) : diisi nomor dokumen sumber yang menjadi dasar penyerahan
+Jaminan sebagaimana yang dimaksud pada Nomor (14).
+Contoh: SPTNP-1301/WBC.08/KPP.MP.01/2022
+
+Nomor (19) : diisi tanggal, bulan, dan tahun dokumen sumber yang menjadi
+dasar penyerahan Jaminan sebagaimana yang dimaksud pada
+Nomor (15).
+Contoh: 13 Januari 2022)
+
+Nomor (20) : diisi catatan-catatan yang diperlukan oleh Pejabat Bea dan
+Cukai atau bendahara penerimaan, yang antara lain seperti
+penggantian dan penyesuaian Jaminan, atau pengembalian
+
+Jaminan.
+
+Nomor (21) : diisi nama kota Kantor Kantor Bea dan Cukai tempat Pejabat
+Bea dan Cukai atau. Bendahara Penerimaan menerima
+Jaminan.
+
+Nomor (22) : diisi tanggal, bulan, dan tahun penandatanganan bukti
+penerimaan Jaminan.
+
+Nomor (23) : diisi nama Pejabat Bea dan Cukai atau bendahara
+penerimaan yang ditunjuk untuk menandatangani bukti
+penerimaan Jaminan.
+
+Nomor (24) : diisi nama orang yang menyerahkan langsung Jaminan, yakni
+Terjamin atau orang yang diberikan kuasa oleh Terjamin.
+
+Nomor (25) : diisi nama jabatan orang yang menyerahkan langsung
+Jaminan sebagaimana dimaksud pada Nomor 22.
+
+ia xPrenkou.goii

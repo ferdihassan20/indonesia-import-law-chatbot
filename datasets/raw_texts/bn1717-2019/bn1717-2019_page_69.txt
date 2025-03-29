@@ -1,0 +1,48 @@
+69- 2019, No.1717
+
+Huruf(k) : diisi jabatan pimpinan perusahaan yang menandatangani
+Laporan Realisasi Realisasi Ekspor barang sewa yang diimpor
+oleh KKKS dengan mendapatkan fasilitas pembebasan bea
+masuk dan pajak dalam rangka impor.
+
+Huruf(l}) ; diisi nama lengkap pimpinan perusahaan yang menandatangani
+Laporan Realisasi Ekspor barang sewa yang diimpor oleh KKKS
+dengan mendapatkan fasilitas pembebasan bea masuk dan
+pajak dalam rangka impor.
+
+Nomor (1): diisi nomor urut Laporan Realisasi Ekspor barang sewa yang
+diimpor oleh KKKS dengan mendapatkan fasilitas pembebasan
+bea masuk dan pajak dalam rangka impor.
+
+Nomor (2) : diisi nomor pemberitahuan pabean impor dari barang impor
+yang tercantum dalam Keputusan Menteri Keuangan mengenai
+pemberian fasilitas pembebasan bea masuk dan pajak dalam
+rangka impor atas impor barang untuk kegiatan usaha hulu
+minyak dan gas bumi.
+
+Nomor (3) : diisi tanggal, bulan dan tahun pemberitahuan pabean impor
+dari barang impor yang tercantum dalam Keputusan Menteri
+Keuangan mengenai pemberian fasilitas pembebasan bea masuk
+dan pajak dalam rangka impor atas impor barang untuk
+kegiatan usaha hulu minyak dan gas bumi.
+
+Nomor (4) : diisi uraian jenis barang dalam pemberitahuan pabean impor
+dari barang impor yang tercantum dalam Keputusan Menteri
+Keuangan mengenai pemberian fasilitas pembebasan bea masuk
+dan pajak dalam rangka impor atas impor barang untuk
+kegiatan usaha hulu minyak dan gas bumi.
+
+Nomor (5) : diisi jumlah barang dalam pemberitahuan pabean impor dari
+barang impor yang tercantum dalam Keputusan Menteri
+Keuangan mengenai pemberian fasilitas pembebasan bea masuk
+dan pajak dalam rangka impor atas impor barang untuk
+kegiatan usaha hulu minyak dan gas bumi sebagai bukti telah
+dilakukan realisasi impornya.
+
+Nomor (6): diisi satuan barang dalam pemberitahuan pabean impor dari
+barang impor yang tercantum dalam Keputusan Menteri
+Keuangan mengenai pemberian fasilitas pembebasan bea masuk
+dan pajak dalam rangka impor atas impor barang untuk
+kegiatan usaha hulu minyak dan gas bumi.
+
+www.peraturan.go.id

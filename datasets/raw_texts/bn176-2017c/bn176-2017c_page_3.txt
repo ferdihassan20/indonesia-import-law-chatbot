@@ -1,0 +1,198 @@
+-323-
+
+2017, No.176
+
+Pos Tarif]
+wes || arenas Uraian Barang
+2) (2) (3)
+
+‘5005 [5809.00.00 Kain tenunan dari benang logam dan kain tenunan dari [Woven fabrics of metal thread and woven
+lbenang dilapisi logam dari pos 56.06, dari jenis yang _|fabrics of metallised yarn of heading
+digunakan dalam pakaian, sebagai kain perabotan 56.05, of a kind used in apparel, as
+rumah atau untuk keperluan semacam itu, tidak dirincl {furnishing fabries or for similar purposes,
+latau termasuk dalam pos lainnya, not elsewhere specified or included.
+
+158.10 Kain sulaman dalam lembaran, strip atau motif, Embroidery in the piece, in strips or in
+tif,
+
+$006 5810.10.00 |- Kain sulaman tanpa terlihat alasnya - Embroidery without visible ground
+- Kain sulaman lainnya = - Other embroidery
+
+5007 |S810.91,00 Dari kapas -- Of cotton
+
+5008 |5810.92.00 Dari serat buatan -- Of man-made fibres
+
+5009 |5810.99,00 |-- Dari bahan tekstil lainnya -- Of other textile materials
+
+8.12 Produk tekstil dilapisi dalam lembaran, disusun dari [Quilted textile produets in the piece,
+‘satu atau lebih lapisan bahan tekstil disatukan dengan |composed of one or more layers of textile
+jcara dijalin atau secara lain, selain kain sulaman dari | materials assembled with padding by
+[pos 58.10, stitching or otherwise, other than
+embroidery of heading 58.10.
+5010 [5811.00.10 |. Dari wo! atau bulu hewan halus atau kasar | Of woo! or fine or coarse animal hair
+5011 |5811.00.90 |. Lain-tain - Other
+59.01 Kain tekstil dilapisi dengan porokat atau zat Textile fabrics coated with gum or
+mengandung pati, dari jenis yang digunakan untuk lamylaceous substances,
+‘kulit buku atau sejenisnya; kain kalkir; kanwas tukis [the outer covers of books or the like;
+‘siap pakai; buckram dan kain tekstil kaku semacam itu |tracing cloth; prepared painting canvas;
+jenis yang digunakan untuk dasar topi. louckram and similar stiffened textile
+{fabrics of a kind used for hat foundations.
+
+5012 /5901.10.00 _|- Kain tekstil dilapisi perckat atau zat mengandung pati, —_|- Textile fabrics coated with gum or
+dari jonis yang digunaken untuk kulit [war buku atau jamylaccous substances, of a kind used for
+sejenisnya the outer covers of books or the like
+
+3901.90 Lain-lain : } Other :
+
+8013 ]5901,90.10 Kain kalkir - = Tracing cloth
+
+5014 |5901.90.20 Kanvas lukis siap pakai . - Prepared painting canvas
+
+015 |5901.90.90 _|-- Lain-lain - Other
+
+59.02 Kain untuk ban dari benang nilon atau poamida Tyre cord fabric of high tenacity yarn of
+hainnya, poliester atau rayon viskose berkekuatan Inylon or other polyamides, polyesters or
+tinggi. cose rayon.
+
+5902.10 - Dari nilon atau poliamida tainnya : - OF nylon or other polyamides :
+
+Kain chafer, berkaret + - Chater fabric, rubberised :
+5016 [5902.10.11 ~ Dari benang nilon-6 |. - - Of nylon-6 yarn
+8017 |5902.10.19  |-- - Lain-tain - = - Other
+
+Lain. + = Other :
+
+5018 [5902.10.91 |-- - Dari benang nilon-6 Of nylon-6 yarn
+
+5019 |5902.10.99 |--- Lain.tain Other
+
+1902.20 Dari poliester : - Of polyesters +
+
+5020 5902.20.20 |-- Kain chaler, berkaret - Chaler fabric, rubberised
+
+Lain-tain : - Other :
+
+5021 [5902.20.91 + Mengandung kapas Containing cotton
+
+5022 |5902.20.99 - Lain-lain Other
+
+5902.90 + Lain-tain : - Other =
+
+5023 |5902.90.10 Kain chafer, berkaret ~ Chalet fabric, rubberised
+
+5024 [5902.90.90 Lain-ain -- Other
+
+59,03 Kain tekstil diresapi, dilapisi, ditutupi atau dilaminasi | Textile fabrics impregnated, coated,
+[dengan plastik, selain yang dimaksud dalam pos 9,02, |covered or laminated with plastics, other
+
+ithan those of heading 59,02,
+
+5903.10 - Dengan polijvinil klorida} - With poly(vinyl chloride) :
+
+5025 |5903.10.10 Interlining + Interlining
+
+5026 |5903.10.90  }-- Lain-lnin Other
+
+5027 |5903.20.00 _}- Dengan polluretan - With polyurethane
+
+5903.90 + Lain-lain : - Other :
+5028 |5903,90.10 |. - Kain jenis kanvas diresapi, dilapisi, ditutupt atau - - Canvas-type fabrics impregnated, coated,
+jaminasi dengan nilon atau poliamida lainnya covered or kaminated with nylon or other
+polyamides
+
+5029 [5903.90.90 |- - Lainelain + Other
+
+159.04 Linoleum, dipotong menjadi bentuk maupun tidak; Linoleum, whether or not cut to shape;
+penutup lantai yang terdiri dari lapisan atau penutup di floor coverings consisting of a coating or
+jatas dasar tekstil, dipotong menjadi bentuk maupun _| covering applied on a textile backing,
+tidak. whether or not cut to shape.
+
+5030 [5904.10.00 _|- Linoleum - Linoleum
+
+5031 [5904.90.00 |- Lain-lain - Other
+
+59.05 Penutup dinding dari teksti. ‘Textile wall coverings.
+
+5032 [5905.00.10 |- Dari wol atau bulu hewan halus atau kasar - Of woo! oF fine or course animal hair
+
+5033 [5905.00.90 |. Lain-lain - Other
+
+59.06 Kain tekstil berkaret, sclain yang dimaksud dalam pos [Rubberised textile fabrics, other than
+159.02. |those of heading 59.02.
+
+5034 5906.10.00 _]- Pita berperekat dengan Iebar tidak melebihi 20 cm - Adhesive tape of a witlth not exceeding 20
+
+jem
+- Lain-tain : - Other :
+
+5035 5900.91.00 |- - Rajutan atau kaiten - - Knitted or crocheted
+
+5906.99 Lain-tain Other
+
+5036 }5906.99.10 |. -- Lembarwn berkaret cocok untuk keperluan rumah —_|-- - - Rubberised! sheeting suitable for
+saki hospital use
+
+5037 5906.99.90}. - - Lain-tain - - - Other
+
+59.07 Kain tekstil diresapi, dilapisi atau ditatupi secara lain; | Textile fabrics otherwise impregnated,
+/kanvas dilukis menjadi layar pentas, kain latar coated or covered; painted canvas being
+ibolakang studio atau sejenisnya. ‘theatrical scenery, studio back-cloths or
+
+the like.
+
+5038 [5907.00.10 _|- Kain dircsapi, dilapisi atau ditutupi dengan minyak atau |- Pabrics impregnated, coated or covered
+
+preparat dengan dasar minyak
+
+with oil or oil-based preparations
+
+10,0%
+10,0%
+
+10,0%
+10,0%
+
+10,0%
+10,0%
+
+5.0%
+
+5.0%
+5,0%
+
+5,0%
+50%
+
+5.0%
+5.0%
+
+5,0%
+5,0%
+
+5.0%
+5,0%
+
+10,0%
+10,0%
+10,0%
+
+10,0%
+
+10,0%
+
+17,5%
+20,0%
+
+10,0%
+10,0%
+
+5.0%
+
+10,0%
+10,0%
+
+10,0%
+
+10,0%
+
+www.peraturan.go.id

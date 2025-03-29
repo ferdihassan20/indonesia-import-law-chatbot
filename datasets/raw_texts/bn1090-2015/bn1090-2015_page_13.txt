@@ -1,0 +1,30 @@
+13 2015, No.1090
+
+No Pos Tarif/HS Uraian Barang
+38 5209.43.00.00 wt = lainnya dari kepar 3- benang atau 4- benang, termasuk kepar
+39 5209.49.00.00 - - Kain lainnya
+- Dicetak:
+5209.51 - - Tenunan polos:
+40 5209.51.10.00 - - - Dicetak dengan proses batik tradisional
+41 5209.51.90.00 --- Lain-lain
+5209.52 - - Kepar 3- benang atau 4- benang, termasuk kepar silang:
+42 5209.52.10.00 - - - Dicetak dengan proses batik tradisional
+43 5209,52.90.00 - -- Lain-lain
+5209.59 - - Kain lainnya:
+44 5009 59 1900 - - - Dieetak denoan nrases hatik tradisianal
+No Pos Tarif/HS Uraian Barang
+58 5210.59.10.00 - - - Dicetak dengan proses batik tradisional
+59 5210.59.90.00 --- Lain-lain
+Kain tenunan dari kapas, mengandung kapas kurang dari 85%
+52.11 menurut beratnya, dicampur terutama atau semata-mata dengan serat
+buatan,beratnya lebih dari 200 g/m?.
+- Tidak dikelantang:
+60 5211.11.00.00 - - Tenunan polos
+61 5211.12.00.00 - - Kepar 3- benang atau 4- benang, termasuk kepar silang
+62 5211.19.00.00 - - Kain lainnya
+63 5211.20.00.00 - Dikelantang
+- Dicelup:
+64 5211.31.00.00 - - Tenunan polos
+
+www.peraturan.go.id
+

@@ -1,0 +1,15 @@
+2010, No.224 12
+
+Nomor (14) : Diisi nama kota dimana keputusan diterbitkan.
+
+Nomor (15) : Diisi tanggal keputusan diterbitkan.
+
+Nomor (16) : Diisi nama kantor yang menetapkan keputusan penundaan
+pembayaran cukai.
+
+Nomor (17) : Diisi nama dan NIP kepala kantor yang menandatangani
+keputusan penundaan pembayaran cukai.
+
+MENTERI KEUANGAN,
+
+SRI MULYANI INDRAWATI

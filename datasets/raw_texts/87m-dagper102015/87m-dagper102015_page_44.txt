@@ -1,0 +1,61 @@
+-31-
+
+449
+
+6204.13.00.00 | -- Dari serat sintetik
+
+um Dassen
+[| 820419.00_ [Darden eisiaimes |
+Ss a
+es
+
+[S205 2100.0)
+
+6204.21.00.00
+
+6204.22.00 -- Dari kapas:
+6204.22.00.10 | --- Dicetak dengan proses batik tradisional
+6204.22.00.90 | --- Lain-lain
+
+-- Dari wol atau bulu hewan halus
+
+6204.23.00.00 | -- Dari serat sintetik
+
+453
+454
+455
+456
+6204.29.00 -- Bahan tekstil lainnya:
+457
+458
+459
+460
+461
+
+6204.29.00.90 | --- Lain-lain
+
+| 453
+
+|
+
+| 454 :
+
+| 455
+
+| 456 | :
+
+Pf - Jas dan blazer:
+
+| 459 | 6204.31.00.00 | -- Dari wol atau bulu hewan halus
+
+| 460 | 6204.32.00.10 | --- Dicetak dengan proses batik tradisional
+-- Dari serat sintetik
+
+6204.39.00 -- Dari bahan tekstil lainnya:
+
+---- Dicetak dengan proses batik tradisional
+-- Dari wol atau bulu hewan halus
+--- Dicetak dengan proses batik tradisional
+
+--- Lain-lain
+

@@ -1,0 +1,45 @@
+2010, No.110 8
+TERMASUK
+NO. URAIAN BARANG SPESIFIKASI DALAM POS
+TARIF
+21. | PCM (prepanting coated | Tebal < 0,5 mm, 400 <Lebar< 600 | 7212.40.90.00
+metal), VCM (vynil coated | mm
+metal)
+22. | PCM (prepanting coated | Tebal < 1,50 mm, Lebar > 600 mm 7210.70.10.00
+metal), VCM (vynil coated
+metal)
+23. | Stainless steel bar Dengan penampang silang | 7222.30.10.00
+lingkaran
+24. | Kawat tembaga Diameter= 0,08 - 0,6mm 7408.29.00.00
+25. | Copper tube Diameter luar= 2,0 - 10,0 mm, tebal | 7411.10.00.00
+<1,5mm
+26. | Aluminium sheet paduan | Tebal= 0,25 - 1,50 mm, datar atau | 7606.12.40.00
+embos
+27. | Aluminium foil — tidak | Tebal < 0,2mm 7607.19.90.00
+dalam gulungan
+28. | Pipa aluminium  bukan | Tebal=0,2 - 1,5 mm, diameter luar | 7608.10.00.00
+paduan =2-15mm
+29. | Tin plate Tebal = 0,28 - 0,32mm 8007.00.20.00
+30. | Step motor Keluaran tidak melebihi 37,5 W,| 8501.10.11.00
+12 - 24VDC
+31. | Motor AC single phase, dengan keluaran tidak | 8501.40.10.00
+melebihi 1 kW
+32. | Oiless bearing Untuk kipas angin, kipas ventilasi_ | 8482.80.00.00
+33.__| Resistor pemanas listrik __| Heater peralatan rumah tangga 8516.80.30.00
+34. | Heater (bagian dari rice | 220 - 250V/50Hz, 12 - 400W 8516.90.20.00
+cooker, pengering tangan,
+microwave, oven, pemanas
+kopi/teh, ketel)
+35. | Bagian dari pemanas air | Bagian untuk pemanas air 8516.90.30.00
+instan, pemanas air
+penyimpanan, pemanas
+air celup
+36. | Edge cone (bagian untuk | Bagian dari pengeras suara 8518.90.10.00
+membran speaker)
+37. | Yoke bottom plate Bagian dari speaker 8518.90.90.00
+38. | Die cast frame Bagian dari speaker 8518.90.90.00
+39. | Top plate Bagian dari speaker 8518.90.90.00
+40. | Rubber & cloth surround Bagian dari speaker 8518.90.90.00
+41. | Bobbin Bagian dari speaker 8518.90.90.00
+42. | Piezo ceramic tweeter Bagian dari speaker 8518.90.90.00
+

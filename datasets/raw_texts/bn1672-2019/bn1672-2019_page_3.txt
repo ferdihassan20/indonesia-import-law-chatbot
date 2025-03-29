@@ -1,0 +1,57 @@
+10.
+
+11.
+
+12.
+
+2019, No.1672
+
+Kendaraan Bermotor adalah alat transportasi atau
+kendaraan yang digerakan oleh peralatan mekanik
+berupa mesin selain kendaraan yang berjalan di atas rel,
+di laut maupun di udara.
+
+Kawasan Pabean adalah kawasan dengan batas-batas
+tertentu di pelabuhan laut, bandar udara, atau tempat
+lain yang ditetapkan untuk lalu lintas barang yang
+sepenuhnya berada di bawah pengawasan Direktorat
+Jenderal Bea dan Cukai.
+
+Kantor Pabean adalah kantor dalam _lingkungan
+Direktorat Jenderal Bea dan Cukai tempat dipenuhinya
+kewajiban pabean sesuai dengan ketentuan Undang-
+Undang Kepabeanan.
+
+Sistem Komputer Pelayanan yang selanjutnya disingkat
+SKP adalah sistem komputer yang digunakan oleh Kantor
+Pabean dalam rangka pengawasan dan _ pelayanan
+kepabeanan.
+
+Menteri adalah Menteri Keuangan Republik Indonesia.
+Direktur Jenderal adalah Direktur Jenderal Bea Dan
+Cukai.
+
+Pejabat Bea dan Cukai adalah pegawai Direktorat
+Jenderal Bea dan Cukai yang ditunjuk dalam jabatan
+tertentu untuk melaksanakan tugas tertentu
+berdasarkan Undang-Undang Kepabeanan.
+
+Data Kendaraan Bermotor yang selanjutnya disebut Data
+adalah elemen data Impor Kendaraan Bermotor.
+
+Portal Direktorat Jenderal Bea dan Cukai adalah sistem
+integrasi seluruh layanan Direktorat Jenderal Bea dan
+Cukai kepada semua Pengguna Jasa yang bersifat publik
+dan berbasis web.
+
+Data A adalah Data Kendaraan Bermotor yang telah
+diselesaikan kewajiban kepabeanannya dengan melunasi
+bea masuk dan/atau pajak dalam rangka impor.
+
+Data B adalah Data Kendaraan Bermotor yang pada saat
+impor mendapat pembebasan, keringanan, atau
+penangguhan pembayaran bea masuk dan/atau
+
+mendapat pembebasan pajak dalam rangka impor.
+
+www.peraturan.go.id

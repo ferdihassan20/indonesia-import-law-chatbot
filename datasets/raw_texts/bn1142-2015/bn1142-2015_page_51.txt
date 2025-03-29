@@ -1,0 +1,47 @@
+. (26)
+. (27)
+. (28)
+. (29)
+. (30)
+. (31)
+. (32)
+. (33)
+. (34)
+. (35)
+. (36)
+. (37)
+. (38)
+. (39)
+
+51 2015 No. 1142
+
+: Diisi nomor Formulir B.
+
+: Diisi tanggal Formulir B.
+
+: Diisi nama pemilik/penerima fasilitas yang tercantum dalam Formulir B.
+: Diisi jenis, merek, tipe Kendaraan Bermotor yang akan dimusnahkan.
+
+: Diisi tahun pembuatan Kendaraan Bermotor sesuai dengan Invoice.
+
+: Diisi nomor mesin Kendaraan Bermotor yang akan dimusnahkan.
+
+: Diisi nomor rangka Kendaraan Bermotor yang akan dimusnahkan.
+
+: Diisi Negara asal tempat pengiriman barang.
+
+: Diisi nomor polisi Kendaraan Bermotor pada saat beroperasi di Indonesia.
+: Diisi nama Pejabat Bea dan Cukai yang ditunjuk.
+
+: Diisi nomor surat persetujuan pemusnahan.
+
+: Diisi tanggal surat persetujuan pemusnahan.
+
+: Diisi metode pemusnahan lainnya (jika ada).
+
+: Diisi lokasi tempat dilaksanakan pemusnahan.
+
+MENTERI KEUANGAN REPUBLIK
+INDONESIA,
+
+BAMBANG P.S. BRODJONEGORO

@@ -1,0 +1,50 @@
+-49-
+
+2020, No. 1053
+
+TERMASUK
+NO. URAIAN BARANG SPESIFIKASI DALAM
+POS TARIF
+voltage6V/ 12V,
+capacity> 200AH, 13cm
+<height < 23cm
+9 | Baterai Akumulator listrik dari jenis 8507.20.99
+timbal asam lainnya untuk
+keperluan telekomunikasi, 6 V/12
+V, kapasitas daya pengosongan isi
+> 200 Ah dan selain 6V/12V,
+kapasitas pengosongan isi >200
+Ah dan < 200 Ah, tinggi >23 cm
+10 | Display Panel Monitoring perangkat 8537.10.92
+solarcell system 12 - 60 VDC
+11 | Oth part of electric 8538.90.19
+switch, socket&plug,
+voltage < 1000V
+12 | Electro-mechanic equipt 8608.00.20
+of railway/ tramway
+track fixtures, fiiting,
+mechanic signaling,
+safety/ traffic control
+equipment
+13 | Temperatur sensor Temperatur sensor untuk 9025.19.19
+perangkat solar system, range 40
+derajat C -+ 60 derajat C
+14 | Charges controller Alat pengantur voltase otomatis 9032.89.31
+untuk perangkat solar cell system,
+input voltage 60-150 VDC, output
+12-60 VDC, kapasitas 60 A - 80 A,
+MPPT, modular
+15 | Instrument & apparatus | - 9032.89.39
+oth than automatic
+regulating voltage
+units(stabilizers),
+electrically operated
+16 | Part & accessories - 9032.90.30
+
+automatic, regulating/
+controlling instruments
+& apparatus, of other
+elctly operated
+
+www.peraturan.go.id
+

@@ -1,0 +1,11 @@
+67- 2022, No.1175
+
+Huruf(k) =: diisi nomor faktur pajak bukti pungutan pajak yang melakukan
+penyerahan barang yang dimusnahkan (apabila barang masih
+mempunyai nilai ekonomis).
+
+Huruf(l) —: + diisi tanggal, bulan, dan tahun faktur pajak bukti pungutan pajak
+yang melakukan penyerahan barang yang dipindahtangankan
+(apabila barang masih mempunyai nilai ekonomis).
+
+www.peraturan.go.id

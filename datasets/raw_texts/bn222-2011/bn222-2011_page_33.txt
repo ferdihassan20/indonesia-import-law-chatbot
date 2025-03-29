@@ -1,0 +1,51 @@
+33 2011, No.222
+POS/SUB POS % BEA
+HEADING/ DESCRIPTION OF MASUK/ %
+NO. SUB URAIAN BARANG GOODS IMPORT
+HEADING DUTY
+103) (2) @) (4) (5)
+rigi kain tekstil
+8451.80 -Mesin lainnya : -Other machinery :
+8451.80.10 --Untuk keperluan rumah tangga --For domestic use
+118 | 8451.80.90.00 | --Lain-lain --Other 0
+8451.90 -Bagian : -Parts :
+8451.90.10.00 ~-Dari mesin, dengan kapasitas linen --Of machines of a dry linen
+119 kering capacity not 0
+tidak melebihi 10 kg exceeding 10 kg
+120 | 8451.90.90.00 | --Lain-lain --Other 0
+Mesin jahit, selain dari mesin penjahit Sewing machines, other
+84.52 .
+buku than book-sewing
+yang dimaksud dalam pos 84.40; machines of heading
+perabotan, da- No.84.40; furniture, bases
+sar dan tutup dirancang secara and covers specially
+khusus_ untuk designed for sewing
+eae we machines; sewing machines
+mesin jahit; jarum mesin jahit.
+needles.
+re -Sewing machines of the
+8452.10 -Mesin jahit tipe rumah tangga household type
+-Mesin jahit lainya : -Other sewing machines :
+121 | 8452.21.00.00 | --Unit otomatis --Automatic units 0
+122 | 8452.29.00.00 | --Lain-lain --Other 0
+123 | 8452.30.00.00 | -Jarum mesin jahit -Sewing machine needles 0
+-Perabotan, dasar dan tutup mesin jahit -Furniture, bases and
+8452.40 :
+serta covers for sewing
+bagiannya machines and parts thereof
+8452.90 -Bagian lain dari mesin jahit : “Other parts of sewing
+machines :
+. . . --Of machinery of subheading
+--Dari mesin pada subpos 8452.10 : 8452.10:
+---Arm dan bed, penyangga dengan atau ---Arms_ and beds, stands
+124 8452.90.11.00 tanpa with or without 0
+. . . centre frames; flywheels;
+rangka centre; roda gaya; belt guard; belt guards;
+treadle atau pedal treadles or pedals
+125 | 8452.90.19.00 | ---Lain-lain ---Other 0
+8452.90.90 --Lain-lain : --Other :
+---Arm bed, foot dan pedal ---Arms beds, foot and pedals
+126 | 8452.90.90.90 | ---Lain-lain ---Other 0
+
+www.djpp.kemenkumham.go.id
+

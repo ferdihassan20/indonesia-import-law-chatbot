@@ -1,0 +1,35 @@
+2015, No. 1142 32
+
+. (26)
+. (27)
+
+. (28)
+. (29)
+. (30)
+
+. (31)
+. (32)
+. (33)
+
+: Diisi kota tempat pengajuan permohonan.
+
+: Diisi tanggal pengajuan permohonan pemindahtanganan Kendaraan
+
+Bermotor.
+
+: Diisi nomor persetujuan Menteri Luar Negeri.
+: Diisi tanggal persetujuan Menteri Luar Negeri.
+
+: Diisi nama Direktur Jenderal Protokol dan Konsuler atau Pejabat yang
+
+ditunjuk.
+
+: Diisi nomor dan tanggal persetujuan Menteri Keuangan.
+: Diisi nama Pejabat Bea dan Cukai yang ditunjuk.
+
+: Diisi NIP Pejabat Bea dan Cukai yang ditunjuk.
+
+MENTERI KEUANGAN REPUBLIK
+INDONESIA,
+
+BAMBANG P.S. BRODJONEGORO

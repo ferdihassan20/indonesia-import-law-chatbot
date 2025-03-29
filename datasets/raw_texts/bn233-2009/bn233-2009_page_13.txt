@@ -1,0 +1,44 @@
+13 2009, No.233
+
+DAFTAR
+MESIN, PERALATAN MESIN, BAHAN BAKU, CAKRAM OPTIK KOSONG
+DAN CAKRAM OPTIK ISI
+
+MESIN DAN PERALATAN MESIN
+
+NO POS TARIF/HS URAIAN BARANG
+
+1. | ex 9010.50.90.00 | Peralatan yang digunakan untuk membuat master
+yang terdiri dari Laser Beam Recorder (LBR),
+pemrosesan  sinyal untuk alat perekam dengan
+menggunakan laser, dan_ electroforming yang
+dipergunakan khusus dalam proses produksi Cakram
+Optik
+
+2. | ex 8480.79.00.00 | Peralatan cetak (stamper) berbahan logam berbentuk
+lingkaran berdiameter 140 mm dengan tebal 1,2 mm
+yang digunakan dalam proses produksi Cakram Optik
+
+3. | ex 8480.71.00.00 | Cetakan-cetakan (mould) untuk bahan plastik yang
+digunakan dalam proses produksi Cakram Optik
+
+4. | ex 8477.10.39.00 | Mesin cetak injeksi untuk mencetak cakram optik dari
+Polikarbonat.
+
+5. | ex 8477.90.39.00 |Mesin untuk membuat lapisan (metalizer) pada
+Cakram Optik dengan bahan Alumunium (Al) atau
+Tembaga (Cu) sehingga memantulkan  cahaya,
+merupakan bagian dari mesin cetak injeksi untuk
+mencetak Cakram Optik dari polikarbonat
+
+6. | ex 8477.90.39.00 | Peralatan untuk menyatukan lapisan-lapisan Cakam
+Optik (Bonding), merupakan bagian dari mesin cetak
+injeksi untuk mencetak Cakram Optik dari polikarbonat
+
+7. | ex 8428.33.90.00 | Peralatan pemindah Cakram Optik (Loading and Un-
+Loading) berupa conveyor belt
+
+8. | ex 8443.19.00.00 | Peralatan yang digunakan untuk membuat pola di atas
+suatu wadah cakram optik melalui cairan pewarna
+dengan cara offset atau screen.
+

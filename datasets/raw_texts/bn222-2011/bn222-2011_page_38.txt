@@ -1,0 +1,77 @@
+2011, No.222
+
+38
+
+POS/SUB POS % BEA
+HEADING/ DESCRIPTION OF MASUK/ %
+NO. SUB URAIAN BARANG GOODS IMPORT
+HEADING DUTY
+103) (2) @) (4) (5)
+dan konektor lainnya, kotak and other connectors,
+penyambung), untuk junction boxes), for a
+voltase tidak melebihi 1.000 volt; voltage not exceeding 1,000
+konektor volts; connectors
+untuk serat optik, bundel atau kabel for optical fibres, optical
+serat optik. fibre bundles or
+cables.
+8536.10 -Sekering : -Fuses :
+8536.20 -Pemutus sirkit otomatis : -Automatic circuit breakers :
+-Relai : -Relays :
+. ae --For a voltage not exceeding
+156 8536.41.00.00 | --Untuk voltase tidak melebihi 60 V 60 V 0
+8536.50 -Sakelar lainnya : -Other switches :
+8536.50.50.00 --Sakelar AC elektronik terdiri dari ~-Electronic AC switches
+157 pasangan consisting of 0
+sirkit masukan dan keluaran secara optically coupled input and
+optik output circuits
+(sakelar thyristor AC isolasi) sakelar elek- (insulated thyristor AC
+switches);
+tronik, termasuk sakelar elektronik electronic switches,
+tahan including
+temperatur, terdiri dari transistor dan temperature protected
+logic electronic switches,
+chip (teknologi chip-on-chip) untuk consisting of a transistor
+voltase and a logic chip
+tidak melebihi 1.000 volt ; sakelar snap- (chip-on-chip technology)
+action for a voltage
+aeenromekanis untuk arus tidak melebihi not exceeding 1,000 V;
+ra electromechanical snap-
+amp action switches for
+acurrent not exceeding 11
+amps
+: . -Lamp-holders, plugs and
+Gagang lampu, stop kontak dan soket : sockets :
+-Konektor untuk serat optik bundel; -Connectors for optical fibres,
+8536.70 ae
+bundel optical fibres
+serat optik atau kabel bundles or cables
+8536.90 -Aparatus lainnya : -Other apparatus :
+
+--Elemen penghubung dan kontak untuk
+kawat
+
+dan kabel; wafer prober
+--Kotak penyambung :
+--Konektor kabel terdiri dari jack plug, ter-
+
+minal dengan atau tanpa pin, konektor
+dan
+
+adaptor untuk kabel koaksial; komutator
+
+--Connection and contact
+elements for wires
+
+and cables; wafer probers
+--Junction boxes :
+--Cable connectors consisting
+of a jack plug,
+
+terminal with or without pin,
+connector and
+
+adaptor for coaxial cable;
+commutator :
+
+www.djpp.kemenkumham.go.id
+

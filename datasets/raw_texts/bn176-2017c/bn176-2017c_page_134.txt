@@ -1,0 +1,287 @@
+2017, No.176
+
+Pos Tarif/
+HS Code
+
+-454-
+
+[8707.10.90 |-- Lain-lain
+ls707.90 - Lain-lain :
+- - Untuk kendaraan dari pos 87,01 :
+9880 /8707.90.11 _|-- - Kabin pengemudi untuk kendaraan dari subpos
+[8701.20
+9881 |8707.90.19  |--- Lain-lain
+- - Untuk kendaraan dari pos 87.02 =
+9882 |8707.90.21 _|--- Untuk mobil (termasuk limousin panjang tetapi tidak
+termasuk conch, bus, minibus atau van}
+9883 |8707.90.29  |--- Lain-Jain
+9884 [8707.90.30 |- - Untuk kendaraan dari pos 87.05
+9885 |8707.90,.40 _ |-- Kabin pengemudi untuk damper yang diraneang untuk
+penggunaan bukan di jalan rava
+9886 [8707.90.90 |-~Lain-tain
+187.08 /Bagian dan aksesori kendaraan bermotor dari pos 87.01
+|sampai dengan 87.05.
+8708.10 }- Bumper dan bagiannya :
+9887 [8708.10.10 |-- Untuk kendaraan dari pos 87,01
+9888 [8708.10.90 |-- Lain-tain
+- Bagian dan aksesori bodi lainnya (termasuk kabin) ;
+9889 |8708.21.00 |. - Sabuk pengaman
+8708.29 + Lain-tain :
+Komponen rakitan door trim :
+9890 [8708.29.11 * Untuk kendaraan dari pos 87.01
+ono [8708.29.15 ~ Sandaran tangan pintu untuk kendaraae dari pos
+187.03
+9892 [8708.29.16 ~ Lain-Jain, untuk kendaraan dari pos 87.03
+9893 /8708.29.17 |. ~~~ Untuk kendaraan dari subpos 8704.10
+9894 |8708.29,18 _|- - -- Untuk kendaraan dari pos 87.02 atau kendaraan
+lainnya dari pos 87.04
+9895 |8708.29.19 > Lain-tain
+9896 |8708.29.20 Bagian dari sabuk pengaman
+Lain-tain :
+9897 |8708,29.92 ~ Untuk kendaraan dari pos 87.01
+~ Untuk kendaraan dari pos 87.03 :
+9898 [8708.29.93 Alat kelengkapan interior trim; sepatbor
+9899 }8708.29.94 Batang penopang kap mesin
+9900 }8708.20.95 Lain-lain
+- Untuk kendaraan dari pos 87,02 atau 87.04 ;
+9901 |8708.29.96 Alat kelengkapan Interior trim; sepatbor
+9902 |8708.20.97 Batang penopang kap mesin
+9903 |8708.20.98 Lain-tain
+9904 [8708.29.99 lain-lain
+1708.30 - Rem dan rem servo; bagiannya :
+9905 [8708.30.10 _|- - Untuie kendaraan dari pos 87.01
+Untuk kendaraan dari pos 87.03 :
+9906 [8708.30.21 Drum rem, cakram rem atau pipa rem
+9907 |8708,30.29 |. - - Laintain
+9908 |8708,30.30  |-- Drum rem, cakram rem atau pipa rem untuk kendaraan
+[dari pos 87.02 atau 87.04
+9909 [8708.30.90 _|-- Lain-lain
+8708.40 + Gear box dan bagiannya :
+Gear box, tidak dirakit :
+9910 }8708.40.11 Untuk kendaraan dari pos 87.03
+9911 |8708.40.13 ~ Untuk kendaraan dasi pos 87.04 atau 87.05
+9912 |8708.40.14 _|- - - Untuk kendaraan dari pos 87.01
+9913 |8708.40.19 - Lain-laier
+Gear box, dirakit :
+9914 [8708.40.25 | - - Untuk kendaraan dari pos 87.01
+9915 |8708.40.26 _|- - - Untuk kendaraan dari pos 87.03
+9916 [8708.40.27 |-- - Untuk kendaraan dari pos 87.04 atau 87.05
+9917 |8708.90.29  |--- Lain-tain
+~ Bagian :
+9918 |8708.40.91 - Unttik kenttaraan dari pos 87.01
+9919 |8708.90.92 ~ Untuk kendaraan dari pos 87.03
+9920 |8708.40.99 + Lain-lain
+8708.50 - Poros penggerak dengan diferensial, baik dilengkapi
+Jmaupun tidak dilengkapi dengan komponen transmisi
+lainnya, dan poros tanpa penggerak; bagiannya :
++ <Tielak dirakit :
+9921 [8708.50.11 - Untuk kendaraan dari pos 87.03
+9922 |8708,50.19 |. - - Untuk kendaraan dari pos 87.04 atau 87.05
+9923 |8708.50.15 + Untuk kendaraan dari pos 87.01
+9924 |8708.50.19 + Lain-tain
+Dirakit ;
+9925 [8708.50.25 - Untuk kendaraan dari pos 87.01
+9926 |8708.50,26 ~ Untuk kendaraan dari pos 87.03
+9927 |8708.50.27 + Untuk kendaraan dari pos 8704 atau 87.05.
+9928 |8708.50.29 |. - - Lain-tain
+
+Other
+
+~ Other =
+
++ + For vehicles of heading 87,01 ;
+
+~~ - Driver's cabin for vehicles of subheading.
+8701.20
+
+~~ = Other
+
+- - For vehicles of heading 87.02 :
+
+~~ - For motor ears {inetuciing stretch
+himousines but not including coaches,
+buses, minibuses or vans}
+
++= = Other
+
+- - Por vehicles of heading 87.05
+
+-- Driver's cabin for dumpers designed for
+Joff-highway use
+
+-- Other
+
+(Parts and accessories of the motor
+vehicles of headings 87,01 to 87.05.
+
+|- Bumpers and parts thereof :
+
+~~ For vehicles of heading 87.01
+~- Other
+
+}- Other parts and accessories of bodies
+including cabs) :
+
+- - Safety seat belts
+
+-- Other :
+
+- -- Components of door trim assemblies
+- -~- For vehicles of heading 87.01
+
+Door armrests for vehicles of beading
+
+187.03
+~~ = = Other, for vehicles of heading 87,03
+
+- - == For vehicles of subheading 8704.10
+
+For vehicles of heading 87.02 or other
+Jvehicles of heading 87.04
+Other
+Parts of safety seat belts
+Other :
+For vehicles of heading 87.01
+For vehicles of heading 87.03
++ Interior trim fittings; mudguards
+~ Hood rods
+~ Other
+For vehicles of heading 87.02 or 87.04
+
++ Interior trim fittings; mudguards
+~ Hood rods
+
+~ Other
+
+> Other
+
+- Braces and servo-brakes; parts thereof :
+
+-- For vehicles of heading 87.01
+-- For vehicles of heading 87.03 ;
++ «= Brake drums, brake discs or brake pipes|
+
+-- - Other
+|. - Brake drums, brake discs or brake pipes
+Hor vehicles of healing 87.02 or 87,04
+
++ = Other
+
+- Gear boxes and parts thereof :
+
+| - Gear boxes, unassembled :
+
+For vehicles of heading 87.03
+
+For vehicles of heading 87,04 or 87,05
+
+For vehicles of heating 87.01
+
+Other
+
+- - Gear boxes, assembled :
+
+For vehicles of heading 87.01
+
+For vehicles of heading 87.03
+
+For vehicles of heading 87.04 or 87.05,
+
+}- - - Other
+- «= For vehicies of heading 87.01
+For vehicles of heading 87.03
+- - - Other
+- Drive-axies with differential, whether or not
+provided with other transmission
+components, and non-driving axles; parts
+thereof :
+> > Unassembled >
+
+For vehicles of heading 87.03
+
+- For vehicles of heading 87.04 or 87.05
+
+Por vehicles of heading 87.01
+
+Other
+
+~~ Assembled :
+
+For vehicles of heading 87.01
+
+For vehicles of heading 87.03
+
+For vehicles of heading 87.04 or 87,05
+
++ Other
+
+10,0%.
+
+5.0%
+15,0%
+
+10,0%
+
+40,0%
+10,0%
+
+400%
+
+10,0%.
+10,0%
+
+10,0%
+
+10,0%
+10,0%
+
+10,0%
+10,0%
+10,0%
+
+10,0%
+10,0%
+
+10,0%
+
+10,0%
+10,0%
+10.0%
+
+10,0%
+10,0%
+10,0%
+10,0%
+
+10,0%
+10,0%
+10,0%
+10,0%
+10,0%
+10,0%
+10,0%
+
+10,0%
+10,0%
+
+10,0%
+10,0%
+10,0%
+
+10,0%
+
+10,0%
+10,0%
+10,0%
+
+10,0%
+10,0%
+
+10,0%
+10,0%
+
+10,0%
+10,0%
+10,0%
+
+www.peraturan.go.id

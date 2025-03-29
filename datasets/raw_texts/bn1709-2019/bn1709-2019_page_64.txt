@@ -1,0 +1,33 @@
+2019, No.1709 -64-
+
+PETUNJUK PENGISIAN SURAT PERMOHONAN PEMBETULAN SPPBMCP
+
+(1) Diisi nama, alamat dan kontak Kantor Pabean;
+{2) Diisi nomor urut surat untuk perusahaan.
+(3) Diisi tanggal, bulan, dan tahun surat dibuat.
+(4) Diisi jumlah lampiran surat.
+(5) Diisi nama dan alamat pemohon.
+(6) Diisi nomor surat permohonan, jika ada.
+(7) Diisi tanggal, bulan, dan tahun surat permohonan.
+(8) Diisi nomor SPPBMCP.
+(9) Diisi tanggal SPPBMCP.
+(10) Diisi uraian pembetulan, misalnya:
+> “dibatalkan dan akan diterbitkan SPPBMCP yang baru” (apabila
+pembetulan SPPBMCP mengakibatkan pengurangan sebagian tagihan);
+> “dibatalkan” (klausul ini digunakan apabila pembetulan surat
+penetapan tagihan mengakibatkan hapusnya seluruh tagihan);
+dan/atau
+> “dilakukan pembetulan atas kesalahan tulis/kesalahan hitung/
+kekeliruan dalam penerapan ketentuan Undang-Undang Kepabeanan.”
+(11) Diisi dengan bagian yang akan dibetulkan.
+(12) Diisi dengan bagian yang telah dibetulkan.
+(13) Diisi nama jabatan Pejabat Bea dan Cukai yang menandatangani surat
+persetujuan.
+(14) Diisi tanda tangan dan nama Pejabat Bea dan Cukai yang menandatangani
+surat persetujuan.
+(15) Diisi nomor NIP Pejabat Bea dan Cukai yang menandatangani surat
+persetujuan.
+(16) Diisi nama Kantor Wilayah DJBC, apabila Kantor Pabean merupakan
+wilayah kerja suatu Kantor Wilayah DJBC.
+
+www.peraturan.go.id

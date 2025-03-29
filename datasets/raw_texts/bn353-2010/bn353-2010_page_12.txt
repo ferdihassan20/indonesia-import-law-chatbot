@@ -1,0 +1,33 @@
+2010, No.353 12
+NO. | URAIAN BARANG SPESIFIKASI TERMASUK
+DALAM POS
+TARIF
+67 | CARTRIDGE/WATE | Cartridge dari filter 8421.99.20.00
+R SEPARATOR
+68 | BEARING Bantalan peluru dari bola baja} 8482.10.00.00
+untuk alat besar dan dump truck
+69 | BEARING Bantalan gulung taper dari baja} 8482.20.00.00
+untuk alat besar dan dump truck
+70 | BEARING Bantalan gulung bundar dari baja} 8482.30.00.00
+untuk alat besar dan dump truck
+71 | BEARING Bantalan jarum dari baja untuk} 8482.40.00.00
+alat besar dan dump truck
+72 | BEARING Bantalan silindris dari baja untuk | 8482.50.00.00
+alat besar dan dump truck
+73, | BEARING Bantalan lainnya termasuk gulung| 8482.80.00.00
+termasuk kombinasi _ bantalan
+peluru dan gulung
+74 | RACE Rumah bearing dari baja untuk} 8483.30.10.00
+alat besar dan dump truck
+75 | SHAFT Poros transmisi untuk alat besar 8483.10.10.00
+76 | SHAFT Poros transmisi untuk dump truck 8483.10.24.00
+77 | TRANSMISSION/GE | Gear dan gearing untuk transmisi} 8483.40.30.00
+AR/GEAR ASSY alat besar
+78 | TRANSMISSION/GE | Gear dan gearing untuk transmisi| 8483.40.14.00
+AR/GEAR ASSY dump truck
+79 | PULLEY/PULLEY Roda gaya dan puli, termasuk blok | 8483.50.00.00
+ALTERNATOR puli (pulley)
+80 | COUPLING Kopling dan poros perangkai} 8483.60.00.00
+
+(universal joint)
+

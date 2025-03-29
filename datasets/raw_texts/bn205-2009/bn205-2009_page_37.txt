@@ -1,0 +1,42 @@
+37 2009, No.205
+No. URAIAN BARANG POS TARIF
+1 2 3
+
+135 | Pipa dan pembuluh bundy-weld (misalnya, dikeling atau 7306.90.10.90
+sambungan semacam itu selain dilas), dari besi atau baja,
+dengan diameter 12,5 mm atau lebih, selain penampang silang
+lingkaran dengan diameter luar melebihi 406,4 mm
+
+136 | Pembuluh, pipa dan profil berongga lainnya (misalnya, dikeling | 7306.90.90.90
+atau sambungan semacanm itu selain dilas), dari besi atau baja,
+bukan pipa dan pembuluh bundy-weld, selain penampang silang
+lingkaran dengan diameter luar melebihi 406,4 mm
+
+137 | Alat kelengkapan pembuluh atau pipa (misalnya, sambungan, 7307.11.00.00
+siku-siku, selongsong) dari besi tuangan yang tidak dapat
+ditempa
+
+138 | Alat kelengkapan pembuluh atau pipa (misalnya, sambungan, 7307.19.00.00
+siku-siku, selongsong) dari besi tuangan yang dapat ditempa
+
+139 | Alat kelengkapan pembuluh atau pipa berupa flensa dari baja 7307.21.00.00
+stainless
+
+140 | Alat kelengkapan pembuluh atau pipa berupa siku-siku, 7307.22.00.00
+lengkungan dan selongsong, dari baja stainless
+
+141 | Alat kelengkapan pembuluh atau pipa berupa flensa dari besi 7307.91.00.00
+atau baja selain besi tuangan atau baja stainless
+
+142 | Alat kelengkapan pembuluh atau pipa berupa siku-siku, 7307.92.00.00
+lengkungan dan selongsong dari besi atau baja, selain besi
+tuangan atau baja stainless
+
+143 | Alat kelengkapan pembuluh atau pipa berupa alat kelengkapan 7307.93.00.00
+butt welding dari besi atau baja,
+
+144 | Struktur berupa jembatan dan bagian jembatan, dari jenis 7308.10.10.00
+
+modular pra-pabrikasi dari jenis yang disambung dengan
+konektor gunting, dari besi atau baja
+

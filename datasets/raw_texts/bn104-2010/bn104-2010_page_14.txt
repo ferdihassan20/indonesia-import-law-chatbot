@@ -1,0 +1,33 @@
+2010, No.104 14
+No. URAIAN BARANG SPESIFIKASI TERMASUK
+DALAM POS
+TARIF
+82. | Generator AC (alternator) for | Of an output not exceeding 12.5 kVA 8501.61.10.00
+marine use
+Of an output exceeding 12.5 kVA but 8501.61.20.00
+less than 75 kVA
+Of an output exceeding 75 kVA but 8501.62.10.00
+not exceeding 150 kVA
+Of an output exceeding 150 kVA but 8501.62.90.00
+not exceeding 375 kVA
+Of an output exceeding 375 kVA but 8501.63.00.00
+notexceeding 750 kVA
+Of an output exceeding 750 kVA 8501.64.00.00
+83. | Generator Diesel Engine Of an output not exceeding 125 kVA 8502.12.10.00
+Of an output exceeding 125 kVA 8502.12.90.00
+84. | Transformator for — Marine | With power handling capacity not 8504.32.41.00
+Use/Standart exceeding 10kVA
+With power handling capacity not 8504.32.49.00
+exceeding 10kVA
+With power handling capacity 8504.32.51.00
+exceeding 10kVA
+With power handling capacity 8504.32.59.00
+exceeding 10kVA
+85. | Battery Storage Marine Lead Acid Battery 8507.20.90.00
+86. | Dust Collector for Cement Vessel 8508.19.00.00
+87. | Navigation Lighting for Marine Use 8512.20.20.00
+88. | Clear View Screen and Wiper for Marine Use 8512.40.00.00
+89. | Sound recording or reproducing | - 8519.89.90.00
+apparatus
+90. | Radar for Marine Use 8526.10.10.00
+

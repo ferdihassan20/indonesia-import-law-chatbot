@@ -1,0 +1,45 @@
+2019, No.1670 _58-
+
+Nomor (11) : Diisi kota tempat diterbitkannya Keputusan Menteri
+Keuangan.
+
+Nomor (12) : Diisi tanggal, bulan, dan tahun diterbitkannya Keputusan
+Menteri Keuangan.
+
+Nomor (13) : Diisi nama Kantor Pelayanan Utama Bea dan Cukai atau
+
+Kantor Pengawasan dan Pelayanan Bea dan Cukai yang
+menerbitkan Keputusan Menteri Keuangan.
+
+Nomor (14) =: Diisi nama pejabat yang menandatangani Keputusan Menteri
+Keuangan.
+Nomor (15) : Diisi nomor urut barang.
+
+Nomor (16) : a. Diisi uraian jenis barang dan spesifikasi teknis barang
+(merk, tipe, dimensi, kapasitas, dll), dalam hal barang
+selain kendaraan bermotor; atau
+
+b, Diisi jenis, merek, tipe, nomor mesin, nomor rangka,
+kapasitas mesin, dan tahun pembuatan, dalam hal
+
+barang berupa kendaraan bermotor.
+Nomor (17) : Diisi jumlah barang.
+Nomor (18) : Diisi satuan barang.
+Nomor (19): Diisi perkiraan harga barang.
+Nomor (20) : Diisi nomor pos tarif/HS.
+Nomor (21) : Diisi nomor Keputusan Menteri Keuangan mengenai
+
+pembebasan bea masuk dan cukai, tidak dipungut Pajak
+Pertambahan Nilai atau Pajak Pertambahan Nilai dan Pajak
+Penjualan atas Barang Mewah, serta dikecualikan dari
+pemungutan Pajak Penghasilan Pasal 22 atas barang untuk
+keperluan penelitian dan pengembangan ilmu pengetahuan.
+Nomor (22) : Diisi tanggal Keputusan Menteri Keuangan mengenai
+pembebasan bea masuk dan cukai, tidak dipungut Pajak
+Pertambahan Nilai atau Pajak Pertambahan Nilai dan Pajak
+Penjualan atas Barang Mewah, serta dikecualikan dari
+
+pemungutan Pajak Penghasilan Pasal 22 atas barang untuk
+keperluan penelitian dan pengembangan ilmu pengetahuan.
+
+www.peraturan.go.id

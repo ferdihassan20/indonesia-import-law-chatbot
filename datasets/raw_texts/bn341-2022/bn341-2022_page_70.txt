@@ -1,0 +1,59 @@
+2022, No. 341 -70-
+
+8702.10.60 ~~~ Mobil (termasuk limousin panjang tetapi tidak termasuk coach,
+bus, minibus atau van)
+- - - Lain-lain, untuk pengangkutan 30 orang atau lebih dan
+dirancang khusus untuk digunakan di bandara :
+8702.10.71 ---- Dengan g.v.w. setidaknya 6 t tetapi tidak melebihi 18 t
+8702.10.72 ~- ~~ Dengan g-v.w. melebihi 24 t
+8702.10.79 ---- Lain-lain
+~--Cosch, bus atau minibus bermotor lainnya :
+8702.10.81 ~--- Dengan g.v.w. sctidaknya 6 t tetapi tidak melebihi 18 t
+8702.10.82 ~--- Dengan g.v.w. melebihi 24 t
+8702.10.89 ---- Lain-lain
+~ - - Lain-lain :
+8702.10.91 ~--- Dengan g.v.w. melebihi 24 t
+8702.10.99 ---- Lain-lain
+8702.20 - Dengan kedua mesin piston pembakaran dalam nyala kompresi
+(diesel atau semi-diesel) dan motor listrik sebagai motor untuk
+penggerak :
+- - Lain-lain ;
+- - - Mobil (termasuk limousin panjang tetapi tidak termasuk coach,
+bus, minibus atau van)
+- - - Lain-lain, untuk pengangkutan 30 orang atau Iebih dan
+dirancang khusus untuk digunakan di bandara :
+8702.20.61 ~--- Dengan gv.w, sctidaknya 6 t tetapi tidak melebihi 18 t
+8702.20.62 - Dengan g.v.w. melebihi 24 t
+8702.20.69 ~ Lain-lain
+Coach, bus atau minibus bermotor lainnya :
+8702.20.71 - Dengan g.v.w. setidaknya 6 t tetapi tidak melebihi 18 t
+8702.20.72 ~ Dengan g-v.w. melebihi 24 t
+8702.20.79 - Lain-lain
+Lain-lain :
+8702.20.91 ~ Dengan g-v.w. melebihi 24 t
+8702.20.99 ~--- Lain-lain
+8702.30 ~ Dengan kedua mesin piston pembakaran dalam cctus api dan
+motor listrik sebagai motor untuk penggerak :
+~ - Lain-Isin :
+~ - - Mobil (termasuk limousin panjang tetapi tidak termasuk coach,
+bus, minibus atau van}
+- - - Lain-lain, untuk pengangkutan 30 orang atau Iebih dan
+dirancang khusus untuk digunakan di bandara :
+8702.30.61 ~- ~~ Dengan g-v.w. melebihi 24 t
+8702.30.69 ---- Lain-lain
+~-- Coach, bus atau minibus bermotor lainnya :
+8702.30.71 ~-~-- Dengan g.v.w. melebihi 24 t
+8702.30.79 ---- Lain-lain
+~ - - Lain-lain :
+8702.30.91 ~--- Dengan g.v.w. melebihi 24 t
+8702.30.99 ---- Lain-lain
+8702.40 - Hanya dengan motor listrik sebagai penggerak :
+~~ Lain-lain :
+8702.40.50 ~ - - Mobil (termasuk limousin panjang tetapi tidak termasuk coach,
+bus, minibus atau van)
+~ - ~ Lain-lain, untuk pengangkutan 30 orang atau Iebih dan
+dirancang khusus untuk digunakan di bandara :
+8702.40.61 ~--- Dengan g-v.w. melebihi 24 t
+8702.40.69 ---- Lain-lain
+
+www.peraturan.go.id

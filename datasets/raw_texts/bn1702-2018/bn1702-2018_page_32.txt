@@ -1,0 +1,96 @@
+2018, No. 1702 _30-
+
+diameter tidak melebihi 3 mm
+
+316 | 7312.10.91 - - - Kawat baja dipilin untuk beton pra-tekan
+
+317 | ex 7312.10.99 | - - - Lain-lain
+
+318 | 7312.90.00 - Lain-lain
+
+319 | 7316.00.00 Jangkar, jangkar kecil dan bagiannya, dari besi atau
+baja.
+
+320 | 7317.00.10 - Paku kawat
+
+321 | 7317.00.20 - Paku kokot
+
+322 | ex 7317.00.90 | - Lain-lain
+
+323 | 7318.11.00 - - Sekrup rel
+
+324 | 7318.12.10 - - - Dengan diameter luar shank tidak melebihi 16 mm
+
+325 | 7318.12.90 - - - Lain-lain
+
+326 | 7318.13.00 - - Kait sekrup dan cincin sekrup
+
+327 | 7318.14.10 - - - Dengan diameter luar shank tidak melebihi 16 mm
+
+328 | 7318.14.90 - - - Lain-lain
+
+329 | 7318.15.10 - - - Dengan diameter luar shank tidak melebihi 16 mm
+
+330 | 7318.15.90 - - - Lain-lain
+
+331 | 7318.16.10 - - - Untuk baut yang memiliki diameter luar shank
+tidak melebihi 16 mm
+
+332 | 7318.16.90 - - - Lain-lain
+
+333 | 7318.19.10 - - - Dengan diameter luar shank tidak melebihi 16 mm
+
+334 | 7318.19.90 - - - Lain-lain
+
+335 | 7318.21.00 - - Cincin pipih pegas dan cincin pipih kunci lainnya
+
+336 | 7318.22.00 - - Cincin pipih lainnya
+
+337 | 7318.23.10 - - - Dengan diameter luar tidak melebihi 16 mm
+
+338 | 7318.23.90 - - - Lain-lain
+
+339 | 7318.24.00 - - Pasak dan pasak kunci
+
+340 | 7318.29.10 - - - Dengan diameter luar shank tidak melebihi 16 mm
+
+341 | 7318.29.90 - - - Lain-lain
+
+B. Baja Paduan
+
+1 7219.32.00 - - Dengan ketebalan 3 mm atau lebih tetapi kurang dari
+4,79 mm
+
+2 7219.33.00 - - Dengan ketebalan melebihi 1 mm tetapi kurang dari
+3mm
+
+3 7219.34.00 - - Dengan ketebalan 0,5 mm atau lebih tetapi tidak
+melebihi 1 mm
+
+4 7219.35.00 - - Dengan ketebalan kurang dari 0,5 mm
+
+8) 7219.90.00 - Lain-lain
+
+6 7220.20.10 - - Simpai dan strip, dengan lebar tidak melebihi 400
+mm
+
+7 7220.20.90 - - Lain-lain
+
+8 7220.90.10 - - Simpai dan strip, dengan lebar tidak melebihi 400
+mm
+
+9 7220.90.90 - - Lain-lain
+
+10 | 7225.11.00 - - Grain-oriented
+
+11 | 7225.19.00 - - Lain-lain
+
+12) | 7225.30.10 - - Dari baja high speed
+
+13 7223.30.90 - - Lain-lain
+
+14 | 7225.40.10 - - Dari baja high speed
+
+15 7223.40.90 - - Lain-lain
+
+www.peraturan.go.id

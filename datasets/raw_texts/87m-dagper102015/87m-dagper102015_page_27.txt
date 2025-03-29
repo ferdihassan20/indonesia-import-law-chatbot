@@ -1,0 +1,43 @@
+-14-
+
+Pos Tarif/HS Uraian Barang
+a 2104.20 - Olahan makanan campuran homogen:
+ee
+--- Makanan untuk bayi
+--- Makanan untuk bayi
+
+2104.20.99.00 | --- Lain-lain
+
+2105.00.00.0 | Es krim dan es lainnya yang dapat dimakan,
+Oo mengandung kakao maupun tidak.
+
+Air, termasuk air mineral alam atau artifisial
+dan air soda, tidak mengandung tambahan
+gula atau bahan pemanis lainnya maupun
+pemberi rasa; es dan salju.
+
+- Air mineral dan air soda:
+
+Air, termasuk air mineral dan air soda,
+mengandung tambahan gula atau bahan
+a pemanis lainnya atau pemberi rasa, dan
+2202.10
+pemanis lainnya atau pemberi rasa:
+210 -- Air mineral pancar atau air soda, diberi rasa
+
+minuman yang tidak mengandung alkohol
+
+lainnya, tidak termasuk jus buah atau
+
+sayuran dari pos 20.09
+
+- Air, termasuk air mineral dan air soda,
+
+mengandung tambahan gula atau bahan
+
+212 2202.90.10.00 | -- Minuman susu UHT diberi rasa
+213 2202.90.20.00 | -- Minuman susu kedelai
+
+-- Minuman tidak mengandung soda yang siap
+214 2202.90.30.00 ;
+untuk dikonsumsi langsung tanpa diencerkan

@@ -1,0 +1,68 @@
+2020, No.407
+
+12
+13
+14
+15
+
+-120-
+
+PETUNJUK PENGISIAN CONTOH FORMAT RKIP YANG MENJADI
+LAMPIRAN SKTD
+
+Diisi dengan nomor halaman dari total jumlah halaman RkIP,
+dicantumkan pada setiap halaman.
+
+Diisi dengan nomor RKIP sesuai tata cara penomoran yang berlaku
+oleh Kantor Pelayanan Pajak.
+
+Diisi oleh Kantor Pelayanan Pajak dengan tanggal RKIP.
+
+Diisi oleh Kantor Pelayanan Pajak dengan nomor SKTD yang
+melampirkan RKIP yang bersangkutan.
+
+Diisi dengan identitas pemohon SKTD yang mengajukan RKIP
+
+nama : diisi dengan nama pemohon.
+
+alamat : diisi dengan alamat pemohon.
+
+NPWP : diisi dengan Nomor Pokok Wajib Pajak
+pemohon.
+
+Diisi dengan nomor urut.
+
+Diisi dengan nama Kantor Pelayanan Utama Bea dan Cukai atau
+Kantor Pengawasan dan Pelayanan Bea dan Cukai, dan pelabuhan
+tempat alat angkutan tertentu diimpor.
+
+Diisi dengan nama atau jenis alat angkutan tertentu yang diimpor.
+Diisi dengan satuan jumlah, seperti 1 buah, 1 unit, atau 1 set.
+
+Diisi dengan kode Harmonized System (HS) alat angkutan tertentu.
+Diisi dengan spesifikasi teknis alat angkutan tertentu, yaitu meliputi
+kegunaan, merek, tipe, ukuran, dan kapasitas.
+
+Diisi dengan perkiraan Nilai Impor per satuan.
+
+Diisi dengan perkiraan Nilai Impor total.
+
+Diisi dengan perkiraan PPN.
+
+Diberi keterangan “TDP” oleh Kantor Pelayanan Pajak jika
+permohonan disetujui, dan keterangan “Dipungut PPN” jika
+permohonan bagian ini tidak disetujui (diisi setelah Kantor Pelayanan
+
+Pajak meneliti permohonan SKTD yang dilampiri RKIP).
+
+(16) Diisi dengan nomor urut.
+
+(17) Diisi dengan nama, Nomor Pokok Wajib Pajak, dan alamat Pengusaha
+
+Kena Pajak yang menyerahkan alat angkutan tertentu.
+
+(18) Diisi dengan nama atau jenis alat angkutan tertentu yang ditcrima
+
+penyerahannya.
+
+(19) Diisi dengan satuan jumlah, seperti 1 buah, 1 unit, atau 1 set.

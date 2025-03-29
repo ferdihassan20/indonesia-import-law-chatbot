@@ -1,0 +1,403 @@
+2017, No.176
+
+-458-
+
+No.
+
+T0003
+
+10066
+10067
+
+10068
+
+10069
+
+10070
+
+10071
+
+10072
+
+10073
+
+10074
+
+10075
+
+10076
+
+10077
+
+10078
+
+10079
+
+10080
+
+10081
+
+10082
+
+10083
+
+10084
+10085
+
+10086
+
+10087
+
+1008s
+
+10089
+
+10090
+
+10001
+
+10092
+10093
+
+10094
+
+10095
+10096
+
+10097
+10098,
+
+Pos Tarif/
+HS Code
+
+B719,.20.12
+
+8714.20.19
+8714.20.90
+
+8714.91
+8714.91.10
+
+[8714.91.91
+8714.91.99
+8714.92
+8714.92.10
+[8714.92.90
+8714.93
+8714.93.10
+8714.93.90,
+8714.94
+8714.98.10
+8714.93.90
+8714.95,
+8714.95.10
+
+8714.95.90
+8714.96
+
+8714.96.10
+8714.96.90
+[8714.99
+
+8714.99.11
+
+[8714.99.12
+
+8714.99.91
+
+8714.99.93
+(8714.99.99
+
+8715.00.00
+87.16
+
+/8716.10.00
+
+8716.20.00
+
+8716.31.00
+8716.39
+
+8716.39.40
+8716.39.91
+8716.39.99
+8716.40.00
+
+8716.80
+8716.80.10
+
+'8716,80.20
+8716.80.90
+8716.90
+
+|8716.90.13
+
+18716.90.19
+
+sasal
+
+Uraian Barang
+
+"~~ Dengan diameter [termasuk ban) melebiht 100 mm
+etapi tidak melebihi 250 mm, asalkan lebar roda atau ban
+yang dipasangkan tidak kurang dari 30 mm
+
++ Lain-lain
+Lain-lain
++ Lain-lain :
+Rangka dan garpu, dan bagiannya :
++ Untuk sepeda rode dua dari subpos 8712.00.20
+
++ Lain-lain -
+~ agian untuk garpu
++ Lain-lain
+| - Pelek dan jeruji
+- Untuk sepeda roda dua dari subpos 8712.00.20
+
++ Lain-lain
+Naf, sciain naf rem coaster dan rem naf, dan free-wheel
+sprocket-whieels :
+
++ - - Untuk sepeda roda dua dari subpos 8712.00.20
+
+ Lain-lain
+-- Rem, termasuk naf rem coaster dan rem naf, dan
+bagiannya :
+
+- +» Untuk sepeda roda dua dari subpos 8712.00.20
+
+= Lain-lain
+Sade! :
+- Untuk sepeda roda dua dari subpas 8712.00.20
+
++ Lain-lain
+Pedal dan crank-gear, dan bagiannya :
+
+++ Untule sepeda roca dua dari subpos 8712.00.20
+
++ Lain-lain
+Lain-lain
+~ Untuk sepeda roda dua dari subpos 8712.00.20 :
+
+- - - - Stang, pilar, sepatbor, spion, kereta, kabel kontrol,
+braket lampu atau bracket lug; akscsori lainnya
+
+- = - - Rantai roda dan engkol; bagian Iainnya
+
+== Lain-tain :
+~~ Stang, pilar, sepatbor, spion, kereta, kabel kontrol,
+braket lampu atau bracket lug: aksesori lainnya
+
+~ Nipple untuk jeruji
+» Rantai roda dan engkol; bagian lainnya
+
+Kereta bayi dan bagiannya.
+Trailer dan semi trailer; kendaraan Iainnys, tidal
+digerakkan secara mekanile; bagiannya.
+
+- Trailer dan semi-trailer dari tipe karavan, untuk
+perumahan atau! perkemahan
+
+- Trailer dan semi-traiter berdaya muat atau berdaya
+bongkar sendiri untuk keperluan pertanian
+
+- Trailer dan semi-trailer lainnya untuk pengangkutan
+barang :
+‘Trailer dan semi-trailer tangki
+
+» + Lain-lain :
+- - Trailer dan semi-trailer pertanian
+
+~ Lain-tain :
+Memiliki kapasitas pengangkutan (payload) melebihi
+
+12001
++> Lain-tain
+| Trailer dan semi-trailer lainnya
+
+Kendaraan lainnya >
+
+Kereta clan wagon, truk kantong, troli tangan dan
+
+kendarann semacam itu yang digerakkan dengan tangan
+dari jenis yang digunakan di pabrik atau bengkel, kecuali
+[gerobak dorong beroda satu
+- - Gerobak dorong beroda satus
+Lain-lain
+- Bagian :
+~~ Untuk trailer dan semi trailer :
+- Untuk barang dari subpos 8716.20
+
+~~~ Lain-tain
+}- - Untuk barang dari subpos 8716.80.10 atau 8716.80.20
+
+Description of Goods
+
+"~~ Ora diameter (including tyres) exceeding|
+100 mm but not exceeding 250 mm,
+provided that the width of any wheel or tyre
+fitted thereto is not Jess than 30 mm
+
+Other
+- Other
+- Other =
++» Frames and forks, and parts thereof.
+~~ For bicycles of subheading 8712.00.20
+
+Other :
+
+~ Parts for forks
+
+- Other
+
+- Wheel rims and spokes :
+
+For bicycles of subheading 8712.00.20
+
+‘Other
+
+- Hubs, other than coaster braking hubs
+land hub brakes, and Iree-wheel sprocket-
+]wheels =
+
+- = + For bicycles of subheading 8712.00.20
+
+‘Other
+- Brakes, including coaster braking hubs
+jand hub brakes, and parts thereof :
+
+For bicycles of subheading 8712.00.20
+
+Other
+~ Saddles :
+
+For bicycles of subheading 8712.00.20
+
+Other
+» Pedals and crank-gear, and parts thereof ;
+
+- - - For bicycles of subheading 8712.00.20
+Other
+
++ Other:
+For bicycles of subheading 8712.00.20 :
+
++ Handle bars, pillars, mudguards,
+refiectors, carriers, control cables, lamp
+brackets or bracket lugs; other accessories
+
+~~ Chain wheels and cranks; other parts
+
+Other :
+Handle bars, pillars, mudguards,
+reflectors, carriers, control cables, lamp
+brackets or bracket lugs; other accessories
+
+= Nipples for spokes
+~ Chain wheels and cranks; other parts
+
+|Baby carriages and parts thereof,
+‘Trailers and semi-trailers; other vehicles,
+not mechanically propelled; parts thereof.
+
+- Trailers and semi-trailers of the caravan
+type, for housing or camping
+
+ Self-loading or self-unloading trailers and
+[semi-trailers for agricultural purposes:
+
+- Other trailers and semi-trailers for the
+transport of goods :
+-- Tanker trailers and tanker semi-trailers:
+
+Other :
+Agricultural trailers and semi-trailers
+
+|-- - Other :
+
+~~ - - Having a carrying capacity (payload)
+lexceeding 200 t
+
+- =~» Other
+
+- Other trailers and semi-trailers
+
+- Other vehicles :
+
+Carts and wagons, sack trucks, hand
+trolleys and similar hand-propelled vehicles
+lof # kine! usec! in factories or workshops,
+lexcept wheelbarrows:
+
+- - Wheelbarrows,
+
+~ - Other
+
+- Parts :
+
+Por trailers and semi-trailers :
+
+For goods of subheading 8716.20
+
+--- Other
+
+- - For vehicles of subheading 8716.80.10 or
+8716.80.20 :
+
+‘Bea Masuk /
+Import Dut
+
+10.0%
+
+10,0%
+10.0%
+
+30,0%
+
+10,0%
+10,0%
+10,0%
+
+30,0%
+
+10,0%
+
+20,0%
+
+30,0%
+30,0%
+10,0%
+
+30,0%
+
+10,0%
+
+30,0%
+
+10,0%
+10.0%
+
+10,0%
+
+40,0%
+
+15,0%
+
+15,0%
+
+15,0%
+
+15,0%
+
+15,0%
+15,0%
+
+20,0%
+
+20.0%
+20,0%
+
+0,0%
+0,0%
+
+www.peraturan.go.id

@@ -1,0 +1,81 @@
+84.29 atau 84.30, forklift, wheel-barrows atau kendaraan
+dan mesin industri lainnya
+
+4011.93.90.00
+
+4011.94 - - Dari jenis yang digunakan untuk kendaraan dan mesin
+konstruksi atau industri serta memiliki ukuran pelek
+melebihi 61 cm:
+
+atau 84.30
+
+- - - Dari jenis yang digunakan untuk traktor, forklift atau
+kendaraan dan mesin industri lainnya
+
+| [4011.99 [--Lainlains
+
+21 | 4011.99.20.00 | - - - Dari jenis yang digunakan pada mesin dari pos 84.29
+atau 84.30
+
+4011.99.30.00 | - - - Lain-lain, dengan lebar melebihi 450 mm
+4011.99.90.00
+140.13 sd Ban dalam, dari karet.
+
+4013.10 - Dari jenis yang digunakan untuk kendaraan bermotor
+(termasuk station wagon dan mobil balap), bus atau truk:
+
+4011.93.10.00 | - - - Dari jenis yang digunakan untuk traktor, mesin dari pos
+
+- - Dari jenis yang digunakan untuk kendaraan bermotor:
+
+4013.10.11.00 | - - - Cocok dipasang pada ban dengan lebar tidak melebihi
+450 mm
+
+5 | 4013.10.19.00 | - - - Cocok dipasang pada ban dengan lebar melebihi 450 mm
+Po - - Dari jenis yang digunakan untuk bus atau truk:
+
+4013.10.21.00 | - - - Cocok dipasang pada ban dengan lebar tidak melebihi
+450 mm
+
+7 | 4013.10.29.00 | - - - Cocok dipasang pada ban dengan lebar melebihi 450 mm
+8 | 4013.20.00.00 | - Dari jenis yang digunakan untuk sepeda roda dua
+
+4013.90 - Lain-lain:
+
+S| - - Dari jenis yang digunakan pada mesin dari pos 84.29 atau
+84.30:
+
+4013.90.11.00 | - - - Cocok dipasang pada ban dengan lebar tidak melebihi
+450 mm
+
+2
+
+a
+—
+Es
+—
+
+bo
+Oo
+
+bo
+
+o
+
+0 | 4013.90.19.00 | - - - Cocok dipasang pada ban dengan lebar melebihi 450 mm
+1 | 4013.90.20.00 | - - Dari jenis yang digunakan untuk sepeda motor
+
+S| - - Dari jenis yang digunakan untuk kendaraan lain dalam
+Bab 87:
+450 mm
+
+4013.90.39.00 | - - - Cocok dipasang pada ban dengan lebar melebihi 450 mm
+of kainelains
+
+34 | 4013.90.91.00 | - - - Cocok dipasang pada ban dengan lebar tidak melebihi
+450 mm
+4013.90.99.00 | - - - Cocok dipasang pada ban dengan lebar melebihi 450 mm
+2
+
+wo
+

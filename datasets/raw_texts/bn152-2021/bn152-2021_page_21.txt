@@ -1,0 +1,66 @@
+91- 2021, No.152
+
+300. | 7307.91.10 - - - Mempunyai diameter dalam kurang dari 15 cm
+
+301. | 7307.91.90 - - - Lain-lain
+
+302. | 7307.92.10 - - - Mempunyai diameter dalam kurang dari 15 cm
+
+303. | 7307.93.10 - - - Mempunyai diameter dalam kurang dari 15 cm
+
+304. | 7307.93.90 - - - Lain-lain
+
+305. | 7307.99.10 - - - Mempunyai diameter dalam kurang dari 15 cm
+
+306. | 7307.99.90 - - - Lain-lain
+
+307. | 7308.10.10 - - Modular prapabrikasi dari jenis yang disambung
+dengan konektor gunting
+
+308. | 7308.10.90 - - Lain-lain
+
+309. | 7308.20.11 - - - Modular prapabrikasi dari jenis yang disambung
+dengan konektor gunting
+
+310. | 7308.20.19 - - - Lain-lain
+
+311. | 7308.20.21 - - - Modular prapabrikasi dari jenis yang disambung
+dengan konektor gunting
+
+312. | 7307.92.90 - - - Lain-lain
+
+313. | 7308.20.29 - - - Lain-lain
+
+314. | 7308.30.10 - - Pintu, dengan ketebalan 6 mm atau lebih tetapi
+tidak melebihi 8 mm
+
+315. | 7308.30.90 - - Lain-lain
+
+316. | 7308.40.10 - - Modular prapabrikasi dari jenis yang disambung
+dengan konektor gunting
+
+317. | 7308.40.90 - - Lain-lain
+
+318. | 7308.90.20 - - Modular prapabrikasi dari jenis yang disambung
+dengan konektor gunting
+
+319. | 7308.90.40 - - Pelat atau lembaran bergelombang dan melengkung
+digalvanisasi untuk dirakit menjadi saluran, gorong-
+gorong bawah tanah atau terowongan
+
+320. | 7308.90.60 - - Nampan berlubang untuk kabel
+
+321. | 7308.90.92 - - Pagar pembatas
+
+322. | 7308.90.99 - - - Lain-lain
+
+323. | 7310.10.10 - - Dari tinplate
+
+324. | 7310.10.91 - - - Dituang, ditempa atau dicap, dalam keadaan kasar
+
+325. | 7310.10.99 - - - Lain-lain
+
+326. | 7310.21.10 - - - Dengan kapasitas kurang dari 11
+
+327. | 7310.21.91 - - - - Dari tinplate
+

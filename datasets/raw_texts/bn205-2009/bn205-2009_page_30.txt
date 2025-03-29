@@ -1,0 +1,74 @@
+2009, No.205 30
+
+No.
+
+URAIAN BARANG
+
+POS TARIF
+
+88
+
+Angle, shape dan section, dari besi atau baja bukan paduan.
+Angle, shape dan section lainnya, tidak dikerjakan lebih lanjut
+selain dicanai panas, ditarik panas atau diekstrusi dengan tinggi
+kurang dari 80 mm
+
+7216.50.10.00
+
+89
+
+Angle, shape dan section, dari besi atau baja bukan paduan.
+Angle, shape dan section lainnya, tidak dikerjakan lebih lanjut
+selain dicanai panas, ditarik panas atau diekstrusi dengan tinggi
+80 mm atau lebih
+
+7216.50.90.00
+
+90
+
+Angle, shape dan section, dari besi atau baja bukan paduan.
+Angle, shape dan section, tidak dikerjakan lebih lanjut selain
+cold-formed atau cold- finished : Diperoleh dari produk
+canai-lantaian
+
+7216.61.00.00
+
+91
+
+Angle, shape dan section, dari besi atau baja bukan paduan.
+Angle, shape dan section, tidak dikerjakan lebih lanjut selain
+cold-formed atau cold- finished : Selain yang diperoleh dari
+produk canai-lantaian
+
+7216.69.00.00
+
+92
+
+Angle, shape dan section, dari besi atau baja bukan paduan.
+Selain daripada Angle, shape dan section yang tidak dikerjakan
+lebih lanjut selain dicanai panas, ditarik panas atau diekstrusi
+atau tidak dikerjakan lebih lanjut selain cold-formed atau cold-
+finished Cold-formed atau cold-finished dari produk canai-
+lantaian
+
+7216.91.00.00
+
+93
+
+Angle, shape dan section, dari besi atau baja bukan paduan.
+Selain daripada Angle, shape dan section yang tidak dikerjakan
+lebih lanjut selain dicanai panas, ditarik panas atau diekstrusi
+atau tidak dikerjakan lebih lanjut selain cold-formed atau cold-
+finished Selain daripada Cold-formed atau cold-finished dari
+produk canai-lantaian
+
+7216.99.00.00
+
+94
+
+Kawat besi atau baja bukan paduan. Tidak disepuh atau tidak
+dilapisi, dipoles maupun tidak Mengandung karbon kurang dari
+0,25% menurut beratnya
+
+7217.10.10.00
+

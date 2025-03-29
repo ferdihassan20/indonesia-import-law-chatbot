@@ -1,0 +1,145 @@
+Instruksi Pemrosesan Dokumen Peraturan/Undang-Undang Terkait Impor di Indonesia  
+
+Di bawah ini merupakan hasil ekstraksi teks dari dokumen peraturan dan/atau undang-undang terkait impor di Indonesia.  
+Hasil ekstraksi ini mungkin mengandung:  
+1. Simbol atau karakter asing yang tidak relevan dan perlu dihapus.  
+2. Kesalahan ejaan yang perlu diperbaiki agar sesuai dengan ejaan yang benar dalam bahasa Indonesia.  
+3. Susunan kata atau kalimat yang tidak sesuai urutan, sehingga perlu disusun kembali agar mudah dipahami dan sesuai dengan struktur aslinya.  
+4. Tabel yang harus diubah menjadi teks deskriptif tanpa menghilangkan informasi penting.  
+
+Tugas Anda:  
+1. Membersihkan dan merapikan teks agar dapat dipahami dengan baik serta mengikuti sistematika baku dalam peraturan perundang-undangan Indonesia.  
+2. Menjaga struktur asli dokumen agar tetap utuh dan berurutan, yaitu:  
+   - Pembukaan: "Dengan Rahmat Tuhan Yang Maha Esa" harus selalu berada di bagian awal dokumen.  
+   - "Menimbang" harus berada setelah pembukaan, tanpa berpindah posisi atau bergabung dengan bagian lain.  
+   - "Mengingat" harus berada setelah bagian "Menimbang" dan wajib memiliki indeks a, b, c, dan seterusnya. Jangan menghilangkan atau menggabungkan poin-poin di dalamnya.  
+   - "Memutuskan" harus selalu diawali dengan kata "Menetapkan" yang tidak boleh dihapus atau diubah.  
+   - Isi pasal-pasal harus tetap terstruktur sesuai format aslinya.  
+   - Penutup harus tetap utuh, mencakup tanggal penetapan, nama pejabat, serta berita negara (jika ada).  
+3. Jika Anda menemukan bagian yang menyerupai tabel, ubah menjadi teks deskriptif dengan format berikut:  
+   - Setiap baris tabel harus dikonversi menjadi kalimat yang jelas dan mengikuti hierarki informasi yang logis.  
+   - Jika tabel memiliki kategori utama dan subkategori, gunakan format daftar bullet points untuk menunjukkan hubungan antar kategori.  
+   - Nama kolom harus dijadikan referensi dalam penyusunan kalimat.  
+   - Tarif bea masuk harus disebutkan secara eksplisit di akhir setiap poin.  
+
+Contoh konversi dari tabel ke teks deskriptif:  
+
+Tabel Input (OCR):  
+| POS/SUB POS NO. | HEADING/URAIAN BARANG | DESKRIPSI BARANG | TARIF BEA MASUK |  
+|-----------------|----------------------|------------------|----------------|  
+| 09.01          | Kopi, digongseng atau dihilangkan kafeinnya maupun tidak | Coffee, whether or not roasted or decaffeinated |   |  
+| - Kopi, digongseng: | - Coffee, roasted: | |  |  
+| 0901.21 | Tidak dihilangkan kafeinnya: | - Not decaffeinated: | 20% |  
+| 0901.21.10.00 | Tidak ditumbuk | Unground | 20% |  
+| 0901.21.20.00 | Ditumbuk | Ground | 20% |  
+
+Output Deskriptif yang Benar:  
+- Kopi (HS Code: 09.01) termasuk kopi yang digongseng atau dihilangkan kafeinnya.  
+- Kopi yang digongseng dan tidak dihilangkan kafeinnya dikenakan tarif bea masuk sebesar 20%, dengan rincian:  
+  - Kopi yang tidak ditumbuk dikenakan tarif 20%.  
+  - Kopi yang ditumbuk dikenakan tarif 20%.  
+- Kopi yang digongseng dan telah dihilangkan kafeinnya juga dikenakan tarif bea masuk sebesar 20%, dengan rincian:  
+  - Kopi yang tidak ditumbuk dikenakan tarif 20%.  
+  - Kopi yang ditumbuk dikenakan tarif 20%.  
+
+Penting:  
+- Jangan mengubah urutan atau struktur bagian dalam dokumen. Jika bagian "Menimbang" dan "Mengingat" ditemukan dalam posisi yang salah, pindahkan ke posisi yang benar.  
+- Pastikan semua poin dalam "Mengingat" lengkap dan memiliki indeks a, b, c, dst. Jangan menggabungkan atau menghapus poin.  
+- Jangan menghapus atau mengubah kata "Menetapkan" pada bagian "Memutuskan".  
+- Pastikan format tetap jelas dan tidak ada informasi yang terbuang.  
+- Gabungkan hasil cleaning ke dalam satu file, tidak perlu pemisahan antara teks biasa dan tabel.  
+- Selesaikan sampai akhir dokumen, tidak perlu memotong atau membuang bagian mana pun dari dokumen maupun memberi output seperti "(dan seterusnya untuk item lainnya)".  
+- Jangan memberikan keterangan bahwa dokumen telah dibersihkan.  
+- Pastikan tidak ada format teks yang berantakan terutama jika mengandung barisan karakter seperti '--' atau '|'
+
+Hasil yang Diharapkan:  
+Dokumen yang telah diperbaiki harus memiliki struktur yang lengkap, rapi, tidak ada bagian yang hilang, serta tabel yang dikonversi ke dalam teks deskriptif tanpa kehilangan informasi.
+
+PAKS
+
+BERITA NEGARA  
+REPUBLIK INDONESIA  
+
+No. 301, 2019 KEMENKEU. Anti Dumping. Impor Produk Canai Lantaian. Besi atau Baja bukan Paduan. Pengenaan Bea Masuk.  
+
+PERATURAN MENTERI KEUANGAN REPUBLIK INDONESIA  
+NOMOR 25/PMK.010/2019  
+TENTANG  
+PENGENAAN BEA MASUK ANTI DUMPING TERHADAP IMPOR PRODUK CANAI LANTAIAN DARI BESI ATAU BAJA BUKAN PADUAN DARI NEGARA REPUBLIK RAKYAT TIONGKOK, INDIA, RUSIA, KAZAKHSTAN, BELARUSIA, TAIWAN, DAN THAILAND  
+
+DENGAN RAHMAT TUHAN YANG MAHA ESA  
+
+MENTERI KEUANGAN REPUBLIK INDONESIA,  
+
+Menimbang:  
+a. bahwa berdasarkan ketentuan Pasal 2 ayat (1) Peraturan Pemerintah Nomor 34 Tahun 2011 tentang Tindakan Anti Dumping, Tindakan Imbalan, dan Tindakan Pengamanan Perdagangan, terhadap barang impor selain dikenakan Bea Masuk dapat dikenakan Bea Masuk Anti Dumping jika harga ekspor dari barang yang diimpor lebih rendah dari nilai normalnya dan menyebabkan kerugian;  
+
+b. bahwa Menteri Keuangan sebelumnya telah menetapkan pengenaan Bea Masuk Anti Dumping atas Impor Produk Canai Lantaian dari Besi atau Baja Bukan Paduan melalui Peraturan Menteri Keuangan Nomor 169/PMK.011/2013 tentang Pengenaan Bea Masuk Anti Dumping terhadap Impor Produk Canai Lantaian dari Besi atau Baja Bukan Paduan dari Negara Republik Rakyat Tiongkok, India, Rusia, Kazakhstan, Belarusia, Taiwan, dan Thailand yang telah berakhir masa berlakunya;  
+
+c. bahwa berdasarkan hasil penyelidikan Komite Anti Dumping Indonesia telah membuktikan bahwa masih terjadi praktik dumping terhadap impor produk canai lantaian dari besi atau baja bukan paduan yang berasal dari Negara Republik Rakyat Tiongkok, India, Rusia, Kazakhstan, Belarusia, Taiwan, dan Thailand, terjadi kerugian material yang dialami pemohon, dan ditemukan hubungan kausal antara kerugian pemohon dan impor dari negara tertuduh;  
+
+d. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a, huruf b, dan huruf c, serta untuk melaksanakan ketentuan Pasal 23D ayat (2) Undang-Undang Nomor 17 Tahun 2006 tentang Perubahan atas Undang-Undang Nomor 10 Tahun 1995 tentang Kepabeanan, perlu menetapkan Peraturan Menteri Keuangan tentang Pengenaan Bea Masuk Anti Dumping terhadap Impor Produk Canai Lantaian dari Besi atau Baja Bukan Paduan dari Negara Republik Rakyat Tiongkok, India, Rusia, Kazakhstan, Belarusia, Taiwan, dan Thailand;  
+
+Mengingat:  
+1. Undang-Undang Nomor 7 Tahun 1994 tentang Pengesahan Agreement Establishing the World Trade Organization (Persetujuan Pembentukan Organisasi Perdagangan Dunia) (Lembaran Negara Republik Indonesia tahun 1994 Nomor 57, Tambahan Lembaran Negara Republik Indonesia Nomor 3564);  
+2. Undang-Undang Nomor 10 Tahun 1995 tentang Kepabeanan (Lembaran Negara Republik Indonesia Tahun 1995 Nomor 75, Tambahan Lembaran Negara Republik Indonesia Nomor 3612) sebagaimana telah diubah dengan Undang-Undang Nomor 17 Tahun 2006 tentang Perubahan atas Undang-Undang Nomor 10 Tahun 1995 tentang Kepabeanan (Lembaran Negara Republik Indonesia Tahun 2006 Nomor 93, Tambahan Lembaran Negara Republik Indonesia Nomor 4661);  
+3. Peraturan Pemerintah Nomor 34 Tahun 2011 tentang Tindakan Anti Dumping, Tindakan Imbalan, dan Tindakan Pengamanan Perdagangan (Lembaran Negara Republik Indonesia Tahun 2011 Nomor 66, Tambahan Lembaran Negara Republik Indonesia Nomor 5225);  
+
+MEMUTUSKAN:  
+MENETAPKAN PERATURAN MENTERI KEUANGAN TENTANG PENGENAAN BEA MASUK ANTI DUMPING TERHADAP IMPOR PRODUK CANAI LANTAIAN DARI BESI ATAU BAJA BUKAN PADUAN DARI NEGARA REPUBLIK RAKYAT TIONGKOK, INDIA, RUSIA, KAZAKHSTAN, BELARUSIA, TAIWAN, DAN THAILAND.  
+
+Pasal 1  
+Terhadap impor produk canai lantaian dari besi atau baja bukan paduan dengan lebar 600 mm (enam ratus milimeter) atau lebih, dicanai panas, tidak dipalut, tidak disepuh atau tidak dilapisi, dalam gulungan yang termasuk dalam pos tarif 7208.10.00; 7208.25.00; 7208.26.00; 7208.27.11; 7208.27.19; 7208.27.91; 7208.27.99; 7208.36.00; 7208.37.00; 7208.38.00; 7208.39.10; 7208.39.90; ex.7208.90.10; ex.7208.90.20; dan ex.7208.90.90, dikenakan Bea Masuk Anti Dumping.  
+
+Pasal 2  
+Negara asal dan nama eksportir dan/atau eksportir produsen yang dikenakan Bea Masuk Anti Dumping sebagaimana dimaksud dalam Pasal 1 serta besaran Bea Masuk Anti Dumping adalah sebagai berikut:  
+
+- Eksportir dan/atau Negara Eksportir Produsen:  
+  - Wuhan Iron & Steel (Group) Co. - 0%  
+  - Angang Steel Company Ltd - 20%  
+  - Baoshan Iron & Steel Co. Ltd - 20%  
+  - Perusahaan lainnya - 20%  
+  - Essar Steel Ltd - 12,95%  
+  - JSW Steel Ltd - 20%  
+  - Perusahaan lainnya - 20%  
+  - Novolipetsk Steel - 8,96%  
+  - Magnitogorsk Iron & Steel Works - 20%  
+  - JSC Severstal - 5,58%  
+  - Perusahaan Lainnya - 20%  
+  - Kazakhstan - Semua perusahaan - 20%  
+  - Chung Hung Steel Corporation - 4,24%  
+  - China Steel Corporation - 0%  
+  - Sh Shi Steel Industrial - 4,70%  
+  - Perusahaan lainnya - 20%  
+  - Sahaviriya Steel Industries Public Co. Ltd - 11,23%  
+  - Nakorntai Strip Mill Public Co. Ltd - 12,78%  
+  - G Steel Ltd - 7,92%  
+  - Perusahaan lainnya - 20%  
+
+Pasal 3  
+(1) Pengenaan Bea Masuk Anti Dumping sebagaimana dimaksud dalam Pasal 1 merupakan:  
+a. tambahan bea masuk umum (Most Favoured Nation); atau  
+b. tambahan bea masuk preferensi berdasarkan skema perjanjian perdagangan barang internasional yang berlaku, dalam hal impor dilakukan dari negara yang termasuk dalam skema perjanjian perdagangan barang internasional dimaksud dan memenuhi ketentuan dalam skema perjanjian perdagangan barang internasional.  
+
+(2) Dalam hal ketentuan dalam skema perjanjian perdagangan barang internasional tidak terpenuhi, pengenaan Bea Masuk Anti Dumping atas importasi dari negara yang termasuk dalam skema perjanjian perdagangan barang internasional sebagaimana dimaksud pada ayat (1) huruf b merupakan tambahan bea masuk umum (Most Favoured Nation).  
+
+Pasal 4  
+Tarif Bea Masuk Anti Dumping sebagaimana dimaksud dalam Pasal 2 berlaku sepenuhnya terhadap barang impor sebagaimana dimaksud dalam Pasal 1 yang dokumen pemberitahuan pabean impornya telah mendapat nomor pendaftaran dari Kantor Pabean tempat pelabuhan pemasukan sejak tanggal berlakunya Peraturan Menteri ini.  
+
+Pasal 5  
+(1) Peraturan Menteri ini berlaku selama 5 (lima) tahun terhitung sejak berlakunya Peraturan Menteri ini.  
+(2) Peraturan Menteri ini mulai berlaku setelah 14 (empat belas) hari terhitung sejak tanggal diundangkan.  
+
+Agar setiap orang mengetahuinya, memerintahkan pengundangan Peraturan Menteri ini dengan penempatannya dalam Berita Negara Republik Indonesia.  
+
+Ditetapkan di Jakarta pada tanggal 18 Maret 2019  
+
+MENTERI KEUANGAN REPUBLIK INDONESIA,  
+ttd  
+SRI MULYANI INDRAWATI  
+
+Diundangkan di Jakarta pada tanggal 19 Maret 2019  
+
+DIREKTUR JENDERAL PERATURAN PERUNDANG-UNDANGAN KEMENTERIAN HUKUM DAN HAK ASASI MANUSIA REPUBLIK INDONESIA,  
+ttd  
+WIDODO EKATJAHJANA  

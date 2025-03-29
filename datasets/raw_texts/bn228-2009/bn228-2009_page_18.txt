@@ -1,0 +1,57 @@
+2009, No.228 18
+
+No. URAIAN BARANG POS TARIF
+(1) (2) (3)
+kurang dari 0,45 % menurut beratnya
+--Lain-lain :
+102 | ---Kawat inti baja karbon tinggi untuk 7217.20.91.00
+pembuatan Aluminium Conductors Steel
+Reinforced (ACSR)
+
+103 | ---Lain-lain 7217.20.99.00
+-Disepuh atau dilapisi dengan logam tidak 7217.30
+
+mulia:
+
+104 | --Mengandung karbon kurang dari 0,25 % menurut | 7217.30.10.00
+
+beratnya
+
+105 | --Mengandung karbon 0,25 % atau lebih tetapi 7217.30.20.00
+
+kurang dari 0,6 % menurut beratnya
+-- Mengadung karbon 0,6 % atau lebih menurut
+beratnya :
+---Kawat baja karbon tinggi dilapisi paduan 7217.30.31
+tembaga dari jenis yang digunakan untuk
+pembuatan ban karet pneumatik (kawat ban)
+
+106 | ---Lain-lain 7217.30.39.00
+-Lain-lain : 7217.90
+--Mengandung silika tidak kurang dari 0,1% 7217.90.10.00
+
+menurut beratnya, disepuh seng, dengan berat
+lapisan tidak kurang dari 240 g/m?, dilapisi
+dengan poli (vinil klorida)
+--Lain-lain : 7217.90.90
+---Mengandung karbon 0,6% atau lebih 7217.90.90.10
+menurut beratnya, tidak termasuk barang
+barang dari sub pos 7217.90.10
+
+107 | ---Lain-lain 7217.90.90.90
+Produk canai lantaian dari baja stainless, 72.19
+dengan lebar 600 mm atau lebih.
+
+-Tidak dikerjakan lebih lanjut selain dicanai
+dingin (cold-reduced) :
+108 | --Dengan ketebalan melebihi 1 mm tetapi kurang 7219.33.00.00
+dari 3 mm
+109 | --Dengan ketebalan 0,5 mm atau lebih tetapi 7219.34.00.00
+tidak melebihi 1 mm
+
+110 | --Dengan ketebalan kurang dari 0,5 mm 7219.35.00.00
+Kawat dari baja paduan lainnya. 72.29
+- Dari baja silikon-mangan 7229.20.00.00
+- Lain-lain : 7229.90.00
+-- Dari high speed steel 7229.90.00.10
+

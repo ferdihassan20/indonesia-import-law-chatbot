@@ -1,0 +1,55 @@
+2015, No.1690
+
+-14-
+
+4407.29
+
+- - Lain-lain:
+
+- - - Jelutung (Dyera spp.):
+
+38. 4407.29.11.00 - - - - Diketam, diampelas atau end-jointed
+39. 4407.29.19.00 - - - - Lain-lain
+- - - Kapur (Dryobalanops spp.):
+40. 4407.29.21.00 - - - - Diketam, diampelas atau end-jointed
+41. 4407.29.29.00 - - - - Lain-lain
+- - - Kempas (Koompassia spp.):
+42. 4407.29.31.00 - - - - Diketam, diampelas atau end-jointed
+43. 4407.29.39.00 - - - - Lain-lain
+- - - Keruing (Dipterocarpus spp.):
+44. 4407.29.41.00 - - - - Diketam, diampelas atau end-jointed
+45. 4407.29.49.00 - - - - Lain-lain
+- - - Ramin (Gonystylus spp.):
+46. 4407.29.51.00 - - - - Diketam, diampelas atau end-jointed
+47. 4407.29.59.00 - - - - Lain-lain
+- - - Jati (Tectona spp.):
+48. 4407.29.61.00 - - - - Diketam, diampelas atau end-jointed
+49. 4407.29.69.00 - - - - Lain-lain
+- - - Balau (Shorea spp.):
+50. 4407.29.71.00 - - - - Diketam, diampelas atau end-jointed
+51. 4407.29.79.00 - - - - Lain-lain
+- - - Mengkulang (Heritiera spp.):
+52. 4407.29.81.00 - - - - Diketam, diampelas atau end-jointed
+53. 4407.29.89.00 - - - - Lain-lain
+- - - Lain-lain:
+54. 4407.29.91.00 - - - - Jongkong (Dactylocladus spp.) dan Merbau
+(Intsia spp.), diketam, diampelas atau end-jointed
+55. 4407.29.92.00 - - - - Jongkong (Dactylocladus spp.) dan Merbau
+(Intsia spp.), lain-lain
+56. 4407.29.93.00 - - - - Lain-lain, diketam, diampelas atau end-
+jointed
+4407.29.99 - - - - Lain-lain:
+57. 4407.29.99.10 i |----- Albisia (Parenserianthes falcataria)
+58. 4407.29.99.20 i |----- Karet (Hevea brasiliensis)
+59. 4407.29.99.90 i |----- Lain-lain
+- Lain-lain:
+4407.91 - - Dari kayu ek (Quercus spp.):
+60. 4407.91.10.00 - - - Diketam, diampelas atau end-jointed
+61. 4407.91.90.00 - - - Lain-lain
+4407.92 - - Dari kayu beech (Fagus spp.):
+62. 4407.92.10.00 - - - Diketam, diampelas atau end-jointed
+63. 4407.92.90.00 - - - Lain-lain
+4407.93 - - Dari kayu maple (Acer spp.):
+64. 4407.93.10.00 - - - Diketam, diampelas atau end-jointed
+65. 4407.93.90.00 - - - Lain-lain
+

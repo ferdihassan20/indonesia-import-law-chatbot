@@ -1,0 +1,71 @@
+2022, No.1089
+97-
+
+PETUNJUK PENGISIAN
+
+Nomor (1) : diisi nomor surat perusahaan.
+
+Nomor (2) : diisi tanggal surat perusahaan,
+
+Nomor (3) : diisi jumlah lampiran dokumen pendukung.
+
+Nomor (4) : diisi pilih salah satu:
+a. Barang dan Bahan Rusak;
+b. Barang dan Bahan Sisa;
+c. Barang dan Bahan Tidak Sesuai Spesifikasi yang
+
+Dibutuhkan; atau
+
+d. Barang dan Bahan Tidak Lagi Digunakan untuk Produksi.
+
+Nomor (5) ; diisi nama Kantor Wilayah Direktorat Jenderal Bea dan Cukai/
+Kantor Pelayanan Utama Bea dan Cukai yang menerbitkan
+Keputusan Menteri mengenai penetapan sebagai Perusahaan
+KITE Pembebasan.
+
+Nomor (6) : diisi alamat Kantor Wilayah Direktorat Jenderal Bea dan Cukai/
+Kantor Pelayanan Utama Bea dan Cukai yang menerbitkan
+Keputusan Menteri mengenai penetapan sebagai Perusahaan
+KITE Pembebasan.
+
+Nomor (7) : diisi nama perusahaan,
+
+Nomor (8) : diisi NPWP perusahaan.
+
+Nomor (9) : diisi nomor Keputusan Menteri mengenai penetapan sebagai
+Perusahaan KITE Pembebasan.
+
+Nomor (10) : diisi alamat perusahaan.
+
+Nomor (11) ; diisi nomor telepon dan faksimile perusahaan.
+
+Nomor (12) : diisi alasan dilakukannya ekspor kembali.
+
+Nomor (13) ; diisi uraian lampiran dokumen pendukung.
+
+Nomor (14) : diisi nama lengkap yang menandatangani surat
+
+Nomor (15) ; diisi jabatan yang menandatangani surat,
+
+Nomor (16) : diisi jenis pemberitahuan pabean impor atas barang fasilitas
+KITE yang akan diekspor kembali. (Contoh: BC 2.0).
+
+Nomor (17) ; diisi nomor, tanggal, dan kode kantor pemberitahuan pabean
+impor atas barang impor fasilitas KITE.
+
+Nomor (18) : diisi nomor seri barang impor fasilitas KITE.
+
+Nomor (19) : diisi uraian barang impor fasilitas KITE.
+
+Nomor (20) ; diisi jenis satuan barang impor fasilitas KITE.
+
+Nomor (21) ; diisi jumlah impor barang impor fasilitas KITE.
+
+Nomor (22) : diisi nilai CIF atas barang impor fasilitas KITE.
+
+Nomor (23): diisi nilai Bea Masuk dan PPN/PPnBM atas barang impor
+fasilitas KITE.
+
+Nomor (34) : diisi jumlah barang fasilitas KITE yang akan diekspor kembali.
+
+www.peraturan.go.id

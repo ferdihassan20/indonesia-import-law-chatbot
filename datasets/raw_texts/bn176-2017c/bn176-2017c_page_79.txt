@@ -1,0 +1,392 @@
+-399-
+
+2017, No.176
+
+7905
+7906
+
+7907
+7908
+
+7910
+791
+
+7912
+7913
+
+714
+
+7S
+
+7916
+7917
+
+7918
+7919
+
+7920
+7921
+
+7922
+7923
+
+7924
+7925
+7926
+7927
+7928
+7929
+7930
+
+7931
+
+7932
+7933
+
+7934
+7935
+
+7936
+
+7937
+7938
+
+7939
+
+8459.69.20
+8459.70
+8459.70.10
+8459.70.20
+184.60
+
+8460.12.00
+8460.19.00
+
+8460.22.00
+8460.23.00
+8460.24.00
+8460.29
+
+8460.29.10
+9460.29.20
+
+8460.31
+8460.31.10
+
+8460.31.90
+
+8460.39
+8460.39.10
+8460.39.20
+8460.40
+8460.40.10
+8460.40.20
+1460.90
+8460.90.10
+8460.90.20
+84.61
+
+8461.20
+8461.20.10
+8461.20.20
+8461.30
+8461.30.10
+8461.30.20
+8461.40
+
+8461.40.10
+8461.40.20
+8461.50
+2461.50.10
+8461.50.20
+8461.90
+
+8461.90.11
+8461.90.19
+
+8461.90.91
+8461.90.99
+84.62
+
+8462.10
+
+8462.10.10
+8462.10.20
+
+8462.21.00
+8462.20
+
+8462.20.10
+8462.20.20
+
+8462.31.00
+
+~~ Tidak dioperasikan eccara elektrik
++ Mesin pembuat ulir atau alur laionya
+
+- - Dioperasikan secara elektrik
+
+- - Tidak dioperasikan secara elektrik
+
+IMesin perkakas untuk menghaluskan, menajamkan,
+Imenggerinda, menggosok, mengasah, memoles atau
+Imerampunglcan logam atau cermet sceara lain dengan
+memakai bata gerinda, amplas atau produk pemoles,
+jselain mesin pemotong gir, penggerinds gir atau mesin
+juntuk merampungkan gir dari pos 84.61.
+
+- Mesin penggerinda permukaan clatar :
+
+Dikontrol secara numerik
+
+Lain-Lain
+
+- Mesin penggerinca lainnya :
+
+-- Mesin penggerinda centreless, dikontrol secara numerik
+
++ - Mesin penggerinda silindris iainnya, dikontrol secara
+Jaumerik:
+
+-- Lain-lain, dikontrol secara numerik,
+
+Lain-lai
+- = - Dioperasikan secara elektrik
+
+|. - Tidak dioperasikaan secara clektrik
+
+- Mesin penajam (perkakas atau gerinda pemotong) :
+
+Dikontrot secara numeri =
+
+-- + Mesin perkakas, dikontrol secara numerik, untuk
+menajamkan mata bor karbida dengan diameter tangkal
+tidak melebihi 3,175 mm, dilengkapi dengan Ieher tetap
+Idan mempunyai daya tidak melebihi 0,74 KW
+
+> Lain-lain:
+Lain-lain
+~ Dioperasikan secara clektrik
+- Tidak dtioperasikan secara elcktrik
+- Mesin penggosnk atau pengasah :
+
+Dioperasikan secara elektrik
+- Tidtk dioperasikan secara elektrik
++ Lain-tain :
+Dioperasikan secara clektrike
+‘Tidak diopcrasikan secara elektrik
+IMesin perkakas untuk mengetam, membentuk,
+menyerut, menggerek, memotong gir, menggerinda gir
+jatau merampungkan gir, menggergaji, memotong dan
+mesin perkakes lainnya yang bekerja dengan
+menghilangkan logam atau sermet, tidak dirinci atau
+termasuk dalam pos lainnya.
+
+- Mesin pembentuk atau penyerut :
+
+Dioperasikan secara elektrik
+
+- - Tidak dioperasikan secara elektrikt
+
+- Mesin penggerek
+
+Dioperasikan secara elektrik
+
+‘Tidak dioperasikan secara elektrik
+
+- Mesin pemotong gir, penggerinda gir atau perampung gic
+
+~ « Dioperasikan secara elektrik
+
+- - Tidak dioperasikan secara clektrik
+
+- Mesin penggergaji atau mesin pemotong =
+- - Dioperasikan secara elektrik
+
+- - Tidak dioperasikan secara elektrik
+
+- Lain-tain +
+
+Dioperasikan secara eleketrik :
+
+- Mesin pengetam
+
+Tidak dioperasikan secara elektrik :
+~ Mesin pengetan
++ Lain-lain
+Mesin perkakas (termasuk pengepres) untule
+mengerjakan logam dengan menempa, memalu atau
+mentmmbuk; mesin perkakas (termasuk pengepres)
+untuk mengerjakan logam dengan cara
+membengkokkan, melipat, meluruskan, memipihkan,
+/mengguating, melubangi atau menakile; pengepres
+juntuk mengerjakan logam atau karbids logam, tidak
+|dirinci diatas.
+- Mesin penempa atau penumbuk (termasuk pengepres)
+Idan mesin untuk memalu =
+~ + Dioperasikan secara elektrik
+- - Tidak dioperasikan secara clektrik
+
+Mesin pembengkok, pelipat, pelurus atau pemipit
+{tcrmasuk pengepres} :
+
+Dikontrol secara numerik
+Laindtain
+~ - Dioperasikan secara elektrile
+- Tidak dioperasikan secara clektrik
+~ Mesin penggunting (termasuk pengepres), selain
+kombinasi mesin pelubang dan penggunting :
+
+== Dikontrol secara numerile
+
+> Not electrically operated
+- Other threading or tapping machines +
+. - Electrically operated
+
+- - Not electrically operated
+
+means of grinding stones, abrasives or
+[polishing products, other than gear
+Jeutting, gear grinding or gear finishing
+machines of heading 84.61.
+
+- Flat-surtace grinding machines =
+|. - Numerically controlled
+. - Other
+- Other grinding machines :
+. - Centreless grinding machines,
+numerically controtled
+- - Other cylindrical grinding machines,
+numerically controtled
++ - Other, numerically controlled
+- - - Electrically operated
+
+~- Not electrically operated
+~ Sharpening (tool or cutter grinding)
+machines :
+- - Numerically controlled :
+- -- Machine tools, numerically controlled,
+for sharpening carbide drilling bits with a
+shank diameter not exceeding 3.175 mm,
+provided with fixed collets and having @
+power not exceeding 0.74 kW
+
+Other
+- Other
+Electrically operated
+Not electrically operated
+- Honing or lapping machines :
+- - Blectrically operated
+- - Not electrically operated
+
+Other :
+~ » Klectrically operated
+- - Not electrically operated
+/Machine-tools for planing, shaping,
+slotting, broaching, gear cutting, gear
+grinding or gear finishing, sawing, cutting,
+off and other machine-tools working by
+removing metal or cermets, not elsewhere
+specified or included.
+
+- Shaping or slotting machines
+
+- Electrically operated
+
+- Not electrically operated
+- Broaching machines :
++ Electrically operated
+= Not electrically operated
+- Gear cutting, gear grinding or gear
+finishing machines :
+}-- Electrically operated
+- Not electrically operated
+~ Sawing or cutting-off machines :
+ctrically operated
+- Not electrically operated
+- Other :
+- Electrically operated :
+Planing machines
+Other
+- Not electrically operated =
+Planing machines
+Other
+Machine-tools (including presses) for
+|working metal by forging, hammering or
+die-stamping; machine-tools (including
+presses) for working metal by bending,
+folding, straightening, flattening,
+‘shearing, punching or notching; presses
+for working metal or metal carbides, not
+specified above.
+- Forging or die-stamping machines
+including presses) and hammers :
++ Electrically operated
++ Not electrically operated
+- Bending, folding, straightening or flattening]
+machines (including presses) ;
+
+- - Numerically controtted
++ - Other =
+
+Blectrically operated
+
+Not electrically operated
+
+- Shearing machines (including presses),
+Jother than combined punching and shearing
+machines :
+
+~~ Numerically controlled
+
+5,0%
+5,0%
+
+5.0%
+5,0%
+5.0%
+50%
+50%
+
+50%
+5.0%
+
+5.0%
+
+5.0%
+
+5,0%
+5,0%
+
+5.0%
+5.0%
+
+5.0%
+5.0%
+
+5,0%
+5,0%
+
+5,0%
+5,0%
+5,0%
+5,0%
+5,0%
+5,0%
+5.0%
+5,0%
+
+5,0%
+5,0%
+
+5,0%
+5.0%
+
+15,0%
+
+5,0%
+15,0%
+
+5.0%
+
+www.peraturan.go.id

@@ -1,0 +1,79 @@
+- 37-
+
+PETUNJUK PENGISIAN
+
+Nomor (1) : diisi nomor surat pengajuan izin penggunaan Jaminan tertulis.
+
+Nomor (2) : diisi nama kota tempat surat pengajuan izin penggunaan
+Jaminan tertulis diterbitkan.
+
+Nomor (3) : diisi tanggal, bulan, dan tahun surat pengajuan izin
+penggunaan Jaminan tertulis.
+
+Nomor (4). : diisi jumlah lampiran surat pengajuan izin penggunaan
+Jaminan tertulis.
+
+Nomor (5) : diisi nama instansi/importir/perusahaan yang mengajukan
+permohonan izin penggunaan Jaminan tertulis.
+
+Nomor (6) : diisi Kepala Kantor Bea dan Cukai tempat pelaksanaan
+kegiatan kepabeanan dan cukai.
+
+Nomor (7) : diisinama kota tempat kantor Kantor Bea dan Cukai.
+
+Nomor (8) : diisi nama instansi/importir/pengusaha yang
+menandatangani surat pengajuan izin penggunaan Jaminan
+tertulis.
+
+Nomor (9) : diisi namajabatan instansi/importir/pengusaha yang
+menandatangani surat pengajuan izin penggunaan Jaminan
+tertulis.
+
+Nomor (10) : diisi nama kota tempat  instansi/importir/pengusaha
+berdomisili.
+
+Nomor (11) : diisi Nomor Pokok Wajib Pajak (NPWP)  instansi/
+importir/perusahaan.
+
+Nomor (12) : diisi nama perusahaan yang melakukan importasi
+
+Nomor (13) : diisi alamat lengkap instansi/importir/perusahaan yang
+melakukan importasi.
+
+Nomor (14) : diisi nomor telepon instansi/importir/perusahaan yang
+melakukan importasi.
+
+Nomor (15) : diisi alamat email instansi/importir/perusahaan yang
+melakukan importasi.
+
+Nomor (16) : diisi jumlah seluruh Pungutan Negara yang terutang (dengan
+angka).
+
+Nomor (17) : diisi jumlah seluruh Pungutan Negara yang terutang (dengan
+huruf).
+
+Nomor (18) : diisi kegiatan kepabeanan yang  dilakukan oleh
+instansi/importir/perusahaan yang menerbitkan Jaminan
+Tertulis. :
+Contoh: impor sementara, rush handling.
+
+Nomor (19) : diisijenis, nomor, tanggal, bulan, dan tahun dokumen sumber
+sebagai dasar diserahkannya Jaminan.
+
+Contoh: dalam hal instansi/importir/ perusahaan
+melakukan kegiatan impor sementara dokumen
+sumber: Izin impor sementara nomor
+
+1812/KM.4/2021 tanggal 18 Desember 2021
+Nomor pengajuan PIB: 070100-000001-20101226-
+000105.
+Nomor (20) : diisi nomor Jaminan tertulis yang telah diterbitkan.
+Nomor (21) : diisi tanggal, bulan, dan tahun Jaminan tertulis yang telah
+diterbitkan.
+Nomor (22) : diisi bukti identitas instansi/importir/perusahaan yang
+melakukan importasi.
+Nomor (23) : diisi bukti-bukti kontrak/kepemilikan barang impor.
+Nomor (24) : diisi data pendukung lainnya yang berkaitan dengan
+permohonan izin penggunaan Jaminan tertulis.
+
+OEE conou sot

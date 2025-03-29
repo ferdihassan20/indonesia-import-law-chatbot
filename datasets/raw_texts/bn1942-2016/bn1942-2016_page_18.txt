@@ -1,0 +1,57 @@
+2016, No.1942 -ig-
+
+PETUNJUK PENGISIAN
+
+Angka (1) : Diisi Direktorat yang tugas dan fungsinya di bidang identifikasi dan
+
+klasifikasi barang.
+
+Angka (2) : Diisi nama perusahaan yang mengajukan permohonan penetapan
+
+klasifikasi sebelum impor.
+Angka (3) =: Diisi nomor identitas untuk dapat melakukan kegiatan kepabeanan.
+
+Angka (4) : Diisi alamat perusahaan yang mengajukan permohonan penetapan
+
+klasifikasi sebelum impor.
+
+Angka (5) =: Diisi nomor surat permohonan perusahaan yang mengajukan
+
+permohonan penetapan klasifikasi sebelum impor.
+
+Angka (6) : Diisi tanggal surat permohonan perusahaan yang mengajukan
+
+permohonan penetapan klasifikasi sebelum impor.
+
+Angka (7) : Diisi hal surat permohonan perusahaan yang mengajukan
+
+permohonan penetapan klasifikasi sebelum impor.
+Angka (8) : Diisi nama jenis barang.
+
+Angka (9) : Diisi kesimpulan hasil penelitian permohonan perusahaan yang
+
+mengajukan permohonan penetapan klasifikasi sebelum impor.
+
+Angka (10) : Diisi tempat diterbitkannya surat pemberitahuan penolakan
+
+permohonan penetapan klasifikasi sebelum impor.
+
+Angka (11) : Diisi tanggal, bulan, dan tahun diterbitkannya surat pemberitahuan
+
+penolakan permohonan penetapan klasifikasi sebelum impor.
+
+Angka (12) : Diisi Kasubdit yang diberikan wewenang untuk menandatangani
+surat pemberitahuan penolakan permohonan  penetapan
+
+klasifikasi sebelum impor.
+Angka (13) : Diisi nama Kasubdit.
+
+Angka (14) : Diisi Nomor Identitas Pegawai (NIP) Kasubdit.
+
+MENTERI KEUANGAN
+REPUBLIK INDONESIA,
+ttd
+
+SRI MULYANI INDRAWATI
+
+www.peraturan.go.id

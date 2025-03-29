@@ -1,0 +1,127 @@
+417 2016, No.1704
+
+11 | 4011.63.90.00 | - - - Lain-lain
+12 | 4011.69.00.00 | - - Lain-lain
+- Lain-lain:
+
+4011.92
+
+- - Dari jenis yang digunakan untuk kendaraan dan
+mesin pertanian atau kehutanan:
+
+13
+
+4011.92.10.00
+
+- - - Dari jenis yang digunakan pada traktor, mesin dari
+pos 84.29 atau 84.30 atau wheel-barrows
+
+14
+
+4011.92.90.00
+
+- - - Lain-lain
+
+4011.93
+
+- - Dari jenis yang digunakan untuk kendaraan dan
+mesin konstruksi atau industri serta memiliki ukuran
+pelek tidak melebihi 61 cm:
+
+15
+
+4011.93.10.00
+
+- - - Dari jenis yang digunakan untuk traktor, mesin dari
+pos 84.29 atau 84.30, forklift, wheel-barrows atau
+kendaraan dan mesin industri lainnya
+
+16
+
+4011.93.90.00
+
+- - - Lain-lain
+
+4011.94
+
+- - Dari jenis yang digunakan untuk kendaraan dan
+mesin konstruksi atau industri serta memiliki ukuran
+pelek melebihi 61 cm:
+
+17
+
+4011.94.10.00
+
+- - - Dari jenis yang digunakan pada mesin dari pos 84.29
+atau 84.30
+
+18
+
+4011.94.20.00
+
+- - - Dari jenis yang digunakan untuk traktor, forklift atau
+kendaraan dan mesin industri lainnya
+
+19
+
+4011.94.90.00
+
+- - - Lain-lain
+
+4011.99
+
+- - Lain-lain:
+
+20
+
+4011.99.10.00
+
+- - - Dari jenis yang digunakan untuk kendaraan dari Bab
+87
+
+21
+
+4011.99.20.00
+
+- - - Dari jenis yang digunakan pada mesin dari pos 84.29
+atau 84.30
+
+22 | 4011.99.30.00 | - - - Lain-lain, dengan lebar melebihi 450 mm
+23 | 4011.99.90.00 | - - - Lain-lain
+40.13 Ban dalam, dari karet.
+4013.10 - Dari jenis yang digunakan untuk kendaraan bermotor
+
+(termasuk station wagon dan mobil balap), bus atau truk:
+
+- - Dari jenis yang digunakan untuk kendaraan bermotor:
+
+24
+
+4013.10.11.00
+
+- - - Cocok dipasang pada ban dengan lebar tidak
+melebihi 450 mm
+
+25
+
+4013.10.19.00
+
+- - - Cocok dipasang pada ban dengan lebar melebihi 450
+mm
+
+- - Dari jenis yang digunakan untuk bus atau truk:
+
+26
+
+4013.10.21.00
+
+- - - Cocok dipasang pada ban dengan lebar tidak
+melebihi 450 mm
+
+27
+
+4013.10.29.00
+
+- - - Cocok dipasang pada ban dengan lebar melebihi 450
+mm
+

@@ -1,0 +1,102 @@
+2022, No.1089 79.
+
+16. Diisi dengan tanggal kesiapan badan usaha untuk dilakukan
+pemeriksaan lokasi.
+
+Il, DAFTAR ISIAN TENTANG EKSISTENSI BADAN USAHA
+1, Diisi dengan data lokasi tempat pengolahan/pabrik badan usaha
+
+yang dimohonkan untuk mendapat fasilitas KITE, berupa:
+
+Alamat;
+
+Luas, dalam satuan meter persegi;
+
+Status kepemilikan/penguasaan, misal hak milik atau sewa;
+
+Jenis, nomor, dan tanggal bukti kepemilikan atau bukti
+
+penguasaan lokasi;
+
+Mulai, yaitu tanggal dimulainya waktu penguasaan atas lokasi,
+
+diisi dalam hal bukan hak milik;
+
+f. berakhir sampai dengan, yaitu tanggal berakhirnya waktu
+penguasaan atas lokasi, diisi dalam hal bukan hak milik.
+
+2. Diisi dengan data lokasi tempat pembongkaran dan/atau
+penyimpanan barang dan bahan yang dimohonkan untuk mendapat
+fasilitas KITE, berupa:
+
+Alamat;
+
+Luas, dalam satuan meter persegi;
+
+Status kepemilikan/penguasaan, misal hak milik atau sewa;
+
+Jenis, nomor, dan tanggal bukti kepemilikan atau bukti
+
+penguasaan lokasi;
+
+Mulai, yaitu tanggal dimulainya waktu penguasaan atas lokasi,
+
+diisi dalam hal bukan hak milik;
+
+f. Berakhir sampai dengan, yaitu tanggal berakhirnya waktu
+penguasaan atas lokasi, diisi dalam hal bukan hak milik.
+
+BO oP
+
+2
+
+PP
+
+9
+
+Ill. DAFTAR ISIAN TENTANG KEGIATAN PRODUKSI BADAN USAHA
+
+1. Diisi dengan data perizinan usaha di bidang industri berupa:
+a. instansi penerbit;
+
+b.  nomor;
+
+& ;
+
+d. bidang usaha industri.
+
+2. Diisi dengan daftar hasil produksi baik yang diekspor maupun dijual
+ke dalam negeri serta kapasitas produksi sesuai perizinan usaha di
+bidang industri, yang terdiri dari data berupa:
+
+a. uraian hasil produksi;
+
+b. jenis satuan; dan
+
+c. kapasitas produksi per tahun sesuai perizinan usaha di bidang
+industri.
+
+3. Diisi dengan daftar barang dan bahan yang akan diimpor atau
+dimasukkan dengan menggunakan fasilitas KITE, yang terdiri dari
+data berupa:
+
+a. Harmonized System Code (kode HS} barang dan bahan,
+sekurang-kurangnya menunjukkan klasifikasi dalam bentuk 8
+(delapan) digit Harmonized System Code (kode HS);
+
+b. uraian barang dan bahan, paling sedikit memuat deskripsi 8
+(delapan) digit Harmonized System Code (kode HS); dan
+
+ec. jenis satuan.
+
+4. Diisi dengan daftar hasil produksi yang diekspor, yang terdiri dari
+data berupa:
+
+a. Harmonized System Code (kode HS) hasil produksi, sekurang-
+kurangnya menunjukkan klasifikasi dalam bentuk 8 (delapan)
+digit Harmonized System Code (kode HS);
+
+b. uraian hasil produksi, paling sedikit memuat deskripsi 8
+(delapan) digit Harmonized System Code (kode HS);
+
+www.peraturan.go.id

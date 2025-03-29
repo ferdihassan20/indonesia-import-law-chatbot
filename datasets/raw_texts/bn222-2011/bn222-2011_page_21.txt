@@ -1,0 +1,81 @@
+21
+
+2011, No.222
+
+POS/SUB POS % BEA
+HEADING/ DESCRIPTION OF MASUK/ %
+NO. SUB URAIAN BARANG GOODS IMPORT
+HEADING DUTY
+103) (2) @) (4) (5)
+2917.37 --Dimetil tereftalat --Dimethyl terephtalate
+2917.39 --Lain-lain : --Other :
+44 | 2917.39.10.00 | ---Trioctyltrimellitate ---Trioctyltrimellitate 0
+_ . . . ---Other phthalic plasticizers
+45 2917.39.20.00 Ftalat peliat lainnya dan ester dari and esters of 0
+ftalat anhidrida phthalic anhydride
+Asam karboksilat dengan fungsi Carboxylic acids with
+29.18 . sae
+oksigen tamba- additional oxygen
+han dan anhidrida, halida, peroksida function and their
+dan asam anhydrides, halides,
+peroksinya; turunan halogenasi, peroxides and peroxyacids;
+sulfonasi, their halogenated,
+. . . . sulphonated, nitrated or
+nitrasi atau nitrosasinya. .
+nitrosated
+derivatives.
+-Asam karboksilat dengan fungsi fenol -Carboxylic acids with phenol
+tetapi function but
+. . . oa. without other oxygen
+tanpa fungsi oksigen lainnya, anhidrida, function, their
+halida, peroksida dan asam peroksinya anhydrides, halides,
+serta peroxides, peroxyacids
+turunannya : and their derivatives :
+46 | 2918.21.00.00 | --Asam salisilat dan garamnya --Salicylic acid and its salts 0
+--Asam o-asetilsalisilat, garam dan --o-Acetylsalicylic acid, its salts
+2918.22
+esternya and esters
+2918.23.00.00 | --Ester lainnya dari asam salisilat dan ~Other esters of salicylic acid
+47 and their 0
+garamnya salts
+29.29 Senyawa dengan fungsi nitrogen Compounds with other
+. lainnya. nitrogen function.
+48 | 2929.10.00.00 | -lsosianat -lsocyanates 0
+
+29.32
+
+Senyawa heterosiklik hanya dengan
+heteroatom
+
+oksigen.
+
+-Senyawa mengandung cincin furan
+tidak
+menyatu ( dihidrogenasi maupun tidak )
+dalam
+
+struktur :
+
+-Lakton :
+
+-Lain-lain :
+
+Heterocyclic
+with oxygen
+hetero-atom(s) only.
+
+compounds
+
+-Compounds containing an
+unfused furan ring
+
+( whether or not
+hydrogenated ) in the
+structure :
+
+-Lactones :
+
+-Other :
+
+www.djpp.kemenkumham.go.id
+

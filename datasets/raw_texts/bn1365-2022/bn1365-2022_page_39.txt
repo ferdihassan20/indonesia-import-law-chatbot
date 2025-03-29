@@ -1,0 +1,81 @@
+(5)
+
+(6)
+
+(7)
+
+(1)
+
+(2)
+
+39. 2022, No.1365
+
+Fasilitas KITE sesuai kewenangan yang diatur dalam
+standar operasional prosedur (SOP) atau sistem
+pengendalian internal (SPI); dan/atau
+
+b. setiap proses pencatatan ke dalam IT Inventory
+secara langsung memperbarui (refresh) basis data
+(database).
+
+Dalam hal barang yang diimpor dan/atau dimasukkan
+
+dengan fasilitas KITE, pemberian kode yang berbeda
+
+sebagaimana dimaksud pada ayat (1) huruf f harus:
+
+a. membedakan antara barang yang diimpor atau
+dimasukkan dengan fasilitas KITE dengan barang
+yang diimpor tanpa fasilitas KITE;
+
+b. mencatat sisa proses produksi (scrap/waste) yang
+timbul sesuai konversi; dan
+
+c. menggunakan kode yang berbeda untuk barang
+yang diimpor atau dimasukkan dengan fasilitas
+KITE Pembebasan atau KITE Pengembalian bagi
+Penerima Fasilitas KITE yang memiliki 2 (dua)
+Keputusan Menteri mengenai penetapan Penerima
+Fasilitas KITE.
+
+Dalam hal Penerima Fasilitas TPB merupakan kawasan
+berikat, sistem laporan pertanggungjawaban
+sebagaimana dimaksud pada ayat (1) huruf g merupakan
+sub sistem dari sistem informasi akuntansi yang akan
+menghasilkan laporan keuangan dan laporan lain yang
+dibutuhkan oleh pemangku kepentingan.
+
+Kriteria IT Inventory sebagaimana dimaksud pada ayat
+
+(1) disesuaikan dengan proses bisnis fasilitas TPB
+
+dan/atau fasilitas KITE.
+
+Pasal 59
+
+Dalam hal Penerima Fasilitas TPB dan/atau Penerima
+Fasilitas KITE telah mendayagunakan sistem pencatatan
+persediaan barang perusahaan, Penerima Fasilitas TPB
+dan/atau Penerima Fasilitas KITE wajib melakukan
+penyesuaian sesuai dengan kriteria IT Inventory
+sebagaimana dimaksud dalam Pasal 58 ayat (1).
+Penyesuaian sebagaimana dimaksud pada ayat (1) dapat
+dilakukan dengan membuat suatu antarmuka (interface)
+yang menampilkan laporan sebagaimana dimaksud
+dalam Pasal 58 ayat (1) huruf g untuk memberikan akses
+secara daring kepada Direktur yang mempunyai_ tugas
+dan fungsi di bidang fasilitas kepabeanan, Direktur yang
+mempunyai tugas dan fungsi di bidang pengawasan
+kepabeanan dan cukai, Kepala Kanwil, Kepala KPUBC,
+atau Kepala Kantor Pabean, dalam hal:
+
+a. sistem pencatatan persediaan barang perusahaan
+terintegrasi dengan induk dan/atau_ entitas
+perusahaan lain yang berbeda; dan/atau
+
+b. telah mendayagunakan sistem pencatatan
+persediaan barang perusahaan namun aksesnya
+tidak dapat langsung disesuaikan dengan elemen
+data sebagaimana dimaksud dalam Lampiran huruf
+H dan huruf I yang merupakan bagian tidak
+terpisahkan dari Peraturan Menteri ini.

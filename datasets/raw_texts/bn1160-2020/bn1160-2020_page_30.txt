@@ -1,0 +1,96 @@
+2020, No.1160
+
+-30-
+
+A. Alur Proses Penerbitan Rekomendasi BM DTP
+
+No Aktivitas
+
+Lembaga
+Pelaksana
+Verifikasi Industri
+
+INSW
+
+SIINAS
+
+Direktur
+Pembina Sektor
+Industri
+
+Waktu} Output
+
+1 |Perusahaan pemohon
+mengajukan
+permohonan SKVI
+kepada Lembaga
+Pelaksana Verifikasi
+Industri melalui
+SIINAS. Setelah
+melalui proses
+Verifikasi, Lembaga
+Pelaksana Verifikasi
+akan menyampaikan
+SKVI kepada
+perusahaan pemohon
+melalui SIINAS
+2 |Perusahaan pemohon
+mengajukan
+lpermohonan
+penerbitan
+rekomendasi BMDTP
+dengan melamprkan
+dokumen-dokumen
+terkait kepada
+Direktur Pembina
+Sektor Industri
+melalui SINSW yang
+terintegrasi dengan
+SIINAS
+3 |Direktur Pembina
+Sektor Industri
+melakukan
+penelaahan dokumen
+latas permohonan dari
+Jperusahaan pemohon
+
+SHeri! sev
+kerja
+
+4 |Jika terdapat
+kesalahsan atau
+ketidaklengkapan
+delam dokhumen yang
+diajukan oleh
+
+permohonan tersebut
+akan dikembalikan
+kepada perusahaan
+jpemohon melalui
+SIINas yang
+terintegrasi dengan
+SINSW untuk
+diperbaila
+5 |Jika dokhimen telah
+dianggap benar dan
+lengkap, Direktur
+Pembina Sektor
+Industriakan
+menyampaikan
+rekomendasi BMDTP
+kepada Kementerian
+Keuangan melalui
+SIINas yang
+terintegrasi dengan
+SINSW
+
+perusahaan pemohon,
+
+3 Han
+kerja
+
+Rekomen
+dasi BM
+DTP
+
+www.peraturan.go.id

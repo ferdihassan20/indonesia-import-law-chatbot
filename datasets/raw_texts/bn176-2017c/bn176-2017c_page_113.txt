@@ -1,0 +1,350 @@
+9035
+
+9036
+9037
+
+9038
+
+9039
+
+9040
+9041
+
+9050
+
+9051
+9052
+9053.
+9054
+
+9055
+9056
+
+9057
+
+9058
+
+9059
+9060
+
+9061
+
+9062
+
+9063
+9064
+
+9065
+9066
+
+9067
+
+9068
+
+8543.30.90
+18543.70
+
+8543.70.10
+18543.70.20
+
+8543.70.30
+
+8543.70.40
+
+8543.70.90
+8543.90
+8543.90.10
+
+8543.90.20
+8543.90.30
+
+8543.90.40
+8543.90.90
+
+-433-
+
+(4)
+
+Dari tabung sinar katoca
+
+Lain-lain :
+
+Dari tabung microwave
+
+Lain-lain
+
+[Dioda, transistor dan peralatan semi konduktor
+|somacam itu; peralatan sem{ konduktor peka cahaya,
+itermasuk sel fotovoltaik dirakit menjadi modul atau
+dibuat menjadi panel maupun tidak; light-emitting
+diode (LED); kristal piozocloktrik terpasang.
+
+(LED)
+- Transistor, selain transistor peka cahaya :
+
+> = Dengan tingkat disipasi kurang dari 1 W
+
+- - Lain-lain
+- Thyristor, dine dan tric, selain peralatan peka cabaya
+
+|. Peralatan semikonduktor peka eahaya, termasuk sel
+[panel maupun tidak; light-emitting diode (LED) =
+
+Light-emitting diode
+‘ota sel, termasuk foto dioda dan foto transistor >
+
+Sel fotovoltaik, tidak dirakit
+
+Sel fotovoltaik dirakit dalam modul atau dibuatkan
+pada panel
+
+Lain-lain
+
+Lain-lain
+
+- Peralatan semikonduktor lainnya
+
+- Kristal piezoelektrik terpasang,
+
+- Bagian
+
+\Sirkuit elektronik terpadu.
+
+- Sirkuit elektronik terpadu :
+
+- - Prosesor dan alat kontrol, digabung atau tidak dengan
+memori, konverter, logic circuit, amplifier, sirkuit jam dan
+jwakiu atau sirkuit lainnya
+
+- - Memori
+
+Amplifier
+
+Lain-lain
+
+- Bagian
+
+Mesin dan aparatus elektrik, mempunyai fungsi
+
+dalam Bab ini.
+
+- Akselerator partiket
+
+- Generator sinyal
+
++ Mesin ctan aparatus untuk penyepuhan dengan listrite
+lelektrolisis atau elektroforesis ;
+
+- - Perlengkapan pemrosesan basah untuk diaplikasi
+dengan pencelupan tarutan kimia atau: elektro kimi
+untuk kepertuan penghilangan behan pada substrat
+
+printed circuit board /printed wiring board maupun tidak
+
++ - Lain-lain
+
++ Mesin can aparatus tainnya :
+
+Electric fence energiser
+
+Aparntus pengendali jarak jauh, selain dari aparatus
+pengendali jarak jauh radio
+
+- - Mesin clektrik dengan fungs! penerjemahan atau
+Karns
+
+- - Perlengkapan untuk menghilangkan partikel debu atau
+menghilangkan muatan cktrostatik sclama pembuatan
+printed circuit board /printed wiring board atau printed
+Jcirenit assembly; mesin untuk memperbaiki material
+Jdengan sinar ultra-violet untuk pembuatan printed circuit
+board /printed wiring board atau printed circuit assembly
+
+~ Bagian :
+| - Dari barang pada subpos 8543.10 atau 8543.20
+
+- - Dari barang pada subpos 8543.30.20
+Dari barang pada subpos 8543.70.30
+
+- - Dari barang pada subpos 8543.70.40
+- - Lain-tain
+
+|- Dioda, selain dioda peka cahaya atau light-emitting diode
+
+fotovoltaik dirakit atau menjad! modul atau dibuat menjadi
+
+|tersendiri, tidak dirinci atau termasuk pada pos lainnya
+
+>Other
++ Parts
+
+- - Of cathode-ray tubes
+-- Other :
+
+- == Of microwave tubes
+- - = Other
+
+Diodes, transistors and similar
+semiconductor devices; photosensitive
+semiconductor devices, including
+photovoltaic cells whether or not
+‘Assembled in modules or made up into
+jpanols; light-emitting diodes (LED);
+mounted piezo-clectric crystals.
+
+- Diodes, other than photosensitive or light-
+emitting diodes (LED)
+
+- Transistors, other than photosensitive
+transistors :
+
+~~ With # dissipation rate of less than 1 W
+
+j-- Other
+- Thyristors, diaes and triacs, other than
+photosensitive devices
+
+- Photosensitive semiconductor devices,
+including photovoltaic cells whether or not
+jasscmbied in modules or made up into
+panels; light-emitting diodes {LED) =
+
+~~ Light-emitting diodes:
+
+~- Photocells, including photodiodes and
+phototransistors :
+
+~~~ Photovoltaic cells, not assembled
+Photovoltaic cells assembled in modules
+lor made up into panels
+
+|--- Other
+
+~~ Other
+
+- Other semiconductor devices
+
+- Mounted piezo-electric crystals
+
+- Parts
+
+Electronic integrated circuits.
+
+> Electronic integrated circuits ;
+
+- - Processors and controllers, whether oF
+not combined with memories, converters,
+Jogic circuits, amplifiers, clock and timing
+circuits, or other circuits
+
+|- - Memories
+
+-- Amplifiers
+
+|- - Other
+
+}- Parts
+
+Electrical machines and apparatus, having|
+individual functions, not specified or
+included elsewhere in this Chapter.
+
+- Particle accelerators
+
+- Signal generators
+
+- Machines and apparatus for electroplating,
+electrolysis or electrophoresis :
+
+|-- Wet processing equipment for the
+‘application by immersion of chemical or
+iclectrochemical solutions, whether or not for
+the purpose of removing material on printed
+circuit board /printed wiring board
+substrates
+
+-- Other
+
+- Other machines and apparatus
+
+~~ Electric fence energisers
+
+-- Remote control apparatus, other than
+radio remote control apparatus
+
+- - Electrical machines and apparatus with:
+translation or dictionary functions
+
+|-- Equipment for the removal of dust
+particles or the climination of electrostatic
+Ictaarge during the manufacture of printed
+circuit boards printed wiring boards or
+printed circuit assemblies; machines for
+Jcuring material by ultra-violet light for the
+manufacture of printed circuit
+
+boards/ printed wiring boards or printed
+circuit assemblies
+
+}-- Other
+| Parts :
+
+~- Of goods of subheading 8543.10 or
+18543,20
+
+- - Of gootls of subheading 8543.30.20
+- - OF goods of subheading 8543.70.30
+
+| - Of goods of subheading 8543.70.40
+-- Other
+
+2017, No.176
+
+0.0%
+
+0,0%
+
+0,0%
+0,0%
+
+0,0%
+0,0%
+5,0%
+0.0%
+0,0%
+0,0%
+
+0,0%
+0,0%
+
+0,0%
+
+0,0%
+0,0%
+0,0%
+5.0%
+
+5,0%
+5,0%
+
+50%
+
+5.0%
+
+5.0%
+5,0%
+
+0,0%
+
+5,0%
+
+5,0%
+5.0%
+
+5,0%
+5.0%
+
+5.0%
+5.0%
+
+www.peraturan.go.id

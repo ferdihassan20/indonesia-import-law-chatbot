@@ -1,0 +1,87 @@
+53 -
+
+PETUNJUK PENGISIAN
+
+Nomor (1) : diisi nama Kantor Wilayah Direktorat Jenderal Bea dan Cukai,
+nama dan tipe Kantor Pelayanan Utama Bea dan Cukai, atau
+nama dan tipe Kantor Pengawasan dan Pelayanan Bea dan
+
+Cukai.
+
+Nomor (2) : diisi alamat Kantor Bea dan Cukai.
+
+Nomor (3) : diisi nomor Surat Klaim Jaminan.
+
+Nomor (4) : diisi tanggal, bulan, dan tahun penerbitan Surat Klaim
+Jaminan.
+
+Nomor (5) : diisi jumlah lampiran.
+
+Nomor (6) : diisi nama Penjamin.
+
+Nomor (7) : diisi alamat Penjamin.
+
+Nomor (8) : diisi jenis Jaminan, misalnya Jaminan Bank, Customs Bond,
+
+Excise Bond, atau Jaminan Lembaga Pembiayaan Ekspor
+Indonesia, Jaminan Perusahaan, Jaminan Tertulis, atau
+Jaminan Aset Berwujud.
+
+Nomor (9) : diisi nomor Jaminan yang dilakukan klaim.
+
+Nomor (10) : diisi tanggal, bulan, dan tahun Jaminan yang akan dicairkan.
+
+Nomor (11) : diisi nama pihak yang dijamin (Terjamin)
+
+Nomor (12) : diisi Nomor Pokok Wajib Pajak (NPWP) pihak yang dijamin
+(Terjamin).
+
+Nomor (13) : diisi alamat lengkap pihak yang dijamin (Terjamin)
+Nomor (14) : diisi kegiatan kepabeanan dan/atau cukai yang dijamin.
+Nomor (15) : diisi jenis dokumen sumber yang menjadi dasar penyerahan
+
+Jaminan.
+
+Nomor (16) : diisi nomor dokumen sumber yang menjadi dasar penyerahan
+Jaminan.
+
+Nomor (17) : diisi tanggal dokumen sumber yang menjadi dasar penyerahan
+Jaminan.
+
+Nomor (18) : diisi Kode Billing untuk penyetoran penyelesaian klaim
+Jaminan.
+
+Nomor (19) : diisi jenis, nomor, tanggal, bulan, dan tahun dokumen dasar
+
+pembayaran sebagaimana yang dimaksud dalam peraturan
+kepabeanan mengenai tatacara pembayaran dan penyetoran
+Penerimaan Negara.
+
+Nomor (20) : diisi akun pembayaran penerimaan negara pada Kode Billing
+untuk penyetoran penyelesaian klaim Jaminan.
+
+Nomor (21) : diisi kode akun pembayaran Penerimaan Negara pada Kode
+Billing untuk penyetoran penyelesaian klaim Jaminan.
+
+Nomor (22) : diisi jumlah pembayaran Penerimaan Negara pada Kode Billing
+untuk penyetoran penyelesaian klaim Jaminan.
+
+Nomor (23) : diisi jumlah total pembayaran Penerimaan Negara pada setiap
+Kode Billing untuk penyetoran penyelesaian klaim Jaminan.
+
+Nomor (24) : diisi Kepala Kantor atau jabatan Pejabat Bea dan Cukai atas
+nama Kepala Kantor yang menandatangani Surat Klaim
+Jaminan.
+
+Nomor (25) : diisi nama Kepala Kantor atau nama Pejabat Bea dan Cukai
+atas nama Kepala Kantor yang menandatangani Surat Klaim
+Jaminan.
+
+Nomor (26) : diisi nama Kantor Wilayah Direktorat Jenderal Bea dan Cukai,
+Kantor Pelayanan Utama Bea dan Cukai, atau Kantor
+Pengawasan dan Pelayanan Bea dan Cukai.
+
+Nomor (27) : diisi nama pihak yang dijamin (Terjamin), sesuai dengan yang
+
+disebut dalam Jaminan yang dicairkan.
+cin Let neugore

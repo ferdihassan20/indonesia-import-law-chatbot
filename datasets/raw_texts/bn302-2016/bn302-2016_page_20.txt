@@ -1,0 +1,75 @@
+2016, No.302 -20-
+
+No Pos Tarif/ HS Uraian Kriteria Teknis
+8408.10 - Mesin penggerak kendaraan air:
+
+3 | ex. - - Dengan tenaga melebihi 22,38 kW
+8408. 10.20.00 tetapi tidak melebihi 100 kW
+8408.10.90 - - Lain-lain:
+
+4 | 8408.10,90,10 - - - Dengan tenaga melebihi 100 kw
+
+tetapi tidak melebihi 750 kw
+5. 8408.10.90.90 - - - Lain-lain
+8408.20 - Mesin dari jenis yang digunakan
+untuk penggerak kendaraan dari Bab
+87:
+- - Dirakit secara lengkap:
+- - - Lain-lain:
+
+8408.20.96 - - - - Dengan kapasitas silinder
+melebihi 3.500 cc:
+
+4 fex, J ----- Dengan kapasitas silinder tidak
+8408.20.96.10 melebihi 20.000 cc
+84.14 Pompa udara atau pompa vakum,
+
+kompresor udara atau kompresor gas
+dan kipas angin lainnya; hood
+ventilasi atau hood daur ulang yang
+digabung dengan kipas angin,
+dilengkapi dengan saringan maupun
+
+tidak.
+S| ex. - Kompresor udara diatas 30 HP
+8414.40.00.00
+84.17 Tungku dan oven industri atau
+Jaboratorium,termasuk incinerator,
+bukan listrik.
+
+6 | 8417.10.00.00 - Tungku dan oven untuk
+memanggang, melelehkan atau
+pengolahan panas lainnya untuk bijih,
+pirit atau logam
+
+84.18 Lemari pendingin, lemari pembeku
+dan perlengkapan pendingin atau
+pembeku lainnya, listrik atau lainnya;
+pompa panas selain mesin pengatur
+suhu udara dari pos 84.15.
+
+- Perlengkapan pendingin atau
+pembeku lainnya; pompa panas:
+
+8418.69 - - Lain-lain:
+- - - Water chiller dengan kapasitas
+pendinginan melebihi 21,10 kW:
+
+7_ | 8418.69.41.00 --- - Untuk mesin pengatur suhu
+
+84,22 Mesin pencuci piring; mesin untuk
+membersihkan atau mengeringkan
+botol atau kemasan lainnya; mesin
+untuk mengisi, menutup, menyegel
+atau memasang label pada botol,
+kaleng, kotak, kantong atau kemasan
+Jainnya; mesin untuk menutup
+dengan selaput pada botol, guci,
+tabung dan kemasan semacam itu;
+mesin pengepak atau pembungkus
+lainnya (termasuk mesin pembungkus
+heatshrink); mesin untuk mengaerasi
+minuman.
+
+8 8422.30.00,.00 - Mesin untuk mengisi, menutup,
+

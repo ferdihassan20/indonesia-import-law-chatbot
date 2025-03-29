@@ -1,0 +1,96 @@
+-207-
+
+2017, No.176
+
+Pos Tarif?
+Mee | ange Uraian Borang Description of Goods
+a) a wo a
+Tainan © Other :
+losi1.91 - - Produk dari ikan atau krustasea, molustea atau = Products of fish or crustaceans, molluscs
+invertebrata air lainnya; binatang mati dari Bab 3 : lor other aquatic invertebrates; dead animals
+lof Chapter 3 :
+582 |o5t1.91.10 ‘Telur dan sperma ~~ - Rocs and milt 5,0%
+583 [0511.91.20 ‘Telur artemia a ‘egg (Brine shrimp egg) 5,0%
+584 0511.91.30 Kulit ikan Fish Skin 5,0%
+585 [0511.91.90 --- Other 5,0%
+0511.99 -- Other :
+586 [0511.99.10 Mani dari binatang peliharaan |--- Domestic animal semen 0.0%
+887 |0511.99.20 ‘Telur ulat sutera 0.0%
+588 [0511.99.30 ‘Sponge alami 5.0%
+589 [0511.99.90 Lain-lain 5,0%
+}06.01 \Umbi, bonggol, akar berbonggol, batang dibawah tanah,
+tajuie dan alear tongkat, dorman, sedang tumbuh atau
+berbunga; tanaman dan akar chicory selain akar dari or in flower; chicory plants and roots
+[pos 12.12. jother than roots of heading 12.12.
+590 [0601.10.00 _|- Umbi, bonggol, akar berbonggol, batang dibawah tanah, |- Bulbs, tubers, tuberous reots, corms, 10,0%
+{ajuk dan akar tongkat, dorman crowns and rhizomes, dormant
+9601.20 - Umbi, bonggol, akar berbonggol, batang dibawah tanah, |- Bulbs, tubers, tuberous roots, corms,
+tajuk dan akar tongkat, sedang tumbub atau berbunga; — [crowns and rhizomes, in growth or in flower;
+tanaman dan akar chicory lchicory plants and roots ;
+591 [0601.20.10 |- - Tanaman Chicory - - Chicory plants 10.0%
+592 |0601.20.20 _|- - Akar chicory |- - Chicory roots 5.0%
+593 ]0601.20.90 |. - Lain-tain -- Other 10,0%
+J06.02 ‘Tanaman hidup lainaya (termasuk akarnya), potongan Other live plants (including their roots),
+dan cangkokan; sulur jamur. cuttings and slips; mushroom spawn,
+0602.10 - Potongan dan cangkokan tanpa akar - Unrooted cuttings and slips :
+594 [0602.10.10 |- - Angerek - - Of orchids, 20,0%
+595 ]0002.10.20 |-- Kayu karet + Of rubber trees 5,0%
+596 [0602.10.90 |-- Lain-lain - - Other 5,0%
+597 10602.20.00 |. Pohon, belukar dan semak, dicangkok atau tidak, yang |- Trees, shrubs and bushes, grafted or not, 5,0%
+buah atau bijinva dapat dimakan lof kinils which bear edible fruit or nuts
+598 [0602.30.00 _|- Rhododendron dan azalea.dicangkok atau tidak + Rhododencrons and azaleas, grafted or not 5.0%
+599 [0602.40.00 |- Mawar, dicangkok atau tidak Roses, gralted or not 5.0%
+0602.90 - Lain-lai - Other :
+600 0602.90.10 _]-- Potongan dan cangkokan anggrek yang berakar - - Rooted orchid cuttings and slips. 20.0%
+601 |0602.90.20 |. - Anakan anggrek -- Orchid seedlings 0,0%
+602 |0602.90.40 |. - Tunggul karut bertunas dari genus eve + Ducided stumps of the genus Hevea 5.0%
+603 [0602.90.50 |- - Anakan dari genus I/evew Secdilings of the genus Fevea 10,0%
+604 [0602.90.60 _|-- Tunas dari genus sfevea Hudwood of the genus Hevea 5,0%
+605 |0602.90.90 ]-- Lain-lain Other 10,0%
+06.03 Bunga dan kuncup bunga potong dari jenis yang cocok |Cut flowers and flower buds of a kind
+untuk Karangan bunga atau untuk keperluan pajangan, |suitable for bouquets or for ornamental
+lsegar, dikeringkan, dicelup, dikelantang, diresapi, atau | purposes, fresh, dried, dyed, bleached,
+Jdikerjakan secara Iain. jimpregnated or otherwise propared,
+Segue: - Fresh ;
+606 0603.11.00 Mawar ~ Roses, 20,0%
+607 [0603.12.00 Anyelir - Carnations 20,0%
+608 [0603.13.00 Anggrek - Orehiels 20,0%
+609 |0603.14.00 Krisan - Chrysanthemums. 20,0%
+610 0603.15.00 Lilies (Litho spp.) == Lilies (Lilien spp.) 20,0%
+611 |0603.19.00 Lain-tain + - Other 20,0%
+612 |0603.90.00 _|- Lain-tain - Other 20,0%
+06.04 Daun, dahan dan bagian lainnya daritanaman, tanpa _|[ Foliage, branches and other parts of
+/bunga atau kuncup bunga, dan rumput, lumut mosse _| plants, without flowers or flower buds,
+dan lumut lichen, dari jenis yang cocok untuk jand grasses, mosses and lichens, being
+/karangan bunga atau keperiuan pajangan, segar, goods of a kind suitable for bouquets or
+dikeringkan, dicelup, dikelantang, diresapi atau diolah | for ornamental purposes, fresh, dried,
+secara lain. dyed, bleached, impregnated or otherwise
+prepared.
+0604.20 Scgar : > Fresh :
+613 |004.20.10 Lumut mosse dan lumut lichen Mosses and lichens 5.0%
+614 0604.20.90 |. - Latin-tain -- Other 5.0%
+1060+.90 > bain-lain : Other :
+615 }0604.90.10 Lumut mosse dan lumut lichen - = Mosses and lichens 5,0%
+616 |0604.90.90 |- - Lain-lain - - Other 5.0%
+107.01 Kentang, segar atau dingin. Potatoes, fresh or chilled.
+617 0701.10.00 |. Bibit - Seed 0,0%
+(0701.90 + Lain-taie + - Other =
+618 [0701.90.10 Kentang untuk membual potato chips - + Chipping potatoes 20,0%
+619 [0701.90.90 |-- Lain-tain - - Other 20,0%
+620 }0702.00.00 |Tomat, segar atau dingin. ‘Tomatoes, fresh or chilled. 5,0%
+107.03 Bawang bombay, bawang merah, bawang putih, bawang |Onions, shallots, garlic, leeks and other
+bakung/perai dan sayuran sejenis lainnya, segar atau _|{alliaceous vegetables, fresh or chilled,
+[dingin.
+0709.10 - Bawang bombay dan bawang merah : + Onions and shallots =
+~~ Bawang bombs ~~ Onions :
+621 |0703,10.11 » Umbi untuk dibudidayakan Bulbs for propagation 0,0%
+622 |0703.10.19 Lain-tain Other 50%
+Bawang merah : Shallots
+623 |0703.10.21 - Umbi untuk dibudidayakan Bulbs for propagation 0,0%
+624 |0703.10.29  |--- Lain-lain - Other 20,0%
+(0703.20 Bawang putih = - Garlic =
+625 [0703.20.10 Umbi untuk dibudidayakan Bulbs for propagation 0,0%
+626 /0703,20,90 |. - Lain-tain Other 5,0%
+0703.90 ~ Bawang bakung/peral dan sayuran sejenis Lecks and other altiaceous vegetables
+
+www.peraturan.go.id

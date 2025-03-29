@@ -1,0 +1,112 @@
+2017, No.1848 _34-
+
+[ no | Pos TARIF/HS URAIAN BARANG KETERANGAN
+
+195 [8517.70.40 =~ Aerial atau antena dari jenis yang digunakan dengan
+laparatus untuk radio-telefoni atau radio-telegrafi
+
+es
+196 [8517.70.91 - - - Dari barang untuk saluran telefoni atau telegrafi | sis
+
+Bagian yang cocok untuk digunakan semata-mata atau
+terutama dengan aparatus dari pos 85.25 sampai dengan|
+35.28.
+
+- Antena dan reflektor antena dant segala jenis, bagian
+yang cocok untuk digunakan padanya:
+
+198 Jex. 8529.10.99 Lain-lain Hanya untuk 9.3 meter dual
+reflector earth station antenna
+
+= EA
+a
+&
+3
+
+Kawat diisolasi (termasuk dienamel atau dianodisasi),
+kabel (termasuk kabel koaksial), dan konduktor listrik|
+diisolasi lainnya, dilengkapi dengan konektor
+maupun tidak; kabel serat optik, dibuat dari serat
+berselubung tersendiri, dirakit dengan konduktor
+listrik atau dilengkapi dengan konektor maupun
+tidak.
+
+- Konduktor listrik lainnya, untuk voltase tidak melebihi
+1.000 V:
+
+=~ Dilengkapi dengan konektor:
+99 - - Lain-lain: Hanya untuk Kabel Power
+
+engan Konektor untuk mesin
+ATM
+
+(00 [8801.00. Balon udara dan balon udara yang dapat
+dikemudikan; pesawat layang, pesawat layang
+lgantung dan kendaraan udara lainnya tanpa tenaga
+penggerak.
+
+Kapal pesiar, kapal ekskursi, kapal ferl, kapal kargo,
+tongkang dan kendaraan air semacam itu untuk
+pengangkutan orang atau barang.
+
+> Kapal pesiar, kapal ekskursi dan kendaraan air
+semacam itu terutama dirancang untuk pengangkutan
+orang; kapal feri dari semua jenis:
+
+901. 10.60 > Dengan tonase kotor melebihi 900 tetapi tidak
+melebihi 1.000
+
+- - Dengan tonase kotor tidak melebihi 5.000
+
+201
+
+202,
+Hanya untuk kapal tanker gas
+carrier sampai dengan 3.500
+|CBM; Tanker asphalt dan Tanker
+kimia sampai dengan 5.000 DWT.
+
+90 1.20.70 - - Dengan tonase kotor melebihi 5.000 tetapi tidak
+melebihi 50.000
+
+9011.20.80
+
+01.30 = Kapal berpendingin, selain yang disebut dari subpos
+8901.20:
+
+205 [8901.30.70 -- Dengan tonase kotor melebihi 9.000 tetapi tidak
+
+melebihi 50.000
+
+lex 8901.20.50
+
+204
+
+|
+
+Ny
+Gy
+
+$901.90 > Kendaraan air lainnya untuk pengangkutan barang
+dan kendaraan air lainnya untuk pengangkutan orang
+dan barang:
+
+- - Bermotor:
+
+imelebihi 4.000.
+imelebihi 5.000.
+208 [8901.90.36 |- - - Dengan tonase kotor melebihi 5.000 tetapi tidak
+
+9.03 yacht dan kendaraan air lainnya untuk pelesir atau
+olah raga; sampan dan kano.
+
+209 [8903.99.00
+9.04 (Kapal penarik dan pendorong.
+
+- Dengan tonase kotor melebihi 26
+
+MELEE
+
+Fy
+
+www.peraturan.go.id

@@ -1,0 +1,411 @@
+Dengan Rahmat Tuhan Yang Maha Esa
+
+MENTERI PERDAGANGAN REPUBLIK INDONESIA,
+
+Menimbang:
+a. bahwa untuk memberikan kepastian berusaha, mempercepat pelayanan perizinan berusaha, dan mendukung pelaksanaan impor gula, perlu melakukan penyempurnaan terhadap ketentuan mengenai impor gula;
+b. bahwa Peraturan Menteri Perdagangan Nomor 117/M-DAG/PER/12/2015 tentang Ketentuan Impor Gula sudah tidak sesuai lagi dengan perkembangan hukum dan kebutuhan masyarakat sehingga perlu diganti;
+c. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a dan huruf b, perlu menetapkan Peraturan Menteri Perdagangan tentang Ketentuan Impor Gula;
+
+Mengingat:
+1. Pasal 17 ayat (3) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945;
+2. Undang-Undang Nomor 39 Tahun 2008 tentang Kementerian Negara;
+3. Peraturan Menteri Perdagangan Nomor 117/M-DAG/PER/12/2015 tentang Ketentuan Impor Gula;
+
+MEMUTUSKAN:
+Menetapkan: PERATURAN MENTERI PERDAGANGAN TENTANG KETENTUAN IMPOR GULA.
+
+Pasal 1
+Ketentuan dalam Peraturan ini mengatur tentang ketentuan impor gula.
+
+Pasal 2
+(1) Importir yang akan melakukan impor gula wajib memiliki Persetujuan Impor.
+(2) Persetujuan Impor sebagaimana dimaksud pada ayat (1) diterbitkan oleh Direktur Jenderal.
+
+Pasal 3
+(1) Importir wajib mengajukan permohonan Persetujuan Impor secara elektronik kepada Direktur Jenderal melalui laman http://inatrade.kemendag.go.id.
+(2) Permohonan sebagaimana dimaksud pada ayat (1) dilengkapi dengan dokumen persyaratan sebagai berikut:
+a. Nomor Induk Berusaha (NIB) yang berlaku sebagai API-U;
+b. Rekomendasi dari instansi yang berwenang;
+c. Surat penugasan dari menteri yang menyelenggarakan urusan pemerintahan di bidang BUMN.
+
+Pasal 4
+(1) Berdasarkan permohonan sebagaimana dimaksud dalam Pasal 3, Direktur Jenderal menerbitkan Persetujuan Impor dengan menggunakan Tanda Tangan Elektronik (Digital Signature) paling lama 3 (tiga) hari kerja terhitung sejak permohonan diterima secara lengkap dan benar.
+(2) Apabila permohonan sebagaimana dimaksud dalam Pasal 3 tidak lengkap dan/atau tidak benar, akan dilakukan penolakan secara elektronik paling lama 3 (tiga) hari kerja terhitung sejak tanggal permohonan diterima.
+
+Bagian Kedua
+Masa Berlaku Persetujuan Impor
+
+Pasal 5
+(1) Masa berlaku Persetujuan Impor yang diterbitkan bagi Importir sebagaimana dimaksud dalam Pasal 2 ayat (1) huruf a diberikan sesuai dengan masa berlaku Rekomendasi atau periode kebutuhan produksi yang tercantum dalam Rekomendasi.
+(2) Masa berlaku Persetujuan Impor yang diterbitkan bagi Importir sebagaimana dimaksud dalam Pasal 2 ayat (1) huruf b diberikan untuk periode paling lama 6 (enam) bulan.
+(3) Masa berlaku Persetujuan Impor yang diterbitkan bagi Importir sebagaimana dimaksud dalam Pasal 2 ayat (1) huruf c diberikan sesuai dengan masa berlaku Rekomendasi atau periode kebutuhan produksi yang tercantum dalam Rekomendasi.
+
+Bagian Ketiga
+Perubahan Persetujuan Impor
+
+Pasal 6
+(1) Dalam hal terdapat rencana perubahan mengenai alamat perusahaan, Pos Tarif/HS 8 (delapan) digit, jenis, jumlah, negara asal, dan/atau pelabuhan tujuan impor, Importir dapat mengajukan permohonan perubahan Persetujuan Impor.
+(2) Untuk memperoleh perubahan Persetujuan Impor sebagaimana dimaksud pada ayat (1), Importir harus mengajukan permohonan secara elektronik kepada Direktur Jenderal melalui laman http://inatrade.kemendag.go.id.
+
+Pasal 7
+(1) Berdasarkan permohonan sebagaimana dimaksud dalam Pasal 6, Direktur Jenderal menerbitkan perubahan Persetujuan Impor dengan menggunakan Tanda Tangan Elektronik (Digital Signature) paling lama 3 (tiga) hari kerja terhitung sejak permohonan diterima secara lengkap dan benar.
+(2) Dalam hal permohonan sebagaimana dimaksud pada ayat (1) tidak lengkap dan/atau tidak benar, akan dilakukan penolakan secara elektronik paling lama 3 (tiga) hari kerja terhitung sejak tanggal permohonan diterima.
+
+Bagian Keempat
+Data Persetujuan Impor
+
+Pasal 8
+(1) Persetujuan Impor sebagaimana dimaksud dalam Pasal 4 ayat (1) memuat data paling sedikit mengenai:
+a. nomor NIB yang berlaku sebagai API-U;
+b. nomor dan tanggal Rekomendasi, bagi Importir yang dipersyaratkan;
+c. nomor dan tanggal surat penugasan, bagi Importir yang dipersyaratkan;
+d. nama dan alamat Importir;
+e. Pos Tarif/HS;
+f. jenis gula;
+g. volume gula;
+h. negara asal;
+i. pelabuhan tujuan;
+j. nomor dan tanggal penerbitan Persetujuan Impor; dan
+k. masa berlaku Persetujuan Impor.
+
+Bagian Kelima
+Keadaan Kahar
+
+Pasal 9
+(1) Dalam hal terjadi keadaan kahar yang mengakibatkan sistem elektronik tidak berfungsi, pengajuan permohonan Persetujuan Impor sebagaimana dimaksud dalam Pasal 3, Pasal 4, dan Pasal 5 dapat disampaikan secara manual kepada Direktur Jenderal.
+(2) Berdasarkan permohonan sebagaimana dimaksud pada ayat (1), Direktur Jenderal menerbitkan:
+a. Persetujuan Impor; atau
+b. perubahan Persetujuan Impor,
+paling lama 3 (tiga) hari kerja terhitung sejak permohonan diterima secara lengkap dan benar.
+
+Pasal 10
+(1) Apabila permohonan sebagaimana dimaksud pada ayat (1) tidak lengkap dan/atau tidak benar, Direktur Jenderal menerbitkan surat penolakan paling lama 3 (tiga) hari kerja terhitung sejak tanggal permohonan diterima.
+
+Bagian Keenam
+Penerbitan Persetujuan Impor oleh Lembaga OSS
+
+Pasal 11
+(1) Dalam hal Lembaga OSS telah dapat memproses penerbitan perizinan berusaha bidang perdagangan yang diatur dalam Peraturan Menteri ini, Lembaga OSS untuk dan atas Menteri menerbitkan Persetujuan Impor dan perubahan Persetujuan Impor.
+
+Bagian Ketujuh
+Larangan
+
+Pasal 12
+(1) Importir sebagaimana dimaksud dalam Pasal 2 ayat (1) dan Pasal 5 yang telah mendapat Persetujuan Impor:
+a. hanya dapat mengimpor gula sebagai bahan baku atau bahan penolong untuk proses produksi; dan
+b. dilarang memperdagangkan dan/atau memindahtangankan gula yang diimpornya kepada pihak lain.
+
+(2) Importir sebagaimana dimaksud dalam Pasal 2 ayat (1) huruf a yang mengimpor Gula Kristal Mentah (Raw Sugar) untuk diolah menjadi Gula Kristal Rafinasi (Refined Sugar) dilarang memperdagangkan dan/atau mendistribusikan Gula Kristal Rafinasi (Refined Sugar) selain untuk kebutuhan industri.
+
+Bagian Kedelapan
+Verifikasi atau Penelusuran Teknis Impor
+
+Pasal 13
+(1) Setiap pelaksanaan impor Gula Kristal Mentah (Raw Sugar) harus terlebih dahulu dilakukan Verifikasi atau Penelusuran Teknis.
+(2) Verifikasi atau Penelusuran Teknis dilakukan oleh Surveyor yang ditetapkan oleh Menteri.
+
+Pasal 14
+(1) Untuk dapat ditetapkan sebagai Surveyor pelaksana Verifikasi atau Penelusuran Teknis, Surveyor harus memenuhi persyaratan sebagai berikut:
+a. memiliki Surat Izin Usaha Jasa Survey (SIUJS);
+b. telah diakreditasi sebagai lembaga inspeksi oleh Komite Akreditasi Nasional (KAN);
+c. surat pernyataan dari pemohon mengenai kompetensi terhadap ruang lingkup yang relevan;
+d. fotokopi NIB yang berlaku sebagai Tanda Daftar Perusahaan (TDP);
+e. fotokopi Nomor Pokok Wajib Pajak (NPWP);
+f. daftar tenaga ahli yang dilengkapi dengan Daftar Riwayat Hidup (DRH);
+g. memiliki pengalaman melaksanakan verifikasi atau penelusuran teknis barang;
+h. memiliki cabang atau perwakilan di dalam negeri dan di luar negeri;
+i. memiliki sistem teknologi informasi yang sesuai; dan
+j. mempunyai rekam jejak yang baik dalam hal pengelolaan kegiatan Verifikasi atau penelusuran teknis.
+
+Pasal 15
+(1) Verifikasi atau Penelusuran Teknis dilakukan terhadap impor Gula Kristal Mentah (Raw Sugar) yang meliputi data mengenai:
+a. Persetujuan Impor;
+b. jenis dan bilangan ICUMSA Gula Kristal Mentah (Raw Sugar);
+c. waktu pengapalan.
+(2) Hasil Verifikasi atau Penelusuran Teknis dituangkan dalam Laporan Surveyor (LS) yang harus memuat pernyataan kebenaran atas hasil Verifikasi atau penelusuran teknis.
+
+Bagian Kesembilan
+Laporan
+
+Pasal 16
+(1) Importir wajib menyampaikan laporan atas pelaksanaan impor gula baik terealisasi maupun tidak terealisasi dengan melampirkan dokumen pemberitahuan pabean impor.
+(2) Laporan disampaikan secara elektronik kepada Direktur Jenderal setiap bulan paling lambat tanggal 15 bulan berikutnya.
+(3) Dalam hal terjadi keadaan kahar, penyampaian laporan disampaikan secara manual kepada Direktur Jenderal.
+
+Pasal 17
+(1) Surveyor wajib menyampaikan laporan mengenai pelaksanaan Verifikasi atau Penelusuran Teknis setiap bulan paling lambat tanggal 15 bulan berikutnya.
+(2) Dalam hal terjadi keadaan kahar, penyampaian laporan disampaikan secara manual kepada Direktur Jenderal.
+
+Bagian Kesepuluh
+Sanksi
+
+Pasal 18
+(1) Importir yang tidak melaksanakan kewajiban penyampaian laporan dikenai sanksi administratif berupa pembekuan Persetujuan Impor.
+(2) Persetujuan Impor yang telah dibekukan dapat diaktifkan kembali apabila Importir menyampaikan laporan pelaksanaan impor dalam jangka waktu 1 (satu) bulan sejak tanggal pembekuan.
+(3) Pembekuan dan pengaktifan kembali dilakukan secara elektronik oleh sistem INATRADE.
+
+Pasal 19
+(1) Persetujuan Impor dicabut apabila Importir:
+a. terbukti mengubah data yang tercantum dalam Persetujuan Impor;
+b. terbukti melanggar ketentuan memperdagangkan dan/atau memindahtangankan gula;
+c. tidak menyampaikan laporan pelaksanaan impor dalam jangka waktu 1 (satu) bulan;
+d. terbukti menyampaikan data yang tidak benar;
+e. terbukti melakukan pelanggaran berdasarkan penilaian dan rekomendasi dari instansi teknis terkait; dan/atau
+f. dinyatakan bersalah berdasarkan putusan pengadilan.
+
+Pasal 20
+(1) Pencabutan Persetujuan Impor ditetapkan oleh Direktur Jenderal.
+(2) Berdasarkan pencabutan, dilakukan pencabutan secara elektronik oleh sistem INATRADE.
+
+Pasal 21
+Importir yang telah dikenai sanksi administratif sebagaimana dimaksud dalam Pasal 18 dan Pasal 19, tidak dapat mengajukan permohonan Persetujuan Impor selama 1 (satu) tahun sejak pencabutan.
+
+Ditetapkan di Jakarta pada tanggal 1 Januari 2020.
+
+MENTERI PERDAGANGAN REPUBLIK INDONESIA,
+
+[TTD]
+
+[Nama Pejabat]
+Dengan Rahmat Tuhan Yang Maha Esa
+
+Menimbang:
+1. bahwa untuk melaksanakan ketentuan Pasal 29 Peraturan Menteri Perdagangan, perlu menetapkan Peraturan Menteri Perdagangan tentang Ketentuan Impor Gula;
+2. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a, perlu menetapkan Peraturan Menteri Perdagangan.
+
+Mengingat:
+a. Undang-Undang Dasar Negara Republik Indonesia Tahun 1945;
+b. Undang-Undang Nomor 7 Tahun 2014 tentang Perdagangan (Lembaran Negara Republik Indonesia Tahun 2014 Nomor 45, Tambahan Lembaran Negara Republik Indonesia Nomor 5512);
+c. Peraturan Presiden Nomor 48 Tahun 2015 tentang Kementerian Perdagangan (Lembaran Negara Republik Indonesia Tahun 2015 Nomor 90);
+d. Peraturan Presiden Nomor 68 Tahun 2019 tentang Organisasi Kementerian Negara (Lembaran Negara Republik Indonesia Tahun 2019 Nomor 203);
+e. Peraturan Menteri Perdagangan Nomor 08/M-DAG/PER/2/2016 tentang Organisasi dan Tata Kerja Kementerian Perdagangan (Berita Negara Republik Indonesia Tahun 2016 Nomor 202);
+
+MEMUTUSKAN:
+Menetapkan: PERATURAN MENTERI PERDAGANGAN TENTANG KETENTUAN IMPOR GULA.
+
+BAB I
+KETENTUAN UMUM
+
+Pasal 1
+Dalam Peraturan Menteri ini yang dimaksud dengan:
+1. Gula adalah Gula Kristal Mentah (Raw Sugar), Gula Kristal Rafinasi (Refined Sugar), dan Gula Kristal Putih (Plantation White Sugar).
+2. Bilangan ICUMSA adalah suatu parameter nilai kemurnian yang berkaitan dengan warna gula yang diukur berdasarkan standar internasional, dalam satuan International Unit (IU).
+3. Nomor Induk Berusaha yang selanjutnya disingkat NIB adalah identitas Pelaku Usaha yang diterbitkan oleh Lembaga OSS setelah Pelaku Usaha melakukan Pendaftaran.
+
+Bagian Kedua
+Sanksi bagi Surveyor
+
+Pasal 32
+Penetapan sebagai Surveyor dicabut apabila Surveyor:
+a. melakukan pelanggaran dalam pelaksanaan kegiatan Verifikasi atau Penelusuran Teknis Impor Gula Kristal Mentah (Raw Sugar) sebagaimana dimaksud dalam Pasal 25; dan/atau
+b. tidak memenuhi ketentuan kewajiban pelaporan sebagaimana dimaksud dalam Pasal 27 sebanyak 2 (dua) kali.
+
+Pencabutan penetapan sebagai Surveyor sebagaimana dimaksud pada ayat (1) ditetapkan oleh Menteri.
+
+BAB IX
+PENGAWASAN
+
+Pasal 33
+Untuk kepentingan monitoring dan evaluasi pelaksanaan Peraturan Menteri ini, Menteri dapat membentuk Tim Monitoring dan Evaluasi Pelaksanaan Impor Gula yang beranggotakan kementerian/lembaga pemerintah nonkementerian terkait.
+
+Pelaksanaan tugas tim sebagaimana dimaksud pada ayat (1) dikoordinasikan oleh Direktur Jenderal.
+
+Pelaksanaan tugas tim sebagaimana dimaksud pada ayat (1) berdasarkan kewenangan kementerian/lembaga pemerintah nonkementerian sesuai dengan peraturan perundang-undangan.
+
+BAB X
+PENGECUALIAN
+
+Pasal 34
+Ketentuan dalam Peraturan Menteri ini tidak berlaku terhadap Impor Gula yang merupakan:
+a. barang ekspor yang ditolak oleh pembeli di luar negeri kemudian diimpor kembali dengan jumlah paling banyak sesuai dengan Pemberitahuan Ekspor Barang (PEB);
+b. barang pribadi penumpang atau awak sarana pengangkut dengan berat paling banyak 10 (sepuluh) kilogram;
+c. barang kiriman yang diimpor dengan berat paling banyak 10 (sepuluh) kilogram dengan menggunakan pesawat udara; dan/atau
+d. barang keperluan penelitian dan pengembangan ilmu pengetahuan.
+
+(2) Importir yang akan melakukan Impor Gula sebagaimana dimaksud pada ayat (1) huruf d harus mendapatkan surat keterangan dari Direktur Jenderal.
+
+(3) Untuk mendapatkan surat keterangan sebagaimana dimaksud pada ayat (2), Importir harus mengajukan permohonan kepada Direktur Jenderal melalui Unit Pelayanan Terpadu Perdagangan I (UPTP I), dengan melampirkan:
+a. Identitas pemohon;
+b. surat rekomendasi atau keterangan dari kementerian atau lembaga pemerintah nonkementerian terkait; dan
+c. surat pernyataan mandiri yang memuat keterangan mengenai kebenaran peruntukan Gula yang diimpor untuk keperluan penelitian dan pengembangan ilmu pengetahuan.
+
+(4) Surat keterangan sebagaimana dimaksud pada ayat (2) merupakan dokumen pelengkap pabean dalam penyelesaian kepabeanan di bidang Impor.
+
+Pasal 35
+Pengecualian dari ketentuan yang diatur dalam Peraturan Menteri ini harus dengan persetujuan Menteri setelah berkoordinasi dengan kementerian/lembaga pemerintah nonkementerian terkait.
+
+BAB XI
+LAIN-LAIN
+
+Pasal 36
+Ketentuan dalam Peraturan Menteri ini tetap berlaku untuk pemasukan Gula asal luar daerah pabean ke:
+a. Kawasan Berikat;
+b. Gudang Berikat;
+c. Tempat Penyelenggaraan Pameran Berikat;
+d. Toko Bebas Bea;
+e. Tempat Lelang Berikat;
+f. Kawasan Daur Ulang Berikat;
+g. Kawasan Perdagangan Bebas dan Pelabuhan Bebas; atau
+h. Kawasan Ekonomi Khusus.
+
+Pasal 37
+Ketentuan dalam Peraturan Menteri ini belum diberlakukan terhadap Gula asal luar daerah pabean yang masuk ke Pusat Logistik Berikat.
+
+Gula sebagaimana dimaksud pada ayat (1) yang akan dikeluarkan dari Pusat Logistik Berikat ke tempat lain dalam daerah pabean serta Kawasan dan Tempat sebagaimana dimaksud dalam Pasal 36, berlaku ketentuan dalam Peraturan Menteri ini.
+
+Gula Kristal Mentah (Raw Sugar) yang akan dikeluarkan dari Pusat Logistik Berikat sebagaimana dimaksud pada ayat (1) harus dilakukan Verifikasi atau Penelusuran Teknis sebagaimana dimaksud dalam Pasal 23 di Pusat Logistik Berikat.
+
+BAB XII
+KETENTUAN PERALIHAN
+
+Pasal 38
+Pada saat Peraturan Menteri ini mulai berlaku:
+a. Rekomendasi yang telah diterbitkan berdasarkan Peraturan Menteri Perdagangan Nomor 117/M-DAG/PER/12/2015 tentang Ketentuan Impor Gula yang belum diajukan Persetujuan Impornya dapat digunakan untuk 1 (satu) kali pengurusan Persetujuan Impor sampai dengan masa berlaku Rekomendasi berakhir.
+b. Rekomendasi yang telah diterbitkan berdasarkan Peraturan Menteri Perdagangan Nomor 117/M-DAG/PER/12/2015 tentang Ketentuan Impor Gula yang sedang dalam proses penerbitan Persetujuan Impor, proses penerbitan Persetujuan Impornya mengikuti ketentuan dalam Peraturan Menteri ini.
+c. Persetujuan Impor yang telah diterbitkan berdasarkan Peraturan Menteri Perdagangan Nomor 117/M-DAG/PER/12/2015 tentang Ketentuan Impor Gula dinyatakan tetap berlaku sampai masa berlakunya berakhir.
+d. LS yang telah diterbitkan berdasarkan Peraturan Menteri Perdagangan Nomor 117/M-DAG/PER/12/2015 tentang Ketentuan Impor Gula dinyatakan tetap berlaku sampai dengan diselesaikannya kewajiban Impor oleh Importir.
+e. Proses Verifikasi atau Penelusuran Teknis dan penerbitan LS oleh Surveyor untuk Impor yang menggunakan Persetujuan Impor yang diterbitkan berdasarkan Peraturan Menteri Perdagangan Nomor 117/M-DAG/PER/12/2015 tentang Ketentuan Impor Gula mengikuti ketentuan dalam Peraturan Menteri ini.
+f. Surveyor yang telah ditetapkan sebagai pelaksana Verifikasi atau Penelusuran Teknis berdasarkan Peraturan Menteri Perdagangan Nomor 117/M-DAG/PER/12/2015 tentang Ketentuan Impor Gula dinyatakan tetap dapat melaksanakan tugasnya paling lama 90 (sembilan puluh) hari sejak tanggal berlakunya Peraturan Menteri ini.
+
+Pasal 39
+Pada saat Peraturan Menteri ini mulai berlaku, Peraturan Menteri Perdagangan Nomor 117/M-DAG/PER/12/2015 tentang Ketentuan Impor Gula (Berita Negara Republik Indonesia Tahun 2015 Nomor 2000), dicabut dan dinyatakan tidak berlaku.
+
+BAB XIII
+KETENTUAN PENUTUP
+
+Pasal 40
+Peraturan Menteri ini mulai berlaku setelah 30 (tiga puluh) hari terhitung sejak tanggal diundangkan. Agar setiap orang mengetahuinya, memerintahkan pengundangan Peraturan Menteri ini dengan penempatannya dalam Berita Negara Republik Indonesia.
+
+Ditetapkan di Jakarta pada tanggal 17 Februari 2020
+
+MENTERI PERDAGANGAN REPUBLIK INDONESIA,
+
+ttd
+
+AGUS SUPARMANTO
+
+Diundangkan di Jakarta pada tanggal 18 Februari 2020
+
+DIREKTUR JENDERAL PERATURAN PERUNDANG-UNDANGAN KEMENTERIAN HUKUM DAN HAK ASASI MANUSIA REPUBLIK INDONESIA,
+
+ttd
+
+WIDODO EKATJAHJANA
+
+LAMPIRAN I
+
+PERATURAN MENTERI PERDAGANGAN REPUBLIK INDONESIA NOMOR 14 TAHUN 2020 TENTANG KETENTUAN IMPOR GULA
+
+JENIS GULA YANG DIATUR IMPORNYA
+- Gula tebu atau gula bit dan sukrosa murni kimiawi, dalam bentuk padat.
+- Gula kasar tidak mengandung tambahan bahan perasa atau pewarna:
+  - Gula tebu yang dirinci pada Catatan Subpos 2 pada Bab ini dengan ICUMSA 2.600 IU.
+  - Gula tebu lainnya.
+- Gula Kristal Putih (Plantation White Sugar) mengandung tambahan dengan ICUMSA antara 75 IU dan 200 IU.
+
+LAMPIRAN II
+
+PERATURAN MENTERI PERDAGANGAN REPUBLIK INDONESIA NOMOR 14 TAHUN 2020 TENTANG KETENTUAN IMPOR GULA
+
+JENIS GULA YANG DILARANG IMPORNYA
+No. Keterangan
+A. Gula Kristal Mentah/Gula Kasar (Raw Sugar)
+- Gula tebu atau gula bit dan sukrosa murni kimiawi, dalam bentuk padat.
+- Gula kasar tidak mengandung tambahan bahan perasa atau pewarna:
+  - Gula tebu yang dirinci pada Catatan Subpos 2 pada tabel ini dengan ICUMSA < 100 IU.
+  - Gula tebu lainnya.
+- Lain-lain:
+  - Gula dimurnikan dengan ICUMSA > 75 IU.
+  - Gula Kristal Putih (Plantation White Sugar) dengan ICUMSA < 81 IU atau dengan ICUMSA > 200 IU.
+
+MENTERI PERDAGANGAN REPUBLIK INDONESIA,
+
+ttd
+
+AGUS SUPARMANTO
+Dengan Rahmat Tuhan Yang Maha Esa
+
+IMPOR UNTUK PEMENUHAN STOK GULA DAN STABILISASI HARGA GULA
+
+Menimbang:
+1. Bahwa gula yang diimpor untuk pemenuhan stok gula nasional dan stabilisasi harga gula di dalam negeri sebagaimana dimaksud dalam Pasal 3 huruf b terdiri atas:
+   a. Gula Kristal Mentah (Raw Sugar) untuk diolah menjadi Gula Kristal Putih (Plantation White Sugar); dan
+   b. Gula Kristal Putih (Plantation White Sugar).
+   
+Mengingat:
+a. Undang-Undang Nomor 17 Tahun 2006 tentang Perdagangan;
+b. Peraturan Pemerintah Nomor 85 Tahun 2015 tentang Perdagangan Beras dan Gula;
+c. Peraturan Menteri Perdagangan Nomor 57 Tahun 2017 tentang Ketentuan Impor Gula;
+d. Peraturan Menteri Perdagangan Nomor 148 Tahun 2020 tentang Perubahan atas Peraturan Menteri Perdagangan Nomor 57 Tahun 2017 tentang Ketentuan Impor Gula.
+
+Memutuskan:
+Menetapkan:
+Pasal 6
+Gula yang diimpor untuk pemenuhan stok gula nasional dan stabilisasi harga gula di dalam negeri sebagaimana dimaksud dalam Pasal 3 huruf b terdiri atas:
+a. Gula Kristal Mentah (Raw Sugar) untuk diolah menjadi Gula Kristal Putih (Plantation White Sugar); dan
+b. Gula Kristal Putih (Plantation White Sugar).
+
+Pasal 7
+Gula sebagaimana dimaksud dalam Pasal 6 huruf a hanya dapat diimpor oleh Importir pemilik NIB yang berlaku sebagai API-P dan BUMN pemilik NIB yang berlaku sebagai API-P.
+
+Pasal 8
+Gula sebagaimana dimaksud dalam Pasal 6 huruf b hanya dapat diimpor oleh BUMN.
+
+Pasal 9
+Jumlah gula yang diimpor sebagaimana dimaksud dalam Pasal 7 dan Pasal 8 disepakati dalam rapat koordinasi antarkementerian/lembaga pemerintah nonkementerian terkait yang diselenggarakan oleh kementerian yang menyelenggarakan urusan pemerintahan di bidang perekonomian.
+
+Berdasarkan hasil rapat koordinasi sebagaimana dimaksud pada ayat (1), Menteri mengusulkan penugasan BUMN sebagaimana dimaksud dalam Pasal 8 kepada menteri yang menyelenggarakan urusan pemerintahan di bidang BUMN.
+
+BAB IV
+PERSETUJUAN IMPOR
+
+Bagian Kesatu
+Kewenangan
+
+Pasal 10
+Importir pemilik NIB yang berlaku sebagai API dapat mengimpor gula sebagaimana dimaksud dalam Pasal 3 setelah mendapat Persetujuan Impor dari Menteri. Menteri memberikan mandat kewenangan penerbitan Persetujuan Impor sebagaimana dimaksud pada ayat (1) kepada Direktur Jenderal.
+
+Persetujuan Impor sebagaimana dimaksud pada ayat (1) merupakan dokumen pelengkap pabean dalam penyelesaian kepabeanan di bidang impor.
+
+Bagian Kedua
+Persetujuan Impor untuk Industri
+
+Pasal 11
+Untuk mendapatkan Persetujuan Impor sebagaimana dimaksud dalam Pasal 10, Importir sebagaimana dimaksud dalam Pasal 5 ayat (1) huruf a harus mengajukan permohonan secara elektronik kepada Direktur Jenderal melalui laman http://inatrade.kemendag.go.id. Permohonan sebagaimana dimaksud pada ayat (1) dengan mengunggah dokumen persyaratan berupa:
+a. NIB yang berlaku sebagai API-P; dan
+b. Rekomendasi dari menteri yang menyelenggarakan urusan pemerintahan di bidang perindustrian atau pejabat yang ditunjuk, yang memuat data dan/atau keterangan paling sedikit mengenai jenis, volume, pos tarif/HS, negara asal, pelabuhan tujuan, dan masa berlaku Rekomendasi atau periode kebutuhan produksi.
+
+Untuk mendapatkan Persetujuan Impor gula sebagaimana dimaksud dalam Pasal 10, Importir sebagaimana dimaksud dalam Pasal 5 ayat (1) huruf b harus mengajukan permohonan secara elektronik kepada Direktur Jenderal melalui laman http://inatrade.kemendag.go.id. Permohonan sebagaimana dimaksud pada ayat (3) dengan mengunggah dokumen persyaratan berupa:
+a. NIB yang berlaku sebagai API-P;
+b. Surat Keputusan Menteri Keuangan tentang Pemberian Fasilitas Kemudahan Impor Tujuan Ekspor (KITE) atau Kawasan Berikat;
+c. Surat pernyataan yang menyatakan bahwa tidak akan memasukkan Gula Kristal Mentah (Raw Sugar) dan Gula Kristal Rafinasi (Refined Sugar) yang diimpornya ke pasar dalam negeri, dan akan menggunakannya sebagai bahan baku untuk proses produksi sendiri; dan
+d. Pemberitahuan Ekspor Barang (PEB) atas produk yang menggunakan gula impor sebagai bahan baku atau bahan penolongnya, bagi perusahaan yang telah mendapatkan Persetujuan Impor sebelumnya.
+
+Pasal 12
+Berdasarkan permohonan sebagaimana dimaksud dalam Pasal 11, Direktur Jenderal menerbitkan Persetujuan Impor dengan menggunakan Tanda Tangan Elektronik (Digital Signature) paling lama 3 (tiga) hari kerja terhitung sejak permohonan diterima secara lengkap dan benar.
+
+Apabila permohonan sebagaimana dimaksud dalam Pasal 11 tidak lengkap dan/atau tidak benar, akan dilakukan penolakan secara elektronik paling lama 3 (tiga) hari kerja terhitung sejak tanggal permohonan diterima.
+
+Bagian Ketiga
+Persetujuan Impor untuk Pemenuhan Stok Gula dan Stabilisasi Harga Gula
+
+Pasal 13
+Untuk mendapatkan Persetujuan Impor sebagaimana dimaksud dalam Pasal 10, Importir sebagaimana dimaksud dalam Pasal 7 harus mengajukan permohonan secara elektronik kepada Direktur Jenderal melalui laman http://inatrade.kemendag.go.id.
+
+Permohonan sebagaimana dimaksud pada ayat (1) dengan mengunggah dokumen persyaratan berupa NIB yang berlaku sebagai API-P.
+
+Selain mengunggah dokumen persyaratan sebagaimana dimaksud pada ayat (2), Importir juga harus mengunggah:
+a. Rekomendasi dari menteri yang menyelenggarakan urusan pemerintahan di bidang perindustrian atau pejabat yang ditunjuk;
+b. Rekomendasi dari menteri yang menyelenggarakan urusan pemerintahan di bidang BUMN atau pejabat yang ditunjuk;
+c. Rekomendasi dari menteri yang menyelenggarakan urusan pemerintahan di bidang pertanian atau pejabat yang ditunjuk; dan/atau
+d. Surat penugasan dari Menteri.
+
+Penentuan menteri yang berwenang menerbitkan Rekomendasi dalam rangka persyaratan Persetujuan Impor sebagaimana dimaksud pada ayat (3) huruf a, huruf b, huruf c, dan/atau surat penugasan sebagaimana dimaksud pada ayat (3) huruf d disepakati dalam rapat koordinasi antarkementerian/lembaga pemerintah nonkementerian terkait yang diselenggarakan oleh kementerian yang menyelenggarakan urusan pemerintahan di bidang perekonomian.
+
+Rekomendasi sebagaimana dimaksud pada ayat (3) huruf a, huruf b, dan huruf c memuat data dan/atau keterangan paling sedikit mengenai jenis, volume, pos tarif/HS, negara asal, pelabuhan tujuan, dan masa berlaku Rekomendasi atau periode kebutuhan produksi.
+
+Surat penugasan sebagaimana dimaksud pada ayat (3) huruf d memuat data dan/atau keterangan paling sedikit mengenai jenis, volume, pos tarif/HS, negara asal, pelabuhan tujuan, dan masa berlaku penugasan.
+
+Pasal 14
+Untuk mendapatkan Persetujuan Impor sebagaimana dimaksud dalam Pasal 10, BUMN sebagaimana dimaksud dalam Pasal 8 harus mengajukan permohonan secara elektronik kepada Direktur Jenderal melalui laman http://inatrade.kemendag.go.id. Permohonan sebagaimana dimaksud pada ayat (1) dengan mengunggah dokumen persyaratan berupa:

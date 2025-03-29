@@ -1,0 +1,54 @@
+POS TARIF/
+
+NO. HS URAIAN BARANG KETERANGAN
+(1) (2) (3) (4)
+dari karet, dioperasikan secara elektrik
+--Untuk mengerjakan plastik atau untuk pembuatan
+produk dari plastik, dioperasikan secara elektrik :
+171 |8477.80.31.00 |---Pengepres laminasi untuk pembuatan printed
+circuit board atau printed wiring board
+84.78 Mesin untuk mengolah atau membuat tembakau
+menjadi barang jadi, tidak dirinci atau terma-
+suk dalam pos lainnya dalam Bab ini.
+8478.10 -Mesin :
+172 |8478.10.10.00 |--Dioperasikan secara elektrik
+84.79 Mesin atau peralatan mekanis, mempunyai fungsi
+tersendiri, tidak dirinci atau termasuk dalam
+pos lainnya dalam Bab ini.
+8479.10 -Mesin untuk pekerjaan umum, bangunan atau
+sejenisnya :
+173 |8479.10.10.00 |--Dioperasikan secara elektrik
+8479.20 -Mesin untuk mengekstraksi atau mengolah lemak
+atau minyak hewani atau nabati tertentu :
+--Dioperasikan secara elektrik :
+174 |8479.20.11.00 |---Mesin untuk membuat minyak sawit
+8479.30 -Pengepres untuk pembuatan papan partikel atau
+papan bangunan berserat dari kayu atau dari
+bahan lignin lainnya dan mesin lainnya untuk
+mengerjakan kayu atau gabus :
+175 |8479.30.10.00 |--Dioperasikan secara elektrik
+176 |8479.50.00.00 |-Robot industri, tidak dirinci atau termasuk
+dalam pos lainnya
+-Mesin dan peralatan mekanis lainnya :
+8479.81 --Untuk mengerjakan logam, termasuk penggulung
+kawat listrik :
+177 |8479.81.10.00 |---Dioperasikan secara elektrik
+8479.82 --Mesin pencampur, pengadon, penghancur, peng-
+gerinda, penyaring, pengubah, penghomogen,
+pengemulsi atau pengaduk :
+178 |8479.82.10.00 |---Dioperasikan secara elektrik
+84.80 Kotak cetakan untuk pengecoran logam; dasar
+cetakan; pola cetakan; cetakan untuk logam
+(selain cetakan ingot), karbida logam, kaca,
+bahan mineral, karet atau plastik.
+8480.30 -Pola cetakan :
+179 |8480.30.90.00 |--Lain-lain
+-Cetakan untuk logam atau karbida logam :
+180 |8480.41.00.00 |--Tipe injeksi atau kompresi
+181 |8480.49.00.00 |--Lain-lain
+182 |8480.50.00.00 |-Cetakan untuk kaca
+
+-Cetakan untuk bahan karet atau plastik :
+
+15
+

@@ -1,0 +1,39 @@
+77. 2017, No.1894
+
+No Pos Tarif/HS Uraian Barang
+
+768. 8419.19.10 - - - Tipe rumah tangga
+
+769. 8419.19.90 - - - Lain-lain
+
+Mesin cuci tipe rumah tangga atau binatu,
+84.50 termasuk mesin yang dapat digunakan untuk
+mencuci dan mengeringkan.
+
+- Mesin, yang mempunyai kapasitas linen kering
+tidak melebihi 10 kg:
+
+8450.11 - - Mesin otomatis penuh:
+770. 8450.11.10 mot Mempunyat kapasitas linen kering tidak
+melebihi 6 kg
+771. 8450.11.90 - - - Lain-lain
+8450.12 -- Mesin Jainnya, dilengkapi dengan pengering
+sentrifugal:
+772. 8450.12.10 me Mempunyal kapasitas linen kering tidak
+melebihi 6 kg
+773. 8450.12.90 - - - Mempunyai kapasitas linen kering melebihi 6
+kg
+774. 8450.19 - - Lain-lain:
+- - - Dioperasikan secara elektrik:
+UTS. 8450.15.14 To Mempunyai kapasitas linen kering tidak
+melebihi 6 kg
+776. 8450.19.99 - - - - Mempunyai kapasitas linen kering melebihi 6
+
+kg
+
+Mesin pengolah data otomatis dan unitnya;
+84.71 pembaca magnetik atau optik, mesin untuk
+menyalin data pada media data dalam bentuk
+kode dan mesin untuk mengolah data tersebut,
+
+www.peraturan.go.id

@@ -1,0 +1,59 @@
+-19-
+
+71 7211.14.11.00 ---- Simpai dan strip, dengan Iebar tidak melebihi
+400 mm
+72 | 7211.14.12.00 - - - - Bergelombang, mengandung karbon kurang
+dari 0,6% menurut beratnya
+73 7211.14.19.00 - -- - Lain-lain
+- - - Dengan ketebalan lebih dari 10 mm:
+7A | 7211.14.21.00 ----Simpai dan strip, dengan lebar tidak melebihi
+400 mm
+75 | 7211.14.22.00 ---- Bergelombang, mengandung karbon kurang
+dari 0,6% menurut beratnya
+76 | 7211.14.29.00 - - -- Lain-lain
+7211.19 - - Lain-lain:
+- - - Dengan ketebalan 2 mm atau lebih tetapi
+kurang dari 4,75 mm:
+77 =| '7211.19.11.00 ----Simpai dan strip, dengan lebar tidak melebihi
+400 mm
+78 | 7211.19.12.00 - - - - Bergelombang, mengandung karbon kurang
+dari 0,6% menurut beratnya
+79 7211.19.19.00 - --- Lain-lain
+- - - Dengan ketebalan kurang dari 2 mm:
+80 | 7211.19.21.00 - - -- Simpai dan strip, dengan lebar tidak melebihi
+400 mm
+81 7211.19.22.00 - -- - Bergelombang, mengandung karbon kurang
+dari 0,6% menurut beratnya
+82 7211.19.23.00 ---- Lain-lain, dengan ketebalan 0,17 mm atau
+kurang
+83 | 7211.19.29.00 - - - - Lain-lain
+- Tidak dikerjakan lebih lanjut selain dicanai dingin
+(cold-reduced):
+7211.23 - - Mengandung karbon kurang dari 0,25% menurut
+beratnya:
+84 7211.23.10.00 - - - Bergelombang
+85 | 7211.23.20.00 - - - Simpai dan strip, dengan lebar tidak melebihi
+400 mm
+86 7211.23.30.00 - - - Lain-lain, dengan ketebalan 0,17 mm atau
+kurang
+7211.23.90 - - - Lain-lain:
+87 | 7211.23.90.10 - - - - Dengan ketebalan lebih dari 40 mm
+88 7211.23.90.90 - - - - Lain-lain
+7211.29 - - Lain-lain:
+89 | 7211.29.10.00 - - - Bergelombang
+90 | 7211.29.20.00 - - - Simpai dan strip, dengan lebar tidak melebihi
+400 mm
+91 7211.29.30.00 - - - Lain-lain, dengan ketebalan 0,17 mm atau
+kurang
+92 | 7211.29.90.00 - - - Lain-lain
+7211.90 - Lain-lain:
+93 | 7211.90.10.00 - - Simpai dan strip, dengan lebar tidak melebihi 400
+mm
+94 | 7211.90.20.00 - - Bergelombang, mengandung karbon kurang dari
+
+0,6% menurut beratnya
+
+www.peraturan.go.id
+
+2016, No. 2091
+

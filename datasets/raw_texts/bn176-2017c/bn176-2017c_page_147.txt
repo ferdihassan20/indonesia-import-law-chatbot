@@ -1,0 +1,389 @@
+-467-
+
+10363
+10364
+10365,
+
+10366
+
+10367
+10368
+
+10269
+
+10371
+10372
+
+10973,
+10374
+
+10375
+10376
+
+10377
+10378
+
+10379
+10380
+10381
+10382
+
+10383,
+
+10384
+
+10385
+
+10386
+10387
+
+10388
+
+10389
+
+10390
+
+10391
+10392
+10393
+
+(2)
+9027.50.20
+9027.80
+9027.80, 10
+9027.80.30
+9027.80.40
+9027.90
+19027,90, 10
+
+\0027,90.91
+
+19027.90.99
+190.28
+
+9028.10
+9028.10.10
+
+9028.10.90
+9028.20
+9028.20.20
+190028.20.90
+9028.30
+9028.30.10
+9028.30.90
+9028.90
+9028.90.10
+9028.90.90
+90.29
+
+}9029.10
+
+19029.10.20
+19029.10.90
+}9029.20
+
+9029.20.10
+19029,20.20
+19029,20,90
+19029.90
+
+9029.90.10
+9029.90.20
+
+190.30
+
+9030.10.00
+
+19030 .20.00
+
+19030 .31.00
+19030.32.00
+
+}9030.33
+19030.33.10
+
+9030.33.20
+
+9030.33.30
+
+9030.33.90
+9030.39.00
+9030.40.00
+
+(3)
+>= Tidak dioperasikan secara elektrik
+~ Instrumen dan aparatus lainnya :
+~~ Pengukur pembukaan
+- - Lain-lain, dioperasikan secara elcktrik
+- - Lain-lain, tidak dioperasikan secara elektrik
+} Mikrotom; bagian dan eksesori
+- - Bogian dan aksesori termasuk printed circuit assembly
+juntukx produk dari pos 90.27, selain untuk aparatus
+Janalisa gas atau asap dan mikrotom:
+
+- Lain-tain :
+Dioperasikan secars elektrik:
+
+Lain-lain
+
+lPengukur pasokan atau produksi gas, cairan atau
+listrik, termasuk pengukur kalibrasinya.
+
+- Pengukur gas :
+| - Pengukur gas dari jenis yang dipasang pada kemasan
+gas
+
+= Laird
+- Pengnkur cairan :
+
+Pengukur air
+
+Lain-lain,
+
+- Pengukur listrik :
+
+Pengukur kilowatt-hour (Kwh)
+
+> Lain-lain
+
+~ Bagian dan aksesort :
+
+Rumah atau bod! pengukur air
+
+- - Lain-lain
+
+\Ponghitung putaran, penghitung produksl, taksimeter,
+\pengular jarak, pedometer dan sejenisnya; indikator
+‘kecepatan dan takometer, selain barang dari pos 90.14
+jatau 90.15; stroboskop.
+
+- Penghitung putaran, penghitung produksi, taksimeter,
+pengukur jarak, pedometer dan sejenisnya :
+
+}-< Taksimeter
+Lain-lain
+- tndikator kecepatan dan takometer; stroboskop =
+
+- - Speometer untuk kendaraan bermotor
+- - Takometer untuk kendaraan bermotor
+
+Lain-lain
+
+- Bagian dan aksesori :
+
+- - Dari barung pada subpos 9029.10; dari stroboskop
+[pada subpos 9029.20
+
+- - Dari barang lainnya pada subpos 9029.20
+
+JOscilloscope, penganalisa spektrum dan instramen
+iserta aparatus lainaya untuk mengukur atau
+memeriksa kuuntitas elektrik, tidak termasuk
+|pengukar dari pos 90.28; instramen dan aparatus
+juntule mengulur atau mendeteksi sinar alfa, beta,
+gamma, sinar X, kosmik atau radiasi ionisasi lainnya.
+
+- Instrumen dan aparatus untuk mengukur alau
+mendeteksi radiasi ionisasi
+
+- Oscittoscope dan oscillograph
+- Instrumen dan aparatus lainnya, untuk mengukur atau
+Imeneriksa voltase, arus, resisiansi atau daya
+
+- - Multimeter tanpa peralatan perekam
+
+|- - Multimeter dengan peralatan perekarm
+
+Lain-lain, tanpa peralatan perekam >
+
+Instrumen dan aparatus untuk mengukur atau
+menceteksi voltase, arus, resistansi atau daya pada
+printed circuit board/printed wiring board atau printed
+circuit assembly
+
+- = - Instrumen dan aparatus pengukur impedansi yang
+dirancang untuk memberikan peringatan visual dan/atau
+jaudio dari kondisi pengosongan clektrostatik yang dapat
+merusnk sirkuit clektronik; aparatus untuk uji
+perlengkapan kontrol elektrostatik dan peralatan/fixture
+Jgrounding clektrostatik
+
+| - - Ammeter dan voltmeter untuk kendaraan bermotor
+
+--- Lain-lain
+. - Lain-lain, dengan peralitan perekam
+
+- Instrumen dan aparatus lainnva, dirancang secara
+khusus untuk telekomunikasi (misalnya, cross-talk meter,
+instrumen pengukur penguatan, pengukur faktor distorsi,
+psophometer)
+
+2017, No.176
+
+- Other instruments and apparatus ;
+-- Exposure meters
+
+= Other, electrically operated
+
++ - Other, not electrically operated
+
++ Microtomes; parts and accessories :
+
+-- Parts and accessories, including printed
+circuit assemblies for products of heading
+190.27, other than for gas or smoke analysis
+lapparatus or microtomes
+
+|- - Other :
+
+~~~ Blectrically operated
+
+-+- Other
+
+(Gas, liquid or electricity supply or
+production meters, including calibrating
+‘meters therefor.
+
+}- Gas meters:
+
+- - Gas meters of a kind mounted on gas
+containers
+
+-- Other
+
+- Liquid meters :
+
+- - Water meters
+
+~~ Other
+
++ Electricity meters :
+
+-- Kilowati-hour meters
+
+- - Other
+
+» Parts and accessories :
+
+-- Water meter housings or bodies
+
+- - Other
+
+Revolution counters, production counters,
+taximeters, mileometers, pedometers and
+\the like; speed indicators and
+tachometers, other than those of heading
+190.14 oF 90.15; stroboscopes.
+
+- Revolution counters, production counters,
+taximeters, milcometers, pedometers and the
+hike :
+
+- Speed indicators and tachometers;
+
+stroboscopes
+- - Speedometers for motor vehicles
+
+~~ Tachometers for motor vehicles
+
+- - Other
+
+- Parts and accessories :
+
+| - Of goods of subheading 9029.10; of
+[stroboscopes of subheading 9029.20
+
+- - Of other goods of subheading 9029.20
+
+(Oscilloscopes, spectrum analysers and
+other instruments and apparatus for
+imensuring or checking electrical
+quantities, excluding meters of heading
+90.28; instruments and apparatus for
+measuring or detecting alpha, bets,
+gamma, X-ray, cosmic or other ionising
+radiations.
+
+- Instruments and apparatus for measuring
+lor detecting ionising radiations.
+
+~ Oscilloscopes and oseiltographs
+
+- Other instruments and apparatus, for
+measuring or checking voltage, current,
+resistance or power >
+
+- - Multimeters without a recording device
+
+-- Multimeters with a recording device
+
+- - Other, without # recording device ;
+
+-- - Instruments and apparatus for
+measuring or checking voltage, current,
+resistance or power on printed cireuit
+boards/printed wiring boars or printed
+circuit assemblics
+
+- - - Impedance-measuring instruments and
+Japparatus designed to provide visural ancl for
+laudlible warning of electrostatic discharge
+conditions that can damage electronic
+
+circuits; apparatus for (esting clectrostatic
+Jcontrol equipment and electrostatic
+|grounding devices/ fixtures.
+
+|. - - Ammeters and voltmeters for motor
+vehicles
+
+- = - Other
+
+- - Other, with a recording device
+
+- Other instruments and apparatus,
+specially designed for felecommunications:
+\for example, cross-talk meters, gain
+measuring instruments, «tistortion factor
+meters, psophometers)
+
+5.0%
+5,0%
+
+5,0%
+5.0%
+
+15,0%
+5.0%
+
+15,0%
+5,0%
+
+5,0%
+10,0%
+
+5.0%
+5.0%
+
+5.0%
+5.0%
+5,0%
+5,0%
+
+5.0%
+
+5.0%
+
+5.0%
+50%
+
+50%
+
+5.0%
+
+5.0%
+
+5,0%
+5,0%
+
+www.peraturan.go.id

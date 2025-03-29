@@ -1,0 +1,75 @@
+31 2019, No. 1290
+
+Pos .
+rarity i
+
+- - - Karpet penutup lantai dari jenis yang digunakan
+5703.90.22 | untuk kendaraan bermotor pada pos 87.02, 87.03 or
+87.04
+
+5703.90.29
+po baindtains
+
+5703.90.91 - - - Keset lantai dari jenis yang digunakan untuk
+bias kendaraan bermotor dari pos 87.02, 87.03 atau 87.04
+
+5703.90.92 | - -- Babut untuk sembahyang
+- -- Karpet penutup lantai dari jenis yang digunakan
+
+5703.90.93 | untuk kendaraan bermotor pada pos 87.02, 87.03 or
+87.04
+
+S [5703.50.99
+
+Karpet dan penutup lantai tekstil lainnya, dari kain
+kempa, tidak berumbai atau tidak dibentuk flock,
+sudah jadi maupun belum.
+
+- Ubin, mempunyai luas permukaan maksimum 0,3 m?
+
+- Ubin, mempunyai luas permukaan maksimum lebih dari
+2 )
+S7OS28G0 0,3 m2 tetapi tidak melebihi 1 m2
+
+[s7.0s | Karpet dan penutup lantai tekstil lainnya, sudah jadi
+maupun belum.
+po Darikapas:
+
+5705.00.19 - - Lain-lain
+~ Dari serat jute :
+
+- - Penutup lantai bukan tenunan, dari jenis yang
+5705.00.21 | digunakan untuk kendaraan bermotor dari pos 87.02,
+87.03 atau 87.04
+
+5705.00.29
+
+Po ainda
+- - Babut untuk sembahyang
+- - Penutup lantai bukan tenunan, dari jenis yang
+5705.00.92 | digunakan untuk kendaraan bermotor dari pos 87.02,
+87.03 atau 87.04
+
+5705.00.99
+
+Kain tenunan berbulu dan kain chenille, selain kain
+dari pos 58.02 atau 58.06.
+{| ——«| 5801.10 _| - Dari wol atau bulu hewan halus :
+
+263
+26
+265
+266
+267
+26
+269
+270
+271
+2
+273
+274
+27
+277
+27
+
+www.peraturan.go.id

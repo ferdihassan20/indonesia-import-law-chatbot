@@ -1,0 +1,11 @@
+2019, No.1672
+
+-22-
+Nomor (20) : Diisi nomor Bukti Penerimaan Negara.
+Nomor (21) ; Diisi tanggal Bukti Penerimaan Negara.
+Nomor (22) ; Diisi nomor pemberitahuan pabean impor saat diimpor.
+Nomor (23): Diisi tanggal diterbitkannya pemberitahuan pabean impor saat
+
+diimpor.
+
+www.peraturan.go.id

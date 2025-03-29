@@ -1,0 +1,138 @@
+-283-
+
+Uraian Barang
+| 3)
+3538 [3926.10.00 | Perlengkapan kantor atau sekolah F Olfice or schoo! supplies
+3926.20 |. Piakaian dan aksesori pakaian (termasuk sarung tangan, |- Articles of apparel and clothing accessories
+mitten dan mity : (including gloves, mittens and mitts) :
+3599 ]3926.20.60 |. - Pakaian yang digunakan untuk pelindung dari zat - Articles of apparel used far protection
+imi, radiasi atau api irom chemical substances, radiation or fire
+3540 |3926.2090 |. - Lain-lain. |- - Other
+3541 1926.30.00 |- Alnt kelengkapan untuk perabotan, conchwork atau - Fittings for furniture, coachwork or the like
+sejenisnya
+3542 |3926.40.00 _ |- Patung dan barang pajangan lainnya |- Statuettes and other ornamental articles
+3926.90 | Lain-tain ~ other
+3543 |3920.90.10 Pengapung untuk jaring penangkap iken ~~ Floats for fishing nets
+3544 |3926.90.20  |-- Kipas dan handscreea, bingkai dan gagangnya. serta | - Pans and handscreens, frames and
+bagian: bagiannya handles therefor, and parts thereof
++ - Darang higients, medis dan bedah : -- Hygienic, medical and surgical articles :
+3545 9926.90.32 ]-- - Cetakan plastik untuk membunt gigi palsu Plastic moulds with denture imprints
+3546 [3926.90.39 ~ Laintain Other
+Alat keselamatan dan pelindung : « Safety and protective devices
+3547 [3926.90.41 ~ Tameng polisi Police shields
+3548 1926.90.42 |--» Masker pelindung untuk dipakai dalam mengelas dan_|- - - Protective masks for use in welding and
+pekerjaan semacam itu similar work
+3539 |3920.90.44 Bantalan keselamatan untuk perlindungan orang yang |-- - Life saving cushions for the protection off
+tuh dari ketinggian persons falling from heights
+3550 [3926.90.49 |--- Lain-lain Other
+Barang industri : - Articles for industrial uses :
+3551 |3026.90.53 - Ban atau belting penggerak atau pengangkut ‘Transmission or conveyor belts or
+3552 |3926.90.55__ |- - - Kait plastik berbentuk J atau blok ikatan untuk - - - Plastic J-hooks or bunch blocks for
+detonator detonators
+3553 [3926.90.59 |- - - Lain-lain Other
+3354 [3926.90.60 |-- Tempat makanan unggas ~ Poultry feeders
+3585 [3926.90.70 _|-- Lapisan untuk pakalan atau aksesori pakaian ~~ Padding for articles of apparel or clothing.
+accessories
+-- Kartu untuk perhiasan atau barang perbiasan pribadi |-- Cards for jewellery or small objects of
+kecit; manik-manik; talt sepaitur personat adornment, beads; shoe fasts
+3556 [3926.90.81 Shoe lasts
+3557 [3926.90.82 Prayer beads
+3558 [3926.90.89 Other
+Other :
+3859 {3026.90.91 |. Of a kind used for grain storage
+bijian
+3560 {3926.90.92 |- -- Kapsul kosong dari jenis yang cocok untuk kepertuan  |-~- Empty capsules of a kind suitable for
+farmasi pharmaceutical use
+3561 [3920.90.99 |- - - Lain-lain (Other
+40.01 |Karet alam, balata, getah perea, guayule, chicle dan. Natural rubber, balata, gutta-percha,
+jcetah alam semacam itu, dalam bentuk asal atau pelat, |guayule, chicle and similar natural gums,
+Jembaran atau strip. in primary forms or in plates, sheets or
+strip,
+4001.10 |- Lateks karct alam, dipra-vulkanisast maupun tidak: —_|- Natural rubber latex, whether or not pre-
+vuleanised :
+~~ Mengandung amonink melebihi 0,5.% berdasarkan —_}- - Exceeding 0.5 % by volume of ammonint
+volume = content
+3562 |4001,10.11 |--- Lateks karet konsentrat sentrifugal - - - Centrifluged concentrate rubber Intex
+3563 ]4001.10.19 ]--- Lain-tain Other
+Mengandung amoniak tidak melebihi 0,5 % Not exceeding 0.5 % by volume of
+jberdasarkan volume : ammonia content ©
+3504 |4001,10.21 ~~~ Latcks karet konsentrat sentrifugal - ~ + Centrifuged concentrate rubber latex
+3565 [4001.10.29 ]-~- Lain-lain --- Other
+» Karet alam dalam bentuk lain : - Natural rubber in other forms
+1401.21 ‘Smoked sheets : moked sheets =
+3566 |4001.21.10  |--- RSS Grade 1 RSS Grade 1
+3567 |4001.21.20 |--- RSS Grade 2 RSS Grade 2
+3508 4001.21.30 |--- RSS Grade 3 RSS Grade 3
+3509 |3001.21.40 |--- RSS Grade 4 - RSS Grade 4
+3570 4001.21.50 |-.- RSS Grade 5 RSS Grade 5
+3571 [3001.21.90 |. -- Lain-lain Other
+4001.22 - - Technically Specified Natural Rubber (TSNR) = ‘Technically specified natural rubber
+(TSNR) >
+3572 [4001.22.10 |---TSNR10 TSNR 10
+3573 |4001.22.20 |--- TSNK 20 ‘TSNR 20
+3574 +> TSNRL ~TSNR L.
+3875 ->-TSNR CV ~TSNR CV
+3576 ~~~ TSNR GP TSNR GP
+3877 |4001.22.90 |. - - Lain-lain - Other
+4001.29 - - Lain-lain = Other =
+3578 |4001.29.10 _ |- - - Air-dried sheet Air-dried sheets
+3579 4001.29.20 |-- - Latex crepe ~ Latex crepes
+3580 [4001.20.30 |--- Sole crepe - ~~ Sole crepes
+3581 |4001.29.40 |. -- Remilled erepe, termasuk flat bark crepe - ~~ Remilled erepes, including at bark
+crepes
+3582 [4001.29.50 |--- Crepe tainnya + += Other crepes
+3583 [4001.29.60 |-~- Superior processing rubber + Superior processing rubber
+358+ [4001.29.70 |-~- Skim rubber ~ Skim rubber
+3585 |4001.29.80 |--- Skrap (dari pohon, tanah atau asapan| dan cup tump_ |-- - Scrap (tree, earth or smoked) and cup
+ump
+|. - - Lain-lain : ~~ Other ;
+
+2017, No.176
+
+10,0%
+
+15,0%
+20,0%
+
+20,0%
+
+20,0%
+20,0%
+
+15,0%
+15,0%
+
+15,0%
+15,0%
+
+15,0%
+
+15,0%
+5.0%
+
+15,0%
+15,0%
+
+20,0%
+15,0%.
+
+20,0%
+20,0%
+20,0%
+20,0%
+15,0%
+
+20,0%
+
+5,0%
+
+5.0%
+
+5.0%
+
+5.0%
+5,0%
+5,0%
+5,0%
+
+www.peraturan.go.id

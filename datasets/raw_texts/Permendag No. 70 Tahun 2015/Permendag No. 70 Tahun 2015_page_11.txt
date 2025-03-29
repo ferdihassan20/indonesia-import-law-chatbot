@@ -1,0 +1,68 @@
+Peraturan Menteri Perdagangan R.I.
+Nomor 70/M-DAG/PER/9/2015
+
+Pasal 22
+
+(1) Setiap API-U dan API-P yang diterbitkan diberi nomor yang
+terdiri dari 9 (sembilan) digit diikuti dengan hurufB, hurufD,
+atau huruf P.
+
+(2) 9 (sembilan) digit sebagaimana dimaksud pada ayat (1) terdiri
+dari:
+
+a. 2 (dua) digit pertama untuk nomor kode provinsi yang
+ditetapkan sebagaimana tercantum dalam Lampiran X
+yang merupakan bagian tidak terpisahkan dari Peraturan
+Menteri ini;
+
+b. 2 (dua) digit berikutnya untuk nomor_ kode
+kabupaten/kota sesuai dengan nomor kode yang
+ditetapkan di provinsi yang bersangkutan;
+
+c. 5 (lima) digit terakhir untuk nomor urut API yang
+diterbitkan; dan
+
+d. Huruf B untuk API-U dan API-P yang diterbitkan oleh
+Kepala BKPM, huruf D untuk API-P yang diterbitkan oleh
+Direktur Jenderal, atau huruf P untuk API-U dan API-P
+yang diterbitkan oleh Kepala Dinas Provinsi.
+
+(3) Dalam hal terjadi perubahan terhadap jumlah wilayah
+sehingga menyebabkan terjadinya perubahan nomor kode
+provinsi dan nomor kode kabupaten/kota, maka nomor kode
+yang baru ditetapkan oleh Direktur Jenderal.
+
+(4) Contoh penomoran kode _ Provinsi, Kabupaten/Kota
+sebagaimana tercantum dalam Lampiran XI yang merupakan
+bagian tidak terpisahkan dari Peraturan Menteri ini.
+
+Pasal 23
+
+(1) Perusahaan pemilik API-U atau API-P sebagaimana dimaksud
+dalam Pasal 17 ayat (1) wajib melaporkan realisasi impor,
+baik terealisasi maupun tidak terealisasi, sekali dalam 3 (tiga)
+bulan kepada Kepala BKPM.
+
+(2) Perusahaan pemilik API-P sebagaimana dimaksud dalam
+Pasal 17 ayat (2) wajib melaporkan realisasi impor, baik
+terealisasi maupun tidak terealisasi, sekali dalam 3 (tiga)
+bulan kepada Direktur Jenderal.
+
+(3) Perusahaan pemilik API-U atau API-P sebagaimana dimaksud
+dalam Pasal 17 ayat (3) dan ayat (4) wajib melaporkan
+realisasi impor, baik terealisasi maupun tidak terealisasi,
+sekali dalam 3 (tiga) bulan kepada Kepala Dinas Provinsi
+dengan tembusan kepada Kepala Dinas Kabupaten/Kota
+dimana perusahaan berdomisili.
+
+(4) Laporan realisasi impor, baik terealisasi maupun tidak
+terealisasi, sebagaimana dimaksud pada ayat (1), ayat (2),
+dan ayat (3) wajib juga disampaikan melalui website
+http:// api.kemendag.go.id.
+
+(5) Kepala BKPM, Kepala Dinas Provinsi, dan Kepala Badan
+Pengusahaan menyampaikan laporan rekapitulasi realisasi
+impor masing-masing perusahaan pemilik API-U dan API-P,
+secara periodik setiap 3 (tiga) bulan sekali kepada Menteri.
+
+11

@@ -1,0 +1,45 @@
+2009, No.228 12
+
+No. URAIAN BARANG POS TARIF
+(1) (2) (3)
+22 | ---Mengandung karbon 0,6% atau lebih menurut 7210.12.10.00
+beratnya
+23 ‘| ---Lain-lain 7210.12.90.00
+-Disepuh atau dilapisi secara lain dengan
+seng:
+--Bergelombang : 7210.41
+24 | ---Dengan ketebalan tidak melebihi 1,2 mm 7210.41.10.00
+25 | ---Mengandung karbon kurang dari 0,6% menurut | 7210.41.20.00
+beratnya dan dengan ketebalan 1,5 mm atau
+kurang
+26 | ---Lain-lain 7210.41.90.00
+--Lain-lain : 7210.49
+27 | ---Dengan ketebalan tidak melebihi 1,2 mm 7210.49.10.00
+28 | ---Mengandung karbon kurang dari 0,6% menurut | 7210.49.20.00
+beratnya dan dengan ketebalan 1,5 mm atau
+kurang
+29 | ---Lain-lain 7210.49.90.00
+-Disepuh atau dilapisi dengan aluminium :
+--Disepuh atau dilapisi dengan paduan 7210.61
+aluminium-seng :
+30 | ---Mengandung karbon kurang dari 0,6% menurut | 7210.61.10.00
+beratnya dan dengan ketebalan 1,5 mm atau
+kurang
+31 | ---Lain-lain 7210.61.90.00
+--Lain-lain : 7210.69
+32 | ---Mengandung karbon kurang dari 0,6% menurut | 7210.69.10.00
+beratnya dan dengan ketebalan 1,5 mm atau
+kurang
+33. | ---Lain-lain 7210.69.90.00
+-Dicat, dipernis atau dilapisi dengan 7210.70
+plastik :
+34 | --Mengandung karbon kurang dari 0,6% menurut | 7210.70.10.00
+beratnya dan dengan ketebalan 1,5 mm atau
+kurang
+35 | --Lain-lain 7210.70.90.00
+-Lain-lain : 7210.90
+36 | --Mengandung karbon kurang dari 0,6% menurut | 7210.90.10.00
+beratnya dan dengan ketebalan 1,5 mm atau
+kurang
+37 | --Lain-lain 7210.90.90.00
+

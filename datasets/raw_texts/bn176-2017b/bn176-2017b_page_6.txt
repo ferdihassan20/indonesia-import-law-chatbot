@@ -1,0 +1,152 @@
+2017, No.176
+
+5.- Untuk keperluan pos 85.23:
+
+{@) “Peralatan penyimpanan non-volatile dalam
+
+bentuk padat (misainya, “flash memory card" atau
+"flash elektronik storage card") adalah alat
+penyimpan dengan soket penghubung, terdiri dari
+satu atau lebih flash memori dalam rumah yang
+sama (misainya, "FLASH E2PROM") dalam
+bentuk sirkuit terpadu yang dipasangkan pada
+papan sirkuit cetakan. Dapat termasuk pengatur
+dalam bentuk sirkult terpadu dan komponen pasif
+khusus, seperti kapasitor dan resistor;
+Istilah “smart card” berarti kartu yang dipadu
+dengan satu atau lebih sirkuit elektronik terpadu
+(mikroprosesor, random access memory (RAM)
+atau read only memory (ROM)} dalam bentuk chip.
+Kartu ini dapat memiliki kontak, strip magnetik
+atau antena terpadu tapi tidak memiliki elemen
+sirkuit aktif atau pasif lainnya.
+
+(b)
+
+6.- Untuk keperluan pos 85.34 “sirkuit tercetak" adalah
+sirkuit yang diperoleh dengan pembentukan di atas
+dasar pengisotasi, melalui berbagai proses pencetakan
+(misainya,  pencetakan —timbul,-—_ penyepuhan,
+pengetsaan) atau melalui teknik “sirkuit film’, elemen
+konduktor, kontak atau Komponen tercetak lainnya
+(misalnya, induktansi, resistor, kapasitor) tersendini
+atau saling berhubungan menurut pola yang
+ditetapkan sebelumnya, selain elemen yang dapat
+memproduksi, menyearahkan, memodulasi atau
+memperkuat sinyal elektris (misalnya, elemen
+semikonduktor).
+
+Istilah “sirkuit tercetak" tidak meliputl sirkuit yang
+Gikombinasi dengan elemen selain yang diperoleh
+selama proses pencetakan, juga tidak meliputi resistor,
+kapasitor, atau induktansi khusus. Namun demikian,
+sirkuit tercetak dapat dilengkapi dengan elemen
+penghubung tidak dicetak.
+
+Sirkuit film tipis atau tebal yang terdiri dari elemen pasif
+dan aktif yang diperoleh setama proses teknologi yang
+sama, harus diklasifikasikan dalam pos 85.42.
+
+Untuk keperiuan pos 85.36, "konektor untuk serat
+
+optik, Kabel atau bundle serat optik” berarti konektor
+
+yang mensejajarkan serat optik dari ujung ke ujung
+dalam sistem jalur digital secara mekanis sederhana.
+
+Konektor ini tidak melakukan fungsi lain seperti
+
+amplifikasi, regenerasi atau modifikasi sinyal,
+
+Pos 85.37 tidak mencakup peralatan infrared tanpa
+
+kabel untuk kendali jarak jauh penerima televisi ateu
+
+perlengkapan elekirik lainnya (pos 85.43).
+
+Untuk keperluan pos 85.41 dan 85.42;
+
+(a) “Dioda, transistor dan peralatan semikonduktor
+semacam itu’ adalah peralatan semi-konduktor
+yang bekerjanya tergantung kepada variasi dalam
+ketahanan listrik di bawah pengaruh suatu medan
+listrik;
+
+5
+
+9-
+
+-166-
+
+For the purposes of heading 85.23:
+
+(a) “Solid-state non-volatile storage devices’ (for
+example, “flash memory cards” or “flash electronic
+Storage cards") are storage devices with a
+connecting sockel, comprising in the same housing
+‘one or more flash memories (for example, “FLASH
+E2PROM") in the form of integrated circuits
+mounted on a printed circuit board. They may
+include a controller in the form of an integrated
+circuit and discrete passive components, such as
+capacitors and resistors;
+
+The term “smart cards” means cards which have
+embedded in them one or more electronic
+integrated circuits {a microprocessor, random
+‘access memory (RAM) or read-only memory
+(ROM)) in the form of chips. These cards may
+contain contacts, a magnetic stripe or an embedded
+antenna but do not contain any other active or
+passive circuit elements.
+
+For the purposes of heading 85.34 “printed circuits” are
+circuits obtained by forming on an insulating base, by
+‘any printing process (for example, embossing, plating-
+up, etching) or by the “film circuit” technique, conductor
+elements, contacts or other printed components (for
+example, inductances, resistors, capacitors) alone or
+interconnected according to a pre-established pattern,
+other than elements which can produce, rectify,
+modulate or amplify an electrical signal (for example,
+semiconductor elements).
+
+(b)
+
+‘The expression “printed circuits” does not cover circuits
+combined with elements other than those obtained
+during the printing process, nor does it cover individual,
+discrete resistors, capacitors or inductances. Printed
+circuits may, however, be fitted with non-printed
+connecting elements.
+
+Thin- or thick-film circuits comprising passive and
+active elements obtained during the same
+technological process are to be classified in heading
+85.42.
+
+.- For the purpose of heading 85.36, “connectors for
+
+optical fibres, optical fibre bundles or cables’ means
+
+connectors that simply mechanically align optical fibres
+
+end to end in a digital line system. They perform no
+other function, such as the amplification, regeneration or
+
+Modification of a signal.
+
+Heading 85.37 does not include cordless infrared
+
+devices for the remote control of television receivers or
+
+‘other electrical equipment (heading 85.43).
+
+For the purposes of headings 85.41 and 85.42:
+
+(a) "Diodes, transistors and similar semiconductor
+devices” are semiconductor devices the operation of
+which depends on variations in resistivity on the
+application of an electric field;
+
+www.peraturan.go.id

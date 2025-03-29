@@ -1,0 +1,58 @@
+11
+
+2011, No.657
+
+POS/SUB POS BEA MASUK/
+NO. | HEADING SUB URAIAN BARANG DESCRIPTION OF GOODS IMPORT DUTY
+HEADING
+IG | _[ 2011 2012 2013
+aw | @ ey @ @ a) o
+149, [0302.68.00.00 _.-Toothfish (Dissostichus spp.) E ‘oothfish (Dissostichus spp.) 0,00% | 0,00% | 0,00%
+}0302.69 }--Lain-lain : |--Other:
+0302.69.10 -~-Tkan laut : |-—-Marine Fish :
+150, [0302.69.10.10_|-—-Kerapu (Cromileptes altivelis;Epinephetus heniochus; -~-Kerapu (Cromileptes altivelis;Epinephelus heniochus; 15,00% | 15,00% | 14,25%
+Epinephelus Merra; Epinephelus tauvina; Cephalophodis Epinephelus Merra; Epinephelus tauvina; Cephalophodis
+Boenack; Plectropomus Leoparbus) Boenack ; Plectropomus Leoparbus)
+11 [0302.69.10.90 — |-~-Lain-lain -—-Other 0.00% | 0,00% | 0,00%
+0302.69.20 Ikan air tawar -—Freshwater fish
+152. |0302.69.20.10 Tilapia (Tilapia Nilotica) lapia (Tilapia Nilotica) 15,00% | 15,00% | 14,25%
+153, [0302.69.20.90 |.-Lain-lain Other 0,00% | 0,00% | 0.00%
+154 /0302.70.00.00 |-Hati dan telur |-Livers and roes 0,00% 0,00% 0,00%
+03.03, Ikan, beku, tidak termasuk potongan ikan tanpa tulang Fish, frozen, excluding fish fillets and
+dan daging ikan lainnya dari pos 03.04, jother fish meat of heading 03.04.
+-Ikan salem Pasifik (Oncorhynchus nerka, Oncorhynchus |-Pacific salmon (Oncorhynchus nerka, Oncorhynchus
+gorbuscha, Oncorhynchus keta, Oncorhynchus gorbuscha, Oncorhynchus keta, Oncorhynchus tschawytscha,
+tschawytscha, Oncorhynchus kisutch, ‘Oncorhynchus kisutch, Oncorhynchus masou and
+Oncorhynchus masou dan Oncorhynchus rhodurus), ‘Oncorhynchus rhodurus), excluding livers and roes
+tidak termasuk hati dan telur :
+155  /0303.11.00.00 }--Ikan salem sockeye (Ikan Salem merah) }--Sockeye salmon (red salmon) (Oncorhyncus. nerka) 0,00% 0,00% 0,00%
+(Oncorhyncus nerka)
+156 [0303.19.00.00 — --Lain-lain --Other 0,00% | 0,00% | 0,00%
+-Ikan salem lainnya, tidak termasuk hati dan telur -Other salmonidae, excluding livers and roes:
+157 [0303.21.00.00 _|--tkan trout (Salmo trutta, Oncorhynchus mykiss, Trout (Salmo trutta, Oncorhynchus mykiss, 0.00% | 0,00% | 0,00%
+Oncorhynchus clarki, Oncorhynchus. aguabonita, ‘Oncorhynchus clarki,Oncorhynchus aguabonita,
+‘Oncorhynchus gilae, Oncorhynchus apache dan Oncorhynchus gilae, Oncorhynchus apache and
+‘Oncorhynchus chrysogaster) Oncorhynchus chrysogaster)
+158 {0303.22.00.00 | -1kan salem Atlantik (Salmo salar) dan ikan salem --Atlantic salmon (Salmo salar) and Danube salmon 0.00% | 0.00% | 0,00%
+Danube (Hucho hucho) |(Hucho hucho)
+159 |0303.29.00.00 | -Lain-lain --Other 0,00% | 0,00% | 0,00%
+Ikan pipih (Pleuronectidae, Bothidae, Cynoglossidae, -Flat fish (Pleuronectidae, Bothidae, Cynoglossidae,
+Soleidae, Scophthalmidae danCitharidae), tidak termasuk Soleidae, Scophthalmidae and Citharidae), excluding
+hati dan telur : livers and roes
+160 {0303.31.00.00 | -1kan halibut (Reinhardtius hippoglossoides, Halibut (Reinhardtius hippoglossoides, 0.00% | 0,00% | 0,00%
+Hippoglossus hippoglossus, Hippoglossus stenolepis) Hippoglossus hippoglossus, Hippoglossus stenolepis)
+161 [0303.32.00.00 _}--1kan plaice (Pleuronectes platessa) --Plaice (Pleuronectes platessa) 0.00% | 0,00% | 0,00%
+162 [0303.33.00.00 --Ikan sole (Solea spp.) --Sole (Solea spp.) 0,00% 0,00% 0,00%
+163 0303.39.00.00 --Lain-lain }--Other 0,00% 0,00% 0,00%
+-Tkan tuna (dari genus Thunnus), skipjack atau -Tunas (of the genus Thunnus) , skipjack or stripe-bellied
+stripe-bellied bonito (Euthynnus(Katsuwonus) pelamis), bonito (Euthynnus(Katsuwonus) pelamis), excluding
+tidak termasuk hati dan telur : livers and roes
+164 [0303.41.00.00 _|--1kan albacore atau tuna bersirip panjang (Thunnus alalunga) Albacore or longfinned tunas (Thunnus alalunga) 0.00% | 0,00% | 0,00%
+165 [0303.42.00.00 | -tkan tuna bersirip kuning (Thunnus albacares ) --Yellow fin tunas (Thunnus albacares) 0,00% | 0,00% | 0,00%
+166 ]0303.43.00.00 _|--1kan skipjack atau stripe-bellied bonito -Skipjack or stripe-bellied bonito 0,00% | 0,00% | 0,00%
+167, |0303.44.00.00 | -tkan tuna bermata besar (Thunnus obesus) --Bigeye tunas (Thunnus obesuis) 0,00% | 0,00% | 0,00%
+168 ]0303.45.00.00 --Ikan tuna bersirip biru ( Thunnus thynnus) --Bluefin tunas (Thunnus thynnus) 0,00% 0,00% 0,00%
+169. [0303.46.00.00 _}--1kan tuna bersirip hiru dari selatan (Thunnus maccoyii) --Southern bluefin tunas (Thunnus maccoyii) 0,00% | 0,00% | 0,00%
+
+www.djpp.kemenkumham.go.id
+

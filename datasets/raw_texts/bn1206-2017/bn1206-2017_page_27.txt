@@ -1,0 +1,34 @@
+2017, No. 1206
+
+-27-
+No | Pos Tarif/HS Uraian Barang
+208 | 5801.37.90 - - - Lain-lain
+9801.90 - Dari bahan tekstil lainnya :
+- - Dari sutra:
+209 | 5801.90.11 - - - Diresapi, dilapisi, ditutupi atau dilaminasi
+210 | 5801.90.19 - - - Lain-lain
+- - Lain-lain :
+211 | 5801.90.91 - - - Diresapi, dilapisi, ditutupi atau dilaminasi
+212 | 5801.90.99 - - - Lain-lain
+60.01 Kain berbulu, termasuk kain "berbulu panjang" dan
+kain terry, rajutan atau kaitan.
+213 | 6001.10.00 - Kain "berbulu panjang”
+- Kain bulu bergelung :
+214 | 6001.21.00 - - Dari kapas
+215 | 6001.22.00 - - Dari serat buatan
+216 | 6001.29.00 - - Dari bahan tekstil lainnya
+- Lain-lain :
+217 | 6001.91.00 - - Dari kapas
+6001.92 - - Dari serat buatan :
+218 | 6001.92.20 - - - Kain bulu dari serat staple poliester 100 %, dengan
+
+lebar tidak kurang dari 63,5 mm tetapi tidak lebih dari
+76,2 mm, cocok untuk digunakan dalam pembuatan rol
+
+cat
+219 | 6001.92.30 - - - Mengandung benang elastomer atau benang karet
+220 | 6001.92.90 - - - Lain-lain
+6001.99 - - Dari bahan tekstil lainnya :
+
+- - - Tidak dikelantang, tidak dimerserisasi :
+

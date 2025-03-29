@@ -1,0 +1,48 @@
+2019, No.1672
+
+-17-
+PETUNJUK PENGISIAN
+
+Nomor (1) : QR Code Data A dalam Database,
+
+Nomor (2) : Diisi nomor Formulir A dengan format FA-nomor urut/nomor
+
+Kantor Wilayah Direktorat Jenderal Bea dan Cukai atau
+Kantor Pelayanan Utama Bea dan Cukai/Nomor Kantor
+Pengawasan dan Pelayanan Bea dan Cukai/Kode Kendaraan
+
+Bermotor/Tahun Penerbitan.
+
+Nomor (3) : Diisi tanggal/bulan/tahun diterbitkannya Formulir A.
+
+Nomor (4) : Diisi nama Kantor Pabean penerbit Formulir A.
+
+Nomor (5) : Diisi jenis kendaraan bermotor sesuai peraturan perundang-
+undangan di Kepolisian Negara Republik Indonesia,
+
+Nomor (6) : Diisi merek kendaraan bermotor,
+
+Nomor (7) : Diisi tipe kendaraan bermotor sesuai peraturan perundang-
+undangan di Kepolisian Negara Republik Indonesia.
+
+Nomor (8) : Diisi tahun pembuatan kendaraan bermotor.
+
+Nomor (9) : Diisi nomor rangka atau Vehicle Identity Number {VIN)
+kendaraan bermotor.
+
+Nomor (10) ; Diisi nomor mesin kendaraan bermotor.
+
+Nomor (11): Diisi pelabuhan pemasukan.
+
+Nomor (12) : Diisi tanggal masuk di pelabuhan.
+
+Nomor (13) =: Diisi nama importir.
+
+Nomor (14) =: Diisi alamat importir.
+
+Nomor (15) ; Diisi nomor pemberitahuan pabean impor saat diimpor.
+
+Nomor (16) : Diisi tanggal diterbitkannya pemberitahuan pabean impor saat
+diimpor.
+
+www.peraturan.go.id

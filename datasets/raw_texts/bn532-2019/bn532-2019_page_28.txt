@@ -1,0 +1,68 @@
+2019, No.532
+
+-28-
+
+B. UNTUK PERUSAHAAN REMANUFAKTURING KOMPONEN ALAT BERAT
+
+B.1. PENGERTIAN
+
+1.
+
+Dokumendan Data Kegiatan adalah pengendalian dokumen
+yang oberkaitan dengan data  kegiatan Perusahaan
+Remanufakturing komponen alat berat meliputi: Prosedur
+penyimpanan dan pengendalian, Dokumen dan data yang
+disimpan dan Aplikasi Komputer dengan total bobot 8.
+
+Prosedur penyimpanan dan pengendalian adalah dokumen
+tertulis yang menjelaskan cara tertentu untuk melaksanakan
+kegiatan/proses penyimpanan dan pengendalian data dengan
+bobot 2.
+
+Dokumen dan data yang disimpan adalah dokumen yang berisi
+uraian informasi kegiatan operasional Perusahaan
+Remanufakturing komponen alat berat yang melibatkan lebih
+dari satu departemen/bagian dalam organisasi dengan bobot 4.
+Aplikasi Komputer adalah aplikasi yang digunakan dalam
+kegiatan penyimpanan dan pengendalian dengan menggunakan
+
+sistem informasi/komputerisasi dengan bobot 2.
+
+B.2. PERSYARATAN UMUM
+
+1.
+
+Setiap Perusahaan Remanufakturingkomponen alat  berat
+sekurang kurangnya memiliki dokumentasi data kegiatan atau
+prosedur penyimpanan dan pengendalian data.
+
+Penyimpanan dan pengendalian data yang dimaksud di atas
+
+diharapkan berjalan dengan baik dan konsisten.
+
+B.3. CARA PENILAIAN DAN PERHITUNGAN
+
+1.
+
+Masing-masing persyaratan diberi bobot sesuai_ tingkat
+
+pengaruh/kepentingannya terhadap manajemen informasi
+
+secara keseluruhan.
+
+Setiap persyaratan dinilai berdasarkan pemenuhan parameter
+
+penilaian persyaratan manajemen informasi.
+
+Parameter-parameter yang digunakan dalam menentukan nilai
+
+pemenuhan bobot setiap proses atau kegiatan yang tercakup
+
+dalam persyaratan adalah:
+
+a. Kegiatan (Keg.), memastikan ada-tidaknya kegiatan yang
+berhubungan dengan persyaratan yang bersangkutan (35
+
+%).
+
+www.peraturan.go.id

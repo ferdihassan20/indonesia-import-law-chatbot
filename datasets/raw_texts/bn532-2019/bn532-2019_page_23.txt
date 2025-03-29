@@ -1,0 +1,44 @@
+03. 2019, No.532
+
+Parameter-parameter yang dipergunakan didalam menentukan
+
+nilai pemenuhan  bobot sctiap proses atau kegiatan yang
+
+tercakup dalam persyaratan adalah:
+
+a.
+
+Kegiatan (Keg.), memastikan ada-tidaknya suatu kegiatan
+sesuai dengan tabel persyaratan sistem mutu (35 %).
+Petugas (Ptg.), memastikan ada-tidaknya  personil yang
+melaksanakan dan bertanggung jawab terhadap kegiatan
+sesuai dengan tabel persyaratan sistem mutu (30%).
+Prosedur (Psd), memastikan setiap kegiatan memiliki
+prosedur atau acuan tertulis dan terkendali (15 %).
+
+Catatan mutu (Ctt), memastikan kegiatan operasional
+
+memiliki catatan terdokumentasi (20 %).
+
+Nilai Aktual adalah hasil perkalian antara nilai bobot dengan
+
+nilai pemenuhan masing-masing parameter.
+
+Tabel Perhitungan Nilai Sistem Mutu sebagai berikut:
+
+. Parameter (%) .
+No. Persyaratan Sistem Bobot | Keg | Pig | Psd | Ct Nilai
+Mutu Aktual
+35% | 30% | 15% | 20%
+
+1. |Tanggung Jawab| 4.00 0-100
+
+Manajemen
+2. |Perencanaan Sistem| 4.00 0-100
+
+Mutu
+3. |Pedoman Mutu 2.00 0-100
+
+Nilai Sistem Mutu 10.00
+
+www.peraturan.go.id

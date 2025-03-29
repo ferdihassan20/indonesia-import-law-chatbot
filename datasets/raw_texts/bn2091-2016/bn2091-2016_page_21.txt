@@ -1,0 +1,62 @@
+-21-
+
+114 | 7212.50.92.00 - - - Lain-lain, mengandung karbon kurang dari
+0,06% menurut beratnya dan dengan ketebalan 1,5
+mm atau kurang
+115 | 7212.50.99.00 - - - Lain-lain
+7212.60 - Dipalut:
+116 | 7212.60.10.00 - - Simpai dan strip, dengan lebar tidak melebihi 400
+mm
+117 | 7212.60.20.00 - - Lain-lain, mengandung karbon kurang dari 0,6%
+menurut beratnya dan dengan ketebalan 1,5 mm
+atau kurang
+118 | 7212.60.90.00 - - Lain-lain
+72.13 Batang dan batang kecil, dicanai panas, dalam
+gulungan yang putarannya tidak beraturan, dari
+besi atau baja bukan paduan.
+119 | 7213.10.00.00 - Mengandung lekukan, rusuk, alur atau de- formasi
+lainnya yang dihasilkan selama proses pencanaian
+120 | 7213.20.00.00 - Lain-lain, dari baja free-cutting
+- Lain-lain:
+7213.91 - - Dengan ukuran diameter penampang silang
+lingkarannya kurang dari 14 mm:
+121 | 7213.91.10.00 - - - Dari jenis yang biasa digunakan dalam
+pembuatan soldering sticks
+122 | 7213.91.20.00 - - - Dari jenis yang biasa digunakan untuk
+penguatan beton (rebars)
+123 | 7213.91.90.00 - - - Lain-lain
+7213.99 - - Lain-lain:
+124 | 7213.99.10.00 - - - Dari jenis yang biasa digunakan dalam
+pembuatan soldering sticks
+125 | 7213.99.20.00 - - - Dari jenis yang biasa digunakan untuk
+penguatan beton (rebars)
+126 | 7213.99.90.00 - - - Lain-lain
+72.14 Batang dan batang kecil lainnya dari besi atau
+baja bukan paduan, tidak dikerjakan lebih lanjut
+selain ditempa, dicanai panas, ditarik panas atau
+diekstrusi panas, termasuk yang dipuntir setelah
+dicanai.
+7214.10 - Ditempa:
+- - Mengandung karbon kurang dari 0,6 % menurut
+beratnya:
+127 | 7214.10.11.00 - - - Dengan penampang silang lingkaran
+128 | 7214.10.19.00 - - - Lain-lain
+- - Lain-lain:
+129 | 7214.10.21.00 - - - Dengan penampang silang lingkaran
+130 | 7214.10.29.00 - - - Lain-lain
+
+7214.20
+
+- Mengandung lekukan, rusuk, alur atau mengalami
+deformasi lainnya yang dihasilkan dalam proses
+pencanaian atau dipuntir setelah dicanai:
+
+- - Mengandung karbon kurang dari 0,6% menurut
+beratnya:
+
+- - - Dengan penampang silang lingkaran:
+
+www.peraturan.go.id
+
+2016, No. 2091
+

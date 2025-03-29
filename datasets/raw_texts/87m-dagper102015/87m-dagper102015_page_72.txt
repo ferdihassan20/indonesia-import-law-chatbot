@@ -1,0 +1,35 @@
+-59-
+
+No Pos Tarif/HS Uraian Barang
+mainan; mesin tik mainan
+843 | 9503.00.92.00 -- Tali lompat
+844 | 9503.00.93.00 -- Kelereng
+845 | 9503.00.99.00 -- Lain-lain
+Konsol dan mesin video game, barang untuk
+permainan, meja atau dalam _ ruangan,
+95.04 termasuk pintable, biliar, meja khusus untuk
+permainan kasino dan perlengkapan lintasan
+boling otomatis.
+- Permainan lainnya, dioperasikan dengan koin,
+on64.30 kertas uang, kartu bank, tanda atau alat
+pembayaran lainnya, selain perlengkapan
+lintasan boling:
+846 | 9504.30.10.00 -- Pintable atau mesin slot
+847 | 9504.30.20.00 -- Bagian dari kayu, kertas atau plastik
+848 | 9504.30.90.00 -- Lain-lain
+we |\e564.20.5006 - Mesin dan konsol video game, selain dari
+
+barang pada subpos 9504.30
+
+MENTERI PERDAGANGAN REPUBLIK INDONESIA,
+
+Ttd.
+
+THOMAS TRIKASIH LEMBONG
+
+Salinan sesuai dengan aslinya
+
+Sekretariat Jenderal
+
+Kementerian Perdagangan
+

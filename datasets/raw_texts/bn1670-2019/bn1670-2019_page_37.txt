@@ -1,0 +1,48 @@
+37. 2019, No.1670
+
+b.  Diisi jenis, merek, tipe, nomor mesin, nomor rangka,
+kapasitas mesin, dan tahun pembuatan, dalam hal
+barang berupa kendaraan bermotor.
+
+Nomor (18) =: Diisi jumlah barang.
+
+Nomor (19) =: Diisi satuan barang.
+
+Nomor (20) : Diisi perkiraan harga barang.
+
+Nomor (21) =: Diisi nomor pos tarif/HS.
+
+Nomor (22) : Diisi nomor Keputusan Menteri Keuangan mengenai
+
+pembebasan bea masuk dan cukai, tidak dipungut Pajak
+Pertambahan Nilai atau Pajak Pertambahan Nilai dan Pajak
+Penjualan atas Barang Mewah, serta tidak dipungut Pajak
+Penghasilan Pasal 22 atas impor barang untuk keperluan
+penelitian dan pengembangan ilmu pengetahuan umum.
+Nomor (23) : Diisi tanggal Keputusan Menteri Keuangan mengenai
+pembebasan bea masuk dan cukai, tidak dipungut Pajak
+Pertambahan Nilai atau Pajak Pertambahan Nilai dan Pajak
+Penjualan atas Barang Mewah, serta tidak dipungut Pajak
+Penghasilan Pasal 22 atas impor barang untuk keperluan
+penelitian dan pengembangan ilmu pengetahuan umum.
+Nomor (24) : Diisi nomor urut barang pada Keputusan Menteri Keuangan
+mengenai pembebasan bea masuk dan cukai, tidak dipungut
+Pajak Pertambahan Nilai atau Pajak Pertambahan Nilai dan
+Pajak Penjualan atas Barang Mewah, serta tidak dipungut
+Pajak Penghasilan Pasal 22 atas impor barang untuk
+keperluan penelitian dan pengembangan ilmu pengetahuan
+
+umum.
+
+Nomor (25) : Diisi negara asal barang.
+
+Nomor (26) : Diisi nama Kantor Pelayanan Utama Bea dan Cukai atau
+Kantor Pengawasan dan Pelayanan Bea dan Cukai tempat
+pemasukan barang.
+
+Nomor (27) : Diisi nomor pemberitahuan pabean dari barang impor terkait.
+
+Nomor (26) : Diisi tanggal, bulan dan tahun pemberitahuan pabean dari
+barang impor terkait.
+
+www.peraturan.go.id

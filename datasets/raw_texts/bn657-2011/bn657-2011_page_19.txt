@@ -1,0 +1,63 @@
+19 2011, No.657
+
+POS/SUB POS BEA MASUK/
+NO. | HEADING! suB URAIAN BARANG DESCRIPTION OF GOODS IMPORT DUTY
+HEADING) 2011 2012 2013
+a fe 5) | @ Gy GY a)
+105.10 Ambar, kastor, jebat dan kesturi; kantaridi; empedu, kering JAmbergris, castoreum, civet and musk; cantharides;
+maupun tidak; kelenjar dan produk binatang lainnya yang bile, whether or not dried; glands and other animal products
+Jdigunakan dalam olahan produk farmasi, segar, dingin, lused in the preparation of pharmaceutical products, fresh,
+beku atau diawetkan sementara secara lain. chilled, frozen or otherwise provisionally preserved.
+339 }0510.00.10.00 —_|-Kantaridi -Cantharides 0,00% | 0,00% | 0,00%
+340 ]0510.00.20.00 | -Kesturi -Musk 0,00% | 0,00% | 0,00%
+341 0510.00.90.00 —_|-Lain-tain -Other 0,00% | 0,00% | 0,00%
+os.11 Produk hewani tidak dirinei atau termasuk dalam pos lain; [Animal products not elsewhere specified or included;
+binatang mati dari Bab | atau 3, tidak layak untuk Jdead animals of Chapter | or 3, unfit for human consumption,
+jdikonsums: manusia.
+342, |0511.10.00.00 —_]-Mani dari binatang jenis lembu -Bovine semen 0,00% | 0,00% | 0,00%
+-Lai -Other
+osti.s1 --Produk dari ikan atau krustasea, moluska atau invertebrata Product of fish or crustaceans, molluscs or other aquatic:
+air lainnya; binatang mati dari Bab 3: invertabrates; dead animals of Chapter 3 :
+343 }0511.91.10.00 ---Binatang mati dari Bab 3 ‘Dead animals of Chapter 3 0,00% 0,00% 0,00%
+344 10511.91.20.00 Telur ikan —Roes. 15,00% 15,00% 14,25%
+345 ]0511.91.30.00 —|--Telur artemia Artemia egg (Brine shrimp egg) 0,00% | 0,00% | 0,00%
+346 ]0511.91.40.00 |Fish bladder 0,00% | 0,00% | 0,00%
+347 [0511.91.90.00 — |-~Lain-lain 0,00% | 0.00% | 0,00%
+0511.99 ‘Lain-lain --Other =
+Mani dan binatang peliharaan .--Domestic animal semen
+348, }0511.99.11.00 ari babi, kambing atau biri-biri Of swine, sheep or goats 0,00% | 0.00% | 0,00%
+349. |0511.99.19.00 ain-lain Other 0,00% | 0,00% | 0,00%
+350. }0511.99.20.00 Telur ulat sutra ik worm egg, 0,00% | 0,00% | 0,00%
+351 |0511.99.90.00 Lain-lain Other 0,00% | 0,00% | 0,00%
+06.01 [Umbi, bonggol, akar berbonggol, batang dibawah tanah, tajuk Bulbs, tubers, tuberous roots, corms, crowns and rhizomes,
+dan akar tongkat, dorman, sedang tumbuh atau berbunga, |dormant,in growth or in flower, chicory plants and roots
+tanaman dan akar chicory selain akar dari pos 12.12. other than roots of heading 12.12.
+352 ]0601.10.00.00 _|-Umbi, bonggol, akar berbonggol, batang dibawah tanah, -Bulbs, tubers, tuberous roots, corms, crowns and 3,00% | 0,00% | 0,00%
+tajuk dan akar tongkat, dorman rhizomes, dormant
+}0601.20 -Uinbi, bonggol, akar berbonggol, batang dibawah tanah, tajuk Bulbs, tubers, tuberous roots, corms, crowns and rhizomes,
+Jdan akar tongkat, sedang tumbuh atau berbunga; jin growth or in flower; chicory plants and roots :
+tanaman dan akar chicory :
+353 ]0601.20.10.00 —_J--Tanaman Chicory Chicory plants 3,00% | 0,00% | 0,00%
+354 ]0601.20.20.00 —_|--Akar chicory --Chicory roots 0,00% | 0,00% | 0,00%
+353. |0601.20.90.00 —_|--Lain-lain --Other 3,00% | 0,00% | 0,00%
+106.02 Tanaman hidup lainnya (termasuk akarnya), Ppotongan Other live plants (including their roots), cuttings and slips;
+dan cangkokan; sulur jamur. mushroom spawn.
+10602.10 -Potongan dan cangkokan tanpa akar -Unrooted cuttings and slips
+356 ]0602.10.10.00 _|--Potongan dan cangkokan anggrek --Orchid cuttings and slips 20,00% | 18,00% | 15,00%
+357, }0602.10.20.00 ayu karet tuber wood 0,00% | 0,00% | 0,00%
+358 |0602.10.90.00 ~-Lain-lain --Other 3,00% 0,00% 0,00%
+359, |0602.20.00.00 —_|-Pohon, belukar dan semak, dicangkok atau tidak, -Trees, shrubs and bushes, grafted or not, of kinds which 3,00% | 0,00% | 0,00%
+lyang buah atau bijinya dapat dimakan bear edible fruit or nuts
+360 |0602.30.00.00 _|-Rhododendion dan azalea.dicangkok atau tidak -Rhododendrons and azaleas, grafted or not 10,00% | 10,00% | 10,00%
+361 [0602.40.00.00 —_|-Mawar, dicangkok atau tidak -Roses, grafted or not 10,00% | 10,00% | 10,00%
+}0602.90 -Lain-lain : |-Other :
+362 |0602.90.10.00 _]--Potongan dan cangkokan anggrek yang berakar --Rooted orchid cuttings and slips 20,00% | 18,00% | 15,00%
+363 ]0602.90.20.00 —_|--Anakan anggrek --Orchid seedlings 0,00% | 0,00% | 0,00%
+364 |0602.90.30.00  |--Tanaman aquarium ~-Aquarium plants 0,00% | 0,00% | 0,00%
+365 |0602.90.40.00 —_|--Tunggul karet bertunas --Budded rubber stumps 3,00% | 0,00% | 0,00%
+366 ]0602.90.50.00 —_|--Anakan karet --Rubber seedlings 3.00% | 0,00% | 0,00%
+367 |0602.90.60.00 —_|--Tunas karet --Rubber budwood 0,00% | 0,00% | 0,00%
+368 |0602.90.90.00 — |--Lain-lain ~Other 3.00% | 0,00% | 0,00%
+
+www.djpp.kemenkumham.go.id
+

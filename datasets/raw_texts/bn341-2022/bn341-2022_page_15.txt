@@ -1,0 +1,68 @@
+415 2022, No. 341
+
+8471.30.90 ~- Lain-lain
+85.06 Sel primer dan baterai primer.
+8506.10 ~ Mangan dioksida :
+~- Mempunyai volume bagian luar tidak melebihi 300 cm’ :
+8506.10.11 - - - Zine-carbon
+~ - Lain-lain ;
+8506.10.91 - - - Zine-carbon
+8506.10.99 - - - Lain-lain
+8506.50.00 - Litium
+8506.80 - Sel primer dan baterai primer lainnya :
+8506.80.30 - - Mempunyai volume bagian luar tidak melebihi 300 cm"
+8506.80.90 ~~ Lain-lain
+85.10 Alat cukur, alat pangkas rambut dan peralatan penghilang
+rambut, dengan motor listrik terpasang.
+
+8510.20.00 - Alat pangkas rambut
+
+8510.30.00 - Peralatan penghilang rambut
+
+85.16 Pemanas air instan atau pemanas air dengan tempat
+penyimpanan dan pemanas celup, listrik; aparatus pemanas
+Tuangan dan pemanas tanah, listrik; aparatus penata rambut
+elektro-termal (misalnya, pengering rambut, pengeriting
+
+tangga; resistor panas listrik, selain yang dimaksud dari pos
+85.45.
+
+8516.10 - Pemanas air instan atau pemanas sir dengan tempat
+Ppenyimpanan dan pemanas celup, listrik :
+- - Pemanas air instan atau pemanas air dengan tempat
+penyimpanan -
+
+8516.10.11 - - - Dispenser air yang hanya dilengkapi dengan pemanas air,
+untuk keperluan rumah tangga
+
+8516.10.19 -- - Lain-lain
+~- Aparatus pemanas ruangan listrik dan aparatus pemanas tanah
+listrik :
+
+8516.21.00 - - Radiator pemanas tempat penyimpanan
+
+8516.29.00 ~ - Lain-lain
+
+8516.50.00 - Microwave oven
+
+85.17 Perangkat telepon, termasuk smartphone dan telepon lainnya
+untuk jaringan seluler atau untuk jaringan tanpa kabel lainnya;
+aparatus lainnya untuk mengirimkan atau menerima suara,
+gambar, atau data lainnya termasuk aparatus untuk komunikasi
+dalam jaringan kabel atau tanpa kabel (seperti local atau wide
+area network), selain dari aparat transmisi atau penerima dari
+pos 84.43, 85.25, 85.27 atau $5.28.
+
+- Perangkat telepon, termasuk smartphone dan telepon lainnya
+untuk jaringan seluler atau untuk jaringan tanpa kabel lainnya :
+8517.11.00 - - Perangkat telepon dengan gagang set tanpa kabel
+8517.13.00 -- Smartphone
+8517.14.00 - - Telepon lainnya untuk jaringan seluler atau untuk jaringan
+tanpa kabel isinnya
+8517.18.00 - - Lain-lain
+85.19 Aparatus untuk perekam atau reproduksi suara.
+- Aparatus lainnya :
+8519.81 -- Menggunakan magnet, media optik atau semi konduktor ;
+8519.81.30 --- Compact disc player
+
+www.peraturan.go.id

@@ -1,0 +1,125 @@
+45- 2017, No.1848
+
+[No [POS TARIF/HS URAIAN BARANG KETERANGAN,
+
+[ 86 | 8454.20.00 - Cetakan ingot dan ladle Se
+
+87 [8454.30.00 - Mesin tuang
+88 [ex 8454.90.00 - Bagian Kecuali bagian dari converter
+
+IMesin perkakas untuk mengerjakan berbagai bahan
+dengan penghilangan bahan, melalui proses
+penyinaran laser atau sinar lainnya atau sinar foton,
+lultrasonik, pelucutan elektro, elektro kimia, sinar
+lelektron, sinar ionik atau busur plasma; mesin
+pemotong water-jet.
+
+- Dioperasikan dengan proses sinar laser atau sinar
+lainnya atau sinar foton:
+
+[8456.11.00 F= Diopemsikan dengan laser
+
+8456. 12.00 - - Dioperasikan dengan sinar lainnya atau sinar foton
+1 [8456.30.00 - Dioperasikan dengan proses pehucutan elektro
+
+_ [8456.40 > Dioperasikan dengan proses busur plasma
+
+92 |8456.40.90 |- - Lain-lain
+93 [8456.50.00 -Mesin pemotong waterjet
+[8456.90 -Tain-lain:
+94 [8456.90.90 |- - Lain-lain
+Machining center, mesin konstruksi unit (single
+
+station) dan mesin transfer multi-station, untuk
+mengerjakan logam.
+
+[_ [8457.10 - Machining center
+
+8457.10.10 - = Dari spindle dengan daya tidak melebihi 4 kW.
+96
+
+8457.10.90 ~~ Lain-lain
+
+‘97 [8457.20.00 - Mesin konstruksi unit (single-station)
+84.58 IMesin bubut (termasuk turning centre) untuk
+menghilangkan logam.
+
+- Mesin bubut horizontal:
+[8458.11 -- Dikontrol secara numerik
+‘98 [8458.11.10 - ~~ Dani spindle dengan daya tidak melebini 4 kW
+
+8458.11.90 ~~ Tain-lain
+
+[___ [8458.19 - - Lain-lain:
+
+lex 8458.19.10 -- - Dengan jarak antara pusat spindle dan bed tidak IMesin dengan panjang bed 1,6
+
+melebihi 300 mm meter atau lebih
+
+Ea lex 8458.19.90 > =~ Lain-lain
+
+|| - Mesin bubut lainnya:
+102 [8458.91.00 -- Dikontrol secara numerik
+
+8458.99.10 - ~~ Dengan jarak antara pusat spindle dan bed tidak
+
+AE
+a
+a
+g
+g
+alr
+E
+A
+&
+c
+g
+Ef
+5
+
+meter atau lebih.
+
+=
+&
+a
+&
+
+99 >= Lain-lain:
+
+melebihi 300 mm.
+104 [8458.99.90 >= = Lain-lain
+
+IMesin perkakas (termasuk mesin way-type unit head)
+luntuk menggurdi, menggiling, membuat ulir atau alur
+dengan menghilangkan logam, selain mesin bubut
+(termasuk turning centre) dari pos 84.58.
+
+> Mesin way-type unit head:
+
+-Dioperasikan secara clektrik
+- Mesin penggurdi lainnya:
+ain-lain:
+
+106 lex 8459.29.10 ~~ Dioperasikan secara elekwik Kecuali mesin penggurdi
+Jdengan diameter mata
+penggurdi maksimal 5 inchi
+
+Ea - Mesin pengebor-penggiling lainnya:
+
+107 [8459.31.00 Zz p Penn secara mumerik
+a
+
+—_ a secara elektrik Kecuali Mesin Fris Manual
+(Milling Machine) dengan
+ukuran meja 1.217 x 229 mm
+
+-~Dikontrol secara numerik [kecuali Mesin Bor dengan
+diameter mata bor maksimal 5
+inch
+
+110 Jex 8459.49.10 - - Dioperasikan secara elektrik Kecuali Mesin Bor dengan
+|diameter mata bor maksimal 5
+
+inch.
+
+www.peraturan.go.id

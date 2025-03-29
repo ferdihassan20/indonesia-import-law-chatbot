@@ -1,0 +1,89 @@
+2016, No.302 -16-
+
+No | Pos Tarif/ HS Uraian
+
+Kriteria Teknis
+
+Kelas input voltage C :
+di atas 3V)"
+
+13. | 8473.30,90.00 | - - Lain-lain
+
+8473.40
+
+- Bagian dan aksesori pada mesin dari
+pos 84.72:
+
+COMP PART OTHERS,
+PART PRINTER
+SHAFT,HEATSINK,
+SENSING DEVICE,
+HINGE, COVER,
+FRAME, BRACKET,
+HUB, SHUTTER,
+RACK, ROLLER,
+WHEEL BACK PLAN
+RAIL, ENCLOSURE,
+BEZEL, SOCK,
+HOUSING:
+
+Kelas fungsional A :
+aksesori
+
+Kelas fungsional B :
+komponen penutup
+kelas fungsional C :
+komponen penunjang
+operasi
+
+14 | 8473.40.11.00 | - - - Bagian termasuk printed circuit
+assembly untuk automatic teller
+
+machines
+
+ATM PARTS
+Kategori Panel
+display 15" LCD
+
+(XGA) /15"" LCD (XGA)
+Touch Screen, metal
+encryption. pinpad
+(support DES/triple
+DES
+
+Kategori Card Reader :
+IC chip magnetic card
+reader dengan pilihan
+HiCo card reader
+
+Kategori Module
+kapasitas cartridge
+298mm, maksimum
+notes/transaksi >100
+notes
+
+Kategori Printer
+thermal receipt printer
+
+dan dot matrix /
+electronic journal
+printer dengan
+kapasitas transaksi
+
+>5000 transaksi/ roll
+
+Transformator elektrik, konverter statis
+(misalnya, rectifier) dan induktor.
+
+- Konverter statik:
+
+- - Konverter statik untuk mesin
+pengolah data otomatis dan unitnya,
+dan aparatus telekomunikasi:
+
+- - - Uninterrupted power supply (UPS)
+
+15_| 8504.40.11.00
+
+16 | 8504.40.19.00 | - - - Lain-lain
+

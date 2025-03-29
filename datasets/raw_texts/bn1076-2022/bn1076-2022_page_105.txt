@@ -1,0 +1,68 @@
+_ 2022, No.1076
+105
+
+PETUNJUK PENGISIAN
+Nomor (1) ; diisi nama dan NPWP perusahaan.
+Nomor (2) : diisi alamat perusahaan,
+Nomor (3) : diisi nomor Keputusan Menteri mengenai penetapan sebagai
+Perusahaan KITE Pengembalian.
+Nomor (4) : diisi nama Kantor Wilayah Direktorat Jenderal Bea dan
+
+Cukai/Kantor Pelayanan Utama Bea dan Cukai yang
+menerbitkan Keputusan Menteri mengenai penetapan sebagai
+Perusahaan KITE Pengembalian.
+
+Nomor (5) : diisi nomor pengajuan laporan realisasi ekspor kembali.
+
+Nomor (6) : diisi tanggal pengajuan laporan realisasi ekspor kembali.
+
+Nomor (7) : diisi jenis pemberitahuan pabean ekspor hasil produksi yang
+diimpor kembali.
+
+Nomor (8) : diisi momor, tanggal, dan kode kantor pendaftaran
+pemberitahuan pabean ekspor hasil produksi yang diimpor
+kembali,
+
+Nomor (9) : diisi nomor urut seri barang, uraian jenis, satuan, dan jumlah
+hasil produksi yang diimpor kembali sesuai dengan
+pemberitahuan pabean ekspor.
+
+Nomor (10) ; diisi nilai barang/FOB hasil produksi yang diimpor kembali
+sesuai dengan pemberitahuan pabean ekspor.
+
+Nomor(11) : diisi jenis pemberitahuan pabean impor kembali hasil
+produksi.
+
+Nomor (12) ; diisi nomor, tanggal, dan kode kantor pendaftaran
+pemberitahuan pabean impor kembali hasil produksi.
+
+Nomor (13) : diisi nomor urut seri barang, uraian jenis, satuan, dan jumlah
+
+hasil produksi yang diimpor kembali sesuai dengan
+pemberitahuan pabean impor kembali,
+
+Nomor (14) ; diisi nilai barang/CIF hasil produksi yang diimpor kembali
+sesuai dengan pemberitahuan pabean impor kembali.
+
+Nomor (15) =: diisi nilai pungutan Bea Masuk, PPN/PPnBM, dan PPh sesuai
+dengan pemberitahuan pabean impor kembali.
+
+Nomor (16) ; diisi jenis pemberitahuan pabean ekspor kembali atas hasil
+produksi yang diimpor kembali.
+
+Nomor (17) : diisi momor, tanggal, dan kode kantor pendaftaran
+pemberitahuan pabean ekspor kembali atas hasil produksi
+yang diimpor kembali.
+
+Nomor (18) : diisi nomor urut seri barang, uraian jenis, satuan, dan jumlah
+hasil produksi yang diekspor kembali sesuai dengan
+pemberitahuan pabean ekspor kembali.
+
+Nomor (19); diisi nilai barang/FOB hasil produksi yang diekspor kembali
+sesuai dengan pemberitahuan pabean ekspor kembali.
+
+Nomor (20) : diisi nama lengkap yang menandatangani surat.
+
+Nomor (21); diisi jabatan yang menandatangani surat.
+
+www.peraturan.go.id

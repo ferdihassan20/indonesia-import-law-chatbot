@@ -1,0 +1,41 @@
+-35-
+
+2018, No.108
+
+No | POS TARIF / HS URAIAN BARANG KETERANGAN
+1 2 3 4
+04.05 Mentega dan lemak serta minyak lainnya yang
+diperoleh dari susu; dairy spreads.
+25 | 0405.10.00 -Mentega
+26 | 0405.20.00 -Dairy spreads
+0405.90 -Lain-lain :
+27 | 0405.90.10 --Lemak mentega anhidrat
+28 | 0405.90.20 --Minyak mentega
+29 | 0405.90.30 --Ghee
+30 | 0405.90.90 --Lain-lain
+04.06 Keju dan dadih susu.
+0406.10 -Keju segar (tidak dimasak atau tidak diawetkan)
+termasuk keju whey dan dadih susu :
+31 | 0406.10.10 --Keju segar (tidak dimasak
+atau tidak diawetkan),
+termasuk keju whey
+32 | 0406.10.20 -- Dadih susu
+0406.20 -Keju parut dan keju bubuk, dari semua jenis:
+33 | 0406.20.10 --Dalam kemasan dengan
+berat kotor melebihi 20 kg
+34 | 0406.20.90 --Lain-lain
+35 | 0406.30.00 -Keju olahan, bukan parutan
+atau bubuk
+36 | 0406.40.00 -Keju blue-vein dan _ keju
+lainnya yang mengandung
+vein dibuat dengan
+Penicillium roqueforti
+37 | 0406.90.00 -Keju lainnya
+38 | 0409.00.00 Madu alam
+16.01 Sosis dan produk semacamnya, dari daging, sisa
+
+daging atau darah; olahan makanan berasal dari
+
+produk ini.
+
+www.peraturan.go.id

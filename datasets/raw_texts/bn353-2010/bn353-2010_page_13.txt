@@ -1,0 +1,36 @@
+13 2010, No.353
+NO. | URAIAN BARANG SPESIFIKASI TERMASUK
+DALAM POS
+TARIF
+81 | GASKET/EXH Gasket dan sambungan semacam| 8484.10.00.00
+GASKET/PACKING | dari logam yang dilapisi bahan
+lain
+82. | ACCUMULATOR/AC | Alat peredam tekanan balik pada} 8708.80.14.00
+CUMULATOR ASSY | sistem hidrolik dengan bantuan
+nitrogen untuk dump truck
+83. | MOTOR ASSY Alat penyala/starter atau} 8511.40.30.00
+penghidup listrik untuk dump} 8511.40.90.00
+truck dan Alat besar
+84 |BUZZER /BUZZER | Perlengkapan pemberi_ isyarat} 8512.30.10.00
+ASSY /HORN suara
+85 | WIPER ASSY/WIPER | Penghapus kaca 8512.40.00.00
+MOTOR ASSY
+86 | WIPER ARM/WIPER | Bagian dari penghapus kaca 8512.90.20.00
+BLADE/WIPER
+GUARD/WIPER
+STAND
+87 | LAMP Unit lampu sealed beam untuk alat | 8539.10.90.00
+besar
+88 | CARD, MEMORY Unit perekam data dari} 8523.51.90.90
+semikonduktor
+89 | ALARM Perlengkapan pemberi  isyarat}| 8531.80.19.00
+suara
+90 | CIRCUIT BREAKER | Rangkaian pemutus arus listrik| 8536.20.90.00
+otomatis
+91 | FUSE/FUSE ASSY Sekering 8536.10.90.00
+92 | RELAY/RELAY Tidak melebihi 60 V 8536.41.00.00
+ASSY
+DEVICE/RELAY
+
+ASSY/
+

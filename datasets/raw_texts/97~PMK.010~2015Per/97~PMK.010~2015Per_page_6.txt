@@ -1,0 +1,99 @@
+MENTERI KEUANGAN
+REPUBLIK INDONESIA
+
+-3-
+
+POS/SUB POS
+HEADING/ SUB URAIAN BARANG
+
+BEA MASUK /
+
+DESCRIPTION OF GOODS IMPORT DUTY
+
+HEADING
+Q) _| Q) (4) (5)
+72.11 Produk canai lantaian dari besi atau baja bukan paduan, dengan/Flat-rolled products of iron or non-alloy steel, of a width of less;
+lebar kurang dari 600 mm, tidak dipalut, tidak disepuh atau tidak|than 600 mm, not clad, plated or coated.
+dilapisi.
+|- Tidak dikerjakan lebih lanjut selain dicanai panas: - Not further worked than hot-rolled:
+7211.13 |- - Dicanai keempat sisinya atau dilewatkan pada kotak tertutup,|- - Rolled on four faces or in a closed box pass, of a width exceeding}
+
+150 mm and a thickness of not less than 4 mm, not in coils and
+
+dengan lebar melebihi 150 mm dan ketebalan tidak kurang dari 4!
+without patterns in relief:
+
+mm, tidak dalam gulungan dan tanpa pola relief:
+
+7211.13.10.00 - - - Simpai dan strip, dengan lebar melebihi 150 mm tetapi tidak|- - - Hoop and strip, of a width exceeding 150 mm but not exceeding} 12,5%
+melebihi 400 mm 400 mm
+7211.13.90 - - - Lain-lain: - - - Other:
+7211.13.90.10 |- - - - Bergelombang, mengandung karbon kurang dari 0,6% menurut|- - - - Corrugated, containing by weight less than 0.6% of carbon 12,5%
+beratnya
+7211.13.90.90 - - - - Lain-lain - - Other 12,5%
+7211.14 - - Lain-lain, dengan ketebalan 4,75 mm atau lebih: Other, of a thickness of 4.75 mm or more:
+- - - Dengan ketebalan 4,75 mm atau lebih tetapi tidak melebihi 10}- - - Of a thickness of 4.75 mm or more but not exceeding 10 mm:
+mm:
+7211.14.11.00 - - - - Simpai dan strip, dengan lebar tidak melebihi 400 mm - - - Hoop and strip, of a width not exceeding 400 mm 12,5%
+7211.14.12.00 - - - - Bergelombang, mengandung karbon kurang dari 0,6% menurut]- - - - Corrugated, containing by weight less than 0.6% of carbon 12,5%
+beratnya
+5765 |7211.14.19.00 - - - - Lain-lain - - - Other 12,5%
+- - - Dengan ketebalan lebih dari 10 mm: - - Of a thickness of more than 10 mm:
+5766 |7211.14.21.00 j= = Simpai dan strip, dengan lebar tidak melebihi 400 mm - - - Hoop and strip, of a width not exceeding 400 mm 12,5%
+5767 |7211.14.22.00 - - - - Bergelombang, mengandung karbon kurang dari 0,6% menurut]- - - - Corrugated, containing by weight less than 0.6% of carbon 12,5%
+beratnya
+5768 |7211.14.29.00 - - - - Lain-lain - - - Other 12,5%
+7211.19 - - Lain-lain: - Other:
+- - - Dengan ketebalan 2 mm atau lebih tetapi kurang dari 4,75 mm: - - Of a thickness of 2 mm or more but less than 4.75 mm:
+5769 |7211.19.11.00 Simpai dan strip, dengan lebar tidak melebihi 400 mm - - - Hoop and strip, of a width not exceeding 400 mm 12,5%
+5770 |7211.19.12.00 Bergelombang, mengandung karbon kurang dari 0,6% menurut}- - - - Corrugated, containing by weight less than 0.6% of carbon 12,5%
+beratnya
+5771 |7211.19.19.00 - Lain-lain - - - Other 12,5%
+Dengan ketebalan kurang dari 2 mm: - - Of a thickness of less than 2 mm:
+6772 |7211.19.21.00 Simpai dan strip, dengan lebar tidak melebihi 400 mm - - - Hoop and strip, of a width not exceeding 400 mm 12,5%
+5773 {7211.19.22.00 - Bergelombang, mengandung karbon kurang dari 0,6% menurut|- - - - Corrugated, containing by weight less than 0.6% of carbon 12,5%
+beratnya
+6774 |7211.19.23.00 - Lain-lain, dengan ketebalan 0,17 mm atau kurang - - - Other, of a thickness of 0.17 mm or less 12,5%
+- - - Other 12,5%
+
+- Lain-lain
+
+5775 }7211.19.29.00
+Tidak dikerjakan lebih lanjut selain dicanai dingin (cold-reduced):
+
+Not further worked than cold-rolled (cold-reduced):
+
+- Containing by weight less than 0.25% of carbon:
+
+7211.23 - - Mengandung karbon kurang dari 0,25% menurut beratnya:
+5776 }7211.23.10.00 Bergelombang - - Corrugated 15%
+5777 |7211.23.20.00 Simpai dan strip, dengan lebar tidak melebihi 400 mm - - Hoop and strip, of a width not exceeding 400 mm 15%
+5778 |7211.23.30.00 Lain-lain, dengan ketebalan 0,17 mm atau kurang - - Other, of a thickness of 0.17 mm or less 15%
+7211.23.90 Lain-lain: - Other:
+5779 }7211.23.90.10 - - - - Dengan ketebalan lebih dari 40 mm - - Of a thickness more than 40 mm 10%
+5780 |7211.23.90.90 - - - - Lain-lain - - Other 15%
+7211.29 - - Lain-lain: Other:
+5781 |7211.29.10.00 |- - - Bergelombang - Corrugated 15%
+5782 {7211.29.20.00 |- - - Simpai dan strip, dengan lebar tidak melebihi 400 mm - Hoop and strip, of a width not exceeding 400 mm 15%
+5783 |7211.29.30.00 - - - Lain-lain, dengan ketebalan 0,17 mm atau kurang - Other, of a thickness of 0.17 mm or less 15%
+5784 |7211.29.90.00 - - - Lain-lain - - Other 15%
+7211.90 - Lain-lain: - Other:
+5785 |7211.90.10.00 |- - Simpai dan strip, dengan lebar tidak melebihi 400 mm - - Hoop and strip, of a width not exceeding 400 mm 15%
+5786 |7211.90.20.00 - - Bergelombang, mengandung karbon kurang dari 0,6% menurut|- - Corrugated, containing by weight less than 0.6% of carbon 15%
+beratnya
+5787 {7211.90.30.00 - - Lain-lain, dengan ketebalan 0,17 mm atau kurang - - Other, of a thickness of 0.17 mm or less 15%
+5788 |7211.90.90.00 - - Lain-lain - - Other 15%
+72.12 Produk canai lantaian dari besi atau baja bukan paduan, dengan}Flat-rolled products of iron or non-alloy steel, of a width of less
+lebar kurang dari 600 mm, dipalut, disepuh atau dilapisi. than 600 mm, clad, plated or coated.
+7212.10 - Disepuh atau dilapisi dengan timah: |- Plated or coated with tin:
+7212.20 - Disepuh atau dilapisi secara elektrolisa dengan seng: |- Electrolytically plated or coated with zinc:
+5792 }7212.20.10.00 |- - Simpai dan strip, dengan lebar tidak melebihi 400 mm Hoop and strip, of a width not exceeding 400 mm 20%
+5793 |7212.20.20.00 - - Lain-lain, mengandung karbon kurang dari 0,6% menurut beratnya|- - Other, containing by weight less than 0.6% of carbon and of aj 20%
+dan dengan ketebalan 1,5 mm atau kurang thickness of 1.5 mm or less
+5794 |7212.20.90.00 —_|- - Lain-lain - - Other 20%
+7212.30 - Disepuh atau dilapisi secara lain dengan seng: - Otherwise plated or coated with zinc:
+5795 |7212.30.10.00 - - Simpai dan strip, dengan lebar tidak melebihi 400 mm |- - Hoop and strip, of a width not exceeding 400 mm 20%
+5796 |7212.30.20.00 - - Lain-lain, mengandung karbon kurang dari 0,6% menurut beratnya|- - Other, containing by weight less than 0.6% of carbon and of al 20%
+dan dengan ketebalan 1,5 mm atau kurang thickness of 1.5 mm or less
+
+www.jdih.kemenkeu.go.i@ / y

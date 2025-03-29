@@ -1,0 +1,89 @@
+67 2022, No. 341
+
+~ Ball valve :
+
+8481.80.72 ---- Lain-lain
+~--Katup pintu, dioperasikan secara manual, dari besi atau baja :
+
+8481.80.73 - - - + Mempunyai diameter bagian dalam pemasukan dan
+pengeluaran lebih dari 5 cm tetapi tidak lebih dari 40 cm
+
+8481.80.74 - - - + Mempunyai diameter bagian dalam pemasukan dan
+pengeluaran lebih dari 40 cm
+
+8481.80.77 - - - + Mempunyai diameter bagian dalam pemasukan dan
+pengeluaran tidak lebih dari 5 cm
+- - - Manifold valve :
+
+8481.80.79 ~--- Lain-lain
+
+85.08 Vacuum cleaner.
+- Dengan motor listrik terpasang :
+
+8508.11.00 - - Dengan kekuatan tidak melebihi 1.500 W dan memiliki kantung
+debu atau penampung lainnya dengan kapasitas tidak melcbihi 201
+
+8508.19 ~ - Lain-lain ;
+
+8508.19.10 --- Dari jenis yang cocok untuk penggunaan rumah tangga
+
+8508.19.90 -- - Lain-lain
+
+8508.60.00 - Vacuum cleaner lainnya
+
+85.09 Peralatan rumah tangga mekanik elektrik dengan motor Hstrik
+terpasang, selain vacuum cleaner dari pos 85.08.
+
+8509.40.00 - Penggiling dan pencampur makanan; pengekstrak jus buah atau
+sayur
+
+8509.80 ~ Peralatan lainnya :
+
+8509.80.10 ~ - Pemoles lantai
+
+8509.80.20 - - Kitchen waste disposer
+
+8509.80.90 - - Lain-lain
+
+85.16 Pemanas air instan atau pemanas air dengan tempat
+penyimpanan dan pemanas celup, listrik; aparatus pemanas
+ruangan dan pemanas tanah, listrik; aparatus penata rambut
+elektro-termal (misalnya, pengering rambut, pengeriting rambut,
+pemanas jepit untuk mengeriting rambut) dan pengering tangan;
+setrika listrik; peralatan elektro-termal lainnya dari jenis yang
+digunakan untuk keperluan rumah tangga; resistor panas listrik,
+selain yang dimaksud dari pos 85.45.
+- Aparatus penata rambut atau pengering tangan elektro-termal :
+
+8516.31.00 ~ - Pengering rambut
+
+8516.32.00 ~- Aparatus penata rambut lainnya
+
+8516.33.00 - - Aparatus pengcring tangan
+
+8516.40 ~ Setrika listrik +
+
+8516.40.10 - ~ Dari jenis yang dirancang untuk menggunakan uap dari ketel
+industri
+
+8516.40.90 ~ - Lain-lain
+
+8516.60 - Oven lainnya; pemasak, cooking plate, boiling ring, pemanggang
+dan pembakar :
+
+8516.60.10 ~ - Rice cooker
+
+8516.60.90 ~- Lain-lain
+~ Peralatan elektro-termal lainnya :
+
+8516.71.00 - - Pembuat kopi atau teh
+
+8516.72.00 ~ - Pemanggang roti
+
+8516.79 - - Lain-lain :
+
+8516.79.10 ~--Ketel
+
+8516.79.90 - - - Lain-lain
+
+www.peraturan.go.id

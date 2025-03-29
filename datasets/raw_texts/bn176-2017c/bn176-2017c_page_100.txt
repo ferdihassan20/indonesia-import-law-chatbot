@@ -1,0 +1,238 @@
+2017, No.176
+
+-420-
+
+HS Cod: Uraian Barang
+en 2) @
+8509 [8515.90.90 _|-- Lain-lain
+185.16 /Pemanas air instan atau pemanas air dengan tempat
+penyimpanan dan pemanas celup, listrik; aparatus
+/pemanas ruangan dan pemanas tanab, listrik; aparatus
+penata rambut clektro-termal (misalnya, pengezing
+rambut, pengeriting rambut, pemanas jepit untuk
+/mengeriting rambut) dan peagering tangan; setrike
+istrik; peralatan elektro-termal lainnya dari jenis yang
+/digunakan untuk keperluan rumah tangga; resistor
+panas listrik, selain yang dimaleud dari pos 85.45.
+8516.10 - Pemanas air instan atau pemanas alr dengan tempat
+penyimpanan dan pemanas celup, listrik =
+-- Pemanas air instan atau pemanas air dengan tempat
+pcnyimpanan :
+8600 [8516.10.11 |-. - Dispenser air yang hanya dilengkapi dengan pemanas
+air, untuk keperluan rumah tangga
+8601 |8516,10.19 _|-- - Lain-lain
+8602 [8516.10.30 |-- Pemanas air celup
+- Apanitus pemanas ruangan listeik dan aparatis
+|pemanas tanah listrik :
+8603 [8516.21.00 |--.Radiator pemanas tempat penyimpanan
+8604 [8516.29.00 |-- Lain-tain
+- Aparatus penata rambut atau pengering tangan clektro-
+ermal :
+8605 [8516.31.00 |-- Pengering rambut
+8606 |8516.32.00 |- - Aparatus penata rambut lainnya
+8607 |8516.33.00 _|-- Aparatus pengering tangan
+8516.40 = Setrikea listrile:
+2608 [8516.40.10 Dari jenis yang dirancang untuk menggunakan wap dari
+ketel industri
+8609 [8516.40.90 |-- Lain-lain
+8610 |8516.50.00 _|- Microwave aven
+8516.60 - Oven lainnya; pemasuk, cooking plate, boiling ring,
+pemanggang dan pembakar ;
+8611 [8516.60.10 _|- - Rice cooker
+8612 [8510.00.90 |-- Lain-lain
+~ Peralatan clektro-termal lainnya
+8613 }8516.71.00 _|-- Pembuat kopi atau teh
+8614 |8516.72,00 Pemanggang, roti
+18516,79 in:
+8615 [8516.79.10
+8616 [8516.79.90 |--- Lain-lain
+8516.80 - Resistor pemanas listrile :
+8617 |8516.80.10 |. - Untuk mesin type-founding atau type-setting; untuk
+tanur industri
+8618 [8516.80.30 |-- Untuk peralatan rumah tangga
+8619 [8516.80.90 _|-- Lain-lnin
+8516.90 - Bagian :
+- - Dari barang pada subpos 8516.33, 8510.50, 8516.60,
+8516.71 atau 8516.79.10 :
+8620 |8516.90,21 + Sealed hotplate untuk peralatan rumah tangga
+8621 [8516.90.29 - Lain-tain
+8622 |8516.90.30 _|-- Dari barang pada subpos 8516.10
+8623 [8516.90.40 _|- - Resistor pemanas listrik untuk mesin type-founding
+atau type-seiting
+8624 [8516.90.90 |-- Lain-lain
+85.17 /Perangkat telepon, termasuk telepon untuk jaringan
+selaler atau untuk jaringan tanpa kabel lainnya;
+laparatus ininnya untuk mengirimkan atau menerima
+[suaza, gambar, atau data lainnya termasuk aparatus
+juntuk komunikasi dalam jaringan kabel atau tanpa
+‘kabel (seperti local atau wide area network), selain dari
+laparat transmis! atau penerima dari pos 84.43, 85.25,
+185.27 atau 85.28.
+- Perangkat telepon, termasuk telepon untuk jaringan
+seluler atau untuk jaringan tanpa kabel lainnya :
+8625 |8517.11,00 _ |-- Perangkat telepon dengan gagang set tanpa kabel
+8626 [8517.12.00 _|-- Telepon untuk jaringan seluler atau untuk jaringan
+tanpa kabel lainnya
+9627 [8517.18.00 |-- Lain-tain
+- Aparitus Isinnya untuk transmnisi atau menerima suara,
+gambar atau data lain, termasuk aparatus untuk
+komunikasi dengan kabel atau jaringan tanpa kabel
+(seperti local atau wide area network) :
+8628 |8517.61.00 _|-- ase station
+(8517.62 - + Mesin untuk menetima, konversi dan transmisi atau
+
+regenerasi suara, gambar atau data lainnys, termasuk
+Japaratus switching dan routing :
+
+Description of Goods
+
+>= Other
+Hlectric instantancous or storage water
+heaters and immersion heaters; clectric
+space heating apparatus and soil heating
+apparatus; electro-thermic hairdressing
+apparatus (for example, hair dryers, hair
+curlers, curling tong heaters) and hand
+Aryers; electric smoothing irons; other
+electro-thermic appliances of a kind used
+for domestic purposes; electric heating
+resistors, other than those of heading
+85.45.
+
+- Electric instantancous or storage water
+heaters and immersion heaters :
+- + Instantancous or storage water heaters :
+
+- - - Water dispenser fitted only with water
+heater, for domestic use
+~ +» Other
+- Immersion heaters
+- Electric space heating apparatus and
+electric soil heating apparatus :
+- Storage heating radiators
+- Other.
+- Electro-thermic hait-dressing or hand-
+drying apparatus
+
+~ Mair dryers
+- - Other hairdressing apparatus
+
++ Hand-drying apparattis
+- Electric smoothing irons
+
+- Of a kind designed to use steam from
+industrial boilers
+-- Other
+- Microwave ovens
+- Other ovens; cookers, cooking plates,
+boiling rings, grillers and roasters :
+
+~ Rice cookers
+> - Other
+- Other electro-thermic appliances =
+- Collie oF tea makers.
+~ Toasters:
++ Other
+- += Kettles
+~~ - Other
+- Blectric heating resistors :
+
+For type: founding or type-setting
+
+machines; for industrial furnaces
+or domestic appliances
+- Other
+- Parts,
+- - Of goods of subheading 8516.33,
+8516.50, 8516.60, 8516.71 oF 8516.79.10 :
+
+Sealed hotplates for domestic appliances}
+
+Other
+
+- Of goods of subheading 8516.10
+
+- - Of electric heating resistors for type-
+founding or type-setting machines
+
+- + Other
+
+‘Telephone sets, including telephones for
+cellular networks or for other wireless
+networks; other apparatus for the
+{transmission or reception of voice, images
+jor other data, including apparatus for
+communication in a wired or wircless:
+networks (such as a local or wide area
+network), other than transmission or
+reception apparatus of heading 84.43,
+85.25, 85.27 or 85.28.
+
+- Telephone sets, including telephones for
+cellular networks or for other wireless
+networks :
+
++ ~ Line telephone sets with cordless
+handsets
+
++ - Telephones for cellular networks or for
+other wireless networks
+
++= Other
+
+- Other apparatus for transmission or
+reception of voice, images or other data,
+
+including appamtus for communication in a
+[wired or wireless network (stich as a local or
+wide area network) :
+
+- - Base stations
+
+- + Machines for the reception, conversion
+Janel transmission or regeneration af voiee,
+images or other data, including switching
+and routing apparatus >
+
+15,0%
+
+15,0%
+10,0%
+
+10,0%
+10,0%
+
+10.0%
+10,0%
+10,0%
+10,0%
+15,0%
+10.0%
+15,0%
+15,0%
+
+15,0%
+15,0%
+
+15,0%
+15,0%
+
+5.0%
+
+5,0%
+5,0%
+
+5,0%
+0,0%
+0,0%
+
+0.0%
+
+0,0%
+0,0%
+
+0.0%
+
+0,0%
+
+www.peraturan.go.id

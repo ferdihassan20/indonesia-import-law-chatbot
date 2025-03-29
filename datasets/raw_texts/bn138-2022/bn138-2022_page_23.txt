@@ -1,0 +1,51 @@
+_-93- 2022, No.138
+
+Angka (23) : diisi dengan alamat pemasok/ supplier.
+
+Angka (24) : diisi dengan nama identitas produsen/ manufacturer.
+
+Angka (25) : diisi dengan alamat produsen/ manufacturer,
+
+Angka (26) : diisi dengan nama rencana pelabuhan pemasukan/tempat
+impor.
+
+Angka (27) : diisi dengan tanggal perkiraan importasi barang,
+
+Angka (28) : diisi sesuai dengan skema Ketentuan Asal Barang yang dipilih.
+
+Angka (29) : diisi sesuai dengan fakta-fakta yang berkaitan dengan proses
+
+produksi barang.
+Angka (30) : diisi sesuai dengan bahan baku yang digunakan dalam proses
+produksi barang.
+Angka (33)
+s.d.
+Angka(37) ; diberi tanda check ( ¥ ) sesuai dengan kondisi transaksi yang
+sebenarnya.
+
+Angka (38) : diisi dengan nama skema perjanjian atau kesepakatan
+internasional yang digunakan dalam pemanfaatan tarif bea
+masuk.
+
+Angka (39) : diisi dengan origin criteria yang dimintakan pendapat, seperti
+Wholly Obtained or Produced, Not Wholly Obtained (Regional
+Value Content, Change in Tariff Classification, Produced
+Exclusively, Specific Process, Combination) atau Product Specific
+Rules.
+
+Angka (40) : diisi dengan negara asal barang.
+
+Angka (41) : diisi dengan peraturan yang digunakan untuk memenuhi
+ketentuan atau kebijakan di bidang perdagangan yang
+ditetapkan oleh suatu negara atau sekelompok negara.
+
+Angka (42)
+s.d
+Angka (44) : diisi sesuai dengan gambaran mekanisme pengiriman yang akan
+dilakukan oleh importir.
+Angka (45): diisi dengan rincian dokumen pelengkap dari permohonan
+PKBSI.
+
+Angka (46): —diisi dengan nama, tanda tangan pemohon dan cap perusahaan.
+
+www.peraturan.go.id

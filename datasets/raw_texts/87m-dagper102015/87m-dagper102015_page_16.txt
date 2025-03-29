@@ -1,0 +1,44 @@
+-3-
+
+1604.13 -- Sarden, sardinella dan brisling atau sprat:
+
+a
+Sa
+(| datememasan Redep ude |
+
+1604.17.10.00 | --- Dalam kemasan kedap udara
+
+--- Ikan makarel kuda, dalam kemasan kedap
+
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+
+44 1604.19.20.00
+udara
+
+1604.19.30.00 | --- Lain-lain, dalam kemasan kedap udara
+1604.20 - Ikan diolah atau diawetkan lainnya:
+
+Po -- Sirip ikan hiu, siap untuk dikonsumsi:
+1604.20.11.00 | --- Dalam kemasan kedap udara
+
+a
+a
+
+45
+46
+47
+48
+49
+50

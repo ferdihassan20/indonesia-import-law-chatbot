@@ -1,0 +1,36 @@
+2015, No.1090 20
+
+No Pos Tarif/HS Uraian Barang
+331 5702.50.20.00 - - Dari serat jute
+332 5702.50.90.00 - - Lain-lain
+
+- Lainnya, bukan dengan konstruksi bulu, sudah jadi:
+
+5702.91 - - Dari wol atau bulu hewan halus:
+333 5702.91.10.00 - -- Babut untuk sembahyang
+334 5702.91.90.00 - - - Lain-lain
+5702.92 - - Dari bahan tekstil buatan:
+335 5702.92.10.00 - -- Babut untuk sembahyang
+336 5702.92.90.00 - - - Lain-lain
+5702.99 - - Dari bahan tekstil lainnya:
+- - - Dari kapas:
+No Pos Tarif/HS Uraian Barang
+- - Lain-lain:
+
+- - - Keset lantai, dari jenis yang digunakan untuk kendaraan bermotor
+dari pos 87.02, 87.03 atau 87.04
+
+353 5703.90.99.00 --- Lain-lain
+Karpet dan penutup lantai tekstil lainnya, dari kain kempa, tidak
+
+352 5703.90.91.00
+
+SHOF berumbai atau tidak dibentuk flock, sudah jadi maupun belum.
+354 5704.10.00.00 - Ubin, mempunyai luas permukaan maksimum 0,3 m?
+355 5704.90.00.00 - Lain-lain
+57.05 Karpet dan penutup lantai tekstil lainnya, sudah jadi maupun belum.
+- Dari kapas:
+356 5705.00.11.00 - - Babut untuk sembahyang
+357 5705.00. 19.00 - - Lain-lain
+
+www.peraturan.go.id

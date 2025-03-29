@@ -1,0 +1,35 @@
+2017, No.1894 _g-
+
+No Pos Tarif/HS Uraian Barang
+604.11 - - Salmon:
+13. 604.11.10 - - - Dalam kemasan kedap udara untuk penjualan
+eceran
+14. 604.11.90 - - - Lain-lain
+604.12 - - Herring:
+15. 604.12.10 - - - Dalam kemasan kedap udara untuk penjualan
+eceran.
+16. 604.12.90 - - - Lain-lain
+604.13 - - Sarden, sardinella dan brisling atau sprat:
+- - - Sarden:
+17. 604.13.11 ---- Dalam kemasan kedap udara untuk
+
+penjualan eceran
+
+18. 604.13.19 ---- Lain-lain
+- - - Lain-lain:
+19, 604.13.91 ---- Dalam kemasan kedap udara untuk
+
+penjualan eceran
+
+20. 604.13.99 - --- Lain-lain
+
+604.14 - - Tuna, cakalang dan bonito (Sarda spp.):
+
+--- Dalam kemasan kedap udara untuk penjualan
+
+eceran
+21. 604.14.11 ----Tuna
+22. 604.14.19 ----Lain-lain
+23. 604.14.90 ~~ Lain-lain
+
+www.peraturan.go.id

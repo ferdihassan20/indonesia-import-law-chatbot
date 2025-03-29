@@ -1,0 +1,67 @@
+2013, No.206 4
+
+10.
+
+11.
+
+12.
+
+13.
+
+14.
+
+15.
+
+16.
+
+17.
+
+Pos Persepsi adalah Kantor Pos yang ditunjuk oleh Menteri
+Keuangan untuk menerima setoran penerimaan negara.
+
+Nomor Transaksi Penerimaan Negara yang selanjutnya disingkat
+dengan NTPN adalah nomor bukti transaksi penerimaan yang
+diterbitkan melalui Modul Penerimaan Negara.
+
+Nomor Transaksi Bank yang selanjutnya disingkat dengan NTB
+adalah nomor bukti transaksi penerimaan yang diterbitkan oleh
+Bank Persepsi atau Bank Devisa Persepsi.
+
+Nomor Transaksi Pos yang selanjutnya disingkat dengan NTP
+adalah nomor bukti transaksi penerimaan yang diterbitkan oleh
+Pos Persepsi.
+
+Surat Setoran Pabean, Cukai, dan Pajak, yang selanjutnya
+disingkat dengan SSPCP adalah surat yang digunakan untuk
+melakukan pembayaran dan sebagai bukti pembayaran atau
+penyetoran penerimaan negara.
+
+Kantor Bea dan Cukai adalah kantor dalam lingkungan Direktorat
+Jenderal Bea dan Cukai tempat dipenuhinya kewajiban pabean
+dan cukai sesuai dengan Peraturan Menteri Keuangan ini.
+
+Pertukaran Data Elektronik Kepabeanan dan Cukai yang
+selanjutnya disebut PDE Kepabeanan dan Cukai adalah proses
+penyampaian dokumen pabean dan dokumen cukai dalam bentuk
+pertukaran data elektronik melalui komunikasi antar aplikasi dan
+antar organisasi yang terintegrasi dengan menggunakan
+perangkat sistem komunikasi data.
+
+Bendahara Penerimaan adalah orang yang ditunjuk untuk
+menerima, menyimpan, menyetorkan, menatausahakan, dan
+mempertanggungjawabkan uang pendapatan negara/daerah
+dalam rangka pelaksanaan Anggaran Pembangunan dan Belanja
+Negara (APBN)/Anggaran Pembangunan dan Belanja Daerah
+(APBD) pada kantor/satuan kerja kementerian
+negara/lembaga/pemerintah daerah.
+
+Surat Penetapan adalah surat tagihan yang diterbitkan oleh
+pejabat bea dan cukai atau Direktur Jenderal Bea dan Cukai.
+
+Penerimaan negara dalam rangka impor terdiri dari:
+
+a. bea masuk, termasuk bea masuk anti dumping, bea masuk
+imbalan, bea masuk tindakan pengamanan, bea masuk
+pembalasan, bea masuk ditanggung pemerintah atas hibah
+(SPM Nihil), dan bea masuk dalam rangka Kemudahan Impor
+Tujuan Ekspor (KITE);

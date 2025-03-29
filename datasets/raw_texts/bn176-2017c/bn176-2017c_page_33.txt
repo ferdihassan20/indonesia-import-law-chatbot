@@ -1,0 +1,262 @@
+-353-
+
+7213,10,10
+
+7213.10.90
+
+7214.10.11
+17214.10.19
+
+7214.10.21
+
+7214.10.29
+7214.20
+
+7214.20.41
+
+7214.20.49
+
+7214.20.51
+7214.20.59
+7214.20.01
+7214.20.69
+7214.30
+
+7214.30.10
+7214.30.90
+
+7214.91
+
+7214.91.11
+
+7214.91.12
+
+7214.91.19
+
+7214.91.21
+
+7214.91.29
+17214,99
+
+Simpai dan strip
+
+Lain-lain
+Batang dan batang keell, dicanai panas, dalam
+jgulungan yang putarannya tidak beraturan, dari besi
+atau baja bukan paduan.
+~ Mengandung fckukan, rusuk, alur atau deformasi
+lainnya yang dihasilkan selama proses pencanaian :
+
+-- Dengan ukuran diameter penampang silang
+ingkarannya tidek melebihi $0 mm
+
+|. - Lain-tain
++ Lain-lain, dari baja free-cutting
+- Lain-lain :
+|-- Dengan ukuran diameter penampang silang,
+Hingkarannya kurang dari 14 mm >
+jg >artdenle yang digunakcan dalam pembuatan soldering
+stic
+- - - Dari jenis vang digunakan untuk penguatan beton
+rebar)
+
+Lain-tain
+
+Lain-tain =
+
+Dari jenis yang digunakan dalam pembuatan soldering
+
+stick
+~~ Dari jenis yang digunakan unttik penguatan beton
+
+(rebar)
+~~~ Lain-lain
+(Batang dan batang kecil lainnya dari besi atau baja
+
+n paduan, tidak dikerjakan lebih lanjut selain
+|ditempa, dicanai panss, ditarik panas atau diekstrusi
+[panas, termasuk yang dipuntir setelah dieanai.
+
+- Ditempa :
+-- Mengandung karbon kurang dari 0,6 % menurut
+lveratnva :
+
+Dengan penampang silang lingkaran
+
+Lain-lain
+
+Lain-lain :
+
+Dengan penampang silang lingkaran
+
+tain-lain
+- Mengandung lekukan, rusuk, alur atau mengalami
+|deformasi ainnya yang dibasitkan sclama proses
+pencanaian atau dipuntir setelah dicana :
+
+- - Mengandung karbon kurang dari 0,6 % menurut
+beratnya =
+
+Dengan penampang silang lingkaran :
+
+~ Dari jenis yang digunakan untuk penguatan beton
+(rebar)
+
+Lain-lain :
+- Dari jenis yang digunakan untuk penguatan beton
+
+Dengan penampang silang lingkaran :
+~ Dari jenis yang digunakan untuk penguatan beton
+(rebar)
+- Lain-lain
+Lain-lain:
+Dari jenis yang digunakan untuk penguatan beton
+rebar)
++ === Lain-tain
+- Lain-lain, dari baja free-cutting :
+Dengan penampang silang lingkaran
+Lain-lain
+- Lain-lain :
+- - Dengan penampang silang empat persegi panjang
+(selain bujur sangkar) ;
+- - - Mengandung karbon kurang dari 0,6 % menurut
+lberatnya :
+- - - - Mengandung karbon 0,38 % atau lebih dan mangan
+lkurang dari 1,15 % menurut beratnya
+
+-- - - Mengandung karbon 0,17 % atau lebih tetapi tidak
+lebib dari 0,46 % dan mangan 1,2 % atau lebih tetapi
+kurang dari 1,65 % menurut beratnya
+
+= Lain-lain
+
+~ Mengandung karbon 0,6 % atau lebih menurut
+berataya =
+~~» Mengandung mangan kurang dari 1,15 % menurit
+berataya
+++ == Lain-tain
+
+Lain-lain :
+- - - Mengandung karbon 0,6 % atau lebih menurut
+beratnya, selain penampang silang lingkaran
+
+}.--- Mengandung mangan kurang dari 1,15 % menurut
+lberatnya
+++ == Lain-lain
+
+= = Lain-lain :
+
+-- - Hadp and strip
+
+-- - Other
+
+[Bars and rods, hot-rolled, in irrogularly
+|wound coils, of iron or non-alloy steel,
+
+- Containing indentations, ribs, grooves or
+lother deformations produced during the
+rolling process =
+- - Of circular cross-section measuring not
+‘exceeding 50 mm in diameter
+-- Other
+- Other, of free-cutting steel
++ Other
+- - Of circular cross-section measuring less
+than 14 mm in diameter
+--- Of a kind used for producing soldering
+sticks
+
+~ Of a kind used for concrete
+reinforcement (rebars}
+
+- Other
+- = Other:
+--- Of a kine used for producing soldering
+sticks
+|- - - Of a kind used for concrete
+reinforcement (ecbars}
+- = Other
+Other bars and rods of iron or non-alloy
+
+Isteel, not further worked than forged, hot-
+
+rolled, hot-drawn or hot-extructed, but
+lincluding those twisted after rolling.
+
+- Forged
+- - Containing by weight less than 0.6 % of
+learbon >
+
+|-- - Of cireullar cross-section
+
+-- = Other
+
+j-- Other :
+
+~~ Of circutar cross-section
+
+J--- Other
+
+- Containing indentations, ribs, grooves or
+other deformations produced during the
+rolling process or twisted after rolling :
+
+- - Containing by weight less than 0.6 % of
+carbon :
+- - - Of eireular cross-section :
+}- - - - Of a kind used for concrete
+reinforcement (rebars}
+- - - - Other
+Other
+Ofa kind used for concrete
+
+reinforcement (rebars)
+-- - - Other
+- - Other =
+- + = Of circular cross-section :
++ «=» Of a kind used for concrete
+reinforcement (rebars)
+-- - - Other
+Other
+
++ = == Of a kind used for concrete
+reinforcement (rebars)
+
+-- Other
+- Other, of free-cutting stect :
+- - Of circular cross section
+- - Other
+- Other
++» Of rectangular {other than square) cross-
+sect
+- - - Containing by weight less than 0.6 % of
+jearbon =
+
+>>> Containing by weight 0.38 % or more
+
+Jof carbon and less than 1,15 % of
+[manganese
+- - - - Containing by weight 0.17 % or more
+but not more than 0.46 % of carbon and 1.2
+% or more but less than 1.65 % of
+
+- - - Containing by weight 0.6 % or more of
+Jearbon :
+
+- -- Containing by weight less than 1,15 %
+jof manganese
+|. - - - Other
+-- Other :
+- - - Containing by weight 0.6 % or more of
+Jearbon, other than of circular cross-section =
+
+- - -- Containing by weight less than 1.15 9%
+Jof manganese
+
++> Other
+
+Other +
+
+2017, No.176
+
+www.peraturan.go.id

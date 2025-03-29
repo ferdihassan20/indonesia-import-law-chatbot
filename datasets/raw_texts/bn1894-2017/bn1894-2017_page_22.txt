@@ -1,0 +1,36 @@
+2017, No.1894 -99-
+
+No Pos Tarif/HS Uraian Barang
+
+tambahan alkohol, mengandung tambahan gula
+atau pemanis lainnya maupun tidak.
+
+- Jus orange:
+70. 2009.11.00 - - Beku
+71. 2009.12.00 - - Tidak beku, dengan nilai Brix tidak melebihi 20
+72. 2009.19.00 - - Lain-lain
+
+- Jus nanas:
+
+73. 2009.31.00 - - Dengan nilai Brix tidak melebihi 20
+74. 2009.41.00 - - Dengan nilai Brix tidak melebihi 20
+75. | 2009.49.00 - - Lain-lain
+76. 2009.50.00 - Jus tomat
+
+- Jus anggur (termasuk grape must) :
+
+77. 2009.61.00 - - Dengan nilai Brix tidak melebihi 30
+78. 2009.69.00 - - Lain-lain
+
+- Jus apel :
+79. 2009.7 1.00 - - Dengan nilai Brix tidak melebihi 20
+80. 2009.79.00 - - Lain-lain
+
+- Jus dari satu jenis buah atau sayuran lainnya:
+
+81. 2009.81.10 - - - Cocok untuk bayi atau anak-anak
+82. ex.2009.81.90. | - - - Lain-lain
+2009.89 - - Lain-lain :
+- - - Lain-lain:
+
+www.peraturan.go.id

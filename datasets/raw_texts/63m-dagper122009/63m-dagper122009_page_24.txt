@@ -1,0 +1,92 @@
+POS TARIF/
+
+NO. HS URAIAN BARANG KETERANGAN
+(1) (2) (3) (4)
+8461.30 -Mesin penggerek :
+127 |8461.30.10.00 |--Dioperasikan secara elektrik
+8461.40 -Mesin pemotong gir, penggerinda gir atau
+
+perampung gir :
+
+128 |8461.40.10.00 |--Dioperasikan secara elektrik
+
+8461.50 -Mesin penggergaji atau mesin pemotong :
+129 |8461.50.10.00 |--Dioperasikan secara elektrik
+8461.90 -Lain-lain :
+
+130 |8461.90.10.00 |--Dioperasikan secara elektrik
+
+84.62 Mesin perkakas (termasuk pengepres) untuk me-
+
+ngerjakan logam dengan menempa, memalu atau
+
+menumbuk; mesin perkakas (termasuk pengepres)
+
+untuk mengerjakan logam dengan cara membeng-
+
+kokkan, melipat, meluruskan, memipihkan, meng-
+
+gunting, melubangi atau menakik; pengepres un-
+
+tuk mengerjakan logam atau karbida logam, ti-
+
+dak dirinci diatas.
+
+8462.10 -Mesin penempa atau penumbuk (termasuk penge-
+
+pres) dan mesin untuk memalu :
+
+131 |8462.10.10.00 |--Dioperasikan secara elektrik
+
+-Mesin pembengkok, pelipat, pelurus atau pemi-
+
+pih (termasuk pengepres) :
+
+132 |8462.21.00.00 |--Dikontrol secara numerik
+
+8462.29 --Lain-lain :
+
+133 |8462.29.10.00 |---Dioperasikan secara elektrik Kecuali mesin tekuk dengan spesifikasi:
+
+panjang max 1270 mm; tebal 3 mm;
+
+bending angle 25-179 derajat
+
+-Mesin penggunting (termasuk pengepres), sela-
+
+in kombinasi mesin pelubang dan penggunting :
+
+134 |8462.31.00.00 |--Dikontrol secara numerik
+
+8462.39 --Lain-lain :
+
+135 |8462.39.10.00 |---Dioperasikan secara elektrik
+
+-Mesin pelubang atau mesin penakik (termasuk
+
+pengepres), termasuk kombinasi mesin pelubang
+
+dan penggunting :
+
+136 |8462.41.00.00 |--Dikontrol secara numerik
+
+8462.49 --Lain-lain :
+137 |8462.49.10.00 |---Dioperasikan secara elektrik
+-Lain-lain :
+138 |8462.91.00.00 |--Pengepres hidrolik kecuali mesin press dengan
+spesifikasi: max bending plates 3 mm
+x 1200 mm;
+8462.99 --Lain-lain :
+
+139 |8462.99.10.00 |---Mesin untuk pembuatan kotak, kaleng dan
+
+kemasan semacam itu dari tin plate, diope-
+
+rasikan secara elektrik
+
+140 |8462.99.50.00 |---Lain-lain, dioperasikan secara elektrik
+
+84.63 Mesin perkakas lainnya untuk mengerjakan logam
+
+12
+

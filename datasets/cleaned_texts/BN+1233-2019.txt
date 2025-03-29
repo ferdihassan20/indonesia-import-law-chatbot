@@ -1,0 +1,122 @@
+Instruksi Pemrosesan Dokumen Peraturan/Undang-Undang Terkait Impor di Indonesia
+
+Di bawah ini merupakan hasil ekstraksi teks dari dokumen peraturan dan/atau undang-undang terkait impor di Indonesia. Hasil ekstraksi ini mungkin mengandung: 1. Simbol atau karakter asing seperti tanda bold, italic, underline, atau karakter lainnya yang tidak relevan dan perlu dihapus. 2. Kesalahan ejaan yang perlu diperbaiki agar sesuai dengan ejaan yang benar dalam bahasa Indonesia. 3. Susunan kata atau kalimat yang tidak sesuai urutan, sehingga perlu disusun kembali agar mudah dipahami dan sesuai dengan struktur aslinya. 4. Tabel yang harus diubah menjadi teks deskriptif tanpa menghilangkan informasi penting.
+
+Tugas Anda: 1. Membersihkan dan merapikan teks agar dapat dipahami dengan baik serta mengikuti sistematika baku dalam peraturan perundang-undangan Indonesia. 2. Menjaga struktur asli dokumen agar tetap utuh dan berurutan, yaitu: - Pembukaan: "Dengan Rahmat Tuhan Yang Maha Esa" harus selalu berada di bagian awal dokumen. - "Menimbang" harus berada setelah pembukaan, tanpa berpindah posisi atau bergabung dengan bagian lain. - "Mengingat" harus berada setelah bagian "Menimbang" dan wajib memiliki indeks a, b, c, dan seterusnya. Jangan menghilangkan atau menggabungkan poin-poin di dalamnya. - "Memutuskan" harus selalu diawali dengan kata "Menetapkan" yang tidak boleh dihapus atau diubah. - Isi pasal-pasal harus tetap terstruktur sesuai format aslinya. - Penutup harus tetap utuh, mencakup tanggal penetapan, nama pejabat, serta berita negara (jika ada). 3. Jika Anda menemukan bagian yang menyerupai tabel, ubah menjadi teks deskriptif dengan format berikut: - Setiap baris tabel harus dikonversi menjadi kalimat yang jelas dan mengikuti hierarki informasi yang logis. - Jika tabel memiliki kategori utama dan subkategori, gunakan format daftar bullet points untuk menunjukkan hubungan antar kategori. - Nama kolom harus dijadikan referensi dalam penyusunan kalimat. - Tarif bea masuk harus disebutkan secara eksplisit di akhir setiap poin.
+
+Contoh konversi dari tabel ke teks deskriptif:
+
+Tabel Input (OCR): | POS/SUB POS NO. | HEADING/URAIAN BARANG | DESKRIPSI BARANG | TARIF BEA MASUK | |-----------------|----------------------|------------------|----------------| | 09.01          | Kopi, digongseng atau dihilangkan kafeinnya maupun tidak | Coffee, whether or not roasted or decaffeinated |   | | - Kopi, digongseng: | - Coffee, roasted: | |  | | 0901.21 | Tidak dihilangkan kafeinnya: | - Not decaffeinated: | 20% | | 0901.21.10.00 | Tidak ditumbuk | Unground | 20% | | 0901.21.20.00 | Ditumbuk | Ground | 20% |
+
+Output Deskriptif yang Benar: - Kopi (HS Code: 09.01) termasuk kopi yang digongseng atau dihilangkan kafeinnya. - Kopi yang digongseng dan tidak dihilangkan kafeinnya dikenakan tarif bea masuk sebesar 20%, dengan rincian: - Kopi yang tidak ditumbuk dikenakan tarif 20%. - Kopi yang ditumbuk dikenakan tarif 20%. - Kopi yang digongseng dan telah dihilangkan kafeinnya juga dikenakan tarif bea masuk sebesar 20%, dengan rincian: - Kopi yang tidak ditumbuk dikenakan tarif 20%. - Kopi yang ditumbuk dikenakan tarif 20%.
+
+Penting: - Jangan mengubah urutan atau struktur bagian dalam dokumen. Jika bagian "Menimbang" dan "Mengingat" ditemukan dalam posisi yang salah, pindahkan ke posisi yang benar. - Pastikan semua poin dalam "Mengingat" lengkap dan memiliki indeks a, b, c, dst. Jangan menggabungkan atau menghapus poin. - Jangan menghapus atau mengubah kata "Menetapkan" pada bagian "Memutuskan". - Pastikan format tetap jelas dan tidak ada informasi yang terbuang. - Gabungkan hasil cleaning ke dalam satu file, tidak perlu pemisahan antara teks biasa dan tabel. - Selesaikan sampai akhir dokumen, tidak perlu memotong atau membuang bagian mana pun dari dokumen maupun memberi output seperti "(dan seterusnya untuk item lainnya)". - Jangan memberikan keterangan bahwa dokumen telah dibersihkan. - Pastikan tidak ada format teks yang berantakan terutama jika mengandung barisan karakter seperti '--' atau '|'
+
+Hasil yang Diharapkan: Dokumen yang telah diperbaiki harus memiliki struktur yang lengkap, rapi, tidak ada bagian yang hilang, serta tabel yang dikonversi ke dalam teks deskriptif tanpa kehilangan informasi.
+
+BERITA NEGARA
+
+REPUBLIK INDONESIA
+
+No.1233, 2019
+
+KEMENPERIN. Pertimbangan Teknis Impor Besi, Baja, Baja Paduan. Produk Turunannya. Perubahan.
+
+PERATURAN MENTERI PERINDUSTRIAN REPUBLIK INDONESIA
+
+NOMOR 32 TAHUN 2019 TENTANG
+
+PERUBAHAN ATAS PERATURAN MENTERI PERINDUSTRIAN NOMOR 1 TAHUN 2019 TENTANG PERTIMBANGAN TEKNIS IMPOR BESI ATAU BAJA, BAJA PADUAN, DAN PRODUK TURUNANNYA
+
+DENGAN RAHMAT TUHAN YANG MAHA ESA
+
+MENTERI PERINDUSTRIAN REPUBLIK INDONESIA,
+
+Menimbang:
+
+bahwa untuk meningkatkan kinerja industri di dalam negeri, penerbitan pertimbangan teknis untuk produk besi dan baja bagi perusahaan industri perlu dihapus; bahwa Peraturan Menteri Perindustrian Nomor 1 Tahun 2019 tentang Pertimbangan Teknis Impor Besi atau Baja, Baja Paduan, dan Produk Turunannya sudah tidak sesuai lagi dengan kebutuhan dan perkembangan, pemberian pertimbangan teknis untuk produk besi dan baja bagi perusahaan industri, sehingga perlu dilakukan perubahan;
+
+bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a dan huruf b, perlu menetapkan Peraturan Menteri Perindustrian tentang Perubahan atas Peraturan Menteri Perindustrian Nomor 1 Tahun 2019 tentang Pertimbangan Teknis Impor Besi atau Baja, Baja Paduan, dan Produk Turunannya;
+
+Mengingat:
+
+1. Undang-Undang Nomor 39 Tahun 2008 tentang Kementerian Negara (Lembaran Negara Republik Indonesia Tahun 2008 Nomor 166, Tambahan Lembaran Negara Republik Indonesia Nomor 4916);
+
+2. Undang-Undang Nomor 3 Tahun 2014 tentang Perindustrian (Lembaran Negara Republik Indonesia Tahun 2014 Nomor 4, Tambahan Lembaran Negara Republik Indonesia Nomor 5492);
+
+3. Peraturan Presiden 29 Tahun 2015 tentang Kementerian Perindustrian (Lembaran Negara Republik Indonesia Tahun 2015 Nomor 54) sebagaimana telah diubah dengan Peraturan Presiden Nomor 69 Tahun 2018 tentang Perubahan atas Peraturan Presiden 29 Tahun 2015 tentang Kementerian Perindustrian (Lembaran Negara Republik Indonesia Tahun 2018 Nomor 142);
+
+4. Peraturan Menteri Perindustrian Nomor 35 Tahun 2018 tentang Organisasi dan Tata Kerja Kementerian Perindustrian (Berita Negara Republik Indonesia Tahun 2018 Nomor 1509);
+
+5. Peraturan Menteri Perindustrian Nomor 1 Tahun 2019 tentang Pertimbangan Teknis Impor Besi atau Baja, Baja Paduan, dan Produk Turunannya (Berita Negara Republik Indonesia Tahun 2019 Nomor 28);
+
+MEMUTUSKAN: MENETAPKAN:
+
+PERATURAN MENTERI PERINDUSTRIAN TENTANG PERUBAHAN ATAS PERATURAN MENTERI PERINDUSTRIAN NOMOR 1 TAHUN 2019 TENTANG PERTIMBANGAN TEKNIS IMPOR BESI ATAU BAJA, BAJA PADUAN, DAN PRODUK TURUNANNYA.
+
+Pasal I
+Beberapa ketentuan dalam Peraturan Menteri Perindustrian Nomor 1 Tahun 2019 tentang Pertimbangan Teknis Impor Besi atau Baja, Baja Paduan, dan Produk Turunannya (Berita Negara Republik Indonesia Tahun 2019 Nomor 28), diubah sebagai berikut:
+
+1. Ketentuan ayat (1) dan ayat (2) Pasal 2 diubah sehingga Pasal 2 berbunyi sebagai berikut:
+   (1) Besi atau Baja, Baja Paduan, dan Produk Turunannya sebagaimana tercantum dalam Lampiran I yang merupakan bagian tidak terpisahkan dari Peraturan Menteri ini hanya dapat diimpor oleh perusahaan pemilik Angka Pengenal Importir yang telah mendapat Persetujuan Impor.
+   (2) Persetujuan Impor sebagaimana dimaksud pada ayat (1) bagi perusahaan pemilik Angka Pengenal Importir Umum (API-U) diterbitkan berdasarkan Pertimbangan Teknis dari Direktur Jenderal.
+   (3) Pelaksanaan penerbitan Pertimbangan Teknis sebagaimana dimaksud pada ayat (2) dilakukan oleh Direktur.
+
+2. Pasal 4 dihapus.
+
+3. Ketentuan ayat (1) Pasal 8 diubah sehingga Pasal 8 berbunyi sebagai berikut:
+   (1) Perusahaan yang telah memiliki Pertimbangan Teknis sebagaimana dimaksud dalam Pasal 3 dapat mengajukan permohonan perubahan Pertimbangan Teknis.
+   (2) Perubahan Pertimbangan Teknis sebagaimana dimaksud pada ayat (1) terdiri atas:
+   a. Perubahan data; dan
+   b. Perubahan jumlah alokasi impor.
+
+4. Ketentuan ayat (2) huruf a diubah dan huruf c Pasal 11 dihapus sehingga Pasal 11 berbunyi sebagai berikut:
+   (1) Permohonan perubahan Pertimbangan Teknis akibat perubahan data sebagaimana dimaksud dalam Pasal 8 ayat (2) huruf a diajukan kepada Direktur Jenderal yang diinput dan dicetak dari SIINas dengan menggunakan Formulir I] sebagaimana tercantum dalam Lampiran I] yang merupakan bagian tidak terpisahkan dari Peraturan Menteri ini.
+   (2) Permohonan perubahan Pertimbangan Teknis akibat perubahan data sebagaimana dimaksud pada ayat (1) melampirkan dokumen berupa:
+   a. Pertimbangan Teknis yang akan diubah;
+   b. Rencana Kebutuhan Impor Barang (RKIB) untuk kebutuhan produksi 1 (satu) tahun yang diinput dan dicetak dari SIINas dengan menggunakan Formulir IIc sebagaimana tercantum dalam Lampiran II yang merupakan bagian tidak terpisahkan dari Peraturan Menteri ini;
+   c. dihapus.
+   d. surat pernyataan bermeterai cukup yang diinput dan dicetak dari SIINas dengan menggunakan Formulir IIf sebagaimana tercantum dalam Lampiran II yang merupakan bagian tidak terpisahkan dari Peraturan Menteri ini.
+
+5. Ketentuan ayat (1) dan ayat (2) dihapus, serta ayat (3) huruf a, huruf b, huruf c, dan huruf d Pasal 12 diubah sehingga Pasal 12 berbunyi sebagai berikut:
+   (1) Permohonan perubahan jumlah alokasi Impor pada Pertimbangan Teknis sebagaimana dimaksud dalam Pasal 8 huruf b yang diajukan perusahaan pemilik Angka Pengenal Importir Umum (API-U) kepada Direktur dilakukan dengan menggunakan formulir II] sebagaimana tercantum dalam Lampiran II yang merupakan bagian tidak terpisahkan dari Peraturan Menteri ini dan melampirkan dokumen berupa:
+   a. Pertimbangan Teknis yang akan diubah;
+   b. Persetujuan Impor dan kartu kendali Impor;
+   c. kontrak kerja sama atau kontrak penjualan dengan perusahaan mitra yang berstatus perusahaan Industri atau perusahaan pengguna akhir yang memuat jenis barang, jumlah barang, dan tujuan penggunaannya;
+   d. Izin Usaha Industri (IUI) atau izin usaha lain sejenis yang dimiliki perusahaan mitra;
+   e. Rencana Kebutuhan Impor Barang (RKIB) untuk kebutuhan produksi 1 (satu) tahun yang diinput dan dicetak dari SIINas dengan menggunakan Formulir IIc sebagaimana tercantum dalam Lampiran II yang merupakan bagian tidak terpisahkan dari Peraturan Menteri ini;
+   f. kebutuhan barang untuk 1 (satu) tahun penjualan yang diinput dan dicetak dari SIINas dengan menggunakan Formulir IIh sebagaimana tercantum dalam Lampiran I] yang merupakan bagian tidak terpisahkan dari Peraturan Menteri ini;
+   g. laporan penjualan dan realisasi Impor barang 2 (dua) tahun terakhir bagi yang telah melakukan Impor 2 (dua) tahun atau lebih yang diinput dan dicetak dari SIINas dengan menggunakan Formulir Ili sebagaimana tercantum dalam Lampiran II yang merupakan bagian tidak terpisahkan dari Peraturan Menteri ini;
+   h. penjelasan teknis mengenai tujuan penggunaan barang yang akan diimpor dilengkapi dengan gambar pendukungnya paling sedikit berupa alur proses produksi dan gambar barang; dan
+   i. surat pernyataan bermeterai cukup yang diinput dan dicetak dari SIINas dengan menggunakan Formulir IIf sebagaimana tercantum dalam lampiran II yang merupakan bagian tidak terpisahkan dari Peraturan Menteri ini.
+
+6. Ketentuan ayat (1) Pasal 15 dihapus sehingga Pasal 15 berbunyi sebagai berikut:
+   (1) Dihapus.
+   (2) Pertimbangan Teknis bagi Perusahaan pemilik Angka Pengenal Importir Umum (API-U) sebagaimana dimaksud dalam Pasal 5 berlaku selama 6 (enam) bulan sejak tanggal diterbitkan.
+
+7. Ketentuan ayat (2) huruf a Pasal 16 dihapus dan ayat (4) diubah sehingga Pasal 16 berbunyi sebagai berikut:
+   (1) Perusahaan yang telah memiliki Pertimbangan Teknis sebagaimana dimaksud dalam Pasal 15 wajib menyampaikan laporan bulanan kepada Direktur Jenderal paling lambat setiap tanggal 5 (lima) tiap bulannya,
+   (2) Laporan bulanan sebagaimana dimaksud pada ayat (1) terdiri atas laporan realisasi Impor.
+   (3) Penyampaian laporan sebagaimana dimaksud pada ayat (1) dilakukan secara elektronik melalui menu pelaporan realisasi produksi dan realisasi Impor pada laman https://siinas.kemenperin.go.id.
+   (4) Direktur Jenderal melakukan validasi secara elektronik terhadap laporan realisasi Impor sebagaimana dimaksud pada ayat (2).
+
+8. Formulir Ila, Formulir IId, Formulir Ile, dan Formulir lik sebagaimana tercantum dalam Lampiran II yang merupakan bagian tidak terpisahkan dari Peraturan Menteri ini dihapus.
+
+Pasal II
+Peraturan Menteri ini mulai berlaku pada tanggal 1 Januari 2020. Agar setiap orang mengetahuinya, memerintahkan pengundangan Peraturan Menteri ini dengan penempatannya dalam Berita Negara Republik Indonesia.
+
+Ditetapkan di Jakarta pada tanggal 18 Oktober 2019
+
+MENTERI PERINDUSTRIAN REPUBLIK INDONESIA,
+
+ttd
+
+AIRLANGGA HARTARTO
+
+Diundangkan di Jakarta pada tanggal 18 Oktober 2019
+
+DIREKTUR JENDERAL PERATURAN PERUNDANG-UNDANGAN KEMENTERIAN HUKUM DAN HAK ASASI MANUSIA REPUBLIK INDONESIA,
+
+ttd
+
+WIDODO EKATJAHJANA

@@ -1,0 +1,33 @@
+17- 2017, No.
+
+1206
+
+No | Pos Tarif/HS Uraian Barang
+59 | 5210.59.10 - - - Dicetak dengan proses batik tradisional
+60 | 5210.59.90 - - - Lain-lain
+52.11 Kain tenunan dari kapas, mengandung kapas kurang
+dari 85 % menurut beratnya, dicampur terutama atau
+semata-mata dengan serat buatan, beratnya lebih dari
+200 g/m?.
+- Tidak dikelantang :
+61 | 5211.11.00 - - Tenunan polos
+62 9211.12.00 - - Kepar 3-benang atau 4-benang, termasuk kepar silang
+63 | 5211.19.00 - - Kain lainnya
+64 | 5211.20.00 - Dikelantang
+- Dicelup :
+65 | 9211.31.00 - - Tenunan polos
+66 | 5211.32.00 - - Kepar 3-benang atau 4-benang, termasuk kepar silang
+67 | 5211.39.00 - - Kain lainnya
+- Dari benang aneka warna :
+9211.41 - - Tenunan polos :
+68 | 5211.41.10 - - - Tenun ikat
+69 | 5211.41.90 - - - Lain-lain
+70 | 5211.42.00 - - Denim
+71 | 5211.43.00 - - Kain tenunan lainnya dari kepar 3-benang atau 4-
+benang, termasuk kepar silang
+72 | 5211.49.00 - - Kain lainnya
+- Dicetak :
+9211.51 - - Tenunan polos :
+73 | 5211.51.10 - - - Dicetak dengan proses batik tradisional
+74 | 9211.51.90 - - - Lain-lain
+

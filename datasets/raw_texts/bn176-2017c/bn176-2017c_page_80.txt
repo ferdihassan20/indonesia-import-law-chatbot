@@ -1,0 +1,317 @@
+2017, No.176
+
+-400-
+
+‘Pos Tarify
+HS Codi
+ren 2 ol
+[5462.39 ~Taaln-tain |
+
+7940 |8462.99.10 Dioperasikan secara elektrik
+
+7941 [8462.99.20 Tidak dioperasikan secara elektrike
+- Mesin pelubang atau mesin penakik (termasuk
+pengepres), termasuk kombinasi mesin pelubang dan
+penggunting ©
+
+7942 |8462.41.00 _|-- Dikontrol secara numerik:
+
+8462.49 ~ Lain-tain =
+
+7943 [8462.49.10 Dioperasikan secara elektrik
+
+7944 |8462.49.20 Tidak dlioperasilan secara elektrik
+- Lain-lain :
+
+7945 |8462.91.00 Pengepres hidrotik
+
+8462.99 Lain-tain =
+
+7946 [8462.99.10 Mesin untuk pembuatan kotak, kaleng dan kemasan
+[semacam itu dari tin plate, dioperasikan secara elektrik
+
+7947 |8462.99.20 |. -- Mesin untuk pembuatan kotak, kaleng dan kemasan
+Isemacam itu dari tin plate, tidak dioperasikan secara
+leiektrik
+
+7948 |8462.99.50 Lain-lain, dioperasikan secara clektrike
+
+7949 |8462.99.60 Lain-lain, tidak dioperasikan secara elektrike
+
+134.63 |Mesin perkakas Ininnys untuk mengerjakan logam atau
+lsermet, tanpa menghilangkan bahannya,
+1463.10 + Draw-bench untuk batang, tabung, profil, kawat atau
+[scjenisava :
+7950 ]8463.10.10 _|- - Dioperasikun secara lek!
+7951 8463.10.20 |-- Tidak dioperasikan secura elektsik
+8463.20 |. Mesin pencanai uli :
+7952 [8463.20.10 Dioperasilan secara elektrik
+7953 8463.20.20 |-- Tidak dioperasikan seesra eleketrile
+8463.30 - Mesin untuk mengerjakan kawat :
+7954 |8463.30.10 Dioperasikan secara elektrik
+7955 [8463.30.20 |. - Tidak dioperasikan secara elektrik
+8463.90 - Lain-tain =
+7956 |8463.90.10 Diopernsikan secara elektrik
+7957 |8463.90.20 dak dioperasikan secara elektrik
+84.64 ‘Mesin perkakas untuk mengerjakan batu, keramik,
+ibeton, asbes semen atau bahan mineral scjenisnya atau
+untuk mengerjakan kaca secara dingin.
+8464.30 } Mesin gergaji -
+7958 |8464.10.10 Diopernsikan secara clektrik
+7959 |8364.10.20 _|- - Tidak dioperasikan seeara clektrik
+18464.20 |: Mesin penggerinda atau pemoles =
+7960 |8464.20.10 Dioperasikan seeara elektrike
+7961 [8464.20.20 _|-- Tidak dioperasikan seeara elektrik
+8364.90 - Lain-lain =
+7962 [8464.90.10 Dioperasikan secara elektrik
+7963 [8464.90.20 |- Tidak dioperasikan sceara elektrik
+184.65 /Mesin perkakas (termasuk mesin untuk memaku,
+imengokot, merekati atau merakit secara Jain) untuk
+mengerjakan kayu, gabus, tulang, karet keras, plastilx
+ikeras atau bahan keras semacam itu.
+
+7964 8465.10.00 _|- Mesin yang dapat melakukan berbagai jenis pekerjaan
+yang berbeda tanpa menukar alat diantara beberapa
+pengerjaan
+
+7965 |8465.20.00 _|- Machining center
++ Lain-tain ;
+
+|8465.91 . - Mesin penggergai :
+
+7966 |8465.91.10 - Untuk menggores printed cireuit board atau printed
+wiring board atau substrat printed circuit board atau
+printed wiring board, dioperasikan secara elcktrils
+
+7967 }8465.91.20 _ |--- Lain-lain, dioperasikan secara elektrik
+
+7968 |8465.91.30 - Tidak dioperasikan secara elektrike
+
+1#465,92 - - Mesin pengetam, penggiling atau pencetak (dengan
+memotong} :
+
+7969 |8465.92.10 _}.-- Untuk membuat alur printed circuit board atau
+printed wiring board atau substrat printed eireuit board
+Jatau printed wiring board, menggunakan bit pengalur
+dengan diameter tangkai tidak metebihi 3,175 mm, untuk
+menggores printed circuit board atau printed wiring board
+Jatau substrat printed circuit board atau printed wiring
+board
+
+7970 |8465.92.20 ~ Laln-lain, dioperusiken secara elektrik
+
+7971 [8465.92.90 - Tidak diopernsikan secara elektrik
+
+8465.93 - - Mesitt penagerinda, penggosok alau pemoles
+
+7972 |8465.93.10 _|- - - Dioperasikan secara elektrike
+
+7973 |8465.93.20 ~ Tidak dioperasikan secara elektrik
+
+8405.94 Mesin pembengkok atau perakit :
+7974 |8465.94.10 + Dioperasikan secara clektrik
+7975 |8465.94.20 |. « Tidak dioperasikan secara clektrik
+
+8405.95 + - Mesin penggurdi atau mortice
+
+Ta
+
+= Other:
+- ~~ Electrically operated
+
+--- Not electrically operated
+
+- Punching of notching machines (including
+presses), including combined punching and
+shearing machines ;
+
+|. - Numerically controlled
+
+}-- Other :
+~~ Blectrically operated
+
+- - - Not electrically operated
+
+- Other =
+
+-- Hydraulic presses
+
+| - Other :
+
+Machines for the manufacture of boxes,
+lcans and similar containers of tin plate,
+Iclectrically operated
+
+~~ Machines for the inanufacture of boxes,
+‘cans and similar containers of tin plate, not
+electrically operated
+
+~~ = Other, electrically operated
+
+Other, nat electrically operated
+
+Other machine-tools for working metal or
+cermets, without removing material.
+
+- Draw-benches for bars, tubes, profiles, wire|
+
+lor the like :
+
+-- Electrically operated
+
+} = Not clectrically operated
+
+- Thread rolling machines =
+
+-» Electrically operated
+
++ = Not electrically operated
+
++ Machines for working wire :
+
+- - Electrically operated
+
+- - Not electrically operated
+
+~ Other :
+
+- - Electrically operated
+
+-- Not electrically operated
+
+Machine-tools for working stone,
+
+ceramics, concrete, asbestos-cement or
+
+hike mineral materials or for cold-working
+
+glass.
+
+- Sawing machines :
+
++ - Electrically operated
+
+- - Not clectrically operated
+
+- Grinding or polishing machines :
+
+|- - Electrically operated
+
+|. - Not electrically operated
+
+|- Other :
+
+- - Electrically operated
+
+- - Not electrically operated
+
+/Machinc-tools (including machines for
+
+nailing, stapling, glucing or otherwise
+
+assembling) for working wood, cork, bone,
+ard rubber, hard plastics or similar hard
+
+materials.
+
+- Machines which ean carry out different
+
+lypes of machining operations without tool
+
+change between such operations
+
+|- Machining centres
+}- Other =
+
+- - Sawing machines :
+
+- - - Of a kind used for scoring printed circuit
+fboarcis or printed wiring boards or printed
+[circuit board or printed wiring board
+substrates, electrically operated
+
++» Other, electrically operated
+
+- - - Not electrically operated
+
+|. - Planing, milling or moulding (by cutting)
+[machines :
+
+- - - For routing printed circuit boars or
+printed wiring boards or printed cireuit
+board! or printed wiring board substrates,
+jaccepting router bits with a shank diameter
+Inot exceeding 3.175 mm, for scoring printed
+circuit boards or printed wiring boards or
+[printed circuit board or printed wiring board
+substrates
+
+Other, electrically operated
+Not clectrically operated
+- - Grinding, sanding or polishing machines :
+
+~- Electrically operated
+~~~ Not electrically operated
+
+- - Bending or assembling machines =
+Electrically operated
+
+~~ + Not electrically operated
+~~ Drilling or morticing machines :
+
+5,0%
+
+5.0%
+5.0%
+
+10,0%
+
+5.0%
+
+5,0%
+
+5,0%
+5,0%
+
+5,0%
+5.0%
+
+5,0%
+5,0%
+
+5,0%
+5,0%
+
+5.0%
+5,0%
+
+$,0%
+5,0%
+
+50%
+5,0%
+
+5.0%
+5,0%
+
+5.0%
+
+5,0%
+
+5.0%
+
+5,0%
+5,0%
+
+5,0%
+
+5.0%
+5.0%
+
+5.0%
+
+5.0%
+5,0%
+5.0%
+
+www.peraturan.go.id

@@ -1,0 +1,39 @@
+11 2011, No.420
+TERMASUK
+NO. URAIAN BARANG SPESIFIKASI DALAM POS
+TARIF
+34. | Motor AC Single phase, daya ouput); 8501.40.10.00
+<1kW
+35. | Electric heating resistors Untuk peralatan rumah tangga 8516.80.30.00
+36. | Fuse Khusus untuk pemakaian| 8536.10.90.00
+di elektronika
+37. | Switch part Voltase < 1.000V 8536.50.99.90
+38. | Lamp holders Untuk refrigerator & emergency | 8536.61.90.00
+lamp
+39. | Junction box Untuk panel modul 30WP)| 8536.90.29.00
+s/d 225WP
+40. | Lamp Lampu khusus untuk produk | 8539.29.90.00
+refrigerator
+41. | Remote control Untuk barang elektronika 8543.70.20.00
+42. | Kawat gulung dari tembaga Dilak atau dienamel, dengan); 8544.11.00.10
+ukuran 0,08mm < Diameter
+<0,6mm
+43. | Kawat gulung dari tembaga| Tidak dilak atau dienamel,| 8544.11.00.20
+(Toroid Wire) dibungkus PVC, dengan
+ukuran 0,3 mm s_ Diameter
+<0,9 mm
+44. | Timer -- 9106.90.00.00
+45. | Compressor Kapasitas < 21 kW/jam 8414.30.90.00
+46. | Roll bond evaporator Untuk lemari pendingin 8418.99.40.00
+47. | Polyol Bentuk cair/padat 3907.20.00.00
+48. | Steel tube Diameter dalam < 12,5 mm 7306.30.20.10
+49. | Socket Untuk IC & printed circuit 8536.90.99.10
+50. | Valve Katup untuk keperluan mesin | 8481.40.90.00
+cuci dengan dimeter dalam > 25
+mm
+51. | Drain valve Dari tembaga atau paduan| 8481.40.1000
+
+tembaga dengan dia dalam < 25
+mm
+
+www.djpp.kemenkumham.go.id

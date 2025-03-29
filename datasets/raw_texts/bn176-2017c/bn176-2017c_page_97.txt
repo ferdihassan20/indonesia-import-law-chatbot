@@ -1,0 +1,313 @@
+-417-
+
+8519
+8520
+8521
+
+8522
+8523
+
+8524
+8525
+8526
+8527
+
+8528
+
+8529
+
+8530
+
+{8507.60.10
+
+8507.60.20
+8507.60.90
+8507.80
+
+8507.80.10
+8507.80.20
+
+8507.80.90
+8507.90
+
+8507.90.11
+
+8507.90.12
+8507.90.19
+8507.90.91
+13507.90.92
+8507.90.93
+18507.90.99
+85.08
+8508.11.00
+8508.19
+8508.19.10
+8508.19.90
+8508.60.00
+8508.70
+8508.70.10
+
+/8508.70,90
+85.09
+
+8509.40.00
+
+8509.80
+
+8509.80.10
+8509.80.20
+8509.80.90
+
+8509.90
+8509.90.10
+8509.90.90
+185.10
+
+8510.10.00
+8510.20.00
+8510.30.00
+8510.90.00
+85.11
+
+8511.10
+8511.10.10
+
+8511.10.20
+
+8511.10.90
+
+= Dat jenis yang digunakan untuk kendaraan wdare
+
+Laln-lain
+- Nikel-besi :
+-- Dari jenis yang digunakan untuk kendaraan udare
+
+-- Lain-lain
+- Nikel-logam hidrida :
+-- Dari jenis vang digunakan untuk kendaraan udare
+
+|. Dari jenis yang digunaican untuk laptop termasuik
+notebook dani subnotebook
+- - Dari jenis vang digunakan untuk kendarean udare
+
+~ Lain-lain
++ Akumulator Jainnye :
+- Dari jenis yang digunakan untuk kendaraan udara
+
+- - Dari jenis vang digunakan untuk laptop termasuk
+notebook dan subnotebook
+Lain
++ Bagian
+Pelat :
+Dari barang pada subpos 8507.10.92, 8507.10.95,
+|8507.10.96, 8507.10.97, 8507.10.98 atau 8507.10.99
+
+- - - Dari jenis yang digunakan untuk kendaraan udara
+
+Lain-lain
+» Lainclain =
+Dari jenis vang digunakan untuk kendaraan udara
+
+- - - Separator baterai, siap pakai, dari bahan selain poli
+(vinil klorida)
+
+}- - - Lain-lain, dari barang pada subpos 8507.10.92,
+}8507. 10.95, 8507.10.96, 8507.10.97, 8507.10.98 atau
+}8507.10.99
+
+Lain-tain
+
+jam cleaner,
+
+|- Dengan motor listrik terpasang :
+
+Dengan kekuatan tidak melebihi 1.500 W dan memiliki
+kantung debu atau penampung lainnya «lengan kapasitas
+ticlak melebihi 20 1
+
+Lain-lain >
+
+Dari jenis yang cocok untuk penggunaan rumah:
+tangga
+Lain-tain
+|- Vacuum cleaner lainnya
+|- Bagian >
+~~ Dari vacuum clcaner pada subpos 8508.11.00 atau
+}8508.19.10
+
+- Penggiling dan pencampur malcanan; pengekstrak jus
+fbuah atau sayur
+
+- Peralatan lainnya :
+
+Pemoles lantai
+
+Kitchen waste disposer
+
+Lain-tain
+
+- Bagian :
+
+Dari barang pada subpos 6509.80.10
+
+- > Lain-lain
+
+|Alat cukur, alat pangkas rambut dan peralatan
+ponghilang rambut, dengan motor listrik terpusang.
+
+- Alat cukur
+~ Alat pangkas rambut
+
+- Peralatan penghilang rambut
+
+~ Bagian
+
+[Alat penyala atau penghidup olektrik dari jonis yang
+digunakan untuk mesin pembakaran dalam cetus api
+atau nyala kompresi (misalnya, magnet penyala,
+magnet-dinamo, koil penyala, busi pencetus dan busi
+pijar, starter motor); generator (misalnya, dinamo,
+alternator) dan sakelar dari jenis yang digunakan
+dengan mesin tersebut.
+
+- Busi pencetus :
+- - Dari jenis vang cocok untuk mesin kendaraan udara
+
+- - Dari jenis yang cocok untuk mesin kendaraan bermotor
+
+=> Lain-lain
+
+cWickel-cadmium ;
+-- Of a kind used for aircrat
+
+|- - Other
+- Nickel-iron :
+}-- Of a kind used for aircraft
+
+~~ Other
+- Nickel-metal hydeide
+- - Of a kind used for nircraft
+
+|-- Other
+- Lithium-ion :
+- - Of # kind used for laptops including
+Inotehooks arxt subnotebooks
+
+© Ofa kind used for aircraft
+
+++ Other
+~ Other accumulators +
+~~ Of a kind used for nircralt
+
+-- Of a kind used for laptops including
+notebooks and subnotebooks
+
+|- - Other
+
+- Parts
+
+- - Plates :
+
+- - - Of goods of subheading 8507.10.92,
+8507.10.95, 8507.10.96, 8507.10.97,
+{8507.10.98 or 8507.10.99
+
+--- Of a kind used for aircraft
+
+- Other
+~~ Other =
++ Of a kind used for aircraft
+
+- - - Battery separators, ready for use, of
+materials other than polyvinyl chloride}
+|- - - Other, of goods of subheading
+18507. 10.92, 8507.10.95, 8507.10.96,
+18507. 10.97, 8507.10.98 or 8507.10.99
+
++= Other
+|Vacuum cleaners.
+- With self-contained electric motor :
+| - Of a power not exceeding 1,500 W and
+having a dust bag or other receptacle
+lcapacity not exceeding 20 1
+- - Other :
+
+- Of a kind suitable for domestic use
+
+- = + Other
+- Other vactium cleaners
+|- Parts :
+- - Of vacuum cleaners of subbeading
+8508.11.00 or 8508.19.10
+
+~ Other
+Electro-mechanical domestic appliances,
+|with self-contained electric motor, other
+than vacuum cleaners of heading 85.08.
+
+| Food grinders and mixers; fruit or vegetable|
+juice extractors
+
+|- Other appliances
+
+-- Floor polishers
+
+|- - Kitchen waste disposers:
+
+> + Other
+
+- Parts
+
+- = Of goods of subbheading 8509.80.10
+
+-- Other
+
+Shavers, hair clippers and hair-removing
+appliances, with self-contained electric
+lmotor.
+
+» Shavers
+
+- lair clippers
+
+~ Hair-removing apptiances
+
+- Parts
+
+Electrical ignition or starting equipment
+lof a kind used for spark-ignition or
+compression-ignition internal combustion
+engines (for example, ignition magnetos,
+magneto-dynamos, ignition coils,
+sparking plugs and glow plugs, starter
+|motors); generators (for example,
+|dynamos, alternators) and cut-outs of a
+Ikind used in conjunction with such
+lengines.
+
+- Sparking plugs :
+-- Of a kind suitable for aireratt engines
+
+- - Of a kind suitable for motor vehicle
+
+2017, No.176
+
+10,0%
+10,0%
+10,0%
+
+5.0%
+00%
+
+10,0%
+15,0%
+10,0%
+5,0%
+
+0,0%
+
+10,0%
+
+10,0%.
+
+www.peraturan.go.id

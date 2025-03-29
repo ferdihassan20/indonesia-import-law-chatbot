@@ -1,0 +1,98 @@
+2011, No.414
+
+10
+
+NO.
+
+URAIAN BARANG
+
+SPESIFIKASI
+
+TERMASUK
+DALAM POS
+TARIF
+
+11.
+
+Pressure Vessel
+
+Plate/Sheet, Carbon Steel not in Coil,
+hot-rolled of a thickness of 10mm,
+Grade A-36, A 516-Gr.70, ASTM
+A-572 Gr.60
+
+7208.52.00.00
+
+Plate/Sheet, Carbon Steel not in Coil,
+hot-rolled of a thickness more than
+10mm but not exceeding 25mm,
+Grade A-36, A 516-Gr.70, ASTM
+A-572 Gr.60
+
+7208.51.00.00
+
+12.
+
+Drums
+
+Plate/sheet, not in coil, thickness
+exceeding 10mm, width < 3300mm,
+carbon content < 0.6%, Grade A516.
+Gr.70
+
+7208.51.00.00
+
+Plate/sheet, not in coil, thickness of
+4.75mm or more but not exceeding
+10mm, width < 3300mm, carbon
+content < 0.6%, Grade A516. Gr.70
+
+7208.52.00.00
+
+Plate/sheet, not in coil, thickness of
+3.0mm or more but less than
+4.75mm, width <  3300mm,
+carbon content < 0.6%, Grade A516.
+Gr.70
+
+7208.53.00.00
+
+Plate/sheet, not in coil, thickness less
+than 3.0mm, width < 3300mm,
+carbon content < 0.6%, Grade A516.
+Gr.70
+
+7208.54.00.00
+
+13.
+
+Water Wall Panel Finned Bar
+
+Carbon steel, Tape and band, width
+25 - 100mm, A36
+
+7227.90.00.00
+
+14.
+
+Water Panel Tubes
+
+Tubes & Pipes, seamless, iron/non-
+alloy steel, cold drawn/other, Grade
+A-192, A-210 Al, A-210 C, A-106
+B, A-106 C
+
+7304.31.90.00
+
+15.
+
+Generating Bank
+
+Tubes & Pipes, seamless, iron/non-
+alloy steel, cold drawn/other, Grade
+A-192, A-210 Al, A-210 C, A-106
+B, A-106 C
+
+7304.31.90.00
+
+www.djpp.kemenkumham.go.id

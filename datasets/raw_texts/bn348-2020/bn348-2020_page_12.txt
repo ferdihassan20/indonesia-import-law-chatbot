@@ -1,0 +1,46 @@
+2020, No. 348
+
+-12-
+
+Pasal 11
+Eksportir sebagaimana dimaksud dalam Pasal 2 ayat (1) atau
+Importir sebagaimana dimaksud dalam Pasal 2 ayat (2) yang
+telah memiliki polis asuransi dari Perusahaan Perasuransian
+Nasional atau lembaga pembiayaan ekspor yang dibentuk oleh
+pemerintah yang telah terdaftar di Kementerian Perdagangan
+sebagaimana dimaksud dalam Pasal 5 ayat (1), wajib
+mencantumkan:
+a. nomor polis;
+b. tanggal polis;
+c. nilai premi; dan
+d. nama Perusahaaan Perasuransian Nasional atau
+lembaga pembiayaan ekspor yang dibentuk oleh
+pemerintah, yang terdaftar di Kementerian
+Perdagangan,
+dalam Pemberitahuan Ekspor Barang atau Pemberitahuan
+
+Impor Barang.
+
+Pasal 12
+
+(1) Perusahaan Perasuransian Nasional atau lembaga
+pembiayaan ekspor yang dibentuk oleh pemerintah
+sebagaimana dimaksud dalam Pasal 5 ayat (1) wajib
+menyampaikan data polis atau sertifikat asuransi kepada
+Direktur Jenderal secara elektronik melalui web service
+yang terkoneksi dengan Inatrade paling lambat 1 (satu)
+hari terhitung sejak polis asuransi atau sertifikat
+asuransi diterbitkan.
+
+(2) Data polis atau sertifikat asuransi sebagaimana
+dimaksud pada ayat (1) paling sedikit mencantumkan:
+a. nomor dan tanggal polis atau sertifikat asuransi;
+b. nilai premi asuransi;
+c. identitas Perusahaan  Perasuransian Nasional
+
+(penanggung);
+
+d. identitas tertanggung;
+e. identitas kapal;
+
+f. pelabuhan muat dan negara tujuan Ekspor;

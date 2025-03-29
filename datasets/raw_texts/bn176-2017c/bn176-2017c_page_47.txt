@@ -1,0 +1,104 @@
+-367-
+
+2017, No.176
+
+B)
+
+q
+7501.20.00
+
+~ Sinter oksida nikel dan produk-aniara lainnya dan
+
+"Nickel oxide sinters and other intermediate
+
+metalurgi nikel products of nickel metallurgy
+175.02 |Nike! tidak ditempa, Unwrought nickel.
+6690 |7502,10.00 _|- Nikel, bukan paduan + Nickel, not alloyed 5,0%
+6691 |7502,20.00 _ |- Padua nikel - Nickel alloys 5.0%
+6692 }7503.00,00 |Sisa dan skrap nikel. ticket waste and scrap. 0,0%
+6693 |7504.00.00 |Bubuk dan serpih nikel. Nickel powders and flakes. 5,0%
+175.05 Batang, batang keeil, profil dan kawat nikel. Mickel bars, rods, profiles and wire.
+- Batang, batang kecil dan profil - Bars, rods and profiles :
+6694 |7505.11.00  |-- Dari nikel, bulan paduan -- Of nickel, not alloyed
+6695 [7505.12.00 |-- Dari paduan nikel - - Of nickel alloys
+|- Kawat > + Wire:
+0696 |7505,21.00 ~ Dari nikel, bukan paduan - - Of nickel, not alloyed
+6697 |7505,22.00 _|-- Dari paduan niket - - OF nickel alloys
+75.06 |Pelat, lembaran, strip dan foil nikel. Nickel plates, sheets, strip and foil.
+6698 [7506.10.00 |- Dari nikel, bukan paduan - Of nickel, not alloyed 5.0%
+6699 |7506.20.00 — |- Dari paduan nikel - OF nickel alloys 5.0%
+78.07 Pembuluh, pipa dan alat kelengkapan pembuluh at. Nickel tubes, pipes and tube or pipe
+ipa dari nikel (misalnya, penyambung, siku-silcu, fittings (for example, couplings, elbows,
+selongsong). lsleeves}.
+|- Pembuluh dan pipa : Tubes and pipes :
+6700 |7507.11.00 ‘Dari nikel, bukan paduan - - Of nickel, not alloyed 5,0%
+6701 |7507.12.00 Dari paduan nikel |- - Of nickel alloys 5,0%
+6702 |7507.20.00 _|- Alat kelengkapan pembuluh atau pipa - Tube or pipe fittings 5,0%
+75.08 \Barang lainnya dari nikel. (Other articles of nickel.
+6703 |7508.10.00 _|- Kain, anyaman kisi dan jaring dari kawat nike! - Cloth, grill and netting, of nickel wire 5.0%
+{7508.90 - bai A - Other :
+6704 [7508.90.30 |-- Baut dan mur -- Bolts and nuts 10,0%
+6705 |7508.90.50 _|- - Anoda untuk menyepuh dengan listrik, termasuk yang |- - Electroplating anodes, including those 5,0%
+\liproduksi secara elektroliss produced by electrolysis
+6706 |7508.90.90 |. - Lain-Lain ~~ Other 10,0%
+76.01 Aluminium tidak ditempa. [Unwrought aluminium.
+6707 |7601.10.00 _|- Aluminium, bukan paduan - Aluminium, not alloyed 0,0%
+6708 |7601.20.00 _|- Paduan aluminium | Aluminium alloys 0,0%
+6709 |7602.00.00 |Sisa dan skrap aluminium. |Aluminium waste and scrap. 0,0%
+176.03 Bubuk dan serpih aluminium. Aluminium powders and flakes.
+6710 17603.10.00  |- Bubuk dari struktur bukan pipih |; Powders of non-lamellar structure 0,0%
+7603.20 - Bubuk dari struktur pipih; serpih = - Powders of lamellar structure; fakes :
+6711 |7603.20,10 ~~ Serpih - - Flakes: 5,0%
+6712 |7603.20.20 | - Bubuk dari struktur pipih |- - Powders of lamellar structure 0,0%
+76.04 |Batang, batang kecil dan profil aluminium. minium bars, rods and profiles.
+7604.10 - Dart aluminium, bukan paduan : + Of aluminium, not alloyed =
+6713 [7604.10.10 |- - Batang dan batang kecil |- - Bars and rods: 5.0%
+6714 |7604.1090  |-- Lain-Lain }- - Other 5,0%
+- Dari paduan aluminium : Of aluminium alloys :
+7604.21 ++ Profil berongga . - Hollow profiles :
+6715 |7604.21.10 + + Profil pembuluh dilubangi dari jenis yang cocok untuk |- - - Perforated tube profiles of a kind 5,0%
+jgulungan evaporator dari mesin pengatur suhu udara ‘suitable for use in evaporator coils of motor
+pada kendaraan bermotor vehicle air conditioning machines
+6716 |7604.21.20 |--- Aluminium spaccrs (profil berongga yang satu sisinya_|--- Aluminium spacers {hollow profiles with 5,0%
+memiliki perforasi cahayn pada kescluruhan panjangnya) Jone side having light perforations along its
+whole length)
+6717 |7604.21.90 + Lain-lain |- - - Other 5.0%
+7604.29 Lain-lain + Other :
+6718 |7604,29.10 _|- - - Batang dan batang kecil diekstrusi Extruded bars and rods 5,0%
+6719 |7604.29.30 _|- - - Profil berbentuk ¥ untuk kancing tatik, dalam Y-shaped profiles for zip fasteners, in. 15,0%
+igulungan
+6720 |7604.29.90 + Lain-lain Other 15,0%
+76.05 |Kawat aluminium. Aluminium wire.
+|- Dari aluminium, bukan paduan : - Of aluminium, not alloyed :
+6721 17605,11,00 _ |- - Dengan ukuran maksimum penampang silangnya: }- - Of which the maximum cross-sectional 10,0%
+/metebihi 7 mm dimension exceeds 7 mm
+7605.19 ~~ Lalin-lain - + Other:
+6722 |7605.19.10 _|- - - Dengan diameter tidak melebihi 0,0508 mm - - = Of a diameter not exceeding 0.0508 mm 10,0%
+6723 |7605.19.90  |-- - Lain-lain + - - Other 10,0%
+Dari paduan aluminium ; - Of aluminium alloys :
+6724 |7605.21.00 _|- - Dengan ukuran maksimum penampang silangnya Of which the maximum cross-sectional 10,0%
+melebihi 7 mm dimension exceeds 7 mm
+'7608.29 > Lain-tain = Other =
+6725 |7605.29.10 _|- -- Dengan diameter tidak melebihi 0,254 mm Of a diameter not exceeding 0.254 mm 10,0%
+6726 |7605.29.90  |-- - Lain-lain Other 10,0%
+76.06 Pelat, lembaran dan strip aluminium, dengan ketebalan |Aluminium plates, sheets and strip, of
+melebihi 0,2 mm. thickness exceeding 0.2 mm.
+~ Empat persegi panjang (Icrmasuk bujur sangkar) : - Rectangular {including square} :
+7606.11 ~~ Dari aluminium, bukan paduan Of aluminium, not alloyed :
+6727 |7606,11,10 _ |- - - Polos atau dibentuk dengan pencanaian atau Plain or figured by rolling or pressing, 10,0%
+pengepresan, tetapi permukaannya tidak dikerjakan Inot otherwise surface treated
+6728 [7606.11.90 |- - - Lain-lain | ~~ Other 10,0%
+7600.12 + - Dari paduan aluminium ; Of aluminium alloys :
+6729 |7606.12.20 |--- Plat alumunium, belum peka cahaya, darijenis yang |- - - Aluminium plates, not sensitised, of a 10.0%
+digunakan dalam industri percetakan kind used in the printing industry
+~~ Lembaran : - - - Sheets :
+6730 [7606.12.32 ~ Untuk membuat can stock termasuk end stock dan |-- - - For making ean stock including end 10,0%
+tab stock, dalam gulungan ‘stack and tab stock, in coils
+6731 |7606.12.33 _ |---- Lain-lain, dari paduan aluminium 5082 atau 5182, |-- - - Other, of aluminium alloy S082 o 5,0%
+dengan lebar meiebihi 1 m, dalam gulungan 5182, exceeding 1 m in width, in coils
+6732 |7606.12.34 |--- - Lain-Iain, litho grade sheet alloy HA 1052 hardness |-- - - Other, litho grade sheet alloy HA 1052 0,0%
+temper 1119 dan alloy HA 1050 hardness temper H18 hardness temper H19 and alloy IIA 1050
+hardness temper H18
+6733 |7606.12.35 _|--- - Lain-Jain, dikerjakan permukaannya == + Other, surface worked 5,0%
+
+www.peraturan.go.id

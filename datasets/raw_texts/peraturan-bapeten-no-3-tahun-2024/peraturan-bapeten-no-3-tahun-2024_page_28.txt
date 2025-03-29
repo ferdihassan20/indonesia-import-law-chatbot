@@ -1,0 +1,91 @@
+- 28 -
+
+konsentrasi 108 Bq/g
+
+aktivitas
+
+aktivitas 10° Bq
+Ce-135 konsentrasi 10! Bq/g
+
+aktivitas
+
+aktivitas 10” Bq
+Ce-137 konsentrasi 103 Bq/g
+
+aktivitas
+
+aktivitas 10° Bq
+Ce-137m konsentrasi 103 Bq/g
+
+aktivitas
+
+aktivitas > 10° Bq
+Ce-139 konsentrasi > 102 Bq/g
+
+aktivitas
+
+aktivitas > 107 Bq
+Ce-141 konsentrasi > 102 Bq/g
+
+aktivitas
+
+aktivitas 10° Bq
+Ce-143 konsentrasi 102 Bq/g
+
+aktivitas
+
+aktivitas 105 Bq
+Ce-144b konsentrasi 102 Bq/g
+
+aktivitas
+
+aktivitas 10° Bq
+Chlorine (C1-36) konsentrasi 10* Bq/g
+
+aktivitas
+
+aktivitas 105 Bq
+Cl1-38 konsentrasi 10! Bq/g
+
+aktivitas
+
+aktivitas > 105 Bq
+Cl1-39 konsentrasi > 10! Bq/g
+
+aktivitas
+
+aktivitas > 10° Bq
+Cobalt (Co-55) konsentrasi > 101 Bq/g
+
+aktivitas
+
+aktivitas > 105 Bq
+Co-56 konsentrasi > 10! Bq/g
+
+aktivitas
+
+aktivitas > 10° Bq
+Co-57 konsentrasi > 10? Bq/g
+
+aktivitas
+
+aktivitas > 10° Bq
+Co-58 konsentrasi > 10! Bq/g
+
+aktivitas
+
+aktivitas > 107 Bq
+Co-58m konsentrasi > 104 Bq/g
+
+aktivitas
+
+aktivitas > 105 Bq
+Co-60 konsentrasi > 10! Bq/g
+
+aktivitas
+
+aktivitas > 10° Bq
+Co-60m konsentrasi > 103 Bq/g
+
+aktivitas
+

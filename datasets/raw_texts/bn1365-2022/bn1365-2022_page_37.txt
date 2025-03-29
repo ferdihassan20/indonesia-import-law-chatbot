@@ -1,0 +1,80 @@
+(1)
+
+(2)
+
+(3)
+
+(4)
+
+(1)
+
+_37- 2022, No.1365
+
+Umum
+
+Pasal 57
+
+Penerima Fasilitas TPB dan/atau Penerima Fasilitas KITE
+wajib memiliki, mengelola dan mendayagunakan IT
+Inventory.
+Kewajiban sebagaimana dimaksud pada ayat (1)
+dikecualikan bagi Penerima Fasilitas KITE IKM.
+Penerima Fasilitas TPB dan/atau Penerima Fasilitas KITE
+sebagaimana dimaksud pada ayat (1) dapat meminta
+asistensi kepada:
+a. Direktur yang mempunyai tugas dan fungsi di
+
+bidang fasilitas kepabeanan;
+b. Kepala Kanwil;
+c. Kepala KPUBC; atau
+d. Kepala Kantor Pabean.
+Penerima Fasilitas TPB dan/atau Penerima Fasilitas KITE
+yang tidak memiliki, mengelola dan mendayagunakan IT
+Inventory sebagaimana dimaksud pada ayat (1),
+dikenakan sanksi  sesuai  ketentuan  peraturan
+perundang-undangan yang mengatur mengenai TPB atau
+KITE.
+
+Bagian Kedua
+Kriteria IT Inventory
+
+Pasal 58
+
+IT Inventory sebagaimana dimaksud dalam Pasal 57 ayat
+
+(1) wajib memenuhi kriteria sebagai berikut:
+
+a. mampu mencatat, menyimpan, dan menampilkan
+riwayat aktivitas (log) serta mampu_ ditelusuri
+minimal 2 (dua) tahun;
+
+b. hanya diakses oleh pihak atau pegawai diberikan
+hak akses (authorized access);
+
+c. mampu memberikan data yang terkini (realtime) dan
+diakses secara daring oleh:
+
+1. KPUBC atau Kantor Pabean untuk Penerima
+Fasilitas TPB;
+
+2. Kanwil atau KPUBC untuk Penerima Fasilitas
+KITE; atau
+
+3.  Direktur yang mempunyai tugas dan fungsi di
+bidang fasilitas kepabeanan dan/atau Direktur
+yang mempunyai tugas dan fungsi di bidang
+pengawasan kepabeanan dan cukai, dalam hal
+sedang dilakukan Monitoring dan/atau
+Evaluasi sebagaimana dimaksud dalam Pasal 2
+ayat (1) atau sebagaimana dimaksud dalam
+Pasal 29 ayat (1);
+
+d. mampu menggambarkan’ keterkaitan dokumen
+kepabeanan dengan:
+
+1. dokumen kepabeanan lain dengan
+mencantumkan data jenis, nomor, dan tanggal
+pemberitahuan pabean; dan
+
+2. dokumen  transaksi keuangan Penerima
+Fasilitas TPB dan/atau Penerima Fasilitas

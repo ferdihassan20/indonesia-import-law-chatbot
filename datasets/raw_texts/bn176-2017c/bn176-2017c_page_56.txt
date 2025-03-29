@@ -1,0 +1,93 @@
+2017, No.176
+
+-376-
+
+Pos Tarif? TT Bea Masake 7
+No. HS Code Uraian Barang Description of Goods Tak Dut
+e & =
+7035 [8403.10.00 _|- Ketel > Boilers
+8403.90 ~ Bagian : - Parts :
+7036 8403.90.10 |-- Bodi, dineling, atau penutup ketel ~~ Boller bodies, shells or casings 10.0%
+7037 |8403,90.90 |. ~ Jain ~- Other 10.0%
+184.04 Instalasi pembantu untuk digunakan dengan ketel yang |Auxiliary plant for use with boilers of
+dimaksud dari pos 84.02 atau 84.03 (mitalnya, heading 84.02 or 84.03 (for example,
+economizer, super-heater, soot remover, gas recoverer); |economisers, super-heaters, soot
+kondensor untuk unit tonaga uap air atau unit tenaga | removers, gas recoverers); condensers for
+juap lainnya. steam or other vapour power units.
+[404.10 | instalasi pembantu untuk digunakan dengan ketel yang }- Auxiliary plant for use with boilers of
+dimaksud dari pos 84.02 atau 84.03 » heading 84.02 or 84.03 >
+- - Untuk digunakan dengan ketel dari pos $4.02 : - - For use with boilers of heading 84.02 =
+7038 [8404.10.11 ‘Soot remover (soot blower) |- + + Soot removers (soot blowers), 5.0%
+7039 |8404.10,19 Lain-tain + Other 5.0%
+7040 |8404.10,20 ntuk digunakan dengan ketel dari pos 84.03 ~~ For use with boilers of heading 84.03 9,0%
+7041 /8404,20.00_|- Kondensor untuk unit tenaga uap alr atau unit tenaga —_|- Condensers for steam or other vapour 9,0%
+luap lain power units
+2403.90 | Bagian : ~ Paws :
+~~ Dari barang pada subpos 8404.10.11 dan 8404.10.19 = |-- Of goods of subheadings 8404.10.11 and
+8404.10.19
+7042 8404.90.11 Bodi, dinding, atau penutup ~ Bodies, shells or casings 9,0%
+7043 |8404.90.19 Lain-lain - Other 9,0%
+~ Darl barang padla subpos 8404.10.20 : - - OF goods of subheading 8404.10.20 :
+7044 |8404.90.21 Rodi, dinding, atau penutup - - - Bodies, shells or casings 9,0%
+7045 |8404.90.29 Laintain her 9,0%
+7046 |8404.90.90 |-- Lai -- Other 9.0%
+84.05 Generator pemroduksl gas atau generator gus air, Producer gas or water gas generators, with|
+dengan atau tanpa alat pemurnian; generator gas ‘or without their purifiers; acetylene gas
+lasetilena dan generator gas dengan proses air semacam |genorators and similar water process gas
+itu, dengan atau tanpa alat pemurnian. Generators, with or without their
+purifiers,
+7047 [8405.10.00 _|- Generator pemroduksi gas atau generator gas air, dengan |- Producer gas or water gas generators, with 5.0%
+atau tanpa alat pemurnian; generator gas asetilena dan jor without their purifiers; acetylene gas
+lgenerator gas dengan proses air semacam itu, dengan atau |generators andl similar water process gas
+lanpa alat pemurnian generators, with or without their purifiers
+7048 |8405.90.00_|- Bagian ~ Parts 5.0%
+84.06 ‘Turbin uap air dan turbin wap lainnys. Steam turbines and other vapour turbines.
+7049 [8306.10.00 |- Turbin untuk penggerak kendaraan air - Turbines for marine propulsion 0.0%
+- Turbin lainnya : |- Other turbines :
+7050 [8406.81.00 |. - Dengan keluaran melebihi 40 MW. ~~ Of an output exceeding 40 MW 0,0%
+8406.82 |. - Dengan keluaran tidak melebihi 40 MW : + - Of an output not exceeding 40 MW :
+7051 [8406.82.10 Dengan keluaran tidak melebihi S MW - - - Of an output not exceeding 5 MW 5,0%
+7052 |8406,82.90 ~ Lain-lain } ~ - Other 50%
+7053 {8406.90.00 |- Bagian Parts 5,0%
+184,07 [Mesin piston pembakaran dalam cetus api bolak-balik | Spark-ignition reciprocating or rotary
+atau berputar, internal combustion piston engines.
+7054 [8407.10.00 |- Mesin kendaraan udara - Aircraft engines 0,0%
+}- Mesin penggerak kendaraan air : |- Marine propulsion engines :
+js407.21 | - Motor tempel : - - Outboard motors :
+7055 |8407.21.10 |. - Dengan tenage tidak metebihi 22,38 kW (30 hp) - - - Of a power not exceeding 22.38 kW (30
+hp}
+7056 |8407,21.90 ~ Lain-lain: > + = Other
+8407.29 Lain-lain : +» Other ;
+7057 |8407.29.20  |- - - Dengan tenaga tidak melebihi 22,38 kW (30 hp) ~ +» Of @ power not exceeding 22.38 kW (30 5,0%
+hp}
+7058 |8407.29.90 |. - - Lain-tain Other 5,0%
+- Mesin piston bolak-balik dari jenis yang digunakan - Reciprocating piston engines of a kind used]
+luntuk penggerak kendaraan dart Bab 87 = for the propulsion of vehicles of Chapter 87 :
+7059 |8407.31.00 _ |- - Dengan kapasitas silinder tidak melebihi $0 cc - - Of a cylinder capacity not exceeding 50 cc 10,0%
+8407.32 | Dengan kapasitas silinder melebihi 50 cc tetapi tidak —_|- - Of a cylinder capacity exceeding 50 ec but
+imelebini 250 ce : not exceeding 250 ce :
+- ~~ Melebihi 50 ec tetapi tidak metebibi 110 ec : Exceeding 50 cc but not exceeding 110
+7060 |8407.32.11 +++» Untuk kendaraan dari pos 87,01 + For vehicles of heading 87.01 10,0%
+7061 |8407.32.12 » ++ Untuk kendaraan dari pos 87,11 ~ - For vehicles of heading 87.11 10,0%
+7062 [8407.32.19 ~ ++ Lain-lain ~ Other 10,0%
+~ Melebihi 110 ce tetapi tidak melebihi 250 ce : Exceeding 110 ce but not exceeding 250
+7063 [8407.32.21 - Untuk kendaraan dati pos 87.01 - For vehicles of heading 87.01 10,0%
+7064 [8407.32.22 ~ Untuk kendaraan dari pos 87.11 + For vehicles of heading 87.11 10,0%
+7065 [8407.32.29 - Lain-lain + Other 10,0%
+8407.33 - - Dengan kapasitas silinder melebihi 250 cc tetapi tidak Of a cylinder capacity exceeding 250 cc
+melebihi 1,000 cc : but not exceeding, 1,000 cc
+7066 |8407.33.10 -- Untuk kendarnan dari pos 87.01 For vehicles of heading 87.01 10,0%
+7067 |8407.33.20  |--- Untuk kendaraan dari pos 87.11 For vehicles of heading 87.11 10,0%
+7068 [8407.33.90 |--- Lain-lain Other 10.0%
+8407.34 Dengan kapasitas silinder melebibi 1.000 cc : Of acylinder capacity exceeding 1,000 ce
+- ~~ Dirakit secara lengkap : Pully assembled :
+7069 [8407.34.40 |---- Untuk traktor yang dikendalikan dengan berjalan -- For pedestrian controlled tractors, of a 10,0%
+kaki, dengan kapasitas silinder tidak melebihi 1.100.c¢ _|eylinder capacity not exceeding 1,100 ec
+7070 |8407.34.50 _|---- Untuk kendaraan lainnya dari pos 87.01 - ~~ For other vehicies of heading 87.01 10,0%
+7071 |8407.34.60 Untuk kendaraan dari pos 87.11 - For vehicles of heading 87.11 10,0%
+Lain-lain : + Other ;
+7072 |8407.34.71 Dengan kapasitas silinder tidak melebihi 2.000 cc Ofa cylinder capacity not exceeding 10,0%
+
+[2,000 co
+
+www.peraturan.go.id

@@ -1,0 +1,74 @@
+2022, No. 341 -20-
+
+8703.24.59
+
+8703.24.61
+8703.24.69
+- Kendaraan lainnya, hanya dengan mesin piston pembakaran
+dalam nyala kompresi (dicsel atau semi-diesel] :
+8703.31 ~ - Dengan kapasitas silinder tidak melebihi 1.500 cc :
+~ - - Lain-lain =
+8703.31.41 ---- Gokart
+8703.31.42 -- -- All-Terrain Vehicles (ATV)
+8703.31.43 ----Ambulan
+8703.31.44 ~ --- Mobil jenazah
+8703.31.45 ---- Van tahanan
+8703.31.46 ---- Karavan
+8703.31.47 ---- Sedan
+- --- Mobil Iainnya (termasuk station wagon dan mobil sport, tetapi
+
+8703.31.51
+8703.31.59
+
+8703.31.91
+8703.31.99
+
+8703.32 ~ - Dengan kapasitas silinder melebihi 1.500 cc tetapi tidak melebihi
+2.500 ce =
+
+8703.32.51 ~---Ambulan
+8703.32.52 ~--- Mobil jenazah
+
+8703.32.53 ---- Van tahanan
+8703.32.54 ---- Karavan
+---- Sedan :
+
+8703.32.61 Dengan kapasitas silinder melebihi 1.500 cc tetapi tidak
+melebihi 1.800 ce
+
+8703.32.62 Dengan kapasitas silinder melebihi 1.800 cc tetapi tidak
+melebihi 2.000 cc
+
+8703.32.63 Dengan kapasitas silinder melebihi 2.000 cc
+- --- Mobil iainnya (termasuk station wagon dan mobil sport, tetapi
+tidak termasuk van}, berpengecrak empat roda :
+
+8703.32.71 Dengan kapasitas silinder melebihi 1.500 cc tetapi tidak
+melebihi 1.800 cc
+
+8703.32.72 Dengan kspasitas silinder melebihi 1-800 cc tetapi tidak
+melebihi 2.000 ce
+
+8703.32.73 Dengan kapasitas silinder melebihi 2.000 cc
+
+- -- - Mobil lainnya (termasuk station wagon dan mobil sport, tetapi
+tidak termasuk van), bukan berpenggerak empat roda ;
+
+8703.32.74 Dengan kapasitas silinder melebihi 1.500 ce tetapi tidak
+melebihi 1.800 cc
+
+8703.32.75 Dengan kapasitas silinder melebihi 1.800 cc tetapi tidak
+melebihi 2.000 ce
+
+8703.32.76 Dengan kapasitas silinder melebihi 2.000 cc
+~--- Lain-lain :
+
+8703.32.81 Dengan kapasitas silinder melebihi 1.500 ce tetapi tidak
+melebihi 1.800 ce
+
+8703.32.82 Dengan kapasitas silinder melebihi 1.800 cc tetapi tidak
+melebihi 2.000 ce
+
+8703.32.83 Dengan kapasitas silinder melebihi 2.000 cc
+
+www.peraturan.go.id

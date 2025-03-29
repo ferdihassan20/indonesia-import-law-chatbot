@@ -1,0 +1,46 @@
+2018, No.521
+
+-32-
+
+Nomor (22): Diisi dengan alamat Examiner.
+
+Nomor (23): Diisi dengan kewarganegaraan Examiner.
+
+Nomor (24): Diisi dengan nomor telepon dan nomor handphone
+Examiner.
+
+Nomor (25): Diisi dengan email Examiner.
+
+Nomor (26): Diisi dengan jenis data tambahan lainnya (misal: foto,
+
+keterangan tambahan mengenai barang, data tambahan
+terkait merek/hak cipta, dan lain-lain).
+
+Nomor (27): Diisi dengan rincian data tambahan lainnya (misal foto,
+keterangan tambahan mengenai barang, data tambahan
+terkait merek/hak cipta, dll).
+
+Nomor (28): Diisi dengan tempat, tanggal, bulan, dan tahun
+diajukannya permohonan perekaman merek atau hak
+
+cipta oleh pemilik atau pemegang hak.
+
+Nomor (29): Diisi dengan tanda tangan pemilik atau pemegang hak.
+
+Nomor (30): Diisi dengan nama pemilik atau pemegang hak.
+
+Nomor (31): Diisi dengan nomor surat permohonan Perekaman
+(Recordation).
+
+Nomor (32): Diisi dengan nomor pendaftaran surat permohonan.
+
+Nomor (33): Diisi dengan tanggal pendaftaran surat permohonan.
+
+Nomor (34): Diisi dengan nama petugas bea cukai yang meneliti
+dokumen.
+
+Nomor (35): Diisi dengan Nomor Induk Pegawai (NIP) petugas bea
+
+cukai yang meneliti dokumen.
+
+www.peraturan.go.id

@@ -1,0 +1,386 @@
+2017, No.176
+
+-464-
+
+10270
+10271
+10272
+10273
+
+10274
+10275
+
+10276
+10277
+
+10278
+
+10279
+
+10280
+
+10281
+10282
+10283,
+10284
+
+10285
+
+10286
+
+10287
+
+9015.20.00
+
+9015.30.00
+9015.40.00
+
+9015.80
+0015.80.10
+
+9015.80.90
+9015.90.00
+9016.00.00
+
+190.17
+
+9017.10
+
+9017.10.10
+9017.10.90
+9017.20
+
+9017.20.10
+9017.20.30
+
+19017,20.40
+
+|9017.20.50
+19017.20.90
+9017.30.00
+9017.80.00
+9017.90
+
+9017.90.20
+
+9017.90.30
+
+9017.90.40
+
+10288
+
+10289
+10290
+10291
+
+10292
+10293
+10294
+
+10295,
+10296
+10297
+
+10298
+10299
+
+10300
+
+19017.90,90
+90.18
+
+9018.11.00
+9018.12.00
+9018.13.00
+
+9018.14.00
+19018 19.00
+9018.20.00
+
+9018.31
+
+9018.31.10
+9018.31.90
+9018.32.00
+
+9018.39
+9018.39.10
+9018.39.90
+
+9018.41.00
+
+9018.49.00
+9018.50.00
+
+20,
+
+- Teodollt dan tachymeter flacheometer]
+
+- Pengukur tinggi permukaan
+- Instrumen dan peralatan survei photogrammetrical
+
+- Instrumen dan perlengkapan lainnya :
+~~ Aparatus radio sonde dan radio wind
+
+- Bagian dan aksesori
+
+‘Timbangan dengan kepekaan 5 eg atau lobih pela,
+dengan atau tanpa anak timbangannya.
+
+Instrumen penggambar, pemberi tanda atau penghitung
+matematis (misalnya, mesin perancang, pantograf,
+protraktor, set gambar, mistar hitung, disc calculator);
+|instrumen untak mengukur panjang, digunakan dengan
+tangan (misainya, batang dan pita pengukur, mikro
+meter, kaliper), tidak dirinci atau termasuk dalam pos
+liain dari Bab ini,
+
+- Meja dan mesin perancang, otomatis maupun tidak =
+
+|- - Plotter
+
+~~ Lain-tain
+
++ Instrumen penggambar, pemberi tanda atau instrumen
+penghitung matematis lainnye :
+
+- - Penggaris:
+
+~~ Aparalus untuk proyeksi atau menggambar pola sirkuit
+pada subsstrat peka untuk pembuatan printed circuit
+board / printed wiring board
+
+- - Photoplotter untuk pembuatan printed circuit
+board / printed wiring board
+
+- = Plotter lainnya
+Lain-lain
+
+| Mikrometer, kaliper dan gauges
+
+- Instrumen lainnya
+
+- Bagian dan aksesori
+
+~~ Bagian dan aksesoni aparatus untuk proyeksi atau
+Ipenggambar pola sirkuit pada substrat peka untuk
+pembuatan printed circuit board /printed wiring board
+
+- Bagian dan aksesori photoplotter untuk pembuatan
+printed circuit board /printed wiring board
+
++ - Bagian dan aksesori termasuk printed circuit assembly
+ldari plotter
+
+statu
+tnstrumen dan peralatan yang digunakan dalam tlmu
+Imedis, bedah, perawatan gigi atau kedokteran hewan,
+ltermasuk aparatus scintigraphic, selain aparatus
+lelektro-medis dan instrumen penguji penglihatan.
+
+- Aparatus elektro-dingnostik (termasuk aparatus untuk
+
+menguji fungsi eksploratori atau untuk memerikasa.
+parameter fisiologi) :
+
+- - Elektro-kardiograt
+Aparatus scanning ultrasonik
++ ~ Aparatus penggambar resonansi magnetik
+
+- - Aparatus scintigraphic
+
+Lain-lain
+
+- Aparatus sinar ultra-violet atau infra merals
+
+ Alat suntik, jarum, kateter, cannulae dan sejenisnya :
+
+Alat suntik, dengan atau tanpa jarum >
+
+Alat suntik sekali pakal
+
+~ Lain-lain
+
++ ~ Jarum logam berbentuk tabung dan jarum untuk
+Jmenjabit luke
+
+> > Lain lain :
+
+~ Kateter
+
+> Lain-lain
+
+- Instrumen dan peralatas lain, yang digunakan dalam
+ilmu perawatan gigh
+
+- - Mesin bor gigi, dikombinasi dengan perlengkapan
+[perawatan gigi lainnya dalam satu tempat maupun tidak
+
+~~ Lain-tain
+- Instrumen dan peralatan oftalmil lainnya
+
++ Instrumen dan peralatan lainnya =
+- - Set pemberian intravena
+
+Theodolites and tachymeters
+(tacheometers}
++ Levels
+~ Photogrammetrical surveying instruments
+and appliances
+~ Other instruments and appliances :
+
+-~ Ragio-sonde and radio wind apparatus
+
+-- Other
+
+- Parts and accessories
+
+Balances of a sensitivity of 5 cg or better,
+with or without weights.
+
+Drawing, marking-out or mathematical
+calculating instruments (for example,
+drafting machines, pantographs,
+protractors, drawing sets, slide rules, dise
+calculators); instruments for measuring
+length, for use in the hand (for example,
+measuring rods and tapes, micrometers,
+jcallipers), not specified or included
+elsewhere in this Chapter.
+
+- Drafting tables and machines, whether or
+not automatic ;
+}- ~ Plotters:
+| - Other:
+- Other drawing, marking-out or
+mathematical calculating instruments :
+~~ Rulers
+
+Apparatus for the projection or drawing of
+circuit paticrns on sensitised substrates for
+{the manufacture of printed circuit
+boards/printed wiring boards
+
+-- Photoplotters for the manufacture of
+printed circuit boards/printed wiring boards.
+
+~- Other plotters
+~ = Other
+
+- Micrometers, callipers and gauges
+
+- Other instruments
+
+~ Parts and accessories :
+
+-- Parts and accessories of apparatus for the
+[projection or drawing of circuit patterns on
+sensitised substrates for the manufacture of
+printed circuit boards/printed wiring boards
+
+- - Parts and accessories of photoplotters for
+the manufacture of printed cireuit
+boards,/printed wiring boards.
+
+-- Parts and accessories, including printed
+Icircuit assemblies, of other plotters
+
+-- Other
+Instruments and appliances used in
+medical, surgical, dental or veterinary
+sciences, including scintigraphic
+apparatus, other electro-medical
+apparatus and sight-testing instruments,
+
+- Blectro-diagnostic apparatus (including
+Japparatus for functional exploratory
+lexamination or for checking physiological
+parameters) =
+
+- - Blectro-cardiographs
+
+- + Ultrasonic scanning apparatus
+
+-- Magnetic resonance imaging apparatus
+
+- - Scintigraphic apparatus:
+>» Other
+
+. Ultra-violet or infra-red ray apparatus
+
+|- Syringes, needles, catheters, cannulae and
+ithe like :
+
+= Syringes, with or without needles ;
+
++ «= Disposable syringes
+
+Other
+
+- - Tubular metal needles and needles for
+sutures
+
+- Other instruments and appliances, used in
+dental sciences :
+
+Dental drill engines, whether or not
+lcombined on a singte base with other dental
+equipment
+|- - Other
+}- Other ophthalmic instruments and
+appliances
+~ Other instruments and appliances :
+
+~- Intravenous administration sets
+
+5.0%
+
+5.0%
+5.0%
+5,0%
+
+5,0%
+5,0%
+
+10,0%
+10,0%
+
+10,0%
+
+10,0%
+10,0%
+5,0%
+5.0%
+
+5,0%
+
+50%
+
+0,0%
+
+5.0%
+
+5,0%
+5.0%
+5.0%
+
+5,0%
+
+5.0%
+5,0%
+
+25,0%
+18,0%
+0.0%
+
+5,0%
+5,0%
+
+5,0%
+
+5.0%
+5.0%
+
+5.0%
+
+www.peraturan.go.id

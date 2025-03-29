@@ -1,0 +1,61 @@
+65- 2022, No.1365
+
+2) Nomor pendaftaran dokumen pabean
+Nomor dokumen pabean pemasukan yang diberikan oleh
+Kantor Pabean dan/atau nomor dokumen lain yang
+dipersamakan dengan dokumen pabean pemasukan
+barang.
+
+3) Tanggal dokumen pabean
+Tanggal dokumen pabean pemasukan mendapatkan nomor
+pendaftaran dan/atau tanggal dokumen lain yang
+dipersamakan dengan dokumen pabean pemasukan
+
+barang.
+4) Nomor bukti penerimaan barang
+Nomor dokumen dan/atau surat internal penerima fasilitas
+gudang berikat (GB) sebagai bukti penerimaan barang atas
+yang dimasukkan dan diterima di tempat penyimpanan.
+5) Tanggal bukti penerimaan barang;
+Tanggal dokumen dan/atau surat internal penerima
+fasilitas gudang berikat (GB) sebagai bukti penerimaan
+barang atas yang dimasukkan dan diterima di tempat
+penyimpanan.
+6) Kode barang
+Kode barang yang dibuat oleh penerima fasilitas gudang
+berikat (GB) untuk setiap jenis barang yang berbeda. Kode
+barang ini menjadi salah satu elemen data utama untuk
+menelusuri keterkaitan dalam setiap proses mutasi barang.
+7) Nama
+Nama setiap jenis barang yang berbeda sesuai dengan kode
+barang, dapat dipahami secara jelas dan bukan merupakan
+singkatan atau penamaan yang hanya dipahami oleh
+internal penerima fasilitas gudang berikat (GB). Nama
+barang ini menjadi salah satu elemen data utama untuk
+menelusuri keterkaitan dalam setiap proses mutasi barang.
+8) Satuan Barang
+Satuan barang untuk setiap jenis barang yang dimasukkan
+ke tempat penyimpanan sesuai yang tercantum dalam
+dokumen pabean (contoh: kilogram, gram, dan/atau meter).
+9) Jumlah barang
+Jumlah barang untuk setiap jenis barang dan satuan
+barang yang tercantum dalam dokumen pabean yang
+dimasukkan ke gudang berikat (GB).
+Laporan Pengeluaran barang
+Laporan ini menampilkan pencatatan—barang yang keluar dari
+tempat penyimpanan penerima fasilitas gudang berikat (GB)
+dalam rangka dikeluarkan ke perusahaan industri, toko bebas
+bea, dan/atau luar daerah pabean.
+Laporan ini minimal memuat elemen data dan/atau informasi
+terkait:
+1) Jenis dokumen pabean
+Jenis dokumen pabean pengeluaran dan/atau dokumen
+lain yang dipersamakan dengan dokumen pabean
+pengeluaran barang (contoh: berita acara pemusnahan),
+2) Nomor pendaftaran dokumen pabean
+Nomor dokumen pabean pengeluaran yang diberikan oleh
+Kantor Pabean dan/atau nomor dokumen lain yang
+dipersamakan dengan dokumen pabean pengeluaran
+barang.
+
+www.peraturan.go.id

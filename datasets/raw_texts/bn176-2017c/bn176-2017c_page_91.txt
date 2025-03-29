@@ -1,0 +1,243 @@
+8300
+
+8301
+
+8302
+
+8304
+
+8305
+
+$307
+
+8310
+
+8311
+
+8312
+
+8313
+
+8314
+
+8315
+
+8316
+
+8317
+
+8318
+
+8319
+
+8320
+
+-411-
+
+{3)
+> Tain-lain
+Dari mesin penggerinda, pemioles dan pengasah untuk
+Imemproses wafer semikonduktor
+
+Dari ratus untuk menumbuhkan atau menarik:
+boule semikonduktor monokristal
+Lain-lain
+Dari mesin dan aparatus untuk pembuatan peralatan
+Jsemikonduktor atau dari sirlewit elektronik terpadu +
+
+--- Dari aparatus deposisi kimia untuk pembuatan
+lsemikonduktor
+
+- -- Dari mesin deposisi epitaxial untuk wafer
+lsemikonduktor; pemintal untuk melapisi emulsi fotografi
+pada wafer semikonduktor
+
+- - - Dari ion implanter untuk memperkaya batan
+semikonduktor; dari aparat untuk deposisi fisik dengan
+|pemercikan paca wafer semikonduktor; dari aparatus.
+|deposisi untuk produksi semikonduktor; dari aparatus
+\direct write-on-waler, step dan repeat aligner dan
+peralatan litograli tainnya
+
+- ~~ Dari peralatan penyemprot untuk mengetsa,
+mengupas atau membersihkan waler semikonduktor; di
+laparatus untuk mengetsa basah, mencuci, mengupas atau
+jmembersihken wafer semi konduktor; dari pola ctsa kering
+pada bahan semikonduktor :
+
+- - ~~ Alnt pemegang perkakas dan self-opening dichead;
+pemegang barang yang dikerjakan; dividing head dan
+kelengkapan kbusus lainnya untuk mesin perkakas
+
+=> Lain-lain
+
+-- - Dari mesin pemotong untuk memotong atau
+menggores wafer semikonduktor; dari pemotong laser
+Juntuk memotong jalur penghubung dalam produksi
+lsemikonduktor dengan sinar laser; dari mesin untuk
+membengkokkan, melipat dan meluruskan timbal
+lsemikonduktor :
+
+-- -- Alat pemegang perkakas dan set opening dichead;
+pemegang barang yang dikerjakan; dividing head dan
+kelengkapan khusus lainnya watuk mesin perkakas
+
+-- - - Lain-lain
+
+~~ Dari tanur dan oven tahan panas untuk pembuatan,
+peralatan semikonduktor pada wafer semikonduktor; dari
+tanur dan oven induktansi atau diclektrik untuk
+pembuatan peralatan semikonduktor pada water
+|semikonduktor
+
+-- Dari mesin dan aparatus untuk pembustan panel layar
+Matar :
+
+- ~ - Dari aparatus untuk pola etsa kering pada substrat
+[panel layer datar
+
+~~ - Dari aparatus untuk mengetsa basah, mencuci,
+mengupas ata membersihkan panel lavar datar :
+
+- - - - Alat peinegang perkakas dan self-opening dicheads;
+pemegang barang yang dikerjakan; dividing head dan
+kclengkapan khusus lain untuk mesin perkakas
+
++ Lain-lain
+- Dari aparatus deposist unp kimia untuk pembuatan
+pane! lavar datar
+
+Dari pemintal untuk melapisi emulsi peka cahaya.
+pada substrat panel layar datar
+
+- - - Dari aparatus untuk deposisi fisik pada substrat pane!
+layar datar
++ Lain-lain
+
+. - Dari mesin atau aparatus yang dirinei pada Catatan 9
+(C) Bab ini :
+
+--- Dari mesin pengeilingan dengan sinar ion terfokus
+luntuk memproduksi atau memperbaiki mask dan reticle
+luntuk pola pacta peralatan semikonduktor
+
+~ =~ Dari aparatus dic attach, pengikat pita otomatis,
+pengikat kawat dan dari peralatan enkapsulasi untuk
+perakitan semikonduktor
+
+- - - Dari mesin ofomatis untuk pengangkutan,
+penanganan dan penyimpanan wafer semikonduktor,
+lkaset wafer, kotak wafer dan baban tainnya untuk
+peratatan semikonduktor
+
+--- Of grinding, polishing and lapping
+machines for processing of semiconductor
+wafers
+
+--- Of apparatus for growing or pulling
+Jmonocrystal semiconductor boules
+
+-- - Other
+
+-- Of machines and apparatus for the
+manufacture of semiconductor devices or of
+‘electronic integrated circuits :
+
+-- - Of chemical vapour deposition
+‘Apparatus for semiconductor production
+
+~~ - Of epitaxial deposition machines for
+semiconductor wafers; of spinners for
+‘coating photographic emulsions on
+semiconductor wafers
+
++= Of jon implanters for doping
+iscmiconductor materials; of apparatus for
+physical deposition by sputtering on
+jsemiconcuctor wafers; of physical deposition
+lapparatus for semiconductor production: of
+direct write-on-wafer apparatus, step and
+repeat aligners and other lithography
+lequipment
+
+- - - Of spraying appliances for etching,
+stripping or cleaning semiconductor wafers;
+lof apparatus for wet etching, developing,
+stripping or cleaning semiconductor waters;
+lof dry-etching patterns on semiconductor
+materials :
+
+~ Tool holders and self-opening
+itieheads; work holders; dividing heads and
+lother special attachments for machine tools
+
+Other
+
+|. - - Of dicing machines for scribing or
+scoring semiconductor wafers; of
+lasercutters for cutting tracks in
+jsemiconductor production by laser beam; of
+machines for bending, folding and
+straightening semiconductor leads :
+
+- + += Tool hoklers and self-opening,
+Idicheads; workholders; dividing heads and
+lother special attachments for machine tools
+
+- Other
+
+Of resistance heated furnaces and ovens
+for the manufacture of semiconductor
+[devices on semiconductor wafers; of
+inductance or dielectric furnaces and ovens
+for the manufacture of semiconductor
+Jdevices on semiconductor wafers,
+
++ - - Other
+- - Of machines and apparatus for the
+manufacture of Nat panel displays =
+
+- - - Of apparatus for dry etching patterns on |
+fiat panel display substrates
+
+- -- Of apparatus for wet etching,
+
+developing, stripping or cleaning Mat panc!
+displays :
+
+--- - Tool holders and self-opening
+Idicheads; work holders; dividing heads and
+Jother special attachments for machine tools
+
+~ Other
+Of chemical vapour deposition
+japparatus for fat panel display production
+
+- -- Of spinners for coating photosensitive
+Jemulsions on flat pane! display substrates
+
+- -- Of apparatus for physical deposition on
+Nat panel display substrates
+- - - Other
+
+~~ Of machines or apparatus specified in
+Note 9 (C) to this Chapter :
+
+- - - Of focused ion beam milling machine to
+produc or repair masks and reticles for
+[patterns on semiconductor devices
+
+- - - Of die attach apparatus, tape automated
+jbonders, wire bonders and of encapsulation
+equipment for assembly of semiconductors
+
+| » - Of automated machines for the
+transport, handling and storage of
+semiconductor wafers, wafer cassettes, waler|
+
+boxes and other materials for semiconductor
+devices
+
+2017, No.176
+
+www.peraturan.go.id

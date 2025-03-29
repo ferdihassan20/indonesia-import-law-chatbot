@@ -1,0 +1,20 @@
+2019, No.1718
+
+-97-
+
+Huruf (i) : diisi nama Kantor Pelayanan Utama Bea dan Cukai/Kantor
+Pengawasan dan Pelayanan Bea dan Cukai yang membawahi
+pelabuhan pemasukan.
+
+Huruf(j) : diisi nomor pemberitahuan pabean impor dari barang impor
+
+yang tercantum dalam Keputusan Menteri Keuangan mengenai
+pemberian pembebasan bea masuk dan/atau tidak dipungut
+pajak dalam rangka impor.
+
+Huruf(k) =: diisi tanggal, bulan, dan tahun pemberitahuan pabean impor
+dari barang impor yang tercantum dalam Keputusan Menteri
+Keuangan mengenai pemberian pembebasan bea masuk
+dan/atau tidak dipungut pajak dalam rangka impor.
+
+www.peraturan.go.id

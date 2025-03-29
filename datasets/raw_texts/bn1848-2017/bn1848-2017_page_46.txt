@@ -1,0 +1,108 @@
+2017, No.1848 46
+
+[No [POS TARIF/HS URAIAN BARANG KETERANGAN,
+[_[e%s0.59 ana eee
+
+~~ - Dioperasikan secara elektrik
+> Mesin penggiling lainnya:
+
+112 [8459.61.00 >= Dikontrol secara numerik
+
+8459.69 - - Lain-lain:
+113 [8459.69.10 |- - - Dioperasikan secara elektrik
+[_[e159.70 PMesin pembuat ulir atau alur lainnyar Ld
+
+114 [8459.70.10 - - Dioperasikan secara clektrik
+
+IMesin perkakas untuk menghaluskan, menajamkan,
+Imenggerinda, menggosok, mengasah, memoles atau
+!merampungkan logam atau cermet secara lain
+dengan memakai batu gerinda, amplas atau produk
+lpemoles, selain mesin pemotong gir, penggerinda gir
+latau mesin untuk merampungkan gir dari pos 84.61.
+
+115 Jex 8460.19.00 > —Tain-lain Hanya yang diopers
+lsecara clektrike
+
+F Mesin penggerinda lainnya:
+
+T16 [ex 8460.29.10 ~~ — Dioperasikan secara elektik Hanya untuk mesin
+lpenggerinda yang posisi setiap
+porosnya dapat diset dengan
+lakurasi paling tidak 0,01 mm.
+
+RG
+i t-te |
+117 [8460.39.10 - - - Dioperasikan secara elektrik | ti st
+[__|ec0.0__|-Mesin pengzosok atau pongasab |
+
+118 [8460.40.10 -- Dioperasikan secara elektrik
+IMesin perkakas untuk mengetam, membentuk,
+Imenyerut, menggerek, memotong gir, menggerinda
+lgir atau merampungkan gir, menggergaji, memotong
+dan mesin perkakas lainnya yang bekerja dengan
+!menghilangkan logam atau sermet, tidak dirinci atau
+termasuk dalam pos lainnya.
+
+- Mesin pembentuk atau penyerut:
+
+46 1,20.10 [= Dioperasilvan secara elektnik __
+|__ [e180 fF Mesin penggereke PO
+120 [8461.30.10 >= Dioperasikan secara elektnik rd
+
+| [8461.40 - Mesin pemotong gir, penggerinda gir atau perampung |
+gir:
+
+Tat [8401.40.10 -- Dioperasikan secara clektrik ld
+[_|s261.50 F Mesin penggergaji atau mesin pemotong a
+122 [8461.50.10 - - Dioperasikan secara elektrik fag eg
+
+-Tain-lain:
+
+-— Dioperasikan secara elektrik:
+- = Mesin pengetam
+
+--- Lain-lain
+
+IMesin perkakas (termasuk pengepres) untuk
+Imengerjakan logam dengan menempa, memalu atau
+Imenumbuk; mesin perkakas (termasuk pengepres)
+untuk mengerjakan logam dengan cara
+Imembengkokkan, melipat, meluruskan, memipihkan,
+menggunting, melubangi atau menakik; pengepres
+luntuk mengerjakan logam atau karbida logam, tidak
+dirinci diatas.
+
+> Mesin penempa atau penumbuk (termasuk pengepres)
+dan mesin untuk memalt:
+
+-~ Dioperasikan secara elektrik
+
+- Mesin pembengkok, pelipat, pelurus atau pemipih,
+
+(termasuk pengepres)
+
+-—Dikontrol secara numerik Kecuali Mesin Tekuk (Bending
+Machine) dengan Kapasitas:
+panjang max 1.270 mm; tebal 3
+mm; bending angle 25-179
+derajat
+
+-~Tain- lain:
+
+127 [ex 8462.29.10 - = - Dioperasikan secara clektik Hanya untuk mesin press plate
+
+iengan pneumatic system,
+
+supply listrik tiga phase 380V,
+
+Duty Cycle 50%, Feed Stroke
+
+hingga 35 min
+
+- Mesin penggunting (termasuk pengepres), sclain
+kombinasi mesin pelubang dan penggunting:
+
+-- Lain-lain:
+
+www.peraturan.go.id

@@ -1,0 +1,43 @@
+33. 2019, No.532
+
+= Untuk jumlah Mekanik lebih dari 10 orang yang
+memiliki pengalaman antara 4 sampai dengan 10
+tahun, diberi nilai 75%; atau
+
+= Untuk jumlah Mekanik lebih dari 10 orang yang
+memiliki pengalaman lebih dari 10 tahun, diberi nilai
+100%.
+
+2) Supervisor
+
+= Untuk jumlah Supervisor lebih dari 1 orang yang
+memiliki pengalaman antara 2 sampai dengan 3 tahun,
+diberi nilai 50%;
+
+= Untuk jumlah Supervisor lebih dari 1 orang yang
+memiliki pengalaman antara 4 sampai dengan 10
+tahun, diberinilai 75%; atau
+
+= Untuk jumlah Supervisor lebih dari 1 orang yang
+memiliki pengalaman lebih dari 10 tahun, diberi nilai
+100%.
+
+3) Petugas QC/Pengawas Mutu
+
+=" Untuk jumlah Petugas QC/Pengawas Mutu lebih dari 1
+orang yang memiliki pengalaman antara 2 sampai
+dengan 3 tahun, diberi nilai 50%;
+
+= Untuk jumlah Petugas QC/Pengawas Mutu lebih dari 1
+orang yang memiliki pengalaman antara 4 sampai
+dengan 10 tahun, diberi nilai 75%; atau
+
+= Untuk jumlah Petugas QC/Pengawas Mutu lebih dari 1
+orang yang memiliki pengalaman lebih dari 10 tahun,
+diberi nilai 100%.
+
+3. Nilai aktual adalah perkalian antara nilai bobot dengan nilai
+
+pemenuhan masing-masing parameter.
+
+www.peraturan.go.id

@@ -1,0 +1,46 @@
+POS TARIF/
+
+NO. HS URAIAN BARANG KETERANGAN
+(1) (2) (3) (4)
+tidak untuk dijual bebas
+8517.62 --Mesin untuk menerima, konversi dan transmisi Hanya digunakan untuk memenuhi
+atau regenerasi suara, gambar atau data kontrak purna jual dengan operator
+lainnya, termasuk aparatus switching dan di Indonesia dan tidak untuk dijual
+routing : bebas dan produk-produk yang
+berbasis ramah lingkungan
+206 |8517.62.10.00 |---Jenis radio transmitter dan radio penerima
+digunakan untuk interpretasi simultan pada
+konferensi multibahasa
+---Unit dari mesin pengolah data otomatis
+selain dari pos 84.71 :
+207 |8517.62.21.00 |----Unit kendali dan adaptor, termasuk
+gateway, bridge dan router
+208 |8517.62.29.00 |----Lain-lain
+209 |8517.62.30.00 |---Aparatus pemindah saluran teleponi atau
+telegrafi
+---Aparatus untuk sistem saluran pembawa
+gelombang listrik atau saluran sistem digital:
+210 |8517.62.41.00 |----Modem termasuk modem kabel dan kartu modem
+211 |8517.62.42.00 |----Konsentrator atau multiplexer
+8517.62.49 ----Lain-lain :
+212 |8517.62.49.90 |----- Lain-lain
+---Aparatus transmisi lainnya digabung dengan
+aparatus penerima :
+213 |8517.62.51.00 |----LAN tanpa kabel
+214 |8517.62.52.00 |----Aparatus transmisi dan penerima dari jenis
+yang digunakan untuk penerjemah simultan
+pada konferensi multi-bahasa
+215 |8517.62.53.00 |----Aparatus transmisi lainnya untuk radio-
+telefoni atau radio-telegrafi
+216 |8517.62.59.00 |----Lain-lain
+8517.70 -Bagian : Hanya digunakan untuk memenuhi
+--Dari aparatus transmisi selain penyiaran kontrak purna jual dengan operator
+radio atau transmisi televisi, atau pene- di Indonesia dan tidak untuk dijual
+rima portabel untuk panggilan, peringatan bebas
+atau pesan, dan peralatan paging alert,
+termasuk penyeranta :
+217 |8517.70.21.00 |---Dari telepon seluler
+218 |8517.70.29.00 |---Lain-lain
+
+18
+

@@ -1,0 +1,51 @@
+37. 2022, No.1365
+
+G, PARAMETER LAPORAN PERTANGGUNGJAWABAN DALAM IT INVENTORY
+PADA PENERIMA FASILITAS TPB DAN/ATAU PENERIMA FASILITAS KITE
+
+1,
+
+PARAMETER LAPORAN PERTANGGUNGJAWABAN PADA PENERIMA
+
+FASILITAS TPB
+
+Parameter dalam penyusunan laporan pertanggungjawaban JT
+
+as pada Penerima Fasilitas TPB, yaitu:
+merupakan laporan yang dihasilkan dari data IT Inventory,
+sehingga laporan ini tidak dibuat secara manual oleh Penerima
+Fasilitas TPB mamun merupakan produk laporan yang
+dihasilkan dari IT Inventory;
+
+b. data pada JT Inventory yang digunakan dalam laporan tersebut
+telah terintegrasi dengan data pencatatan dan pembukuan dari
+Penerima Fasilitas TPB;
+
+c. khusus untuk laporan pertanggungjawaban JT Inventory
+Penerima Fasilitas TPB yang merupakan kawasan berikat (KB),
+IT Inventory harus merupakan sub sistem dari sistem informasi
+akuntansi yang akan menghasilkan laporan keuangan dan
+laporan lainnya yang dibutuhkan oleh pemangku kepentingan
+(stakeholder); dan
+
+d. _ berisi minimal elemen data yang telah ditentukan.
+
+PARAMETER LAPORAN PERTANGGUNGJAWABAN PADA PENERIMA
+
+FASILITAS KITE
+
+Parameter dalam penyusunan laporan pertanggungjawaban JT
+
+ggg pada Penerima Fasilitas KITE, yaitu:
+merupakan laporan yang dihasilkan dari data IT Inventory,
+sehingga laporan ini tidak dibuat secara manual oleh Penerima
+Fasilitas KITE nmamun merupakan produk laporan yang
+dihasilkan dari IT Inventory;
+
+b. data pada JT Inventory yang digunakan dalam laporan tersebut
+telah terintegrasi dengan data pencatatan dan pembukuan dari
+Penerima Fasilitas KITE; dan
+
+c. berisi minimal elemen data yang telah ditentukan.
+
+www.peraturan.go.id

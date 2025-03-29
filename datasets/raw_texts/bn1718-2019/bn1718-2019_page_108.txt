@@ -1,0 +1,39 @@
+2019, No.1718 -108-
+
+Huruf(k) ; diisi jumlah PPN yang dibebaskan dalam bentuk Rupiah
+sebagaimana yang tercantum dalam kolom “Dibebaskan" dalam
+pemberitahuan pabean impor.
+
+Huruf(l) =: diisi jumlah PPh Pasal 22 yang dibebaskan dalam bentuk Rupiah
+sebagaimana yang tercantum dalam kolom “Dibebaskan” dalam
+pemberitahuan pabean impor.
+
+Huruf(m) : diisi status barang impor yang mendapat fasilitas pembebasan
+bea masuk dan/atau tidak dipungut pajak dalam rangka impor,
+yaitu Sewa atau Non-Sewa.
+
+Huruf(n) =: diisi nomor dokumen bukti penerimaan barang di wilayah kerja.
+
+Huruf(o) ; diisi tanggal, bulan, dan tahun dokumen bukti penerimaan
+barang di wilayah kerja.
+
+Huruf(p) : diisi kesesuaian jenis barang impor yaitu “Sesuai” atau “Tidak
+Sesuai” berdasarkan realisasi penerimaan barang di wilayah
+
+kerja.
+
+Huruf(q) : diisi jumlah barang impor berdasarkan realisasi penerimaan
+barang di wilayah kerja.
+
+Huruf(r) : diisi satuan barang impor berdasarkan realisasi penerimaan
+barang di wilayah kerja.
+
+Huruf(s) : diisi informasi atau data-data yang diperlukan.
+
+MENTERI KEUANGAN REPUBLIK INDONESIA,
+
+ttd
+
+SRI MULYANI INDRAWATI
+
+www.peraturan.go.id

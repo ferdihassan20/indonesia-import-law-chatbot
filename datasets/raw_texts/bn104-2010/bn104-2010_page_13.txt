@@ -1,0 +1,35 @@
+13
+
+2010, No.104
+
+No. URAIAN BARANG SPESIFIKASI TERMASUK
+DALAM POS
+TARIF
+72. | Fire Fighting Equipment Electrically operated 8424.30.10.00
+73. | Crane for Ship Use Capacity exceeding 15 ton 8426.99.00.00
+74. | Valve for Marine Use Having inlet and outlet internal | 8481 .80.74.00
+diameters of more than 40 cm
+Manually operated sluice or gate | 8481.80.61.00
+valves with inlets or outlets of an
+internal diameter exceeding 5 cm
+but not exceeding 40 cm
+Cast iron gate valves with an inlet | 8481.80.62.00
+diameter of 4 cm or more and cast
+iron butterfly valves with an inlet
+diameter of 8 cm or more
+Other Water Pipeline Valves 8481.80.63.00
+Having inlet and outlet internal | 8481.80.73.00
+diameters of more than 5 cm but not
+more than 40 cm
+75. | Gear Box & Steering Gear Of an output not exceeding 22.38 8483.40.21.00
+kW
+Of an output more than 22.38 kW 8483.40.29.00
+76. | Propeller, Bow Thruster & Stern | - 8487.10.00.00
+Thruster
+71. | Universal AC/DC motors Of an output exceeding 1 kW 8501.20.20.00
+78. | Electric Motor Single Phase Of an output exceeding 1 kW 8501.40.20.00
+79. | Electric Motor Multi Phase Of an output not exceeding 750 W 8501.51.00.00
+80. | Power Pack For Wichess Of an output between 1-37.5 kW 8501.52.20.00
+Of an output not exceeding 37.5 kW 8501.52.30.00
+81. | Electric Motor Multi Phase Of an output exceeding 37.5 Kw 8501.52.30.00
+

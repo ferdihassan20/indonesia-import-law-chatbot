@@ -1,0 +1,58 @@
+35
+
+2011, No.222
+
+POS/SUB POS % BEA
+HEADING/ DESCRIPTION OF MASUK/ %
+NO. SUB URAIAN BARANG GOODS IMPORT
+HEADING DUTY
+103) (2) @) (4) (5)
+machines
+133 | 8477.10.39.00 | ---Lain-lain ---Other 0
+8477.20 -Pengekstrusi : -Extruders :
+134 | 8477.20.10.00 | --Untuk mengekstrusi karet --For extruding rubber 0
+135 | 8477.20.20.00 | --Untuk mengekstrusi plastik --For extruding plastics 0
+136 | 8477.30.00.00 | -Mesin cetak tiup -Blow moulding machines 0
+-Mesin cetak hampa udara dan mesin -Vacuum moulding machines
+8477.40
+thermo- and other thermo
+forming lainnya : forming machines :
+8477.40.10.00 | --Untuk mencetak atau membentuk karet | “POF Moulding or forming
+137 rubber 0
+8477.40.20.00 | --Untuk mencetak atau membentuk plastik ~-For moulding or forming
+138 plastics 0
+-Mesin lain untuk mencetak ataupun -Other machinery for
+membentuk : moulding or otherwise
+forming :
+8477.51.00.00 --Untuk mencetak atau mempulkanisir --For moulding or retreading
+139 ban pneu- pneumatic tyres 0
+matik atau untuk mencetak atau or for moulding or otherwise
+membentuk forming inner
+ban dalam secara lain tubes
+8477.59 --Lain-lain : --Other :
+140 | 8477.59.10.00 | ---Untuk karet ---For rubber 0
+141 | 8477.59.20.00 | ---Untuk plastik ---For plastics 0
+8477.80 -Mesin lainnya : -Other machinery :
+8477.80.10.00 --Untuk mengerjakan karet atau untuk --For working rubber or for the
+142 pembuatan manufacture of 0
+produk dari karet, dioperasikan secara products from rubber,
+electrically operated
+elektrik
+--Untuk mengerjakan plastik atau --For working plastics or for the
+untuk manufacture
+pembuatan produk dari plastik, of products from plastics,
+dioperasikan electrically
+secara elektrik : operated :
+8477.80.31.00 ---Pengepres laminasi untuk pembuatan ---Lamination presses for the
+143 printed manufacture of 0
+circuit board atau printed wiring board Printed circuit boards or
+printed wiring boards
+144 | 8477.80.39.00 | ---Lain-lain ---Other 0
+8477.80.40.00 --Untuk mengerjakan plastik atau --For working plastics or for the
+145 untuk manufacture 0
+pembuatan produk dari plastik, tidak of products from plastics, not
+dioperasikan electrically
+secara elektrik operated
+
+www.djpp.kemenkumham.go.id
+

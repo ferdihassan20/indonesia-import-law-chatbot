@@ -1,0 +1,79 @@
+2016, No.302 -ig-
+
+No | Pos Tarif/ HS Uraian Kriteria Teknis
+
+- - - Aparatus transmisi lainnya
+digabung dengan aparatus penerima:
+
+23 | 8517.62.53.00 | - - - - Aparatus transmisi lainnya untuk
+radio- telefoni atau _radio-telegrafi
+
+- - - Aparatus transmisi lainnya:
+
+8517.70 - Bagian:
+
+24 | 8517.70.40.00 | - - Aerial atau antena dari jenis yang
+digunakan dengan aparatus untuk
+radio-telefoni atau racio-telegrafi
+
+- - Lain-lain:
+25 | 8517.70.91.00 | - - - Dari barang untuk saluran telefoni
+atau telegrafi
+26 | 8517.70.99.00 | - - - Lain-lain
+85.29 Bagian yang cocok untuk digunakan,
+
+semata-mata atau terutama dengan
+aparatus dari pos 85.25 sampai dengan
+85.28.
+
+8529.10 - Antena dan reflektor antena dari
+segala jenis; bagian yang cocok untuk
+digunakan padanya:
+
+- - Lain-lain:
+
+27 | 8529.10.99.00 | - - - Lain-lain 9.3 meter dual
+reflector earth station.
+antenna
+
+85.44 Kabel (termasuk kabel koaksial), kawat
+(termasuk dienamel atau dianodisasi)
+diisolasi, dan konduktor listrik diisolasi
+lainnya, dilengkapi dengan konektor
+maupun tidak; kabel serat optik, dibuat
+dari serat berselubung tersendiri,
+dirakit dengan konduktor listrik atau
+dilengkapi dengan konektor maupun
+tidak.
+
+- Konduktor listrik lainnya, untuk
+voltase tidak melebihi 1.000 V:
+
+8544.42 - - Dilengkapi dengan konektor:
+- - - Lain-lain:
+
+8544.42.99 - - - - Lain-lain:
+
+8544.42.99.90 | ----- Lain-lain Kabel Power dengan
+Konektor
+
+90.11 Mikroskop optik gabungan, termasuk
+yang untuk fotomikrografi,
+sinefotomikrografi atau mikroproyeksi.
+9011.20,00.00 | - Mikroskop lainnya, untuk
+fotomikrografi, sinefotomikrografi atau
+mikroproyeksi
+
+90.15 Instrumen dan peralatan survei
+(termasuk survei photogrammetrical),
+hidrografi, oseanografi, hidrologi,
+meteorologi atau geofisika, tidak
+termasuk kompas; pengukur jarak.
+
+9015.80 - Instrumen dan perlengkapan lainnya:
+30 | 9015.80.90.00 | - - Lain-lain
+90.26 Instrumen dan aparatus untuk
+
+mengukur atau memeriksa arus, tinggi
+permukaan, tekanan atau variabel
+

@@ -1,0 +1,46 @@
+2022, No.1365
+
+-52-
+PETUNJUK PENGISIAN
+Nomor (1) =: diisi nomor surat Penerima Fasilitas KITE.
+Nomor (2) : diisi tanggal surat Penerima Fasilitas KITE.
+Nomor (3): diisi nama Kanwil, KPUBC atau Kantor Pabean yang
+
+menerbitkan Keputusan Menteri mengenai penetapan sebagai
+Penerima Fasilitas KITE yang melakukan Monitoring mandiri.
+
+Nomor (4) ; diisi nama Penerima Fasilitas KITE.
+
+Nomor (5): diisi nomor surat tugas Monitoring mandiri.
+
+Nomor (6) : diisi tanggal surat tugas Monitoring mandiri.
+
+Nomor (7) =: diisi nama Penerima Fasilitas KITE.
+
+Nomor (8) : diisi alamat lokasi kegiatan usaha Penerima Fasilitas KITE
+sesuai Keputusan Menteri mengenai penetapan § sebagai
+Penerima Fasilitas KITE.
+
+Nomor (9) : diisi momor dan tanggal Keputusan Menteri mengenai
+penetapan sebagai Penerima Fasilitas KITE.
+
+Nomor (10) : diisi alasan/dasar pelaksanaan Monitoring mandiri.
+
+Nomor (11) : diisi daftar objek Monitoring mandiri.
+
+Nomor (12) : diisi tanggal awal periode data yang menjadi objek Monitoring
+mandiri.
+
+Nomor (13) : diisi tanggal akhir periode data yang menjadi objek Monitoring
+mandiri.
+
+Nomor (14) : diisi tanggal awal atau mulai pelaksanaan Monitoring mandiri.
+
+Nomor (15) : diisi tanggal akhir atau selesai pelaksanaan Monitoring
+mandiri.
+
+Nomor (16) : diisi hasil pelaksanaan Monitoring mandiri.
+
+Nomor (17) : diisi kesimpulan pelaksanaan Monitoring mandiri.
+
+www.peraturan.go.id

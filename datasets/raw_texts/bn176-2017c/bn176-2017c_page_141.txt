@@ -1,0 +1,400 @@
+10173
+10174
+10175,
+
+10176
+10177
+
+10178,
+
+10179
+10180
+
+10181
+10182
+
+10183
+
+10184
+10185,
+
+10186
+10187
+10188
+10189
+
+10190
+
+10191
+10192
+10193
+10193
+10195
+10196
+10197
+
+10198
+
+10199
+10200
+10201
+
+10202
+10203
+
+10204
+10205
+
+10206
+10207
+
+10208
+
+10209
+
+10210
+
+-461-
+
+Pos Tarif)
+
+eae Uraian Barang
+2) &
+
+[8905.90.10 |-- Dok terapung,
+
+18905.90.90 _|- - Lain-tain
+
+89.06 Kendaraan air lainaya, termasuk kapal perang dan
+|peruhu penyelamat selain sampan.
+
+3906.10.00 |- Kapal perang
+
+3906.90 + Lain-tain :
+
+1906.90.10 Dengan displacement tidak melebihi 30 ¢
+
+1906.90.20 _|- - Dengan displacement melebihi 30 t tetapi tidak
+imelebihi 300
+
+8906.90.90 |- - Lain-lain
+
+189.07 \Struktur torapung lainaya (misalnya, rakit, tangki,
+\coffer-dam, landasan apung, pelampung suar dan rambu
+aut).
+
+[8907.10.00 _|- Rakit dapat cligembungkan
+
+[8907-90 - Lain-lain =
+
+18907.90.10 |. - Pelampung suar
+
+[8907.90.90 |-- Lain-lain
+
+[8908.00.00 |Kendaraan air dan struktur terapung Ininnya untuk
+dihancurkan.
+
+190.01 Serat optile dan bundel serat optik; kabel serat optile
+selain yang dimaksud dari pos 85.44; lembaran dan
+jpelat dari bahan polarisasi; lensa (termasuk lonsa
+/kontak}, prisma, cermin dan elomen optik lainnya, dari
+berbagai bahan, tidak torpasang, selain elemen
+semacam itu dari kaca tidak dikerjakan seeara optile.
+
+9001.10 |. Serat optik, buntel dan kabel serat optik
+
+9001.10.10 |. - Untuk telekomunikast dan keperluan elektrik lainnya
+
+9001.10.90 |- - Lain-lain
+
+9001.20.00 |. Lembaran dan pelat dari bahan polarisasi
+
+9001.30.00 | Lensa kontak
+
+9001.90.00 }- Lensa kacamata dari kaca
+
+9001.50.00 - Lensa kacamata dari bahan fainnya
+
+9001.90 + Lain-lain :
+
+9001.90.10 Untuk kamera atau proycktor fotografi atau
+sinematograsi
+
+9001.90.90 }-- Lain-lein
+
+190.02 Lensa, prisma, cermin dan clemen optik lain-1
+berbagai bahan, terpasang, scbagai bagian dari atau slat
+kelengkapan untuk instrumen atau aparatus, selain
+Jetemen semacam itu dari kaca tidak dikerjakan secara
+loptike.
+
+- Lensa objektif :
+
+9002.11.00 |. Untuk kamera, proyektor atau pembesar atau pengecil
+fotograti
+
+9002.19.00 |. - Lain-lain
+
+9002.20 - Filter :
+
+9002.20.10 |-- Untuk proyektor sinematogralt
+
+9002.20.20 |-- Untuk kamera sinematografi, kamera fotografi dan
+provektor lainnya
+
+9002.20.90 |-- Lain-lain
+
+9002.90 - Lain-tain :
+
+9002.90.20 - - Untuk proyektor sinematograli
+
+9002.90.30 |. - Untuk kamera sinematografi, kamera fotografi dan
+provektor lainnya
+
+9002.90.90} - Lain-lain
+
+90.03 /Bingkai dan mounting untuk kacamata, kacamata
+[pelindung atau sejenisnya, serta baglannya.
+
++ Bingkai dan mounting :
+
+19003. 11.00 Dari plastik
+
+9003.19.00 Dari baban lainnya
+
+9003.90.00 |- Bagian
+
+190.04 Kacamata, kacamata pelindung dan sejenisaya,
+Ikorektif, protektif atau Iainnya.
+
+9004.10.00 |. Kacamata pelindung sinar matahari
+
+9004.90 + Lainctain :
+
+9004.90.10 |- - Kacamata korektif
+
+9004.90.50 Kacamata pelindung protektif
+
+9004.90.90 Lain-lain
+
+90.05 /Teropong ganda, teropong tunggal, teleskop optik
+Hainnya, dan mountingnya; instramen astronomi
+Naianya dan mountingnya, tetapi tidak termasuk
+instrumen untuk radio astronomt.
+
+9005.10.00 |- Teropong ganda
+
+12005,.80 - instrumen lainnya
+
+9005.80.10 |- - Instrumen astronomi, tidak termasuk instrumen untuk
+radio-astronomi
+
+9005.80.90 | - Lain-lain
+
+9005.90 - Bagian dan aksesori (termasuk mounting) :
+
+9005.90.10 | - Untuk instrumen astronomi, tidak termasuk instrumen
+untuk radio-astronoosi
+
+9005.90.90 _|- - Lain-lain
+
+Deseription of Goods
+
+= Floating docks
+-- Other
+
+Other vessels, including warships and
+lifeboats other than rowing boats.
+
+- Warships
+
++ Other :
+
++> Of a displacement not exceeding 30 t
+
+- - Of a displacement exceeding 30 t but not
+jexceeding 300 t
+
+-- Other
+
+(Other floating structures (for example,
+cafts, tanks, coffer-dams, landing-stages,
+[buoys and beacons).
+
+- inflatable rafts
+
+- Other :
+
+- + Buoys
+
+- = Other
+
+IVessels and other floating structures for
+[breaking up.
+
+JOptical fibres and optical fibre bundles;
+loptical fibre cables other than those of
+heading 85.44; sheets and plates of
+[polarising material; lenses (including
+icontact Ienses), prisms, mirrors and other
+loptical elements, of any material,
+unmounted, other than such elements of
+
+‘glass not optically worked.
+
+- Optical fibres, optical fibre bundles and
+cables :
+
+- - For telecommunications and other
+[electrical uses
+
+} - Other
+
+- Sheets and plates of polarising material
+
+- Contact lenses
+
+- Spectacle lenses of glass
+
+- Spectacle lenses of other materials
+
+- Other :
+
+|- - For photographie or cinematographic
+cameras or projectors
+
+|. - Other
+
+Lenses, prisms, mirrors and other optical
+lelements, of any material, mounted, being,
+pasts of or fittings for instruments or
+japparatus, other than such elements of
+glass not optically worked.
+
++ Objective lenses
+For cameras, projectors or photographic
+
+leniargers or reducers
+
+- - Other
+
+- Filters.
+
+- - For cinematographic projectors
+
+- - For cinematographic cameras,
+
+photographic cameras and other projectors
+
+=~ Other
+
+- Other
+
+- - For cinematographic projectors
+
+- - For cinematographic cameras,
+photographic cameras and other projectors
+
+- - Other
+Frames and mountings for spectacles,
+icoggles or the like, and parts thereof.
+
+- Frames and mountings :
+
+- - Of plastics
+
+- - Of other materials
+
+- Parts,
+
+Spectacles, goggles and the like,
+corrective, protective or other.
+
+- Sunglasses
+
+- Other
+
+- Corrective spectacles
+
+- Protective goggles
+
+= - Other
+
+Binoculars, monoculars, other optical
+telescopes, and mountings therefor; other
+astronomical instruments and mountings
+‘therefor, but not including instruments
+{for radio-astronomy.
+
+- Binoculars
+
+- Other insiruments :
+
+~~ Astronomical instruments, excluding
+struments for nadio-astronomy
+
+-- Other
+
+~ Parts and accessories (including
+mountings) :
+
+- - For astronomical instruments, excluding
+instruments for radio-astronomy
+
+~- Other.
+
+2017, No.176
+
+5,0%
+5,0%
+5,0%
+
+5,0%
+
+5.0%
+5.0%
+
+5,0%
+5,0%
+
+0.0%
+
+5.0%
+5,0%
+
+5,0%
+5,0%
+5,0%
+
+5.0%
+
+0,0%
+5,0%
+00%
+0.0%
+5.0%
+0,0%
+
+0.0%.
+
+5.0%
+
+10,0%
+10,0%
+5,0%
+10,0%
+10,0%
+
+10,0%
+10.0%
+
+5.0%
+
+5,0%
+5,0%
+
+5,0%
+
+5.0%
+
+www.peraturan.go.id

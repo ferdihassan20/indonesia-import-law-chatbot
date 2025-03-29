@@ -1,0 +1,49 @@
+17
+
+2009, No.228
+
+No. URAIAN BARANG POS TARIF
+(1) (2) (3)
+88 | --H section 7216.33.00.00
+89 |-L atau T section, tidak dikerjakan lebih 7216.40.00.00
+lanjut selain dicanai panas, ditarik panas
+atau diektrusi, dengan tinggi 80mm atau lebih
+-Angle, shape dan section lainnya, tidak 7216.50
+dikerjakan lebih lanjut selain dicanai
+panas, ditarik panas atau diekstrusi :
+90 | --Dengan tinggi kurang dari 80 mm 7216.50.10.00
+91 | --Lain-lain 7216.50.90.00
+-Angle, shape dan section, tidak dikerjakan
+lebih lanjut selain cold-formed atau cold-
+finished :
+92 | --Diperoleh dari produk canai-lantaian 7216.61.00.00
+93 | --Lain-lain 7216.69.00.00
+-Lain-lain :
+94 | -- Cold-formed atau cold-finished dari produk 7216.91.00.00
+canai-lantaian
+95 | --Lain-lain 7216.99.00.00
+Kawat besi atau baja bukan paduan. 72.17
+-Tidak disepuh atau tidak dilapisi, dipoles 7217.10
+maupun tidak :
+96 _ | --Mengandung karbon kurang dari 0,25% menurut | 7217.10.10.00
+beratnya
+--Mengandung karbon 0,25% atau lebih tetapi
+kurang dari 0,6 % menurut beratnya :
+--- Kawat ban; flat hard steel reed wire; kawat baja | 7217.10.22
+pra-tekan; kawat baja free cutting;
+---- Flat hard steel reed wire; kawat baja free
+cutting 7217.10.22.10
+97 | --- Lain lain 7217.10.22.90
+98 | ---Lain-lain 7217.10.29.00
+--Mengandung karbon 0,6 % atau lebih menurut
+beratnya :
+99 | ---Jari-jari sepeda; kawat ban; flat hard 7217.10.31.00
+steel reed wire; kawat baja beton pra-
+tekan; kawat baja free cutting
+100 | ---Lain-lain 7217.10.39.00
+-Disepuh atau dilapisi dengan seng : 7217.20
+-- Mengandung karbon kurang dari 0,25 %
+menurut 7217.20.10.00
+beratnya
+101 | --Mengandung karbon 0,25 % atau lebih tetapi 7217.20.20.00
+

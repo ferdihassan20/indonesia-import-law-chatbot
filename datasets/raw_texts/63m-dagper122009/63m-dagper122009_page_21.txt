@@ -1,0 +1,48 @@
+POS TARIF/
+
+NO. HS URAIAN BARANG KETERANGAN
+(1) (2) (3) (4)
+90 |8451.29.00.00 |--Lain-lain
+91 |8451.30.00.00 |-Mesin penyeterika dan pengepres (termasuk
+pengepres fusi)
+92 |8451.40.00.00 |-Mesin pencuci, pengelantang atau pencelup
+93 |8451.50.00.00 |-Mesin untuk menggulung, melepas gulungan,
+melipat, memotong atau untuk memotong berge-
+rigi kain tekstil
+84.52 Mesin jahit, selain dari mesin penjahit buku
+yang dimaksud dalam pos 84.40; perabotan, da-
+sar dan tutup dirancang secara khusus untuk
+mesin jahit; jarum mesin jahit.
+-Mesin jahit lainya :
+94 |8452.21.00.00 |--Unit otomatis
+84.53 Mesin untuk mengolah, menyamak atau mengerja-
+kan jangat, kulit atau kulit samak atau untuk
+membuat atau memperbaiki alas kaki atau ba-
+rang lain dari jangat, kulit atau kulit samak,
+selain mesin jahit.
+8453.10 -Mesin untuk mengolah, menyamak atau mengerja-
+kan jangat, kulit atau kulit samak :
+95 |8453.10.10.00 |--Dioperasikan secara elektrik
+8453.20 -Mesin untuk membuat atau memperbaiki alas kaki :
+96 |8453.20.10.00 |--Dioperasikan secara elektrik
+84.54 Converter, ladle, mesin cetakan ingot dan me-
+sin tuang, darijenis yang digunakan dalam
+metalurgi atau pengecor logam.
+97 |8454.20.00.00 |-Cetakan ingot dan ladle
+98 |8454.30.00.00 |-Mesin tuang
+99 |8454.90.00.00 |-Bagian
+84.56 Mesin perkakas untuk mengerjakan berbagai_ ba-
+han dengan penghilangan bahan, melalui proses
+penyinaran laser atau sinar lainnya atau sinar
+foton, ultrasonik, penyinaran elektro, elektro
+kimia, sinar elektron, sinar ionik atau busur
+plasma.
+100 }8456.10.00.00 |-Dioperasikan dengan proses sinar laser atau
+sinar lainnya atau sinar foton
+101 |8456.30.00.00 |-Dioperasikan dengan proses penyinaran elektro
+8456.90 -Lain-lain :
+102 |8456.90.90.00 |--Lain-lain
+84.57 Machining center, mesin konstruksi unit
+
+(single station) dan mesin transfer multi-
+

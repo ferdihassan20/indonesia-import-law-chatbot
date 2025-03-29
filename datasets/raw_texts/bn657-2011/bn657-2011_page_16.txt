@@ -1,0 +1,65 @@
+2011, No.657
+
+16
+
+POS/SUB POS BEA MASUK/
+NO. | HEADING! sUB URAIAN BARANG DESCRIPTION OF GOODS IMPORT DUTY
+HEADING | 2011 2012 2013
+a) 2) QB) (4) G) (6) 7)
+274 [0401.20.00.00 _|-Dengan kandungan lemak melebihi 1 % tetapi tidak -Of a fat content, by weight, exceeding 1 % but not 5,00% | 5,00% | 5,00%
+melebihi 6 % menurut beratnya exceeding 6%
+275 {0401.30.00.00 _|-Dengan kandungan leinak, melebihi 6 °% menurut beratnya -Ofa fat content, by weight, exceeding 6% 5,00% | 5,00% | 5,00%
+04.02 ‘Susu dan kepala susu, dipekatkan atau mengandung Milk and cream, concentrated or containing added
+jtambahan gula atau bahan pemanis lainnya, sugar or other sweetening matter.
+0402.10 -Dalam bentuk bubuk,butiran atau bentuk padat lainnya, -In powder, granules or other solid forms, ofa fat content,
+dengan kandungan lemak tidak melebihi 1,5 % menurut by weight, not exceeding 1.5%:
+beratnya
+276 {0402.10.30.00 _|--Dalam kemasan dengn berat kotor 20 kg atau lebih --In containers of a gross weight of 20 kg or more 5,00% | 5,00% | 5,00%
+277 J0402.10.90.00 —|--Lain-lain Other 5.00% | 5,00% | 5,00%
+-Dalam bentuk bubuk,butiran atau bentuk padat lainnya, -In powder, granules or other solid forms,
+dengan kandungan lemak melebihi 1,5% of a fat content,by weight, exceeding 1.5% :
+oso2.21 ‘Tidak mengandung tambahan gula atau bahan pemanis }--Not containing added sugar or other sweetening
+lainnya matter
+278 {0402.21.20.00 alam kemasan dengan berat kotor 20 kg atau lebih -—In containers ofa gross weight of 20 kg or more 5,00% | 5,00% | 5,00%
+279 Jo402.21.90.00 ain-lain Other 5.00% | 5,00% | 5,00%
+0402.29 Lain-lain --Other :
+280 |0402.29.20.00 __|---Dalam kemasan dengan berat kotor 20 kg atau lebih In containers ofa gross weight of 20 kg or more 5,00% | 5,00% | 5,00%
+281 J0402.29.90.00 —_|---Lain-lain Other 5,00% | 5,00% | 5,00%
+-Lain-lain : -Other
+282, ]0402.91.00.00 _|--Tidak mengandung tambahan gula atau bahan pemanis --Not containing added sugar or other sweetening. 0,00% | 0,00% | 0,00%
+lainnya matter
+283 {0402.99.00.00 —_|--Lain-lain --Other 5.00% | 5.00% | 5,00%
+04.03 [Susu menteza, susu dan kepala susu dikentalkan, yoghurt, Buttermilk, curdled milk and cream, yoghurt, kephir and other
+kefir dan susu serta kepala susu diragi atau diasamkan fermented or acidified milk and cream, whether or not
+lainnya, dipekatkan atau tidak, mengandung tambahan concentrated or containing added sugar or other sweetening
+gula atau bahan pemanis lainnya atau diberi rasa atau matter or flavoured or containing added fruit, nuts or cocoa
+mengandung tambahan buah-buahan, biji-bijian atau kakao
+maupun tidak.
+0403.10 -Yoghurt: -Yoghurt :
+~-Mengandung buah-buahan, biji-bijian, kakao atau Containing fruit, nuts, cocoa or flavoring matter; liquid yoghurt :
+bahan perasa lainnya; yoghurt cair :
+284 [0403.10.11.00 Dalam bentuk cair. termasuk dalam bentuk kental -—In liquid form, including condensed form 0,00% | 0,00% | 0,00%
+285 |0403.10.19.00 Lain-lain Other 0,00% | 0,00% | 0,00%
+Lain-lain Other
+286 |0403.10.91.00 Dalam bentuk kental In condensed form 0,00% | 0,00% | 0,00%
+287 |0403.10.99.00 ain-lain Other 0,00% | 0,00% | 0,00%
+0403.90 ntain : -Other
+288. |0403.90.10.00 Susu mentega --Buttermilk 0,00% | 0,00% | 0,00%
+289 0403.90.90.00 —_|--Lain-lain --Other 0,00% | 0,00% | 0,00%
+04.04 Whey, dipekatkan atau mengandung tambahan gula Whey, whether or not concentrated or containing
+jatau bahan pemanis lainnya maupun tidak; produk jaded sugar or other sweetening matter; products
+fterdiri dari susu alam sebagai unsur utama, mengandung consisting of natural milk constituents, whether or not
+jtambahan gula, bahan pemanis lainnya maupun tidak, containing added sugar or other sweetening matter,
+tidak dirinci atau termasuk dalam pos lainnya, Inot elsewhere specified or included.
+0404.10 -Whey dan whey yang dimodifikasi, dipekatkan atau -Whey and modified whey, whether or not concentrated
+menganduny tambahan gula atau bahan pemanis or containing added sugar or other sweetening matter :
+lainnya maupun tidak
+--Layak untuk dikonsumsi manusia : --Fit for human cosumption :
+290. |0404.10.11.00 Whey 5,00% | 5,00% | 5,00%
+291 |o404.10.19.00 | --Lain-tain Other 5.00% | 5,00% | 5,00%
+--Layak untuk makanan hewan : it for animal feeding
+292 |o404.10.91.00 — |--Whey -—Whey 5.00% | 5,00% | 5,00%
+293 [0404.10.99.00 — |-—Lain-lain --Other 5,00% | 5,00% | 5,00%
+294 |0404.90.00.00 —_|-Lain-tain -Other 0,00% | 0,00% | 0,00%
+
+www.djpp.kemenkumham.go.id

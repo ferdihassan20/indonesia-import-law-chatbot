@@ -1,0 +1,92 @@
+2017, No.176
+
+-462-
+
+| Fear Uraian Barang Description of Goods peatenponid
+re 2) a @ (5)
+90.06 Kamera fotografi (selain kamera sinematografi); ‘Photographic (other than
+laparatus lampu kilat fotografi dan bola lampu kilat cinematographic) cameras; photographic
+|selain Iampn tabung dari pos 85.39. flashlight apparatus and flashbulbs other
+than discharge lamps of heading 85.39.
+10211 [9006.30.00 _ ]- Kamera yang dirancang secara khusus untuk |- Cameras specially designed for underwater 5,0%
+penggunaan di bawah air, untuk penelitian dari udara fuse, for aerial survey or for medical or
+jatau untuk pemeriksaan medis atau bedah organ bagian [surgical examination of internal organs;
+Idalam tubuh; kamera pembanding untuk keperluan lcomparison cameras for forensic or
+forensik atau kriminologi criminological purposes
+10212 [9006.40.00 |- Kamera cetak instan - Instant print cameras 5,0%
+- Kamera lainnya : - Other cameras =
+10213 [9006.51.00 _ |. - Dengan jendela pembidik« melalui tensa (single lens -- With a through-the-tens viewfinder (single 10,0%
+reflex (SLR), untuk gulungan film dengan lebar tidak lets reflex (SLR), for roll film of a width not
+Jmetebihi 35 mm lexceeding 35 mm
+10214|9006.52.00|- - Lain-lain, untuk gulungan film dengan Iebar kurang —_|- - Other, for roll film of width less than 35 5,0%
+dari 35 mm am
+10215 ]9006.53.00 _|-- Lain-lain, untuk gulungan film dengan tebar 35 mm ——_|-- Other, for roll film of a width of 35 mm 5,0%
+9006.59 + - Other =
+ang digunakan untuk menyiapkan Cameras of a kind used for preparing
+[pelat atau silinder cetak : ting plates or cylinders :
+10216 [9006.59.21 ~~ Ploter foto laser Laser photoplotters 5,0%
+10217 ]9006.59.29 - Lain-lain Other 5,0%
+10218 1006.59.30 - Plotter foto laser atau image setter dengan raster |. - - Laser photoplotters or image setters 5,0%
+lwith a raster image processor
+10219 ]9006.59.90 _ }. - - Lai + ~ - Other 5.0%
+- Aparatus lampu kilat dan bola lampu Kilat fotogreti - Photographic flashlight apparatus and
+Rashbutbs :
+10220 |9006.61.00 _- - Aparatus lampu kilat ("clektronik’} lampu discharge —_|- » Discharge lamp (“electronic”) flashlight 10,0%
+apparatus
+10221 [9006.69.00 |- - Lain-lain + = Other 10,0%
+- Bagian dan aksesori - Parts and accessories :
+1006.91 Untuk kemera : - ~ Por cameras ;
+10222 |9006.91.10 _|- - - Untuk ploter foto laser dari subpos 9006.59.21 - - - For laser photoplotters of subheading, 5,0%
+59.21
+10223 |9006.91.30 |. -- Lain-tain, untuk kamera dari subpos 9006.40 sampai_ |-- - Other, for cameras of subheadings 5,0%
+19006.53 1206.40 10 9006.53
+10224 |9006.91.90 - Lain-tain - - - Other 5,0%
+19006.99 Lain-lain ~~ Other }
+10225 |9006.99.10 |. - - Untuk aparatus lampu kilat fotografi |. - - For photographic flashlight apparatus 5.0%
+10226 [9006.99.90 |- - - Lain-taia }- - - Other 10,0%
+190.07 Kamera dan proyektor sinematografi dilengkapi dengan |Cinematographic cameras and projectors,
+jsparatus perekam atau reproduksi suara maupun tidak. |whether or not incorporating sound
+[recording or reproducing apparatus.
+10227 {9007.10.00 |- Kamera + Cameras 0,0%
+1907.20 - Proyektor : - Projectors :
+10228 |9007.20.10 | - Untuk film dengan lebar kurang dari 16 mm |-- For film of less than 16 mm in width 0,0%
+10229 [9007.20.90 |-- Lain-lain - - Other 0,0%
+> Bagian dan aksesori : Parts and accessories
+10230 [9007.91.00 |-- Untuk kamera - For cameras 10,0%
+10231 [9007.92.00 _|-- Untuk proyektor - - For projectors 0,0%
+190.08 [Proyektor gambar, sclain sinematograff; pembosar dan |Image projectors, other than
+[pengecil fotografi (selain sinematograft). jcinematographic; photographic (other
+ithan cinematographic} enlargers and
+reducers.
+}9008.50 - Proyektor, pembesar dan pengecil : - Projectors, entargers and reducers :
+10232 [9008.50.10 |. - Microfilm, microfiche atau microform reader tainnya, | - Microfilm, microfiche or other microform 10,0%
+memiliki kemampuan untuk memproduksi salinan readers, whether or not capable of producing
+maupun tidak copies
+10233 }9008.50.90 | - Lain-lain -- Other 10,0%
+9008.90 - Bagian dan aksesori = - Parts and accessories :
+10234 |9008.90.20 _|- - Dari jenis fotografi (selain dari jenis sinematogral) - - Of photographic (other than 10,0%
+pembesar dan pengecil cinematographic) enlargers and reducers
+10235 |9008.90.90_]-- Lain-lain - Other 10,0%
+190.10 JAparatus dan pertengkapan iaboratorium fotografi Apparatus and equipment for
+|(termasuk sinemetografi), tidak dirinci atau termasuk | photographic (including cinematographic}
+[pos lainnya dari Bab ini; negatoscope; layar proyeksi. | Iaboratories, not specified or included
+lelsewhere in this Chapter; negatoscopes;
+10236 |9010.10.00 |} Aparatus dan perlengkapan untuk mencuci film atau pment for automatically 0.0%
+kertas fotografi (termasuk sinematograii) dalam gulungan {developing photographic [including
+jsecara otomatis atau untuk mencetak film yang telah cinematographic} film or paper in rolls or for
+dicuci pada gulungan kertas fotograll secara otomatis lautomatically exposing developed film to
+rolls of photographic paper
+9010.50 - Aparatus clan perlengkapan lainnya untuk laboratorium  }- Other appacatus and equipment for
+fotografi (termasuk sinematografi); negatoscope = photographic (including cinematographic}
+laboratories; negatoscopes ;
+10237 1910.50.10 }-- Aparatus untuk proyeksi atau menggambar pola sirkuit |-- Apparatus for the projection or drawing of| 5.0%
+
+pada substrat peka untuk pembuatan printed circuit
+
+lboarl/ printed wiring board
+
+circuit patterns on sensitised substrates for
+the manufacture of printed circuit
+boards/ printed wiring boards
+
+www.peraturan.go.id

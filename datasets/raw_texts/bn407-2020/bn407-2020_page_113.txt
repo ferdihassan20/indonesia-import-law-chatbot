@@ -1,0 +1,58 @@
+“413- 2020, No.407
+
+Contoh:
+Nilai Inpor USD2.000,00
+Kurs Menteri Keuangan pada saat diterbitkan SKTD
+USD 1 = Rp10.000,00
+Nilai Impor menjadi sebesar Rp20.000.000,00
+Penulisan pada kolom (4) menjadi:
+Rp20.000.000,00 (USD2.000,00).
+
+Kolom 5 : Diisi dengan nilai PPN yang terutang dalam satuan
+Rupiah.
+Dalam hal transaksi dalam valuta asing, diisi dengan
+nilai PPN yang telah dikonversi berdasarkan kurs yang
+ditetapkan oleh Menteri Keuangan pada saat SKTD
+diterbitkan dan dalam satuan mata uang asing
+tersebut. Contoh:
+Nilai Impor USD2.000,00
+Kurs Menteri Keuangan pada saat diterbitkan SKTD
+USD1 = Rp10.000,00
+Nilai Impor menjadi sebesar Rp20.000.000,00
+PPN terutang yang tidak dipungut  sebesar
+Rp2.000.000,00
+Penulisan pada kolom (5) menjadi Rp2.000.000,00
+(USD 200,00).
+
+Kolom6 : Diisi dengan keterangan nomor dan tanggal dokumen
+pendukung seperti commercial invoice, Bill of Lading,
+atau dokumen lain yang dipersamakan.
+
+Schingga bentuk keseluruhan tabel menjadi sebagai berikut:
+
+. Pajak
+Nama/Jenis Impor/ Pertambahan
+No | Alat Angkutan |Kuantitas] Here Nilai yan Keterangan
+Tertentu dual’) yang
+
+Nama Alat
+Angkutan Tertentu
+
+- Sesuai dengan:
+invoice No: .......
+Tanggal :
+
+B/LNo
+
+Tanggal :
+
+Kurs USD1= Rp.
+10.000,-
+
+Sesuai Keputusan
+Menteri Keuangan
+
+Nomor:..
+
+Tanggal :
+

@@ -1,0 +1,64 @@
+2015, No.1538
+
+110-
+
+H. PETUNJUK PENGISIAN RKIP
+
+1.
+
+10.
+
+11.
+
+12.
+13.
+14.
+15.
+
+Diisi dengan nomor halaman dari total jumlah halaman RKIP,
+dicantumkan pada setiap halaman.
+
+Diisi dengan nomor RKIP sesuai tata cara penomoran yang
+erlaku (diisi oleh Kantor Pelayanan Pajak).
+
+Diisi dengan tanggal RKIP (diisi oleh Kantor Pelayanan Pajak).
+Diisi dengan nomor SKTD yang melampirkan rencana
+kebutuhan impor yang bersangkutan (diisi oleh Kantor
+
+Pelayanan Pajak).
+
+Diisi dengan identitas pemohon SKTD yang mengajukan RKIP
+
+nama :  diisi dengan nama pemohon SKTD.
+alamat :  diisi dengan alamat pemchon SKTD.
+NPWP : diisi dengan Nomor Pokok Wajib Pajak
+
+pemohon SKTD.
+Diisi dengan nomor urut.
+Diisi dengan nama KPPBC/KPU dan pelabuhan tempat alat
+angkutan tertentu diimpor.
+Diisi dengan nama atau jenis alat angkutan tertentu yang
+diimpor.
+Diisi dengan satuan jumlah seperti 1 buah, 1 unit, atau 1 set.
+Diisi dengan kode Harmonized System (HS) alat angkutan
+
+ertentu.
+
+Diisi dengan spesifikasi teknis alat angkutan  tertentu.
+Spesifikasi teknis antara lain adalah kKegunaan, merk, tipe,
+ukuran, kapasitas. Kegunaan alat angkutan tertentu harus
+dicantumkan.
+
+Diisi dengan Perkiraan Nilai Impor per satuan.
+
+Diisi dengan Perkiraan Nilai Impor total.
+
+Diisi dengan perkiraan Pajak Pertambahan Nilai.
+
+Diberi keterangan “TDP” oleh Kantor Pelayanan Pajak jika
+disetujui, dan keterangan “Dipungut PPN” jika permohonan
+fasilitas tidak dipungut atas alat angkutan dimaksud tidak
+
+disetujui (diisi setelah Kantor Pelayanan Pajak meneliti
+
+ermohonan SKTD yang dilampiri RKIP).

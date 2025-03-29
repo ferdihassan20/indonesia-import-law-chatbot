@@ -1,0 +1,46 @@
+2011, No.222
+
+18
+
+POS/SUB POS % BEA
+HEADING/ DESCRIPTION OF MASUK/ %
+NO. SUB URAIAN BARANG GOODS IMPORT
+HEADING DUTY
+103) (2) @) (4) (5)
+29.02 Hidrokarbon siklik. Cyclic hydrocarbons.
+-Siklana, siklena dan sikloterpena : -Cyclanes, oyclenes and
+cycloterpenes :
+2902.11.00 --Sikloheksana --Cyclohexane
+24 | 2902.19.00.00 | --Lain-lain --Other 0
+25 | 2902.20.00.00 | -Benzena -Benzene 0
+26 | 2902.30.00.00 | -Toluena -Toluene 0
+-Silena : -Xylenes :
+27 | 2902.41.00.00 | --o-Silena --o-Xylene 0
+28 | 2902.43.00.00 | --p-Silena --p-Xylene 0
+29 | 2902.44.00.00 | --Campuran isomer silena --Mixed xylene isomers 0
+29.03 Turunan halogenasi dari hidrokarbon. Halogenated derivatives of
+hydrocarbons.
+-Turunan klorinasi dari hidrokarbon -Unsaturated chlorinated
+asiklik derivatives of
+tidak jenuh : acyclic hydrocarbons :
+30 | 2903.22.00.00 | --Trikloroetilena --Trichloroethylene 0
+Alkohol asiklik dan turunan Acyclic alcohols and _ their
+29.05 i"
+halogenasi, halogenated,
+soe . : . sulphonated, nitrated or
+sulfonasi, nitrasi atau nitrosasinya. .
+nitrosated
+derivatives.
+-Alkohol monohidrat jenuh : “Saturated monohydric
+alcohols :
+2905.11 --Metanol (metil alkohol) --Methanol (methyl alcohol)
+2905.12.00.00 --Propan-1-ol (propil alkohol) dan propan- | --Propan-1-ol(propyl alcohol)
+31 2-ol and propan-2-ol 0
+(isopropil alkohol) (isopropyl alcohol)
+2905.13 --Butan-1-ol (n-butil alkohol) --Butan-1-ol (n-butyl alcohol)
+32 2905.14.00.00 | --Butanol lainnya --Other butanols 0
+-Diol : -Diols :
+33 | 2905.31.00.00 | --Etilena glikol (etanadiol) --Ethylene glycol (ethanediol) 0
+
+www.djpp.kemenkumham.go.id
+

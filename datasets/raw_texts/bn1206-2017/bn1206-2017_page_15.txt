@@ -1,0 +1,33 @@
+-15-
+
+2017, No.
+
+1206
+
+No | Pos Tarif/HS Uraian Barang
+27 | 5209.11.10 - - - Duck dan kanvas
+28 | 5209.11.90 - - - Lain-lain
+29 | 5209.12.00 - - Kepar 3-benang atau 4-benang, termasuk kepar silang
+30 | 5209.19.00 - - Kain lainnya
+- Dikelantang :
+31 | 5209.21.00 - - Tenunan polos
+32 | 5209.22.00 - - Kepar 3-benang atau 4-benang, termasuk kepar silang
+33 | 5209.29.00 - - Kain lainnya
+- Dicelup :
+34 | 5209.31.00 - - Tenunan polos
+35 | 5209.32.00 - - Kepar 3-benang atau 4-benang, termasuk kepar silang
+36 | 5209.39.00 - - Kain lainnya
+- Dari benang aneka warna :
+37 | 5209.41.00 - - Tenunan polos
+38 | 5209.42.00 - - Denim
+39 | 5209.43.00 - - Kain lainnya dari kepar 3-benang atau 4-benang,
+termasuk kepar silang
+40 | 5209.49.00 - - Kain lainnya
+- Dicetak :
+5209.51 - - Tenunan polos :
+41 | 5209.51.10 - - - Dicetak dengan proses batik tradisional
+42 | 3209.51.90 - - - Lain-lain
+5209.52 - - Kepar 3-benang atau 4-benang, termasuk kepar silang :
+43 | 9209.52.10 - - - Dicetak dengan proses batik tradisional
+44 | 5209.52.90 - - - Lain-lain
+

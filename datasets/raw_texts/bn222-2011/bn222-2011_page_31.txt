@@ -1,0 +1,67 @@
+31 2011, No.222
+POS/SUB POS % BEA
+HEADING/ DESCRIPTION OF MASUK/ %
+NO. SUB URAIAN BARANG GOODS IMPORT
+HEADING DUTY
+(1) (2) GB) (4) (5)
+spinning rings
+traveller and ring travellers
+104 | 8448.39.00.00 | --Lain-lain --Other 0
+-Bagian dan aksesori dari mesin tenun -Parts and accessories of
+(loom) weaving machines
+. . (looms) or of their auxiliary
+atau mesin pembantunya : . .
+machinery :
+--Sisir untuk mesin tenun, heald dan --Reeds for looms, healds and
+105 8448.42.00.00 heald- heald-frames 0
+frame
+8448.49 --Lain-lain : --Other :
+---Bagian dari mesin yang dioperasikan ---Parts of electrically operated
+secara machines :
+elektrik :
+106 | 8448.49.11.00 | ----Puntalan ----Shuttles 0
+107 | 8448.49.19.00 | ----Lain-lain ----Other 0
+---Bagian dari mesin yang tidak ---Parts of non-electrically
+108 | 8448.49.20.00 dioperasikan operated 0
+secara elektrik machines
+-Bagian dan aksesori dari mesin pada pos | -Parts and accessories of
+84.47 machines of heading
+. . 84.47 or their auxiliary
+atau mesin pembantunya : . .
+machinery :
+--Sinker, jarum dan barang lainnya yang --Sinkers, needles and other
+109 | 8448.51.00.00 digunakan articles used in 0
+untuk membentuk kaitan forming stitches
+Mesin untuk membuat atau Machinery for the
+84.49 ae
+merampungkan bulu manufacture or finishing of
+kempa atau bukan tenunan dalam felt or nonwovens in the
+lembaran atau piece or in shapes,
+bentuk, termasuk mesin untuk including machinery for
+membuat topi bulu making felt hats;
+kempa; blok untuk membuat topi. blocks for making hats.
+110 | 8449.00.10.00 | -Dioperasikan secara elektrik -Electrically operated 0
+111 | 8449.00.20.00 | -Tidak dioperasikan secara elektrik -Not electrically operated 0
+84.50 Mesin cuci tipe rumah tangga atau Household or laundry-type
+
+binatu, ter-
+
+masuk mesin yang dapat digunakan
+untuk mencuci
+
+dan mengeringkan.
+
+-Mesin, yang mempunyai kapasitas linen
+kering
+tidak melebihi 10 kg :
+
+washing machines,
+including machines which
+both wash and dry.
+
+-Machines, each of a dry
+linen capacity not
+exceeding 10 kg:
+
+www.djpp.kemenkumham.go.id
+

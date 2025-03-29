@@ -1,0 +1,49 @@
+11
+
+2011, No.222
+
+POS/SUB POS % BEA
+HEADING/ DESCRIPTION OF MASUK/ %
+NO. SUB URAIAN BARANG GOODS IMPORT
+HEADING DUTY
+dd) (2) @) (4) (5)
+mesin pengikal atau penggulung textile reeling or winding
+tekstil (including
+(termasuk penggulung benang pakan) | weft-winding ) machines
+dan mesin and machines for
+untuk menyiapkan benang tekstil preparing textile yarns for
+untuk diguna- use on the
+kan pada mesin yang dimaksud pada machines of heading 84.46
+pos 84.46 or 84.47.
+atau 84.47.
+-Mesin untuk pengolahan serat tekstil : “Machines for preparing textile
+fibres :
+8445.11 --Mesin penggaruk : --Carding machines :
+8445.11.10 ---Dioperasikan secara elektrik ---Electrically operated
+2 8445.11.20.00 | ---Tidak dioperasikan secara elektrik ---Not electrically operated 5
+8445.12 --Mesin penyisir : --Combing machines :
+8445.12.10 ---Dioperasikan secara elektrik ---Electrically operated
+3 8445.12.20.00 | ---Tidak dioperasikan secara elektrik ---Not electrically operated 5
+8445.13 --Mesin penarik atau mesin roving : --Drawing or roving machines :
+8445.13.10 ---Dioperasikan secara elektrik ---Electrically operated
+4 8445.13.20.00 | ---Tidak dioperasikan secara elektrik ---Not electrically operated 5
+8445.19 --Lain-lain : --Other :
+8445.19.10 ---Dioperasikan secara elektrik ---Electrically operated
+5 8445.19.20.00 | ---Tidak dioperasikan secara elektrik ---Not electrically operated 5
+8445.20 -Mesin pemintal benang tekstil : -Textile spinning machines :
+8445.20.10 --Dioperasikan secara elektrik --Electrically operated
+6 8445.20.20.00 | --Tidak dioperasikan secara elektrik --Not electrically operated 5
+-Mesin pengganda atau pemintal benang -Textile doubling or twisting
+8445.30 sy : :
+tekstil: machines :
+8445.30.10 --Dioperasikan secara elektrik --Electrically operated
+7 8445.30.20.00 | --Tidak dioperasikan secara elektrik --Not electrically operated 5
+-Mesin penggulung (termasuk penggulung | -Textile winding (including
+8445.40 an
+benang weft-winding)
+aan) atau mesin pengikal benang or reeling machines :
+8445.40.10 --Dioperasikan secara elektrik --Electrically operated
+8 8445.40.20.00 | --Tidak dioperasikan secara elektrik --Not electrically operated 5
+
+www.djpp.kemenkumham.go.id
+

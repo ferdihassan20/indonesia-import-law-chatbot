@@ -1,0 +1,77 @@
+37. 2016, No.302
+
+No | Pos Tarif/ HS Uraian Kriteria Teknis
+
+terutama digunakan dalam sistem
+pengolahan data otomatis dari pos
+84.71:
+
+7 8528.51.20.00 | - - - Lain-lain, berwarna Hanya untuk monitor
+jenis LCD atau LED
+
+Cc. Kelompok Industri Permesinan
+
+No Pos Tarif/ HS Uraian Kriteria Teknis
+84.06 Turbin uap air dan turbin uap
+lainnya.
+1 | 84.06.10.00.00 | - Turbin untuk penggerak kendaraan
+air
+- Turbin lainnya:
+
+2 | 84.06.81.00.00_| - - Dengan keluaran melebihi 40 MW
+
+84.08 Mesin piston pembakaran dalam nyala
+kompresi (mesin diesel atau semi
+diesel).
+
+8408.10 - Mesin penggerak kendaraan air:
+
+3 | ex. - - Dengan tenaga melebihi 22,38 kW
+8408. 10.20.00 tetapi tidak melebihi 100 kW
+8408.10.90 - - Lain-lain:
+
+4 | 8408.10.90.10 - - - Dengan tenaga melebihi 100 kW
+
+tetapi tidak melebihi 750 kW
+
+S__| 8408.10.90.90 - - - Lain-lain
+84.14 Pompa udara atau pompa vakum,
+
+kompresor udara atau kompresor gas
+dan kipas angin lainnya; hood
+ventilasi atau hood daur ulang yang
+digabung dengan kipas angin,
+dilengkapi dengan saringan maupun.
+
+tidak.
+6 | ex. - Kompresor udara diatas 30 HP
+8414.40.00.00
+84.17 Tungku dan oven industri atau
+laboratorium,termasuk incinerator,
+bukan listrik.
+
+7 | 8417.10.00.00 - Tungku dan oven untuk
+memanggang, melelehkan atau
+pengolahan panas lainnya untuk bijih,
+pirit atau logam
+
+84.18 Lemari pendingin, lemari pembeku
+dan perlengkapan pendingin atau
+pembeku lainnya, listrik atau lainnya;
+pompa panas selain mesin pengatur
+suhu udara dari pos 84.15.
+
+- Perlengkapan pendingin atau
+pembeku lainnya; pompa panas:
+8418.69 - - Lain-lain:
+
+- - - Water chiller dengan kapasitas
+pendinginan melebihi 21,10 kW:
+
+8 | 8418.69.41.00 --- - Untuk mesin pengatur suhu
+84,22 Mesin pencuci piring; mesin untuk
+membersihkan atau mengeringkan
+botol atau kemasan lainnya; mesin
+untuk mengisi, menutup, menyegel
+atau memasang label pada botol,
+

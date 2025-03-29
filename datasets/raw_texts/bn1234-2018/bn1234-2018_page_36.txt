@@ -1,0 +1,121 @@
+2018, No.1234
+
+-36-
+
+948 8704.22.51 - - g.v.w. melebihi 6 t tetapi tidak melebihi 10 t
+
+949 8704.22.59 - - Lain-lain
+
+950 8704.23.21 - ~ Lori (truk) berpendingin
+
+951 8704.23.22. |----- Kendaraan pengumpul sampah mempunyai alat untuk
+memadatkan sampah
+
+952 8704.23.23 |----- Kendaraan tangki; lori (truk) semen curah
+
+953 8704.23.24 - - Kendaraan kargo berlapis baja untuk pengangkutan
+barang berharga
+
+954 8704.23.25 |----- Lori (truk) hooklift
+
+955 8704.23.29 - - Lain-lain
+
+956 8704.31.21 - Lori (truk) berpendingin
+
+957 8704.31.22 ----Kendaraan pengumpul sampah mempunyai alat untuk
+memadatkan sampah
+
+958 8704.31.23 - -- - Kendaraan tangki; lori (truk) semen curah
+
+959 8704.31.24 - ---Kendaraan kargo berlapis baja untuk pengangkutan
+
+berharga
+
+960 8704.31.25
+
+961 8704.31.29
+
+962 8704.32.21
+
+963 8704.32.22
+memadatkan sampah
+
+964 8704.32.23 |----- Kendaraan tangki; lori (truk) semen curah
+
+965 8704.32.24 |----- Kendaraan kargo berlapis baja untuk pengangkutan
+
+966 8704.32.25
+
+967 8704.32.29
+
+968 8704.32.41
+
+969 8704.32.42
+memadatkan sampah
+
+970 8704.32.43 |----- Kendaraan tangki; lori (truk) semen curah
+
+971 8704.32.44 |----- Kendaraan kargo berlapis baja untuk pengangkutan
+barang berharga
+
+972 8704.32.45 |----- Lori (truk) hooklift
+
+973 8704.32.48 - - Lain-lain, g-v.w. melebihi 6 t tetapi tidak melebihi 10 t
+
+974 8704.32.49 - - Lain-lain
+
+975 8704.32.61 - ~ Lori (truk) berpendingin
+
+976 8704.32.62 |----- Kendaraan pengumpul sampah mempunyai alat untuk
+memadatkan sampah
+
+O77 8704.32.63 |----- Kendaraan tangki; lori (truk) semen curah
+
+978 8704.32.64 |----- Kendaraan kargo berlapis baja untuk pengangkutan
+barang berharga
+
+979 8704.32.65 |----- Lori (truk) hooklift
+
+980 8704.32.69 |----- Lain-lain
+
+981 8704.90.91 - -- g.v.w. tidak melebihi 5 t
+
+982 8704.90.92 - -- g.v.w. melebihi 5 t tetapi tidak melebihi 10 t
+
+983 8704.90.93 - -- g-v.w. melebihi 10 t tetapi tidak melebihi 20 t
+
+984 8704.90.94 - -- g.v.w. melebihi 20 t tetapi tidak melebihi 45 t
+
+985 8704.90.95 - -- g.v.w. melebihi 45 t
+
+986 8708.70.21 - -- Untuk kendaraan dari pos 87.01
+
+987 8708.70.22 - - - Untuk kendaraan dari pos 87.03
+
+988 8708.70.23 - -- Untuk kendaraan dari pos 87.02 atau 87.04 (tidak
+termasuk subpos 8704.10)
+
+989 8708.70.29 - -- Lain-lain
+
+990 8711.20.12 - -- Moped dan sepeda roda dua bermotor
+
+991 8712.00.10 - Sepeda balap roda dua
+
+992 8712.00.20 - Sepeda roda dua dirancang untuk dikendarai olch anak-
+anak
+
+993 | 8712.00.30 - Sepeda roda dua lainnya
+
+994 8712.00.90 - Lain-lain
+
+995 8715.00.00 Kereta bayi dan bagiannya.
+
+996 9004.10.00 - Kacamata pelindung sinar matahari
+
+997 9004.90.10 - - Kacamata korcktif
+
+998 9004.90.50 - - Kacamata pelindung protcktif
+
+999 9102.11.00 - - Hanya dengan display mckanis
+
+www.peraturan.go.id

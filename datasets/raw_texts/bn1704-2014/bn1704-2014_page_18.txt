@@ -1,0 +1,48 @@
+2014, No.1704
+
+18
+
+NO POS TARIF / HS URAIAN BARANG
+
+1 2 3
+
+99. 4407.29.51.00 - --- Diketam, diampelas atau end-jointed
+
+60. | 4407.29.59.00 - = -- Lain-lain
+- - - Jati (Tectona spp.):
+
+61. | 4407.29.61.00 - --- Diketam, diampelas atau end-jointed
+
+62. | 4407.29.69.00 - - - - Lain-lain
+- - - Balau (Shorea spp.):
+
+63. | 4407.29.71.00 - --- Diketam, diampelas atau end-jointed
+
+64. | 4407.29.79.00 - = -- Lain-lain
+- - - Mengkulang (Heritiera spp.):
+
+65. 4407.29.81.00 - --- Diketam, diampelas atau end-jointed
+
+66. | 4407.29.89.00 - - - - Lain-lain
+- - - Lain-lain:
+
+67. 4407.29.91.00 - - - - Jongkong (Dactylocladus spp.) dan Merbau
+(Intsia spp.), diketam, diampelas atau end-jointed
+
+68. 4407.29.92.00 - - - - Jongkong (Dactylocladus spp.) dan Merbau
+(Intsia spp.), lain-lain
+
+69. 4407.29.93.00 - - - - Lain-lain, diketam, diampelas atau end-
+jointed
+
+4407.29.99 - --- Lain-lain:
+
+70. 4407.29.99.10 |----- Albisia (Parenserianthes falcataria)
+
+71. 4407.29.99.20 |----- Karet (Hevea brasiliensis)
+
+72. | 4407.29.99.90 | ----- Lain-lain
+- Lain-lain:
+
+4407.91 - - Dari kayu ek (Quercus spp.):
+

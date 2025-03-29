@@ -1,0 +1,344 @@
+-431-
+
+8967
+
+8968
+8969
+
+8970
+
+8971
+
+8972
+
+8973
+
+8074
+3975
+
+8976
+
+3977
+
+8978
+
+4979
+
+3980
+
+981
+
+Bo82
+
+8983
+
+8984
+
+os
+8986
+
+8987
+
+8988
+
+8989
+
+3990
+
+8991
+8992
+
+8993,
+
+8994
+
+8537.10.19
+8537.10.20
+
+[8537.10.30
+
+18537.10.91
+[8537.10.92
+
+18537, 10.99
+18537.20
+
+[8537.20.11
+
+[8537.20.19
+
+18537,20.21
+
+8537.20.29
+8537.20.90
+85.38
+
+8538.10
+
+8538.10.11
+
+8538.10.12
+8538.10.19
+
+8538.10.21
+
+1838.10.22
+
+8538.10.29
+8538.90
+
+18538,90, 11
+
+18538.90.12
+
+[8538.90.13
+
+8538.90.19
+8538.90.20
+95.39
+
+=~ Panel kontrol lainnya dari jenis yang cocok untuk
+|barang dari pos 64.15, 84.18, 84.50, 85.08, 85.09 atau
+55.16
+
+- == Lain-Jain
+
+~~ Papan pendistribusi (termasuk back panel dan back
+planes) untuk digunaken semata-mata atau terutama
+dengan barang dari pos 84.71, 85.17 atau 85.25
+
+- = Perigontrol logic yang dapat diprogram untuk mesin
+otomatis guna pengangkutan, penanganan dan
+penyimpsnan dic untuk peralatan semikonduktor
+
+~ Lain-fain =
+Dari jenis yang digunakan dalam perlengkapan radio
+Jatau dalam kipas clektrike
+- - - Dari jenis yang cocok untuk penggunaan dalam
+istem kendali distribusi
+Lain-tain
+- Untuk voltase melebihi 1.000 volt
+
+~ Papan sakelar :
+Dilengkapi dengan perangkat elektrik untuk
+memutus, menyambung atau melindungi sirkuit elekteike
+luntuk voltase 66 kV atau Jebih
+
+Lain-lain
+
+~ Pane! kontrol
+
+Dilengkupi dengan perangkat clektrik untuk
+memutus, menyambung atau metindungi sirkuit elektrik
+juntul voltase 66 kV atau Iebily
+
+Lain-lain
++ Lain
+Bagian yang cocok untuk digunakan semata-mata atau
+terutama dengan aparatus dari pos 85.35, 85.36 atau
+85.37.
+
+|- Papan, panel, konsel, meja, kabinet dan landasan
+lainnya untuk barang dari pos 85.37, tidak dilengkapi
+dengan aparatusnya :
+
+~ Untuk voltase tidak melebihi 1.000 volt :
+
+Bagian dari pengontrol logic yang dapat diprogram
+juntuk mesin otomatis untuk pengangkulan, penanganan
+idan penyimpanan die untule peralatan semikonduktor
+
+Dari jenis yang digunakan untuk peraintan radio
+
+Lain-tain
+
+Untuk voltase melebiti 1.000 volt :
+
+Bagian dari pengontro! logic yang dapat diprogram
+Juntuk mesin otomatis untuk pengangkutan, penanganan
+|dan penyimpanan die untuk peralatan semikonduktor
+
+- ~~ Darl jenis yang digunakan untuk peralatan radio
+
+Lain-tain
+
+- Lain-lain =
+
+Untuk voltase tidak melebihi 1.000 volt :
+
+agian termasuk printed circuit assembly dari steker
+relepon; elemen penyambung dan kontak untuk kawat dan
+kabel; wafer prober
+
+- ~> Bagian dari barang pada subpos 8536.50.51,
+8536.50.59, 8536.69.32, 8536.69.99, 8536.90.12 atau
+8536.90.19
+
+Bagian dari barang pada subpos 8537.10.20
+
+Lain-tain
+
+Untuk voltase metebihi 1.000 volt
+
+Lampu filamen atau lampu discharge listrik, termasuk
+junit Iampu sealed beam dan lampu ultra violet atau
+{infra merah; lampu busur; lampu light-emitting diode
+(LED).
+
+- Unit lampu sealed beam :
+
+Untuk kendaraan bermotor dari Bab 87
+
+Lain-lain
+
+- Lampu filamen lainnya, tidak termasuk lampu ultra-
+violet atau infra-merah =
+
+‘Tungsten halogen :
+
+Dari jenis yang digunakan untuk perlengkapan medis
+
+- ~~ Dari jenis yang digunakan untuk kendaraan bermotor
+
+~~ Rola lampu reflektor lainnya
+
+Lain-tain
+
+Lain-lain, dengan daya tidak melebihi 200 W dan untuk
+|voltase melebihi 100 volt :
+
+- - = Dari jenis vang digunakan untuk perlengkapan medis
+
+Bola lampu reflektor lainnya :
+~ Dari jenis yang digunakan pada pencahayaan
+Kckoratif, dengan daya tidak melebihi 60 W
+
+=== Other conirol panels of a kind suitable
+for goods of heading 84.15, 84.18, 84.50,
+185.08, 85.09 or 85.16
+
+-- - Other
+
+- - Distribution boards (including back
+panels and back plancs} for usc solely or
+principally with goods of heading 84.7 1,
+185.17 or 85.25
+
+-- Programmable logic controllers for
+Jautomated machines for transport, handling
+land storage of dies for semiconductor
+devices
+
+Cite =
+
+|--- Of a kind used in radio equipment or in
+lclectric fans
+
+--- Of a kind suitable for use in distributed
+‘control systems
+
+- = - Other
+
+- For a voltage exceeding 1,000 V :
+
+~ « Switchboard:
+
+- = Incorporating electrical instruments for
+breaking, connecting or protecting electrical
+(circuits for a voltage of 66 kV or more
+
++= Control panels =
+
+|- - - Incorporating electrical instruments for
+breaking, connecting or protecting electrical
+‘circuits for a voltage of 66 kV or more
+
+--- Other
+
+-- Other
+
+Parts suitable for use solely or principally
+the apparatus of heading 85.35,
+
+‘85.36 or 85.37.
+
+- Boards, panels, consoles, desks, cabinets
+
+land other bases for the goods of heading.
+
+185.37, not ecjtipped with their apparatus *
+
+- - For a voltage not exceeding 1,000 V:
+- Parts of programmable logic controllers
+
+for automated machines for transport,
+
+handling and storage of dies for
+
+semiconductor devices:
+
+|--- Of a kind used in radio equipment
+
+|- ~~ Other
+
+~~ For a voltage exceeding 1,000 V =
+Parts of programmable logic controllers
+for automated machines for transport,
+handling and storage of dies for
+scaulconductor devices:
+
+|-~ + Of a kind used in radio equipment
+
+|--- Other
+- Other =
+
+|-- For a voltage not exceeding 1,000 V =
+
+~~ Parts including printed circuit
+assemblies ‘or telephone plugs; connection
+‘and contaet elements for wires and cables:
+\waler probers
+
+~~ Parts of goods of subheading
+'8536.50.51, 8536.50.59, 8536.69.32,
+'8536,69.39, 8596.90.12 or 8536.90.19
+Parts of goods of subheading
+
+'8597.10.20
+
++ - ~ Other
+
+-- For a voltage exceeding 1,000 V
+Electric filament or discharge lamps,
+{including sealed beam lamp units and
+‘ultra-violet or infra-red lamps; arc-lamps;
+light-emitting diode (LED) lamps.
+
+- Sealed beam lamp uni
+|- - For motor vehicles of Chapter 87
+-- Other
+
+- Other fitament lamps, excluding ultra-violet
+lor infra-red lamps ©
+
+-- Tungsten halogen :
+
++ ~- Ofa kind used in medical equipment
+
+--- Of a kind used for motor vehicles
+|- - - Other reflector lamp bulbs
+
+Other
+
+- - Other, of a power not exceeding 200 W
+and for a voltage exceeding 100 V :
+
+- = - Of a kind used in medical equipment
+
+Other reflector lamp bull
+Of a kind used in decorative
+illumination, of a pawer not exceeding 60 W
+
+2017, No.176
+
+www.peraturan.go.id

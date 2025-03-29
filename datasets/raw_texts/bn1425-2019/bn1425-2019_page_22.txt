@@ -1,0 +1,60 @@
+2019, No.1425 -99-
+
+E. DAFTAR BARANG IMPOR KEPERLUAN BADAN SIBER DAN SANDI
+NEGARA
+
+NO. NAMA BARANG URAIAN
+
+PERALATAN SANDI
+
+L
+Mesin Sandi Berhasis Data;
+Berbasis Voice meliputi radio dan telepon (desk
+phone dan mobile phone};
+Berbasis teks/ fax.
+
+| 2. | KDC NDA Alat pembangkit kunci/ random key generator.
+
+PERALATAN KRIPTO ANALISIS
+
+Alat Monitoring Alat untuk memantau komunikasi melalui radio,
+telepon, internet, satelit yang digunakan sebagai alat
+bantu analisis sinyal.
+
+Alat Traffic Analysist | Alat untuk mengamati lalu lintas data pada jaringan
+internet.
+
+Alat bantu untuk menyelesaikan perhitungan dalam
+skala besar yang tidak dapat diselesaikan oleh
+komputer biasa,
+
+il, ALAT PENDUKUNG UTAMA
+
+Alat untuk mendeteksi bahan-bahan
+semikonduktor pada tempat-tempat terteritu;
+
+Alat untuk mendeteksi gelomhang radio yang
+terpancarian;
+
+Alat untuk menangkap/mencari frekuernsi radio
+dengan frelaiensi tertentua;
+
+Alat untuk moendisplay/menampilkan hasil
+monitoring;
+
+Alat untuk mendetekei hasil tegangan pada saluran
+telepon, apabila terjadi penuruman  tegangan,
+
+Alat untuk menggangu (jamming) frekuensi GSM
+tertentu yang berguna untuk menonaktifkan alat
+komunikasi yang bekerja pada frekuensi tertenta;
+Alat untuk mengganggu Yamming frekuensi CDMA
+tertentu yang berguna untuk menonaktifkan alat
+komunikasi yang bekerja pada freloicnsi tertentu,
+
+Alat pendukung suatu ruangan yang dapat
+mengendalikan atau meniadakan pancaran gelombang
+elektromagnetik yang keluar ataupun masuk ke
+ruangan tersebut.
+
+www.peraturan.go.id

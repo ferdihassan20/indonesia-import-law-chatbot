@@ -1,0 +1,80 @@
+51. 2017, No.1848
+
+LAMPIRAN III
+
+PERATURAN MENTERI PERDAGANGAN REPUBLIK INDONESIA
+NOMOR 90 TAHUN 2017
+
+TENTANG
+
+PERUBAHAN ATAS PERATURAN MENTERI PERDAGANGAN
+
+NOMOR 127/M-DAG/PER/ 12/2015 TENTANG KETENTUAN IMPORO
+BARANG MODAL DALAM KEADAAN TIDAK BARU
+
+BARANG MODAL DALAM KEADAAN TIDAK BARU YANG DAPAT DIIMPOR
+OLEH PERUSAHAAN REMANUFAKTURING
+
+[ No | POS TARIF/HS URAIAN BARANG KETERANGAN
+
+84.08 [Mesin piston pembakaran dalam nyala kompresi (mesin
+diesel atau semi diesel).
+
+| __|a708.10 "Mesin ponggerak Kendaraan alr LY
+
+[8408.20 -Mesin dari jenis yang digunakan untuk penggerak
+/kendaraan dari Bab 87:
+a
+
+lex 8408.20.23 ~~~ - Dengan kapasitas silinder melebihi 3.500 cc Hanya untuk kapasitas silinder
+melebihi 20.000 ce
+
+a
+a
+
+2 [ex 8408.20.96 ~~~ - Dengan kapasitas silinder melebihi 3.500 cc Hanya untuk kapasitas silinder
+melebihi 3.500 ce tetapi tidak
+melebihi 20.000 cc
+
+184.29 atau 84.30 hidrolik dari pos tarif 8429 &
+8430
+| Ps | [Pompa untuk cairan, dilengkapi dengan alat ukur
+‘maupun tidak; elevator cairan
+a
+A
+
+lex a 70.39 |- - - Lain-lain Hanya untuk komponen dari
+os tarif 8429 & 8430
+87.08 fBagian dan aksesori kendaraan bermotor dari pos
+87.01 sampai dengan 87.05
+ee 5708.10 [Bumper dan bagiannva: __
+
+- Bagian dan aksesori bodi Uiainnya (termasuk kabin): pe
+ee 8708.30 | Rem dan rem servo; bagiannya:
+
+jex. 8708.30.90 - - Lain-lain Hanya untuk rem dan rem
+serpo, dan bagiannya untuk
+Dump Truk dengan g.v.w. di
+latas 45 ton
+
+lex a 40.19 -~~ Tain-lain - Gear box dan bagiannya,
+- Untuk Dump Truk dengan
+ene v.w. di atas 45 ton
+
+-- Gear [-- Gear box, dirakit dirakit:
+
+lex. a 40.27 - - - eS kendaraan dari pos 87.04 atau 87.05 |- Untuk a Truk dengan
+g-v.w. diatas 45 ton
+
+[8708.50 ~ Poros penggerak dengan diferensial, baik dilengkapi
+Imaupun tidak dilengkapi dengan komponen transmisi
+lainnya, dan poros tanpa penggerak; bagiannya:
+
+a
+HG
+HN
+a a
+A a
+Po prrosso29 ta
+
+www.peraturan.go.id

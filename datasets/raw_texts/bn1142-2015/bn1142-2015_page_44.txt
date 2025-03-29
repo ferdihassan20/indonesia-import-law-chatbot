@@ -1,0 +1,59 @@
+2015, No. 1142 44
+
+No. (25)
+No. (26)
+No. (27)
+No. (28)
+No. (29)
+No. (30)
+No. (31)
+No. (32)
+No. (33)
+No. (34)
+No. (35)
+No. (36)
+No. (37)
+No. (38)
+No. (39)
+No. (40)
+
+: Diisi persentase tarif PPnBM.
+: Diisi persentase tarif PPh Pasal 22.
+: Diisi tarif denda, apabila terdapat denda yang dihitung dengan
+
+persen.
+
+: Diisi jumlah bea masuk yang wajib dilunasi.
+
+: Diisi jumlah cukai yang wajib dilunasi.
+
+: Diisi jumlah PPN yang wajib dilunasi.
+
+: Diisi jumlah PPnBM yang wajib dilunasi.
+
+: Diisi dengan jumlah PPh Pasal 22 yang wajib dilunasi.
+: Diisi dengan jumlah denda apabila ada.
+
+: Diisi dengan total jumlah bea masuk, cukai, pajak, dan denda yang
+
+wajib dilunasi.
+
+: Diisi nama jabatan Pejabat Bea dan Cukai yang menerbitkan
+
+SPPBMCP.
+
+: Diisi nama Pejabat Bea dan Cukai yang menerbitkan SPPBMCP.
+: Diisi NIP Pejabat Bea dan Cukai yang menerbitkan SPPBMCP.
+
+: Diisi dengan keterangan lainnya seperti dasar hukum, ketentuan
+
+pembayaran, tanggal jatuh tempo dil.
+
+: Diisi nomor halaman.
+
+: Diisi jumlah halaman.
+
+MENTERI KEUANGAN REPUBLIK
+INDONESIA,
+
+BAMBANG P.S. BRODJONEGORO

@@ -1,0 +1,40 @@
+2019, No.532
+
+-38-
+
+2) Supervisor
+
+= Untuk jumlah antara 1 sampai dengan 5 orang yang
+
+memiliki pengalaman di bidang rekondisi komputer
+lebih dari 6 bulan, diberi nilai 50%;
+
+Untuk jumlah antara 6 sampai dengan 10 orang yang
+memiliki pengalaman di bidang rekondisi komputer
+lebih dari 6 bulan, diberi nilai 75%; atau
+
+Untuk jumlah lebih dari 10 orang yang memiliki
+pengalaman di bidang rekondisi komputer lebih dari 6
+
+bulan, diberi nilai 100%.
+
+3) Petugas QC/Pengawas Mutu
+
+= Untuk jumlah antara 1 sampai dengan 5 orang yang
+
+memiliki pengalaman di bidang rekondisi komputer
+lebih dari 6 bulan, diberi nilai 50%;
+
+Untuk jumlah antara 6 sampai dengan 10 orang yang
+memiliki pengalaman di bidang rekondisi komputer
+lebih dari 6 bulan, diberi nilai 75%; atau
+
+Untuk jumlah lebih dari 10 orang yang memiliki
+pengalaman di bidang rekondisi komputer lebih dari 6
+bulan, diberi nilai 100%.
+
+3. Nilai aktual adalah perkalian antara nilai bobot dengan nilai
+
+pemenuhan masing-masing parameter.
+
+www.peraturan.go.id

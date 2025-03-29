@@ -1,0 +1,56 @@
+21 2009, No.135
+
+LAMPIRAN V
+PERATURAN MENTERI KEUANGAN NOMOR
+107/PMK.04/2009 TENTANG PEMBEBASAN BEA MASUK
+ATAS IMPOR PERSENJATAAN, AMUNISI,
+PERLENGKAPAN MILITER DAN KEPOLISIAN, TERMASUK
+SUKU CADANG, SERTA BARANG DAN BAHAN YANG
+DIPERGUNAKAN UNTUK MENGHASILKAN BARANG
+YANG DIPERGUNAKAN BAGI KEPERLUAN
+PERTAHANAN DAN KEAMANAN NEGARA.
+
+DAFTAR BARANG-BARANG IMPOR KEPERLUAN LEMBAGA SANDI NEGARA
+
+NOMOR | NAMA BARANG URAIAN
+
+I. Peralatan Sandi
+1 Mesin Sandi (a) Berbasis Data;
+(b) Berbasis Voice meliputi radio dan telepon (desk phone dan mobile
+phone);
+(c) Berbasis teks/fax
+2 KDC NDA Alat pembangkit kunci/random key generator
+3 KDCSA Alat pendistribusi kunci
+Il. Peralatan Kripto Analisis
+1 Alat Monitoring Alat untuk memantau komunikasi melalui radio, telepon, internet,
+satelit yang digunakan sebagai alat bantu analisis sinyal.
+2 Alat Traffic Alat untuk mengamati lalu lintas data pada jaringan internet.
+Analysist
+3 Code Breaker Super | Alat bantu untuk menyelesaikan perhitungan dalam skala besar
+Computer yang tidak dapat diselesaikan oleh komputer biasa.
+
+IH. Alat Pendukung Utama
+
+1 Counter- (a) Alat untuk mendeteksi bahan-bahan semikonduktor pada
+surveillance tempat-tempat tertentu;
+
+(b) Alat untuk mendeteksi gelombang radio yang terpancarkan;
+
+(c) Alat untuk menangkap/mencari frekuensi radio dengan
+frekuensi tertentu;
+
+(d) Alat untuk mendisplay/menampilkan hasil monitoring;
+
+(e) Alat untuk mendeteksi hasil tegangan pada saluran telepon,
+apabila terjadi penurunan tegangan, indikasi  terjadi
+penyadapan.
+
+2 (a) Alat untuk menggangu (jamming) frekuensi GSM tertentu
+Jammer yang berguna untuk menonaktifkan alat komunikasi yang
+bekerja pada frekuensi tertentu;
+
+(b) Alat untuk mengganggu (jamming) frekuensi CDMA tertentu
+
+yang berguna untuk menonaktifkan alat komunikasi yang
+bekerja pada frekuensi tertentu.
+

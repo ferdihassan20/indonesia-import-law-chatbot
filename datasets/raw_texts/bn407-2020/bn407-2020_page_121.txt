@@ -1,0 +1,15 @@
+121- 2020, No.407
+
+(20) Diisi dengan spesifikasi teknis alat angkutan tertentu, yaitu meliputi
+kegunaan, merek, tipe, ukuran, dan kapasitas.
+
+(21) Diisi dengan perkiraan Harga Jual per satuan.
+
+(22) Diisi dengan perkiraan Harga Jual total.
+
+(23) Diisi dengan perkiraan PPN.
+
+(24) Diberi keterangan “TDP” oleh Kantor Pelayanan Pajak jika disetujui,
+dan keterangan “Dipungut PPN” jika fasilitas tidak dipungut atas alat
+angkutan dimaksud tidak disetujui (diisi setelah Kantor Pelayanan
+Pajak meneliti permohonan SKTD yang dilampiri RKIP).

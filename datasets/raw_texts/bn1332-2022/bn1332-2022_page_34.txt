@@ -1,0 +1,81 @@
+2022, No.1332 _34-
+
+1) nama dan alamat eksportir;
+
+2) mama dan alamat produsen, apabila diketahui;
+
+3) nama dan alamat importir atau penerima ;
+
+4) uraian rinci atas barang, termasuk kode Harmonized
+System (HS) atas barang dengan level 6 (enam) digit;
+
+5) kode otorisasi atau kode identifikasi Eksportir
+Berscrtifikat;
+
+6) nomor referensi;
+
+7) kriteria asal barang (origin criteria);
+
+8) penandasahan oleh penandatangan resmi yang
+
+telah memenuhi seluruh ketentuan sebagaimana
+
+dimaksud dalam Pasal 3 ayat (1);
+
+9) RCEP Country of Origin sebagaimana dimaksud dalam
+Pasal 14 dan Pasal 15;
+
+10) nilai Free-on-Board (FOB) dalam hal menggunakan
+kriteria asal barang (origin criteria) Regional Value
+Content (RVC);
+
+11) jumlah barang; dan
+
+12) dalam hal DAB Back-to-Back:
+
+a. nomor referensi, tanggal penerbitan, dan RCEP
+Country of Origin dari Bukti Asal Barang yang
+diterbitkan oleh Pihak pengekspor pertama; dan
+
+b. kode otorisasi Eksportir Bersertifikat dalam hal
+Bukti Asal Barang yang diterbitkan oleh Pihak
+pengekspor pertama berupa DAB.
+
+Ill. KETENTUAN PENGISIAN PEMBERITAHUAN PABEAN IMPOR
+
+1. Pengisian Pemberitahuan Impor Barang (BC 2.0)
+
+Untuk tujuan pengenaan Tarif Preferensi, pada Pemberitahuan
+
+Impor Barang (PIB), Importir wajib mengisi:
+
+a. kode fasilitas 69; dan
+
+b. nomor referensi dan tanggal SKA Form RCEP, dan/atau
+kode otorisasi Eksportir Bersertifikat dan tanggal DAB,
+
+secara benar sesuai dengan ketentuan peraturan perundang-
+
+undangan mengenai Pemberitahuan Pabean.
+
+2. Pengisian pada Pemberitahuan Impor Barang untuk Ditimbun di
+TPB dan Pemberitahuan Impor Barang dari TPB diatur tersendiri
+dalam Lampiran huruf B Angka Romawi I yang merupakan
+bagian tidak terpisahkan dari Peraturan Menteri inl.
+
+3. Pengisian pada Pemberitahuan Pabean Penimbunan Barang
+Impor di PLB dan Pemberitahuan Impor Barang dari PLB diatur
+tersendiri dalam Lampiran huruf B Angka Romawi II yang
+merupakan bagian tidak terpisahkan dari Peraturan Menteri ini.
+
+4, Pengisian pada PPFTZ-0l diatur tersendiri dalam Lampiran
+huruf B Angka Romawi III yang merupakan bagian tidak
+terpisahkan dari Peraturan Menteri ini. .
+
+5. Pengisian pada pemberitahuan pabean pemasukan barang ke
+KEK dari luar Daerah Pabean dan pemberitahuan pabean
+pengeluaran barang dari KEK diatur tersendiri dalam Lampiran
+buruf B Angka Romawi IV yang merupakan bagian tidak
+terpisahkan dari Peraturan Menteri ini.
+
+www.peraturan.go.id

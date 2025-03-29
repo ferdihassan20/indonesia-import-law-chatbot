@@ -1,0 +1,60 @@
+2019, No.1672
+
+-21-
+PETUNJUK PENGISIAN
+
+Nomor (1) : QR Code Data C dalam Database.
+
+Nomor (2) : Diisi nomor Formulir C dengan format FC-nomor urut/nomor
+
+Kantor Wilayah Direktorat Jenderal Bea dan Cukai atau
+Kantor Pelayanan Utama Bea dan Cukai/Nomor Kantor
+Pengawasan dan Pelayanan Bea dan Cukai/Kode Kendaraan
+
+Bermotor/Tahun Penerbitan.
+
+Nomor (3) : Diisi tanggal/bulan/tahun diterbitkannya Formulir C.
+
+Nomor (4) : Diisi nama Kantor Pabean penerbit Formulir C.
+
+Nomor (5) : Diisi nama pemilik atas pindah tangan bukan penerima
+fasilitas kepabeanan.
+
+Nomor (6) : Diisi alamat pemilik atas pindah tangan bukan penerima
+fasilitas kepabeanan.
+
+Nomor (7) : Diisi jenis kendaraan bermotor sesuai peraturan perundang-
+undangan di Kepolisian Negara Republik Indonesia.
+
+Nomor (8) : Diisi merek kendaraan bermotor.
+
+Nomor (9) : Diisi tipe kendaraan bermotor sesuai peraturan perundang-
+undangan di Kepolisian Negara Republik Indonesia.
+
+Nomor (10) =: Diisi tahun pembuatan kendaraan bermotor.
+
+Nomor (11) : Diisi nomor rangka atau Vehicle Identity Number (VIN)
+kendaraan bermotor.
+
+Nomor (12) : Diisi nomor mesin kendaraan bermotor.
+
+Nomor (13) ; Diisi nomor kendaraan saat kendaraan bermotor masih
+dikuasai penerima fasilitas kepabeanan.
+
+Nomor (14) =: Diisi nomor Surat Penetapan Pembayaran Bea Masuk, Cukai,
+dan/atau Pajak.
+
+Nomor (15) ; Diisi tanggal terbitnya Surat Penetapan Pembayaran Bea
+Masuk, Cukai, dan/atau Pajak.
+
+Nomor (16) =; Diisi nomor Formulir B sebelumnya.
+
+Nomor (17): Diisi tanggal Formulir B sebelumnya.
+
+Nomor (18) =: Diisi nomor keputusan mengenai ijin bayar dari pejabat yang
+berwenang.
+
+Nomor (19): Diisi tanggal keputusan mengenai ijin bayar dari pejabat yang
+berwenang.
+
+www.peraturan.go.id

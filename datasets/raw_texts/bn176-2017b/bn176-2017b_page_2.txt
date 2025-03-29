@@ -1,0 +1,150 @@
+2017, No.176 -162-
+
+4.- Pos 84.57 berlaku hanya untuk mesin perkakas untuk 4.- Heading 84.57 applies only to machine-tools for working
+
+5
+
+mengerjakan logam, selain mesin bubut (termasuk
+
+turning centres), yang dapat melakukan berbagai jenis
+
+pekerjaan antara lain:
+
+(a) dengan penggantian perkakas secara otomatis dari
+magasin atau sejenisnya sesuai dengan program
+Pengerjaannya (machining canter),
+
+(b) dengan penggunaan otomatis, secara simultan atau
+bertahap, dari head unit yang berbeda, yang
+bekerja di alas barang yang dikerjakan yang
+mempunyai posisi yang tetap (unit construction
+machines, single station), atau
+
+metal, other than lathes (including tuming centres),
+
+which can carry out different types of machining
+
+operations either:
+
+(a) by automatic tool change from a magazine or the
+like in conformity with a machining programme
+(machining centres),
+
+(0) by the automatic use, simultaneously or
+sequentially, of different unit heads working on a
+fixed position workpiece (unit construction
+machines, single station), or
+
+(c) dengan perpindahan otomatis barang yang (c) by the automatic transfer of the workpiece to
+dikerjakan ke head unit yang berbeda (multi-station different unit heads (multi-station transfer
+transfer machines). machines).
+
+(A) Untuk keperiuan pos 84.71, istiah "mesin pengolah
+data otomatis™ berarti mesin yang dapat:
+
+(i) Menyimpan program atau program-program
+
+pengolahan dan sekurang-kurangnya data
+
+yang diperiukan segera untuk pelaksanaan
+
+5.- (A) For the purposes of heading 84.71, the expression
+
+“automatic data Processing machines” means
+
+machines capable of:
+
+{i) Storing the processing program or programs
+and at least the data immediately necessary for
+
+program tersebut; the execution of the program;
+
+(ii) Diprogram secara bebas menurut kebutuhan (ii) Being freely programmed in accordance with
+pemakai; the requirements of the user;
+
+(iii) Mengerjakan perhitungan aritmatika yang (iif) Performing arithmetical computations specified
+ditentukan oleh pemakai; dan by the user; and
+
+(iv) Tanpa  intervensi manusia, melaksanakan
+program pengolahan yang memerlukan
+modifikasi pelaksanaannya, dengan keputusan
+yang logis, + selama_—_berlangsungnya
+pengolahan;
+
+(B) Mesin pengolah data otomatis dapat dalam bentuk
+sistem yang terdiri dari sejumlah variabel dari unit
+terpisah;
+
+(C) Berdasarkan paragraf (D) dan (E) di bawah, suatu
+unit harus dianggap sebagai bagian dari sistem
+yang Jengkap apabila unit tersebut_ memenuhi
+‘semua persyaratan berikut ini:
+
+(i) Dari jenis yang semata-mata atau terutama
+digunakan dalam sistem pengolah data
+otomatis;
+
+(ii) Dapat dihubungkan dengan unit pengolah pusat
+baik secara langsung atau melalui satu atau
+tebih unit lainnya; dan
+
+(ili) Dapat menerima atau mengirimkan data dalam
+bentuk (kode atau sinyal) yang dapat digunakan
+oleh sistem tersebut,
+
+Unit dari mesin pengolah data otomatis yang
+
+diajukan secara terpisah harus diklasifikasikan
+
+dalam pos 84.71.
+
+Namun demikian, keyboard, peralatan masukan
+
+koordinat X-Y dan unit penyimpan cakram yang
+
+memenuhi persyaratan paragraf (C) (ii) dan (C) (iii)
+
+di atas, dalam kasus apapun harus diklasifikasikan
+
+sebagai unit dari pos 84.71.
+
+(iv) Executing, without human intervention, a
+processing program which requires them to
+modify their execution, by logical decision
+during the processing run;
+
+(B) Automatic data processing machines may be in the
+form of systems consisting of a variable number of
+Separate units.
+
+(C) Subject to paragraph (D) and (E) below, a unit is to
+be regarded as being part of an automatic data
+processing system if it meets all of the following
+
+conditions:
+(i) It is of a kind solely or principally used in an
+automatic data processing system;
+
+{ii) It is connectable to the central processing unit
+either directly or through one or more other
+units; and
+
+(ill) It Is able to accept or deliver data in a form
+(codes or signals) which can be used by the
+system.
+
+Separately presented units of an automatic data
+
+processing machine are to be classified in heading
+
+84.71.
+
+However, keyboards, X-Y co-ordinate input devices
+
+and disk storage units which satisfy the conditions
+
+of paragraphs (C) (ii) and (C) (iii) above, are in all
+
+cases to be classified as units of heading 84.71.
+
+www.peraturan.go.id

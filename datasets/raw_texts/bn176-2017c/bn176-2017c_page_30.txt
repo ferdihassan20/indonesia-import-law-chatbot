@@ -1,0 +1,360 @@
+2017, No.176
+
+6060
+
+6061
+6062
+
+6063
+
+6069
+6070
+6071
+
+6072
+
+6073
+
+6074
+
+6075
+
+6076
+
+6077
+
+6078
+
+6079
+
+6089
+
+6090
+
+7209.90.90
+172.10
+
+7210.20.90
+7210.30
+
+7210.30.11
+7210.30.12
+7210.30.19
+7210.30.91
+7210.30.99
+
+7210.41
+
+7210.41.11
+7210.41.12
+7210.41.19
+7210.41.91
+7210.41.99
+
+7210.49
+
+7210.49.11
+
+7210.49.12
+7210.49.13
+7210.49.19
+7210.49.91
+7210.49.99
+7210.50.00
+
+7210.61
+
+7210.61.11
+7210.61.12
+7210.61.19
+7210.61.91
+
+7210.61.92
+
+-350-
+
+= Dengan ketebalan 3 mm atau lebih
++ ~ Dengan ketebalan melebihi 1 mm tetapi kurang dari 3
+lm :
+
+Dengan lebar tidak melebihi 1.250 mm
+
+Dengan keiebalan 0,5 mm atau lebih tetapi tidak
+imelebihi L mm :
+
+Dengan lebar tidak melebihi 1.250 mm
+
+Lain-tain
+
+Dengan ketebalan kurang dari 0,5 mm :
+
+‘Mengandung karbon kurang dari 0,6 % menurut
+beratnya dan dengan kelebalan 0,17 mm atau kurang:
+
++ = = Lain-lain
+- Lain-tain :
+
+Bergelombang
+
+> = Lain-tain
+
+|Produk canal lantaian dari besi atau baja bukan
+paduan, dengan lebar 600 mm atau lebih, dipalut,
+ldisepuh atau dilapisi.
+
+- Disepub atau dilapisi dengan timal
+Dengan ketebalan 0,5 mm atau lebih :
+
+Menganclung karbon 0,6 % atau lebih menurut
+beratnva
+
+Lain-lain
+
+Dengan ketebalan kurang dari 0,5 mm :
+Menganclung karbon 0,6 % atau lebih menurut
+beratnya
+
+- == Lain-tain
+
+- Disepub atau dilapisi dengan timbal, termasuk terne-
+plate :
+
+| - Mengandung karbon kurang dari 0,6 % menurut
+beratnva dan dengan ketebalan 1,5 mm atau kurang,
+
+Lain-lain
+- Disepuh atau dilapisi secara elektrotisa dengan seng :
+
++ « Mengandung karbon kurang dari 0,6 % menurut
+beratnya ©
+Dengan ketebalan Ucak melebihi 1,2 mm
+
+- - - Dengan ketebalan melebihi 1,2 mm tetapi tidak
+Imelebihi 1,5 mm
+Lain-lain
+
+Bergelombang :
+
+Mengancdung, karbon Kurang dari 0,6 % menurut
+beratnys |
+
+- + == Dengan ketebalan tidak melebihi 1,2 mm
+
+~ Dengan ketebalan melebihi 1,2 mm tetapi tidak
+imelebihi 1,5 mm
+
+Lain-lain >
+
++ Dengan ketebalan tidak melebibi 1,2 mm
+
+Mengandung karbon kurang dari 0,6 % menurut
+Dberatnya :
+
+~ Dilapisi dengan seng dengan metode paduan besi-
+jseng, mengandung karbon kurang dari 0,04 % menurut
+beratnya dan dengan ketebalan tidak melebihi 1,2 mm
+
+|- --- Lain-lain, dengan ketebalan tidak melebihi 1,2 mm
+
+- ~~~ Dengan ketebalan metebihi 1,2 mm tetapi tidak
+melebihi 1,5 mm
+
++ Lain-lain
+
+Lain-lain =
+
++ Dengan ketebalan tidak melebibi 1,2 mm
+
+- =~ - Lain-tain
+- Disepuh atau dilapisi dengan kromium oksida atau
+dengan kromium dan kromium oksida
+
+- Disepuh atau dilapisi dengan aluminium ;
+
+-- Disepuh atau dilapisi dengan paduan aluminium-seng +
+
+| -- Mengandung karbon kurang dari 0,6 % menurut
+lberatnya :
+|---- Dengan ketebalan tidak melebihi 1,2 mm
+
+|- - -- Dengan ketebalan melebihi 1,2 mm tetapi tidak
+Imelebihi 1,5 mm
+
++ Lain-lain
+
+Lain-lain :
+
+~ Dengan ketebalan tidak melebihi 1,2 mm
+
+- = = Laln-Inin, bengetom bang
+
+== Of a thickness of 3 mm or more
+-- Of a thickness exceeding 1 mm but less.
+than 3 mm :
+
+Of a width not exceeding 1,250 mm
+
+~ Other
+
+-- Of a thickness of 0.5 mm or more but not
+Jexceeding 1 mm :
+
+~ Of a width not exceeding 1,250 mm
+
+- Other
+
+|. - Of a thickness of less than 0.5 mm =
+
+~~ - Containing by weight less than 0.6 % of
+carbon and of a thickness of 0.17 mm or less
+
+- Other =
+
+~~ Corrugated
+
+-- Other
+
+Flat-rolled products of iron or non-alloy
+steel, of a width of 600 mm or more, clad,
+plated or coated.
+
+- Plated or coated with tin :
+
+-- Of a thickness of 0.5 mm or more :
+
+-- - Containing by weight 0.6 % or more of
+jcarbon
+
++= = Other
+
+-- Of a thickness of less than 0.5 mm :
+
+- - - Containing by weight 0.6 % or more of
+carbon
+
+> - Other
+
+- Plated or coated with lead, inchading terne-
+plate:
+
+- - Containing by weight less than 0.6 % of
+carbon and of a thickness of 1.5 mm or less
+
++ - Other
+- Electrolytically plated or conted with zine =
+
+- - Containing by weight less than 0.6 % of
+carbon
+of
+
+thickness not exceeding 1.2 mm
+
+~ - Of a thickness exceeding 1.2 mm but.
+not exceeding 1.5 mm
+--- Other
+-- Other :
+-- - Of a thickness not exceeding 1.2. mm
+
+--- Other
+
+- Otherwise plated or coated with zine :
+
+}- - Corrugated
+
++ - - Containing by weight less than 0.6 % of
+Jcarbon :
+
+|---- Of a thickness not exceeding 1.2 mm.
+
+Of a thickness exceeding 1.2 mm but
+not exceeding 1.5 mm
+
+- - -- Other
+
+Other :
+
+Of a thickness not exceeding 1.2 mm
+
+- - - - Coated with zine by the iron-zine
+lalloyed coating methort, containing by weight|
+less than 0.04 % of carbon and of @
+thickness not exceeding 1.2 mm
+
++» Other, of thickness not exceeding 1.2.
+ian
+
+- - Of a thickness exceeding 1.2 mm but
+not exceeding 1.5 mm
+Other
+. - - Other :
+|-- -- Of a thickness not exceeding 1.2 mm
+
+>>> Other
+- Plated ar coated with chromium oxides or
+with chromium and chromium oxides
+- Plated or coated with aluminium :
+| - Mated or coated with auminium-zine
+alloys =
+
+- - Containing by weight tess than 0.6 % of
+}earbon =
+
+-- Of a thickness not exceeding 1.2 mm
+
+- - == Of a thickness exceeding 1.2 mm but
+[not exceeding 1.5 mm
+
+-- = = Other
+
+‘Other
+
+Of a thickness not exceeding 1.2 mm
+
+= =- Other, corrugated
+
+15,0%
+
+15,0%
+15,0%
+
+12.5%
+12,5%
+12.5%
+
+12,5%
+
+15,0%
+
+20,0%
+20,0%
+20,0%
+20,0%
+
+20,0%
+
+20,0%
+20,0%
+20,0%
+200%
+
+20,0%
+
+20,0%
+
+20,0%
+20,0%
+20,0%
+20,0%
+
+200%
+12.5%
+
+20,0%
+20,0%
+20,0%
+
+20,0%
+
+20.0%
+
+www.peraturan.go.id

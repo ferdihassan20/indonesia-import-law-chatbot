@@ -1,0 +1,59 @@
+2017, No.630
+
+-38-
+
+No. Uraian Barang HS-Code
+19. | Kompas pencari arah atau instrumen untuk navigasi ex.
+lainnya yang dilapisi atau menggunakan zat radioaktif | 9014.10.00
+seperti pada bagian jarum konipas agar berpendar secara
+terus-menerus di tempat gelap. Umumnya menggunakan
+Tritium (H-3) dengan aktivitas berkisar antara 5 - 250
+MBq, Promethium-147 (Pm-147) dengan aktivitas berkisar
+antara 0,05 - 220 MBq, Carbon-14 (C-14) dengan
+aktivitas sampai dengan 400 MBq, atau Radium-226 (Ra-
+226) dengan aktivitas berkisar sampai dengan 3,9 MBq.
+20. | Aparatus computed tomography berupa pesawat sinar-xX | 9022.12.00
+tomography, pesawat sinar-X CT Scan, pesawat sinar-X
+CT Scan simulator, Kamera Positron berupa PET-CT
+(Positron Emision Tomography-Computerized
+Tomography) dan pesawat sinar-X CT Scan penunjang
+kedokteran nuklir
+21. Peralatan untuk keperluan perawatan gigi berupa | 9022.13.00
+esawat sinar-X gigi intraoral, pesawat sinar-X gigi
+anoramik dan chepalometri, dan pesawat sinar-X gigi
+cone beam CT.
+pies Pesawat sinar-X untuk keperluan medis diagnostik 9022.14.00
+maupun terapi, pembedahan atau kedokteran hewan,
+yaitu:
+- Pesawat sinar-X Terpasang tetap untuk pemeriksaan
+umum
+- Pesawat sinar-X Mobile
+- Pesawat sinar-X Densitas tulang
+- Pesawat sinar-X ESWL
+- Pesawat sinar-X C-arm bedah
+- Pesawat sinar-X Mamografi
+- Pesawat sinar-X Fluoroskopi
+- Pesawat sinar-X Fluoroskopi
+- Pesawat sinar-X C-arm/U-arm angiografi
+- Pesawat sinar-X CT-scan
+- Pesawat sinar-X C- arm brakhiterapi
+- Pesawat Sinar-X orthovoltage
+- Pesawat Sinar-X superficial
+23. | Aparatus sinar X untuk pemeriksaan fisik sambungan | 9022.19.10
+solder pada printed circuit board/printed wiring board
+assembly
+24. | Peralatan/aparatus sinar-X untuk keperluan  sclain | 9022.19.90
+bidang medis, yaitu:
+- Energy Dispersive Fluorescent
+- Flucroscent X-Ray Coating Thicknes Gauge
+- X-Wheel Inspection System
+- X-Ray Inspection System
+- Control/Density Regulation, Measuring of differential
+pressure
+- Microfocus X-ray inspection system
+- X-ray Security Inspection equipment
+- X-ray Scanning Equipment
+- X-Ray Scanner Machine
+- X-ray Baggage Security Inspection
+- X-ray Difractometer system
+

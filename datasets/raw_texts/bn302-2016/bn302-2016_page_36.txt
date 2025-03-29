@@ -1,0 +1,115 @@
+2016, No.302
+
+-36-
+
+Pos Tarif/ HS
+
+Uraian
+
+Kriteria Teknis
+
+ex,
+8443.39.19.00
+
+beroperasi dengan memproduksi
+gambar asli secara langsung diatas
+proses langsung):
+
+- -- - Lain-lain (Hanya untuk fotocopy
+tidak berwarna dengan kecepatan copy
+tidak kurang dari 20 copy/menit)
+
+8443.39.20
+
+- - - Aparatus fotocopy elektrostatik,
+ber- operasi dengan mereproduksi
+gambar asli melalui perantara di atas
+copy (proses tidak langsung):
+
+ex.
+8443.39,20.90
+
+---- Lain-lain
+
+Hanya untuk fotocopy
+tidak berwarna
+dengan kecepatan
+copy tidak kurang dari
+20 copy/menit
+
+Mesin pengolah data otomatis dan
+unitnya; pembaca magnetik atau optik,
+mesin untuk menyalin data pada media
+data dalam bentuk kode dan mesin.
+untuk mengolah data tersebut, tidak
+dirinci atau termasuk dalam pos
+lainnya.
+
+- Mesin pengolah data otomatis digital
+lainnya:
+
+8471.41
+
+- - Terdapat dalam wadah yang sama
+paling tidak satu unit pengolah pusat
+dan satu unit masukan serta keluaran,
+dikombinasikan maupun tidak:
+
+ex.
+8471.41.10.00
+
+- - - Komputer personal tidak termasuk
+komputer portabel pada subpos
+8471.30
+
+Hanya Personal
+Computer (PC) dengan
+spesifikasi minimum
+setara dengan Core 2
+Duo
+
+8471.49
+
+8471.50
+
+- - Lain-lain, disediakan dalam bentuk
+sistem:
+
+- Unit Pengolah selain yang dimaksud.
+dalam sub pos 8471.41 atau 8471.49,
+dalam wadah yang sama mempunyai
+maupun tidak, satu atau dua tipe unit
+berikut: unit penyimpan, unit
+masukan, unit keluaran :
+
+ex.
+8471.50.10.00
+
+- - - Unit pengolah untuk komputer
+personal (termasuk komputer portable)
+
+Hanya merupakan
+Central Processing
+Unit (CPU) bagian dari
+Personal Computer
+(PC) dengan
+spesifikasi minimum
+setara dengan Core 2
+Duo
+
+85.28
+
+Monitor dan proyektor, tidak digabung
+dengan aparatus penerima televisi;
+aparatus penerima untuk televisi,
+digabung dengan penerima siaran radio
+atau aparatus perekam atau
+pereproduksi suara atau video ,
+maupun tidak.
+
+- Monitor lainnya:
+
+8528.51
+
+- - Darijenis yang semata-mata atau
+

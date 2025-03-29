@@ -1,0 +1,88 @@
+2022, No. 341 -29-
+
+8703.40.56 ~--- Dengan kapasitas silinder tidak melebihi 1.500 ce
+
+8703.40.57 ~ - - - Dengan kapasitas silinder meiebihi 1.500 ce tetapi tidak
+melebihi 2.000 ce
+
+8703.40.58 ~ --- Dengan kapasitas silinder melebihi 2.000 cc
+--- Sedan:
+
+8703.40.61 ~--- Dengan kapasitas silinder tidak melebihi 1.000 cc
+
+8703.40.62 - - - - Dengan kapasitas silinder meiebihi 1.000 ce tetapi tidak
+melebihi 1.500 cc
+
+8703.40.63 - - - - Dengan kapasitas silinder melebihi 1.500 ce tetapi tidak
+melebihi 1.800 cc
+
+8703.40.64 ~ - - - Dengan kapasitas silinder meicbihi 1.800 ce tetapi tidak
+melebihi 2.000 ce
+
+8703.40.65 ~ - - - Dengan kapasitas silinder melebihi 2.000 ce tetapi tidak
+melebihi 2.500 ce
+
+8703.40.66 - - - - Dengan kapasitas silinder meicbihi 2.500 ce tetapi tidak
+melebihi 3.000 ce
+
+8703.40.67 - - - - Dengan kapasitas silinder melebihi 3.000 cc, berpenggerak
+empat roda
+
+8703.40.68 - - - - Dengan kapasitas silinder meiebihi 3.000 cc, bukan
+berpenggerak empat roda
+~ - - Mobil lainnya (termasuk station wagon dan mobil sport, tetapi
+tidak termasuk van}, berpenggerak empat roda :
+
+8703.40.71 ~--- Dengan kapasitas silinder tidak melebihi 1.000 ce
+
+8703.40.72 - - - - Dengan kapasitas silinder melebihi 1.000 cc tetapi tidak
+melebihi 1.500 ce
+
+8703.40.73 - - - - Dengan kapasitas silinder melcbihi 1.500 ce tetapi tidak
+melebihi 1.800 cc
+
+8703.40.74 ~ - - - Dengan kapasitas silinder melebihi 1.800 cc tetapi tidak
+
+melebihi 2.000 ce
+
+8703.40.75 - - - - Dengan kapasitas silinder meiebihi 2.000 ce tetapi tidak
+melebihi 2.500 ce
+
+8703.40.76 - - - - Dengan kapasitas silinder melebihi 2.500 ce tetapi tidak
+melebihi 3.000 cc
+
+8703.40.77 ~--- Dengan kapasitas silinder melebihi 3.000 cc
+~ - - Mobil lainnya (termasuk station wagon dan mobil sport, tetapi
+tidak termasuk van}, bukan berpenggerak empat roda :
+
+8703.40.81 ---- Dengan kapasitas silinder tidak melebihi 1.000 ce
+
+8703.40.82 - - - - Dengan kapasitas silinder melebihi 1.000 ce tetapi tidak
+melebihi 1.500 ce
+
+8703.40.83 - - - - Dengan kapasitas silinder melebihi 1.500 ce tetapi
+melebihi 1.800 ce
+
+8703.40.84 - - - - Dengan kapasitas silinder melebihi 1.800 cc tetapi
+melebihi 2.000 cc
+
+8703.40.85 - - - - Dengan kapasitas silinder melebihi 2.000 ce tetapi
+melebihi 2.500 ce
+
+8703.40.86 - - - - Dengan kapasitas silinder melebihi 2.500 ce tetapi
+melebihi 3.000 cc
+
+8703.40.87 ~ --- Dengan kapasitas silinder melebihi 3.000 cc
+
+8703.40.91 ~--- Dengan kapasitas silinder tidak melebihi 1.000 cc
+
+8703.40.92 - - - - Dengan kapasitas silinder melebihi 1.000 ce tetapi
+melebihi 1.500 ce
+
+8703.40.93 - - - - Dengan kapasitas silinder melebihi 1.500 ce tetapi
+melebihi 1.800 cc
+
+8703.40.94 - - - - Dengan kapasitas silinder melebihi 1.800 ce tetapi tidak
+melebihi 2.000 ce
+
+www.peraturan.go.id

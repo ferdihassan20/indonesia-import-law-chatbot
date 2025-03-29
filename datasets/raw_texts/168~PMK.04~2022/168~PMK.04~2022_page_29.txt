@@ -1,0 +1,58 @@
+-~329-
+
+PETUNJUK PENGISIAN
+
+Nomor (1) : diisi nomor Jaminan Perusahaan (Corporate Guarantee).
+
+Nomor (2) : diisinama pejabat perusahaan yang menandatangani Jaminan
+Perusahaan (Corporate Guarantee).
+
+Nomor (3) : diisi nama jabatan pejabat perusahaan yang menandatangani
+Jaminan Perusahaan (Corporate Guarantee).
+
+Nomor (4) : diisi alamat lengkap pejabat perusahaan yang menandatangani
+Jaminan Perusahaan (Corporate Guarantee).
+
+Nomor (5) : diisi nomor Akta Notaris pembuatan Jaminan Perusahaan
+(Corporate Guarantee).
+
+Nomor (6) : diisi tanggal, bulan, dan tahun Akta Notaris pada pembuatan
+Jaminan Perusahaan (Corporate Guarantee).
+
+Nomor (7) : diisinama notaris yang menerbitkan Akta Notaris.
+
+Nomor (8) : diisi nama kota tempat kedudukan notaris yang menerbitkan
+Akta Notaris.
+
+Nomor (9) : diisinama perusahaan yang menerbitkan Jaminan Perusahaan
+
+(Corporate Guarantee).
+
+Nomor (10) : diisi Nomor Pokok Pengusaha Barang Kena Cukai (NPPBKC)
+perusahaan yang menerbitkan Corporate Guarantee (untuk
+pengusaha pabrik barang kena cukai).
+
+Nomor (11) : diisi Nomor Pokok Wajib Pajak (NPWP) perusahaan yang
+menerbitkan Jaminan Perusahaan (Corporate Guarantee),
+
+Nomor (12) : diisi alamat lengkap perusahaan yang menerbitkan Jaminan
+Perusahaan (Corporate Guarantee).
+
+Nomor (13) : diisi nomor telepon perusahaan yang menerbitkan Jaminan
+Perusahaan (Corporate Guarantee).
+
+Nomor (14) : diisi nomor faksimili dan alamat email perusahaan yang
+menerbitkan Jaminan Perusahaan (Corporate Guarantee).
+
+Nomor (15) : diisi tempat dibuatnya Jaminan perusahaan.
+
+Nomor (16) : diisi tanggal dibuatnya Jaminan perusahaan.
+
+Nomor (17) : diisi nomor registrasi karyawan atau nomor yang sejenis
+dari pejabat perusahaan sebagaimana dimaksud pada Nomor
+(2) yang menandatangani Jaminan Perusahaan (Corporate
+Guarantee). (Hanya diisi jika ada)
+
+ef
+
+jdih.kemenkeu.go.id

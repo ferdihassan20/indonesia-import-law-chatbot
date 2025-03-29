@@ -1,0 +1,56 @@
+NO.
+
+POS TARIF/
+
+URAIAN BARANG
+
+KETERANGAN
+
+HS
+(1) (2) (3) (4)
+30 |8426.19.90.00 |---Lain-lain
+31 |8426.20.00.00 |-Tower crane
+-Mesin lainnya, berdaya gerak sendiri :
+32 |8426.41.00.00 |--Dengan roda kecuali truck crane
+-Mesin lainnya :
+33 |8426.91.00.00 |--Dirancang untuk dipasang pada kendaraan
+darat
+84.27 Truk forklift; truk kerja lainnya yang dilengkapi
+dengan perlengkapan pengangkat atau pemindah.
+34 |8427.10.00.00 |-Truk berdaya gerak sendiri yang digerakkan
+dengan motor listrik
+35 |8427.20.00.00 |-Truk berdaya gerak sendiri lainnya kecuali truck forklift berdaya gerak
+2,5 - 5Ton
+84.29 Buldoser, angledoser, mesin perata, leveller
+mesin pengikis, sekop mekanik, eskavator,
+shovel loader, mesin pemadat dan mesin giling
+jalan, berdaya gerak sendiri.
+-Buldoser dan angledoser :
+36 }8429.11.00.00 |--Track laying kecuali buldozer yang memiliki daya
+160-250 HP
+37 |8429.19.00.00 |--Lain-Lain kecuali buldozer yang memiliki daya
+160-250 HP
+38 |8429.20.00.00 |-Grader dan mesin perata
+8429.40 -Mesin pemadat dan mesin giling jalan :
+39 |8429.40.10.00 |--Mesin giling jalan kecuali road roller yang memiliki berat
+sampai dengan 12 Ton
+40 |8429.40.30.00 |--Mesin pemadat kecuali road roller yang memiliki berat
+sampai dengan 12 Ton
+-Sekop mekanik, excavator dan shovel loader :
+41 |8429.51.00.00 |--Front-end shovel loader
+42 |8429.52.00.00 |--Mesin yang berputar 360° diatas bangunan dasarnya kecuali excavator yang memiliki daya
+70-325 HP
+84.30 Mesin pengolah, perata, levelling, pengikis,
+penggali, pemadat, perapi, pengaduk atau
+pengebor lainnya, untuk tanah, mineral atau
+bijih; pemancang tiang dan pemancang bor;
+bajak salju dan blower salju.
+43 |8430.10.00.00 |-Pemancang tiang dan pemancang bor
+-Pemotong batu atau batubara dan mesin
+pembuat terowongan :
+44 |8430.31.00.00 |--Berdaya gerak sendiri
+-Mesin bor atau sinking lainnya :
+45 |8430.41.00.00 |--Berdaya gerak sendiri
+8430.49 --Lain-lain :
+46 |8430.49.10.00 |---Platform mulut sumur dan modul produksi
+

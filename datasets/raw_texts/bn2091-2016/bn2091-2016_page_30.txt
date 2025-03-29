@@ -1,0 +1,59 @@
+2016, No. 2091
+
+-30-
+
+300 | 7310.10.90.20 - - - Dari besi atau baja tempa atau dicap dalam
+keadaan kasar
+301 | 7310.10.90.90 - - - Lain-lain
+- Dengan kapasitas kurang dari 50 1:
+7310.2 - - Kaleng yang ditutup dengan solderan atau
+pengerutan:
+7310.21.10 - - - Dengan kapasitas kurang dari 1 i
+302 | 7310.21.10.10 - - - - Dari besi atau baja tuang dalam keadaan kasar
+303 | 7310.21.10.20 ---- Dari besi atau baja tempa atau dicap dalam
+keadaan kasar
+304 | 7310.21.10.90 - - - - Lain-lain
+- - - Lain-lain:
+305 | 7310.21.91.00 - - - - Dari tinplate
+7310.21.99 - - - - Lain-lain:
+306 | 7310.21.99.10 |----- Dari besi atau baja tuang dalam keadaan
+kasar
+307 | 7310.21.99.20 | ----- Dari besi atau baja tempa atau dicap dalam
+keadaan kasar
+308 | 7310.21.99.90 | ----- Lain-lain
+7310.29 - - Lain-lain:
+7310.29.10 - - - Dengan kapasitas kurang dari 1 1:
+309 | 7310.29.10.10 - - - - Dari besi atau baja tuang dalam keadaan kasar
+310 | 7310.29.10.20 ---- Dari besi atau baja tempa atau dicap dalam
+keadaan kasar
+311 | 7310.29.10.90 - - - - Lain-lain
+- - - Lain-lain:
+312 | 7310.29.91.00 - - - - Dari tinplate
+7310.29.99 - - - - Lain-lain:
+313 | 7310.29.99.10 |----- Dari besi atau baja tuang dalam keadaan
+kasar
+314 | 7310.29.99.20 |----- Dari besi atau baja tempa atau dicap dalam
+keadaan kasar
+315 | 7310.29.99.90 _|----- Lain-lain
+73.11 Kemasan untuk gas dibawah tekanan atau gas
+eair dari besi atau baja.
+- Lain-lain:
+7311.00.93 - - Dengan kapasitas kurang dari 30 1:
+316 | 7311.00.93.10 - - - Dengan kapasitas tidak melebihi 7,3 1
+317 | 7311.00.93.90 - - - Lain-lain
+318 | 7311.00.94.00 - - Dengan kapasitas 30 1] atau lebih, tetapi kurang
+dari 1101
+73.12 Kawat dipilin, tali, kabel, ban anyaman, sling dan
+sejenisnya, dari besi atau baja, tidak diisolasi
+elektrik.
+7312.10 - Kawat dipilin, tali dan kabel:
+319 | 7312.10.10.00 - - Locked coil, flattened strands dan non-rotating
+wire ropes
+320 | 7312.10.20.00 - - Disepuh atau dilapisi dengan kuningan, dan
+dengan diameter tidak melebihi 3 mm
+- - Lain-lain:
+7312.10.91 - - - Prestressing steel strand:
+321 | 7312.10.91.10 - - - - Pilinan kawat beton pra-tekan
+
+www.peraturan.go.id
+

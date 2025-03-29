@@ -1,0 +1,41 @@
+_35- 2016, No.1208
+
+POS TARIF /
+
+No HS URAIAN BARANG KETERANGAN
+1 2 3 4
+maupun tidak
+12 | 0403.10.90.00 --Lain-lain
+0403.90 -Lain-lain :
+13 | 0403.90.10.00 --Susu mentega
+14 | 0403.90.90.00 --Lain-lain
+04.04 Whey, dipekatkan atau mengandung tambahan gula
+atau bahan pemanis lainnya maupun tidak; produk
+terdiri dari susu alam sebagai unsur utama,
+mengandung tambahan gula, bahan pemanis lainnya
+maupun tidak, tidak dirinci atau termasuk dalam pos
+lainnya.
+15 | 0404.10.00.00 -Whey dan Whey yang
+dimodifikasi, dipekatkan atau
+mengandung tambahan gula
+atau bahan pemanis lainnya
+maupun tidak
+16 | 0404.90.00.00 -Lain-lain
+04.05 Mentega dan lemak serta minyak lainnya yang
+diperoleh dari susu; dairy spreads.
+17 | 0405.10.00.00 -Mentega
+18 | 0405.20.00.00 -Dairy spreads
+0405.90 -Lain-lain :
+19 | 0405.90.10.00 --Lemak mentega anhidrat
+20 | 0405.90.20.00 --Minyak mentega
+21 | 0405.90.30.00 --Ghee
+22 | 0405.90.90.00 --Lain-lain
+04.06 Keju dan dadih susu.
+0406.10 -Keju segar (tidak dimasak atau tidak diawetkan)
+termasuk keju whey dan dadih susu :
+23 | 0406.10.10.00 --Keju segar (tidak dimasak
+
+atau tidak diawetkan),
+termasuk keju whey
+
+www.peraturan.go.id

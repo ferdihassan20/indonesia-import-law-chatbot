@@ -1,0 +1,63 @@
+2021, No.152
+
+-18-
+
+222. | 7304.22.90 - - - Lain-lain
+
+223. | 7304.23.90 - - - Lain-lain
+
+224. | 7304.24.10 - - - Casing dan tubing dengan yield strength kurang
+dari 80.000 psi dan ujungnya tidak diulir
+
+225. | 7304.24.90 - - - Lain-lain
+
+226. | 7304.29.10 - - - Casing dan tubing dengan yield strength kurang
+dari 80.000 psi dan ujungnya tidak diulir
+
+227. | 7304.29.90 - - - Lain-lain
+
+228. | 7304.31.10 - - - Drillrod casing dan tubing dengan pin dan box
+thread
+
+229. | 7304.31.20 - - - Pipa tekanan tinggi mampu menahan tekanan
+tidak kurang dari 42.000 psi
+
+230. | 7304.31.40 - - - Lain-lain, mempunyai diameter luar kurang dari
+140 mm dan mengandung karbon kurang dari 0,45 %
+menurut beratnya
+
+231. | 7304.31.90 - - - Lain-lain
+
+232. | 7304.39.20 - - Pipa tekanan tinggi mampu menahan tekanan tidak
+kurang dari 42.000 psi
+
+233. | 7304.39.40 - - - Lain-lain, mempunyai diameter luar kurang dari
+140 mm dan mengandung karbon kurang dari 0,45 %
+menurut beratnya
+
+234. | 7304.39.90 - - - Lain-lain
+
+235. | 7304.41.00 - - Ditarik dingin atau dicanai dingin (cold-reduced)
+
+236. | 7304.49.00 - - Lain-lain
+
+237. | 7304.51.10 - - - Drillrod casing dan tubing dengan pin dan box
+thread
+
+238. | 7304.51.20 - - - Pipa tekanan tinggi mampu menahan tekanan
+tidak kurang dari 42.000 psi
+
+239. | 7304.51.90 - - - Lain-lain
+
+240. | 7304.59.10 - - - Pipa tekanan tinggi mampu menahan tekanan
+tidak kurang dari 42.000 psi
+
+241. | 7304.59.90 - - - Lain-lain
+
+242. | 7304.90.10 - - Pipa tekanan tinggi mampu menahan tekanan tidak
+kurang dari 42.000 psi
+
+243. | 7304.90.30 - - Lain-lain, mempunyai diameter luar kurang dari
+
+140mm dan mengandung karbon kurang dari 0,45 %
+

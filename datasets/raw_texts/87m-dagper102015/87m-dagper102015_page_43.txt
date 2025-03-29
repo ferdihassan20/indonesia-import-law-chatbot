@@ -1,0 +1,46 @@
+-30-
+
+a
+
+[605 8a aan tetaiangar
+436 --- Lain-lain
+
+- Jas dan blazer:
+
+437 --- Dicetak dengan proses batik tradisional
+
+438 --- Lain-lain
+
+439 6203.33.00.00 | -- Dari serat sintetik
+440 6203.39.00.00 | -- Dari bahan tekstil lainnya
+
+- Celana panjang, pakaian terusan berpenutup
+di depan dan bertali, celana panjang sampai
+lutut dan celana pendek:
+
+-- Dari kapas:
+
+441 --- Bib dan brace overall
+
+442 --- Lain-lain
+
+443 -- Dari serat sintetik
+
+-- Dari bahan tekstil lainnya:
+444 --- Dari sutra
+
+445 --- Lain-lain
+
+Setelan, ensemble, jas, gaun, rok, rok
+
+terpisah, celana panjang, pakaian terusan
+berpenutup di depan dan bertali, celana
+panjang sampai lutut dan celana pendek
+(selain pakaian renang) untuk wanita dan
+
+anak perempuan.
+
+- Setelan:
+
+446 6204.11.00.00 | -- Dari wol atau bulu hewan halus
+

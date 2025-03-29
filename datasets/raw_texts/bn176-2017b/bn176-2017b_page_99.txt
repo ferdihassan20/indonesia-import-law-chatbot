@@ -1,0 +1,112 @@
+2017, No.176
+
+-259-
+
+‘Uraian Barang Description of Goods
+{2) (3) {4)
+3003.90.53 |--- Mengandung diklofenak dari jenis pemakaian oral |-- - Containing diclofcnac, ofa kind taken 5.0%
+orally
+2095 |3004.90.54 |. - - Mengandung piroksikam (INN) atau ibuprofen ~~ = Containing piroxicam (INN) or ibuprofen 5.0%
+
+2696 [3003.90.55
+2697 {3004.90.59
+
+Lain-lain, dalam bentuk obat gosok -
+=== Lain-lain -
+~~ Antimalaria = -
+2698 |3004.90.62 |-- - Mengandung primakuin -- - Containing primaquine
+2699 }3004.90.64 |-- - Mengandung artemisinin selain dari subpos - - - Containing artemisinin other than of
+3004.60.10 subheading 3004.60.10
+Lain-lain = + Other =
+
+Pengobatan herbal ++ += Herbal medicaments: 5.0%
+
++ Other, in liniment form
++ Other
+Antimalarials :
+
+2700 |3004.90.65
+2701 {3004.90.69
+
+Lain-lain s+ «Other 5.0%
+
+> ~ Antelmintik = | - Antheimintic :
+2702 [3004.90.71 »  « Mengandung piperazin atau mebendazol (INN) +» Containing piperazine or mebendazole 5.0%
+an
+
+Lain-lain }- - - Other :
+
+2703 |3004.90.72 Pengobatan herbal Herbal medicaments
+2704 {3004.90.79 |. --- Lain-lain +++ Other
++ - Obat lainnya untuk pengobatan kanker, HIV/AIDS atau |-- Other medicaments for the treatment of
+penyakit keras Iainnya + lcancer, HIV/AIDS or other intractable
+diseases :
+2705 3004.90.81 |. - - Mengandung deferoksamin, untuk suntikan -- - Containing deferoxamine, for injection 0.0%
+2706 |3004.90.82 |. - - Obat anti HIV/AIDS + Anti [NIV/AIDS medicaments 0.0%
+2707 }3004.90.89 |. - - Lain-lain = Other 0,0%
+- Lain-lain : other:
+2708 }3004.90.91 |-- - Mcngandung natrium klorida atau glukosa, untuk + Containing sodium chloride or glucose, 5.0%
+infus for infusion
+2709 |3004.90.92 |. - - Mengandung sorbitol atau salbutamol, untuk infus - Containing sorbitol or salbutamol, for 50%
+infusion
+2710 {3004.90.93 |. - - Mengandung sorbitol atau salbutamol, dalam bentuk  |--- Containing sorbitol or salbutamol, in 5,0%
+Jainnya other forms
+2711 }3004.90.94 |--- Mengandung simeticina (INN) atau ranitidina (INN) —_|-- - Containing cimetidine (INN) or ranitidine 5.0%
+selain yang digunakan untuk suntik (NN) other than for injection
+2712 }3004.90.95  |-- - Mengandung fenobarbital, diazepam atau + = = Containing phenobarbital, diazepam or 5.0%
+‘klorpromazina, sclain yang digunakan untuk suntik atau |chlorpromazine, other than for injection or
+infus infusion
+2713 |3003.90.96 _|-- - Obat tetes hidung mengandung naphazoline, --- Nasal-drop medicaments containing 50%
+Jxvlometazoline atau oxymetazoline Jnaphazoline, xylometazoline or
+loxymetazoline
++ Lain-lain : -- - Other:
+2714 [3004.90.98 Pengobatan herbal Herbal medicaments 5,0%
+2715 [3004.90.99 }- - -- Lain-lain ---- Other 5,0%
+.05 Gumpalan kapas, kasa, pembalut dan barangsemacam |Wadding, gauze, bandages and similar
+
+itu (misalnya, perban, plester berperckat, tapal obat), _ articles (for example, dressings, adhesive
+diresapi atau dilapisi dengan zat farmasi atau disiapkan |plasters, poultices), impregnated or
+
+dalam bentuk atau kemasan untuk penjualan eceran —_|coated with pharmaceutical substances or
+untuk keperluan medis, pembedahan, perawatan gigi [put up in forms or packings for retail sale
+
+atau veteriner. for medical, surgical, dental or veterinary
+purposes.
+{3005.10 - Perban berperekat dan barang ininnya mempunyai - Adhesive dressings and other articles
+lapisan pereka having an eulhesive layer ;
+2716 3005.10.10 |- - Diresapi atau dilapisi dengan zat farmas - - impregnated or coated with 5.0%
+pharmaceutical substances
+2717 |3005.10.90 |. - Lain-tain - - Other $,0%
+{3005.90 + Lain-tain - Other :
+2718 }3005.90.10 |. - Pembatut +» Bandages 5,0%
+2719 }3005.90.20 |-- Kain kasa + Gauze 5,0%
+2720 |3005.90.90 _}-- Lain-lain + = Other 5,0%
+30.06 Barang farmasi dirinci dalam Catatan 4 pada Bab ini, | Pharmaceutical goods specified in Note 4
+to this Chapter.
+1306.10 - Catgut bedah steril, bahan jahit bedah steril semacam itu |- Sterile surgical catgut, similar sterile
+(lermasuk benang gigi dan bedah steril yang dapat suture materials (including sterile
+menyerap) dan tisu steril berperekat untuk aienutup luka absorbable surgical or dental yarns) and
+bedah; laminaria sieci! dan laminaria sterit yang dapat —_|sterile tissue adhesives for surgical wound
+mengembang; haemostatik gigi alau bedah steril yang closure; stcrile laminaria and sterile
+[dapat menyerap; penahan gigi atau bedah steril laminaria tents; sterile absorbable surgical
+berperekat, dapat menyerap maupun tidak lor dental haemostatics; sterile surgical or
+dental adhesion barriers, whether or not
+absorbable =
+2721 }3006,10.10 |. - Benang gigi atau bedal steril yang dapat menyerap; - - Sterile absorbable surgical or dental yarn; 0,0%
+penahan gigi atau bedah steril berperekat, dapat menyerap |sterile surgical or dental adhesion lsarriers,
+maupun tidak whether or not absorbable
+2722 3006.10.90 |. « Lain-tain -- Other
+2723 |3006.20,00 _|- Reagen untuk menentukan golongan darah - i8lood-grouping reagents
+|3006.30 - Preparat opasitas untuk pemeriksnan sinar X; reagen —_|- Opacifying preparations for X-ray
+diagnosis yang dirancang untuk diberikan kepada pasien ; |examinations; diagnostic reagents designed
+10 be administered to the patient :
+2724 {2006.30.10 |-- Barium sulfat, dari jenis pemakaian oral - - Barium sulphate, of a kind taken orally 0,0%
+2725 3006.30.20 _|- - Reagen berasal dari mikroba, dari jenis yang cocok ~~ Reagents of microbial origin, of a kind 5.0%
+untuk diagnosis biologis veteriner sullable for veterinary biological diagnosis
+2726 |3006,30,30 ~~ Reagen diagnosis mikroba lainnya -- Other microbial diagnostic reagents 0.0%
+2727 3006.30.90 |-- Lain-tain -- Other 0.0%
+13006.40 - Semen gigi can pengisi gigi lainnya; semen rekonstruksi |- Dental cements and other dental fillings;
+utang : bone reconstruction cements :
+2728 }3006.40.10 _|-- Semen gigi dan pengisi gigi lainnya ~~ Dental cements and other dental fillings 00%
+
+www.peraturan.go.id

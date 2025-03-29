@@ -1,0 +1,50 @@
+13
+
+2009, No.228
+
+No. URAIAN BARANG POS TARIF
+(1) (2) (3)
+Produk canai lantaian dari besi atau baja 72.11
+bukan paduan, dengan lebar kurang dari 600
+mm,
+tidak dipalut, tidak disepuh atau tidak di-
+-Tidak dikerjakan lebih lanjut selain dicanai
+panas :
+--Dicanai keempat sisinya atau dilewatkan pada 7211.13
+kotak tertutup, dengan lebar melebihi 150 mm
+dan ketebalan tidak kurang dari 4 mm, tidak
+dalam gulungan dan tanpa pola relief :
+38 | ---Simpai dan strip, dengan lebar melebihi 7211.13.10.00
+150 mm tetapi tidak melebihi 400 mm
+39 | ---Bergelombang, mengandung karbon kurang dari | 7211.13.20.00
+0,6% menurut beratnya
+40 | ---Lain-lain 7211.13.90.00
+--Lain-lain, dengan ketebalan 4,75 mm atau 7211.14
+lebih :
+41 | ---Simpai dan strip, dengan lebar _ tidak 7211.14.10.00
+melebihi 400 mm
+42 | ---Bergelombang, mengandung karbon kurang 7211.14.20.00
+dari 0,6% menurut beratnya
+43 | ---Lain-lain 7211.14.90.00
+--Lain-lain : 7211.19
+44 | ---Simpai dan strip, dengan lebar tidak 7211.19.10.00
+melebihi 400 mm
+45 | ---Bergelombang, mengandung karbon kurang 7211.19.20.00
+dari 0,6% menurut beratnya
+46 | ---Lain-lain, dengan ketebalan 0,17 mm atau 7211.19.30.00
+kurang
+47 | ---Lain-lain 7211.19.90.00
+-Tidak dikerjakan lebih lanjut selain dicanai
+dingin (cold-reduced) :
+--Mengandung karbon kurang dari 0,25% menurut | 7211.23
+beratnya :
+48 | ---Bergelombang 7211.23.10.00
+49 | ---Simpai dan strip, dengan lebar tidak 7211.23.20.00
+melebihi 400 mm
+50 | ---Lain-lain, dengan ketebalan 0,17 mm atau 7211.23.30.00
+kurang
+---Lain-lain : 7211.23.90
+51 | ----Dengan ketebalan lebih dari 40 mm 7211.23.90.10
+52 | ----Lain-lain 7211.23.90.90
+--Lain-lain : 7211.29
+

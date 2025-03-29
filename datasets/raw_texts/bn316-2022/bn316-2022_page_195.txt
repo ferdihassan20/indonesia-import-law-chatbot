@@ -1,0 +1,121 @@
+eabagal komponen dari jenis yang
+
+digunaken untuk pembkitan pada
+
+printed ctrewit board (PCB) atau carrier
+lainnaya, dengan menyambungkan pin,
+lead, ball, land, bump, atau pad.
+
+Untuk keperiuan definisi ini ;
+
+1.*Komponer” dapal terpiseh, diduat
+
+tereendiri kemudian dirakit pada
+bagian MCO, atau dipadukan ke
+dalam kemponen lainnya
+
+2. "Berbasis silikon” berarti dibsngun
+
+dengan Iapisan davar siliken, atau
+
+trbuat deri bahan wiliken, atau
+disuat ke dalam acean srkuit
+terpadu.
+
+3. fa) “Sensor berbesis silikon” terdiri
+dai stuktur = mikroelektrenil
+atau mekanis yang diciptakan
+pada massa atew permuiman
+semikondulttor dan = memiulilsi
+fungys mendctckei fenomena fisie
+alau kimia dan mengubahaya
+menjadi einysl elekiis, yang
+dibasilken olch variasi pada silat
+elckiris atau oleh perubahan pada
+struktor omc¢kanis, “Feromene
+fii alau kimia” terkail dengan
+fenomena, seperti tckanan,
+gelombang akustik, sakeclerasi,
+getuan, pengeraken, orientasi,
+ketegangan, kekueran medan
+magnet, kekuatan medan efekrris,
+cahaya, Trecliveiktrvi tens,
+kelembaban, aliran, konscontresi
+kimia, all.
+
+(>) *Aktuater berbavis siliken” terdiri
+dari stukto mikrovicktronik dan
+mekunis yang diciptaken pada
+Tessa Alau permukaan
+semikendukior dan  memilik]
+fungsi mengubah sinyal elektris
+
+(co) "Resonator berbasis  siliken”
+adelah kemponen yang tendir!
+dari struktur — mikroelelctrontk
+alsu mekania yang diciptakon
+pads massa atau penmukaan
+semikonduktor dan = memiliki
+fungsi =menghasilkan — osilasi
+
+-195-
+
+onto @ printed cirouit board (PCB) or
+other carricr, Ubrough the connecting of
+pins, leads, balls, lands, bumps, or pads.
+
+Tor the parpos: of this definition :
+
+\.“Componenta® may be discrete,
+manufactored independently then
+assembled onto the rest of the MCO,
+or integrated inte other componente.
+
+2.“Silicon based” moans built on a
+silicon substrate, or made of silicon
+moterisls, or manufactured onto
+integrated circuit die,
+
+3. |s) *Silicon-based sensore” consist of
+microelectronic or mechanical
+structures that are created in the
+masa or on the surface of @
+semiconductor and that have the
+function of detecting physical or
+chemical
+transducing these into electric
+symals, caused by resulting
+variations in electric properties or
+displacement of a mechanical
+structure, “Physical or chemical
+phenomena” relates to
+phenomena, suck as pressure,
+acoustic waves, acceleration,
+vibration, movement, orientation,
+elrain, magnetic feki strength,
+electric ficld strength, light,
+radinactivity, humidity, Gow,
+chemice!s contentratiun, cte.
+
+(b) *Silicon baved actuators” consist
+vf microciectronic and mechanical
+struchires that are created in the
+mass or on the surface of a
+semiconductor and that have the
+function of converting, electrical
+signals inte physical movement.
+
+fe) “Silicon based resonators are
+components that consist of
+structures that are created in ihe
+mass or on the surface of a
+semiconductor amd have the
+functon of gencrating &
+
+Lf
+
+phenomena and
+
+2022, No.316
+
+www.peraturan.go.id

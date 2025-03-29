@@ -1,0 +1,96 @@
+-245-
+
+2017, No.176
+
+moc: | Peery? Uraian Borang Description of Goods ues wid
+(2) (3) (4) (5)
+28.53 Posfida, memiliki ramus kimia sendirl maupun tidak, |Phosphides, whether or not chemically
+tidak termasuk ferofosfor; senyawa anorganik lainnya _|defined, excluding ferrophosphorus; other
+(termasuk air sulingan atau air konduktivitas dan air inorganic compounds (including distilled
+dengan kemurnian semacam itu); udara cair (telah lor conductivity water and water of similar
+idibilangkan gas mulianya maupun tidal); udara tekan; | purity); liquid air (whether or not rare
+amalgam, selain amalgam dari logam mulia. gases have been removed); compressed
+air; amalgams, other than amalgams of
+precious metals.
+2160 |2853.10.00 — |- Sianogen klorida (klorsian) - Cyanogen chloride (chtoreyan) 5.0%
+2853.90 + Lain-tain : + Other :
+2161 ]2853.90.10 _ |- - Air demineral - + Demineralized waters 5,0%
+2162 |2853.90.90 _ |- - Lain-lain |- - Other 5,0%
+SUB-BAB I |SUB-CHAPTER I
+|HIDROKARBON DAN TURUNAN HALOGENASI, | HYDROCARBONS AND THEIR:
+SULFONASI, NITRASI ATAU NITROSASINYA IHALOGENATED, SULPHONATED,
+INITRATED OR NITROSATED
+[DERIVATIVES
+29.01 Hidrokarbon asildlile. JAcyclic hydrocarbons.
+2163 [2901.10.00 |- Jenuh | Saturated 0,0%
+Tidak jenub : + Unsaturated :
+2164 [2901.21.00 Eulena |; - Ethylene 0,0%
+2165 [2901.22.00 ‘ropena (propilena) |. - Propene (propylene) 0,0%
+2166 {2901.23.00 |. - Butena {butilena) dan isomernya ~~ Butene {butylene} and isomers thereof 0.0%
+2167 |2901.24.00 |. - Buta-1,3-diena dan isoprena |. - Buta-i,3-diene and isoprene 0,0%
+2901.29 Lain-lain + --
+2168 |2901.29.10 ~ Asetilena Acetylene 5,0%
+2169 [2901.29.20 ~ Heksena dan isomernya Hexene and isomers thereof 0,0%
+2170 }2901.29.90 |--- Lain-lain >» Other 0,0%
+29.02 Hidrokarbon sildile. Cyclic hydrocarbons.
+- Siklana, siklena dan sikloterpena - Cyclanes, cyclencs and eycloterpenes :
+2171 [2902.11.00 |-- Sikloheksana }- - Cyelohexane 50%
+2172 [2902.19.00 }- - Lain-lain | - Other 0,0%
+2173 [2902.20.00 |. Benzena - Benzene 0.0%
+2174 [2902.30.00 |- Toluena - Toluene 0,0%
+- Silena : - Xvlenes :
+2175 |2002.41.00  |-- o-Sitena - - o-Xylene 0.0%
+2176 2902.42.00 |-- m-Silena + - m-Xylene 5.0%
+2177 |2902.43.00 |. - p-Sitena - - p-Xylene 0.0%
+2178 |2902.44.00 _|-- Campusan isomer silena ~ Mixed xylene isomers 0,0%
+2179 |2902.50.00  |- Stirena - Styrene 5.0%
+2180 |2902.60.00 - Ethylbenzene 5,0%
+2181 |2902.70.00 - Cumene 5,0%
+2902.90 + Lain-tain ; - Other :
+2162 |2902.90.10 — |- - Dodesilbenzena ~ Dodecytbenzene 5.0%
+2183 | 2902.90.20 Alkilbenzena lainnya ~ Other alkylbenzenes 5.0%
+(2184 12902.90.90  |- - Lain-tain + Other 5,0%
+29.03 Turunen halogenasi dari hidrokarbon. Halogenated derivatives of hydrocarbons.
+- Turunan klorinasi dari hidrokarbon asikitk jenuh : - Saturated chlorinated derivatives of aeyelic
+hydrocarbons :
+2903.11 Klorometana (meti) klorida} dan kloroetana (etil klorida) _|- - Chloromethane (methyl chloride) and
+chloroethane (ethyl chlorite} ;
+2185 [2903.11.10 - Klorometana (metil klorida} Chloromethane (methyl chloride} 5,0%
+2186 |2903.11.90 ~ Lain-lain Other 5.0%
+2187 |2903.12.00 Diklorometana (metilena klorida) - Dichloromethane (methylene chloride} 5.0%
+2188 |2903.13.00 __|- - Kloroform (triklorometana} + + Chloroform (trichloromethane} 5.0%
+2189 |2903.14.00 _|-- Karbon tetraklorida Carbon tetrachloride 5,0%
+2190 |2903.15.00 |. - Btilena diklorida (ISO) (1,2-Dikloroctana) + Ethylene dichloride (180) (1,2- 5.0%
+dichlornethane)
+2903.19 Lain-tain : ~ Other
+2191 |2003.19,10 _ |- - » 1,2,» Dilkloropropana (propilen diklorida} dan 1,2 - Dichloropropane (propylene 0,0%
+diklorobutana dichloride) and dichlorobutanes
+2192 |2003.19.20 |-- - 1,1,1-triklorvetana (metil Kloroform) + == 1,1, 1Trichloroethane (methyl 5.0%
+chloroform)
+2193 2903.19.90 |- - - Lain-lain ~~ ~+ Other 0,0%
+- Turunan klorinasi dari hidrokarbon asiklik tidak jenuh : |- Unsaturated chlorinated derivatives of
+acyclic hydrocarbons :
+2194 |2903.21.00 |. - Vinil klorida (klorvetilena) ~ « Vinyl chloride (chloroethylene) 5.0%
+2195 |2903.22.00 _|- - Trikloroetilena + Trichtoreethylene 0,0%
+2196 |2903.23,00 _|- - Tetrakloructilena (perkloroetilena) |- - Tetrachtoroethylene (perchlorocthytene) 50%
+2197 [2903.29.00 |- - Lain-lain Other 50%
+- Turunan fluorinasi, brominasi atau iodinasi dari }- Fluorinated, brominated of iodinated:
+hictrokarbon asiklik : derivatives of acyclic hydrocarbons.
+2198 |2903.31,00 | - Etilena dibromida ($0) (1,2-dibromoctana} Ethylene dibromide (ISO) (1,2- 5,0%
+Jdibromoethane)
+2903.39 Lain-tain ; Other
+2199 |2003.39.10 ~ Bromometana (metil bromida) Bromomethane (methy! tromide) 5,0%
+2200 [2903.39.90 |-- - Lain-lain: - Other 5,0%
+~ Turunan halogenasi dari hidrokarbon asikiik |- Halogenated derivatives of acyclic
+mengandung dita atau lebih halogen yang berbeda : hydrocarbons containing two or more
+different halogens :
+2201 |2903.71.00 | - - KlorodiMuorometana Chlorodiflueromethane 5.0%
+2202 |2903.72.00 _ |- - Diklorotriluoroetana Dichiorotrifiuoroethanes: $,0%
+2203 |2903.73,00 _|- - Diklorofluorvetana Dichlorofluorocthanes 5,0%
+2204 |2903.74.00 _|- - Klorodifluoroetana Chiorodifluoroethanes 5.0%
+2208 {2903.75.00 _|- - Dikloropentaftuoropropana Dichloropentafluoropropanes 5,0%
+2206 |2903.76.00 | - - Bromoklorodifluorometana, bromotrifluorometana dan |- - Bromochlorodiftuoromethane, 50%
+dibromotctraNuoroctana bromotrifluoromethane and
+dibromotetrafiuorocthanes
+
+www.peraturan.go.id

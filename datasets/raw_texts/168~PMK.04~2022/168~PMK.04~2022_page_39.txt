@@ -1,0 +1,61 @@
+~ 39 -
+
+PETUNJUK PENGISIAN
+
+Nomor (1) : diisi nomor Keputusan Menteri mengenai pemberian izin
+penggunaan Jaminan perusahaan (Corporate Guarantee).
+
+Nomor (2) : diisi nama perusahaan yang diberikan izin menggunakan
+Jaminan perusahaan (Corporate Guarantee).
+
+Nomor (3) : diisi nomor surat pengajuan izin penggunaan Jaminan
+perusahaan (Corporate Guarantee).
+
+Nomor (4) : diisi tanggal, bulan, dan tahun surat permohonan izin
+penggunaan Jaminan perusahaan (Corporate Guarantee).
+
+Nomor (5) : diisi nomor Peraturan Menteri mengenai Jaminan dalam
+
+rangka kepabeanan dan cukai.
+Nomor (6) : diisi Nomor Pokok Wajib Pajak (NPWP) perusahaan yang
+diberikan izin menggunakan Jaminan perusahaan (Corporate
+
+Guarantee).
+
+Nomor (7) : diisi Nomor Pokok Pengusaha Barang Kena Cukai (NPPBKC)
+perusahaan yang mengajukan Jaminan (jika ada).
+
+Nomor (8) : diisi alamat lengkap perusahaan yang diberikan  izin
+menggunakan Jaminan perusahaan (Corporate Guarantee).
+
+Nomor (9) : diisi tanggal, bulan, dan tahun mulai diberikannya izin
+
+penggunaan Jaminan perusahaan (Corporate Guarantee).
+
+Nomor (10) : diisi pihak-pihak yang berhak menerima salinan Keputusan
+Menteri mengenai pemberian izin penggunaan Jaminan
+perusahaan (Corporate Guarantee).
+
+Contoh: Direktur Teknis Kepabeanan, Direktur Fasilitas
+Kepabeanan, dan Direktur Teknis dan Fasilitas
+Cukai).
+
+Nomor (11) : diisi tempat ditetapkannya Keputusan Menteri mengenai
+pemberian izin penggunaan Jaminan perusahaan (Corporate
+Guarantee).
+
+Nomor (12) : diisi tanggal, bulan, dan tahun Keputusan Menteri mengenai
+pemberian izin penggunaan Jaminan perusahaan (Corporate
+Guarantee).
+
+Nomor (13) : diisi jabatan pejabat yang menandatangani Keputusan
+Menteri mengenai pemberian izin penggunaan Jaminan
+perusahaan (Corporate Guarantee).
+
+Nomor (14) : diisi nama pejabat yang menandatangani Keputusan Menteri
+mengenai pemberian izin penggunaan Jaminan perusahaan
+(Corporate Guarantee).
+
+aa
+
+jdih.kemenkeu.go.id

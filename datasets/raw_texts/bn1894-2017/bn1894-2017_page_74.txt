@@ -1,0 +1,46 @@
+2017, No.1894 74.
+
+No Pos Tarif/HS Uraian Barang
+
+ukur maupun tidak; elevator cairan
+
+8413.60 - Pompa displacement positif berputar lainnya:
+
+- - Pompa air, dengan flow rate tidak melebihi 8.000
+
+m3/jam:
+751. 8413.60.31 - - - Dioperasikan secara elektrik
+8413.70 - Pompa sentrifugal lainnya:
+
+- - Pompa air single stage, poros tunggal penyedot
+horisontal cocok digunakan untuk sabuk penggerak
+atau perangkai langsung, selain pompa dengan
+poros yang digunakan dengan prime mover:
+
+792. 8413.70.11 - - - Dengan ukuran diameter inlet tidak melebihi
+200 mm
+
+- - Pompa air submersible
+
+753. 8413.70.31 - - - Dengan ukuran diameter inlet tidak melebihi
+200 mm
+
+- - Pompa air lainnya, dengan flow rate tidak
+melebihi 8.000 m3/jam:
+
+794. 8413.70.42 - - - Dengan ukuran diameter inlet tidak melebihi
+—— 200 mm, dioperasikan secara elektrik
+
+- Pompa lainnya; elevator cairan:
+
+8413.81 - - Pompa:
+
+755. 8413.81.13 - - - Pompa air dengan flow rate tidak melebihi
+—— 8.000 m3/jam, dioperasikan secara elektrik
+
+Pompa udara atau pompa vakum, kompresor
+84.14 udara atau kompresor gas lainnya dan kipas
+angin atau kipas gas lainnya; hood ventilasi atau
+hood daur ulang yang digabung dengan kipas,
+
+www.peraturan.go.id

@@ -1,0 +1,34 @@
+21 2015, No.1090
+
+No Pos Tarif/HS Uraian Barang
+- - Dari kapas:
+372 5804, 10.21.00 - - - Diresapi, dilapisi, ditutupi atau dilaminasi
+373 5804, 10.29.00 - - - Lain-lain
+- - Lain-lain:
+374 5804.10.91.00 - - - Diresapi, dilapisi, ditutupi atau dilaminasi
+375 5804. 10.99.00 - - - Lain-lain
+
+- Renda dibuat secara mekanik:
+
+5804.21 - - Dari serat buatan:
+376 5804.21.10.00 - - - Diresapi, dilapisi, ditutupi atau dilaminasi
+377 5804.21.90.00 - - - Lain-lain
+
+5804.29 - - Dari bahan tekstil lainnya:
+No Pos Tarif/HS Uraian Barang
+
+391 5806.31.90.20 - - - - Kain tenunan kuat digunakan dalam membungkus pipa, tiang dan
+
+sejenisnya
+392 5806.31.90.90 ---- Lain-lain
+5806.39 - - Dari bahan tekstil lainnya:
+393 5806.39.10.00 - - - Dari sutra
+- - - Lain-lain:
+394 5806.39.91.00 - --- Alas untuk kertas isolasi listrik
+5806.39.99 ---- Lain-lain:
+395 5806.39.99.10  |----- Digunakan untuk membungkus pipa, tiang dan semacam itu
+396 5806.39.99.20 | ----- Kain pita tenunan untuk pita mesin ketik tanpa tinta
+397 5806.39.99.30 |----- Kain pita untuk ritsleting dengan lebar tidak melebihi 12 mm
+BAR RRNA 299990 |----- Tain-lain
+
+www.peraturan.go.id

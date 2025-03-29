@@ -1,0 +1,74 @@
+-26-
+
+6112.19.00.00 | -- Dari bahan tekstil lainnya
+
+- Pakaian renang pria atau anak laki- laki:
+
+6112.31.00.00 | -- Dari serat sintetik
+6112.39.00.00 | -- Dari bahan tekstil lainnya
+| - Pakaian renang wanita atau anak perempuan:
+
+6112.41.00.00 | -- Dari serat sintetik
+
+6112.49.00.00 | -- Dari bahan tekstil lainnya
+
+Garmen, dibuat dari kain rajutan atau kaitan
+dari pos 59.03, 59.06 atau 59.07. :
+6113.00.10.00 | - Pakaian selam
+
+6113.00.30.00 | - Pakaian digunakan untuk pelindung dari api
+6113.00.40.00 | - Pakaian pelindung kerja lainnya
+
+6113.00.90.00 | - Lain-lain
+| 6114 Garmen lainnya, rajutan atau kaitan.
+
+6114.20.00.00 | - Dari kapas
+
+- Dari serat buatan:
+-- Pakaian digunakan untuk pelindung dari api
+- Dari bahan tekstil lainnya
+
+Panty hose, tight, stocking, sock dan kaus
+kaki lainnya, termasuk kaus kaki dikempa
+bergradasi (misalnya, stocking untuk
+penderita varises) dan alas kaki tanpa sol,
+rajutan atau kaitan.
+
+- Kaus kaki dikempa bergradasi (misalnya,
+stocking untuk penderita varises):
+
+| eu.10.0.00| -- Stocking untuk penderita varises, dari serat
+
+6115.10.10.00
+
+sintetik
+
+6115.10.90.00 | -- Lain-lain
+fF - Panty hose dan tight lainnya:
+377 6115.21.00.00 |-- Dari serat sintetik, ukuran tiap benang
+
+3
+3
+3
+
+363
+364
+365
+366
+367
+368
+369
+370
+371
+
+72
+
+73
+
+74
+
+375
+76
+
+3
+

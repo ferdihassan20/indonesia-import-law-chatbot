@@ -1,0 +1,341 @@
+2017, No.176
+
+8327
+
+8322
+
+8323
+
+8924
+
+8325
+
+8326
+
+8327
+
+8328
+
+8329
+8330
+
+8331
+
+8335
+
+8337
+
+8339
+
+8341
+
+8342
+
+8343,
+
+844
+
+8345
+
+8346
+8347
+
+8348
+
+8349
+8350
+8351
+
+5486.90.44
+
+8486.90.45
+
+8486.90.46
+
+8486.90.49
+84.87
+
+|8487.10.00
+
+[8487.90.00
+85.01
+
+[8501.10
+
+8501.10.21
+
+8501.10.22
+
+8501.10.29
+
+8501.10.30
+
+3501.10.41
+
+8501.10.49
+
+8501.10.51
+
+8501.10.59
+8501.10.60
+8501.10.91
+
+8501.10.99
+}8501.20
+
+8501.20.12
+
+8501.20.19
+
+8501.20.21
+
+8501.20.20
+8501.31
+8501.31.30
+
+8301.31.40
+8501.31.50
+8501.32
+
+8501.32.21
+
+'8501,32,22
+8501.32.23
+
+8501.32.31
+
+8501.32.33
+8501.33.00
+
+8501.34.00
+
+8501.40
+
+-412-
+
+(4)
+
+~~ Dari mikroskop sinar clektron dilengkapi dengan
+perlengkapan yang dirancang secara khusus untuk
+[penanganan dan pengangkutan wafer atau reticle
+semikonduktor
+- - - Dari aparatus penghasil pola dari jenis yang,
+tigunakan untuk memproduksi mask atu reticle dari
+[substrat ditapisi photoresist, termasuk printed circuit
+Jassembly
+
++ = Lain-lain
+
+\Bagian mesin, tidak mengandung konektor elektrik,
+isolator, koil, kontak atau bagian elektrik lainnya,
+ltidate dicinei atau termasuk pada pos Jainnya dalam Bab
+jimi.
+
+|- Propeler dan bilahnya untuk kapal atau perabu
+
+- Laln-lain
+
+Motor dan generator listrik (tidak termasuk perangkat
+pembangkit tenaga listrik).
+
++ Motor dengan keluaran tidak melebihi 37,5 W :
+
+Motor DC:
+Motor stepper :
+
+~ Dari jenis yang digunakan untuk barang dari pos
+184.15, 84.18, 84.50, 85.09 atau 85.16
+
+- ~~~ Lain-lain, dengan keluaran dak melebihi 5 W
+
+++ Lain-lain
+
+= Motor spincile
+
++ Lain-lain :
+
+~ Dari jenis yang digunakan untuk barang dari pos
+184.15, 84.18, 84.50, 85.09 atau 85.16
+
+~ Lain-lain
+- - Motor lainnya termasuk motor universal (AC/DC) +
+
+- ~- Motor stepper :
+~ ~~ Dari jenis yang digunakan untuk barang dari pos
+}84,15, 84.18, 84.50, 85.09 atau 85.16
+
++ Motor spindle
++ Lainelain =
+
+~ - Dari jenis yang digunakan untuk barang dari pos
+|84.15, 84,18, 84.50, 85.09 atau 85.16
+
+- ~~ Lain-lain
+Motor universal AC/DC dengan keluaran metebihi 37,5
+iw
+
+Dengan keluaran tidak melebihi 1 kW :
+~~ Dari jenis yang digunakan untuk barang dari pos
+84.15, 84.18, 84.50, 85.09 atau 85.16
+
++= = Lain-tain
+Dengan keluaran melebihi 1 kW =
+
++ + Dari jenis yang digunakan untuk barang dari pos
+184.15, 84.18, 84.50, 85.09 atau B5.16
+
++ - - Lain-lain
+- Motor DC lainnya; generator DC :
+
+- - Dengan keluaran tidak melebihi 750 W :
+
+- - » Motor dari jenis yang digunakan untuk barang dari
+pos 84,15, 84,18, 84.50, 85.09 atau 85.16
+
+~~ Motor Jainnya,
+
+~ Generator
+-- Dengan keluaran melebihi 750 W tetapi tidak melebihi
+75 kW
+- - - Dengan keluaran melebihi 750 W tetapi tidak metebihi
+37,5 kW:
+- - - - Motor dari jenis yang digunakan untuk barang dari
+pos 84.15, 84.18, 84.50, 85.09 atau 85.16
+
+~~ Motor lainnya.
+
+- Generator
+
+- Dengan keluaran melebihi 37,5 kW tetapi tidak
+melebihi 75 kW
+
+- - - - Motor dari jenis yang digunakan untuk barang dari
+pos 84.15, 84.18, 84.50, 85,09 atau 85.16
+
+++ Motor lainnya
++ + Generator
+
+Dengan keluaran melebihi 75 kW tetapi tidak melebihi
+375 kW
+
+-- Dengan keluaran melebihi 375 kW
+- Motor AC lainnya, single-phase :
+
+-- = Of optical stereoscopic and
+iphotomicrographic microscopes fitted with
+lequipment specifically designed for the
+handling and transport of semiconductor
+wafers or reticles
+
+--- Of electron beam microscopes fitted with)
+lcquipment specifically designed for the
+handling and transport of semiconductor
+lwafers or reticles
+
+- - - Of pattern generating apparatus of a
+kind used for producing masks or reticles
+tom photoresist coated substrates,
+including printed circuit assemblies
+
+j-- - Other
+‘Machinery parts, not containing electrical
+connectors, insulators, coils, contacts or
+other electrical features, not specified or
+Ancluded elsewhere in this Chapter,
+
+- Ships’ or boats’ propellers and blades
+
+- Motors of an output not exceeditig 37.5 W ;
+
+DC motors :
+-- - Stepper motors :
+
+|. . -- Of a kind used for the goods of heading}
+184.15, 84,18, 84.50, 85.09 or 85.16
+
+-- -- Other, of an output not exceeding 5 W
+
+Other
+
+Spindle motors
+
+‘Other =
+
++s Of a kind used for the goods of heading}
+184.15, 84,18, 84.50, 85.09 or 85.16
+
++ Other
+} ~ Other motors including universal (AC/DC)
+motors :
+
+~~ Stepper motors :
+
+- «== Of a kind used for the goods of head
+84,15, 84.18, 84.50, 85.09 or 85.16
+
+- Other
+
+Spindie motors
+
+Other :
+
+++ ++ Of a kind used for the goods of heading,
+[84.15, 84. 18, 84,50, 5.09 or 85.16
+
+- - Other
+
+- Universal AC/DC motors of an output
+lexeeeding 37.5 W =
+
+-- Of an output not exceeding 1 kW =
+
+- - - Of a kind used for the goods of heading
+184.15, 84.18, 84,50, 85.09 or 85.16
+
+}- - Of an output exceeding 1 kW ;
+- -- Of a kind used for the goods of heading
+184.15, 84.18, 84.50, 85.09 or 85.16
+
++ =» Other
+| Other DC motors; DC generators :
+
+- - Of an output not exceeding 750 W :
+
+|. - - Motors of a kind sed for the goods of
+heading 84.15, 84,18, 84.50, 85,09 or 85.16
+
+++ Other motors
+
++ + = Generators
+
+- - Of an output exceeding 750 W but not
+lexeeeding 75 kW
+
+- - - OF an output exceeding 750 W but not
+Jexceeding 37.5 kW ©
+
+|. - - - Motors of a kind used for the goods of
+heading 84.15, 84.18, 84.50, 85.09 or 85.16
+
+= Other motors
+
+- Generators
+- «+ Ofan output exceeding 37.5 kW but not
+lexeceding 75 kW :
+~~~ - Motors of a kind used for the goods of
+heading 84.15, 84.18, 84.50, 85.09 or 85.16
+
++--+ Other motors
++ Generators
++ Of an output exceeding 75 kW but not
+lexceeding 375 kW
+- - Of an output execeding 375 kW
+~ Other AC motors, single-phase :
+
+10,0%
+10,0%
+10,0%
+
+10,0%
+
+www.peraturan.go.id

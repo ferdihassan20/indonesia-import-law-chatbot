@@ -1,0 +1,59 @@
+7 2010, No.113
+
+LAMPIRAN
+PERATURAN MENTERI KEUANGAN NOMOR
+54 /PMK.011/2010 TENTANG BEA MASUK
+DITANGGUNG PEMERINTAH ATAS IMPOR
+BARANG DAN BAHAN GUNA PEMBUATAN
+PERALATAN  TELEKOMUNIKASI UNTUK
+TAHUN ANGGARAN 2010
+
+DAFTAR BARANG DAN BAHAN GUNA PEMBUATAN PERALATAN TELEKOMUNIKASI
+YANG MENDAPAT BEA MASUK DITANGGUNG PEMERINTAH UNTUK TAHUN
+
+ANGGARAN 2010
+TERMASUK
+NO. URAIAN BARANG SPESIFIKASI DALAM
+POS TARIF
+
+1 Rectifier module AC input 100-240V, DC _ output | 8504.40.30.00
+12V<V<60V, Watt output 750
+W<W<6000W, arus output
+10A<A<120A
+
+2 Inverter Nominal voltage DC input : 48VDC, | 8504.40.40.00
+operating range : 40-60VDC; output
+waveform : pure sine wave; output
+power: 500-5000VA per module; power
+factor : 0.7 - 1; nominal output voltage
+110VAC<V<240VAC
+
+3 Subrack for rectifier | Dari besi atau baja 7326.90.90.00
+
+module
+
+4 Baterai Akumulator listrik dari jenis timbal | 8507.20.90.00
+asam lainnya untuk  keperluan
+telekomunikasi, 2-12V, 30-2300 AH
+
+5 Fuel cell system Perangkat pembangkit tenaga listrik | 8502.39.10.00
+dengan gas sebagai fuel nya, dengan
+keluaran 5 KW - 10 KW
+
+6 Gas discharge tube Pelindung  sirkuit listrik dengan | 8536.30.00.00
+tegangan tidak melebihi 1000 Volt
+
+7 Railway signaling relay | Relay persinyalan khusus untuk | 8608.00.20.00
+kereta api
+
+8 Socket relay Dengan atau tanpa pole, dengan atau | 8536.69.99.00
+tanpa pin
+
+9 Kontak spring Kontak spring untuk persinyalan | 8536.90.99.90
+kereta api
+
+10 | Power over ethernet tegangan input 100 - 250 Volt ACA0 | 8517.62.42.00
+
+Hz, arus input 600 mA - 7A, tegangan
+output 24 - 48 V, arus output 600 mA -
+7A

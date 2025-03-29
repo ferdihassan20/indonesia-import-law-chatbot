@@ -1,0 +1,68 @@
+-51-
+
+ex.
+8471.30.90.00
+
+Po - Mesin pengolah data otomatis digital lainnya:
+
+-- Terdapat dalam wadah yang sama paling
+
+8471.41 tidak satu unit pengolah pusat dan satu unit
+
+: masukan  serta keluaran, dikombinasikan
+maupun tidak:
+
+-- Lain-lain (selain komputer tablet)
+
+--- Komputer personal tidak termasuk komputer
+8471.41.10.00
+
+portabel pada subpos 8471.30
+8471.49 -- Lain-lain, disediakan dalam bentuk sistem:
+
+--- Komputer personal tidak termasuk komputer
+
+8471.49.10.00
+portabel pada subpos 8471.30
+
+- Unit pengolah selain yang dimaksud dalam
+
+sub pos 8471.41 atau 8471.49, dalam wadah
+8471.50 yang sama mempunyai maupun tidak, satu
+
+atau dua tipe unit berikut: unit penyimpan, unit
+
+masukan, unit keluaran:
+
+-- Unit pengolah untuk komputer personal
+
+765 | 8471.50.10.00
+(termasuk komputer portable)
+
+8471.50.90.00 -- Lain-lain
+
+- Unit masukan atau keluaran, mempunyai unit
+8471.60
+767 | 8471.60.40.00
+layar peka sentuh
+
+8471.70 - Unit penyimpan:
+8471.70.20.00 -- Hard disk drive
+
+-- Optical disk drive, termasuk CD-ROM drive,
+770 | 8471.70.40.00
+DVD drive dan CD-R drive
+
+penyimpan dalam wadah yang sama maupun
+tidak:
+
+-- Peralatan masukan kordinat X-Y, termasuk
+
+mouse, pena cahaya, joystick, track ball dan
+
+- Unit lainnya dari mesin pengolah data
+8471.80 .
+otomatis:
+
+85.09 Peralatan rumah tangga mekanik elektrik
+

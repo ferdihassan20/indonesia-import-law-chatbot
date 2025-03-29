@@ -1,0 +1,99 @@
+47. 2022, No. 341
+
+4601.99.30 ---Kipas dan handsereen, bingkai dan gagangnya, dan bagiannya
+
+4601.99.90 - -- Lain-lain
+
+46.02 Keranjang, barang anyaman dan barang lainnya, dibuat secara
+langsung menjadi berbentuk dari bahan anyaman atau dibuat
+dari barang dalam pos 46.01; barang dari loofah.
+- Dari bahan nabati ;
+
+4602.11 - - Dari bambu ;
+
+4602.11.10 --- Tas untuk bepergian dan koper
+
+4602.11.20 ---Amplop untuk botol
+
+4602.11.90 ~- - Lain-lain
+
+4602.12 - - Dari rotan :
+
+4602.12.10 --~- Tas untuk bepergian dan koper
+
+4602.12.20 - -- Amplop untuk botol
+
+4602.12.90 ~-- Lain-lain
+
+4602.19 ~ - Lain-lain :
+
+4602.19.10 ~--Tas untuk bepergian dan koper
+
+4602.19.20 ~--Amplop untuk botol
+
+4602.19.90 ~-- Lain-lain
+
+4602.90 ~ Lain-lain :
+
+4602.90.10 ~- Tas untuk bepergian dan koper
+
+4602.90.20 ~ - Amplop untuk botol
+
+4602.90.90 - - Lain-lain
+
+57.01 Karpet dan penutup lantai tekstil lainnya, disimpul, sudah jadi
+maupun belum.
+
+5701.10 - Dari wol atau bulu hewan halus :
+
+5701.10.10 - - Babut untuk sembahyang
+
+5701.90 - Dari bahan tekstil lainnya :
+- - Dari kapas :
+
+5701.90.11 ---Babut untuk sembahyang
+
+5701.90.19 ~--Lain-lain
+~ - Lain-lain :
+
+5701.90.91 - - - Babut untuk sembahyang
+
+57.02 Karpet dan penutup lantai tekstil lainnya, tenunan, tidak
+berumbai atau tidak dibentuk flock, sudah jadi maupun belum,
+termasuk "Kelem", "Schumacks”, "Karamanie" dan babut tenunan
+tangan yang semacam itu.
+
+5702.20.00 - Penutup lantai dari serat kelapa (coir)
+~ Lainnya, dengan konstruksi bulu, belum jadi :
+
+5702.31.00 - - Dari wol atau bulu hewan halus
+
+5702.32.00 ~ - Dari bahan tekstil bustan
+
+5702.39 - - Dari bahan tekstil lainnya :
+
+5702.39.10 ~-- Dari kapas
+
+5702.39.20 ~~~ Dari serat jute
+
+5702.39.90 --- Lain-lain
+~ Lainnya, dengan konstruksi bulu, sudah jadi :
+
+5702.41 ~ - Dari wol atau bulu hewan halus :
+
+5702.41.10 ~- - Babut untuk sembahyang
+
+5702.42 ~ - Dari bahan teksti] buatan :
+
+5702.42.10 -- - Babut untuk sembahyang
+
+5702.42.90 -- - Lain-lain
+
+5702.49 ~ - Dari bahan tekstil lainnya :
+-- - Dari kapas ;
+
+5702.49.11 ---- Babut untuk sembahyang
+
+5702.49.19 ---- Lain-lain
+
+www.peraturan.go.id

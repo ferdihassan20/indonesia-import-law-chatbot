@@ -1,0 +1,106 @@
+203. 2017, No.176
+
+‘HS Code Uraian Barang Description of Goods
+
+{2) a
+(0307 -39.30 Dinsapt ><> Smoked
+- Cumi-cumi dan sotong : + Cuttle fish and squid :
+1307.42 -- Hidup, segar atau dingin : } = Live, fresh or chilled :
+~ Hidup = |. - = Live :
+441 [0307.42.11 ~~ Cumi- cumi (Sepia officinalis, Rosia macrosoma, - - - - Cutile fish (Sepia officinalis, Rossia
+|Sepiola spp.) dan sotong (Ommastrephes spp., Loligo macrosoma, Sepiola spp.) and squid
+spp. Nototodarus spp,, Septoteuthis spp.) (Ommastrephes spp., Loligo spp., Nototodarus
+spp., Sepioteuthis spp.)
+442 (0307.42.19 ~~~ Lain-Lain ~ Other
++ Segar atau dingin = - ~~ Fresh or chilled ;
+443 [0307.42.21 |. --- Cumi- cumi {Sepia officinalis, Rossia macrosema, - - - - Cuttle fish (Sepia officinatis, Rossia 5,0%
+[Sepiola spp.) dan sotong (Ommastrephes spp., Loligo Imacrosoma, Sepiola spp.) and squicl
+spp..Nototociarus spp., Sepioteuthis spp ) Ommastrephes spp., Loligo spp., Nototodarus
+spp., Sepioteuthis spp.)
+444° -10307.42.29 ++ - Lain-Lain |--- - Other 50%
+0307.43 Beku: ~ Frozen :
+445 |0307,43.10  |-- - Cumi-cumi (Sepia officinalis, Rassia macrosoma,Sepiola |-- - Cuttle fish (Sepie officinalis, Rossia 5,0%
+spp.) dan sotong (Ommastrephes spp., Laligospp., macrosomna,Sepiota spp.) and squid
+Notolodures spp., Sepioteuthis sp.) (Ommastrephes spp., Loligospp., Nototodarus
+|spp., Sepioteuthis spp )
+446 0307.43.90 > Lain-lain Other 50%
+0307.49 in: - Other
+- Dikeringkan, diasinkan atau dalam air garam : Dried, salted or in brine =
+447 (0307.49.21 |- - - - Cumi- cumi (Sepia officinalis, Rossia macrosoma, » Cuttle fish (Sepia officinalis, Rossa 5,0%
+|Sepiola spp.) dan sotong (Ommastrephes spp., Loligo | macrosomu, Sepiola spp.) and squid
+spp. Nototodarus spp, Sepioteuthis spp.) (Ommastrephes spp, Lotigo spp., Nololodarus
+spp. Sepioteuthis spp.)
+448, [0307.49.29 |---- Lain-Lain - Other 5.0%
+449 |0307.49.30 |- -- Diasapi ‘Smoked 5,0%
+}- Gurita (Octopus spp. - Octopus (Octopus spp. *
+0207.51 Hidup, segar atau dingin : ~ Live, fresh of chilled
+450 0307.51.10 » Hidup Live 5.0%
+481 [0307.51.20 |--- Segar atau dingin Fresh or chilled 5.0%
+452 |0307.52.00 Beku ~ Frozen 5,0%
+10307.59 Lain-lain : - Other :
+
+453 |0307.59.20 + Dikeringkan, diasinkan atau dalam air garam
+454 0307.59.30 |--- Diasapi
+10307.60 - Siput, selain siput laut =
+
+Dried, salted or in brine 5.0%
+Smoked 5,0%
+
+‘Snails, other than sea snails :
+
+485 |0307.60.10  |-- fidup + Live 5.0%
+456 |0907.60.20 _ |- - Segur, dingin atau beku Fresh, chilled or frozen, 5.0%
+457 [0307.60.40 Dikeringkan, diasinkan atau dalam air garam Dried, salted or in brine 5,0%
+458 0307.60.50 |- - Diasapi Smoked 5,0%
+
+~ Remis,tiram dan kerang (dari keluarga Arcidae, + Chums, cockles and ark shells (families
+
+Areticidae, Cardiidae, Donacidae, Hiatellidae, Mactridae, Areidae, Arcticidae, Cardiidae, Donacidae,
+
+|Mesodesmatidae, Myidae, Semelidae, Solecurtidae, Hiatellidae, Mactridae, Mesodesmatidae,
+
+Solenidae, Tridacnidae dan Veneridae) : Myidae, Semelidae, Solecurtidav, Solenicae,
+
+Tridacnidae and Veneridae) :
+
+}0307.71 ~~ Hidup, segar atau dingin : Live, fresh or chilled :
+459 0307.71.10 |--- Hidup Live 5,0%
+460 |0907.71.20  |-- - Segar atau dingin Fresh or chilled 5.0%
+461 |0307.72.00 Progen 50%
+|0307.79 lain : ‘Other :
+
+462 |0307.79.30 keringkan, diasinian atau dalam air garam - Dried, salted or in brine 5,0%
+
+463 [0307.79.40 |-- - Diasapi ‘Smoked 5,0%
+- Abaton (Haliotis spp.) dan stromboid conchs (Strombus —_|- Abalone [Haliotis spp.) and stromboid
+spp.) = lconchs (Strombus spp.) :
+10307.81 -- Hidup, segar atau dingin abalone (Fatiotis spp.) : Live, fresh or chilled abalone (Iatiotis
+
+“Live 5.0%
+
+463 [0307.81.10 |- ~~ Hidup
+465 [0307.81.20 |. - - Segar atau dingin Fresh or chilled 5.0%
+(0307.82 - = Hidup, segar atatt dingin stromboid conchs (Strombus Live, fresh or chilled stromboid conchs
+spp}:
+466 0307.82.10 |--- Itidup 5.0%
+467 0307.82.20. |- - - Segar atau dingin - Fresh or chilled 5,0%
+468 0307.83.00 _|-- Abalon beku (Haliotis spp.) Prozen abstlone (Fatiotis spp.) 5.0%
+469 {0307.84.00 |. - Stromboid conchs beku (Sirombus spp.) -- Frozen stromboid conehs (Strombus spp.) 50%
+0307.87 | - Abalon lainnya (Haliotis spp.) : + Other abalone (/atiotis spp.) :
+470 0307.87.10 |- - - Dikeringkan, diasinkan atau dalam air garam » Dried, salted or in brine 5.0%
+471 {0307.87.20 |-- - Diasapi - Smoked 5.0%
+[0307.88 + - Stromboid conchs lainnya (Strombus spp.) : - = Other stromboid conchs (Strombus spp.) :
+472 |0307.88.10 _|--- Dikeringkan, diasinkan atau dalam air garam + Dred, salted or in brine 5.0%
+473. |0307.88.20  |-- - Dinsapi - Smoked 5,0%
+- Lain-lain, termasuk tepung, tepung kasardan pellet, _- Other, including fours, meals and pellets,
+fayak untuk dikonsumsi manusia : ft for human consumption :
+lo307.91 |. - Hidup, segar atau ding - - Live, fresh or chilled :
+474 {0307.91.10 |--- itidup ~ Live 5.0%
+475 |0307,.91.20 _|-- - Segar atau dingin ~ Fresh or chilled 5.0%
+470 |0907.92.00 |-- Beku Frozen 5.0%
+307.99 += Lain-tain : Other :
+477 0307.99.30 _|--- Dikeringkan, diasinkan atau dalam air garam ~ Dried, salted or in brine 5,0%
+478 |0307.99.40  |- - - Dinsapi ~ Smoked ‘5.0%
+479, {0307.99.50 |-- - Tepung, (cpung kasar dan pellet dari moluska ~ Flours, meals and pellets of molluscs 5,0%
+
+www.peraturan.go.id

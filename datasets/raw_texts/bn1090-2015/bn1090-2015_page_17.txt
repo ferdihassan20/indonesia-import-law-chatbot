@@ -1,0 +1,43 @@
+17 2015, No.1090
+
+No Pos Tarif/HS Uraian Barang
+- - Lain-lain:
+210 580 1.90.91.00 - -- Diresapi, dilapisi, ditutupi atau dilaminasi
+211 580 1.90.99.00 - - - Lain-lain
+60.01 Kain berbulu, termasuk kain "berbulu panjang" dan kain terry, rajutan
+atau kaitan.
+6001.10.00 - Kain "berbulu panjang":
+212 6001.10.00.10 - - Tidak dikelantang, tidak dimerserisasi
+213 6001.10.00.90 - - Lain-lain
+
+- Kain bulu bergelung:
+
+eis 600 1.21.00.00 - - Dari kapas
+215 600 1.22.00.00 - - Dari serat buatan
+No Pos Tarif/HS Uraian Barang
+
+Kain rajutan atau kaitan dengan lebar melebihi 30 cm, mengandung
+60.04 benang elastomer atau benang karet 5% atau lebih menurut beratnya,
+selain yang dimaksud dalam pos 60.01.
+
+- Mengandung benang elastomer 5% atau lebih menurut beratnya tetapi
+tidak mengandung benang karet
+
+229 6004. 10.10.00 - - Mengandung benang elastomer tidak lebih dari 20% menurut beratnya
+
+230 6004, 10.90.00 - - Lain-lain
+
+231 6004,90.00.00 - Lain-lain
+
+60.05 Kain rajut lusi (termasuk kain yang dibuat dengan mesin rajut galon),
+
+selain yang dimaksud dalam pos 60.01 sampai dengan 60.04.
+- Dari kapas:
+
+232 6005.21.00.00 - - Tidak dikelantang atau dikelantang
+
+233 6005.22.00.00 - - Dicelup
+
+234 6005.23.00.00 - - Dari benang aneka warna
+
+www.peraturan.go.id

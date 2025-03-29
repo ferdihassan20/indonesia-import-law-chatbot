@@ -1,0 +1,66 @@
+2016, No.1375
+
+-23-
+
+POS/SUB POS
+
+NO. HEADING/ URAIAN BARANG DESCRIPTION OF GOODS
+
+SUB HEADING
+(4) (2) (3) @)
+9097.50 - Tnstrimen dan aparatms lainnya menggnnakan radiasi optik (UV, visible, | - Other instrmments and apparatns using optical radiations (UV, visible, TR):
+IR):
+
+9566 | 9027.50.10.00 |- - Dioperasikan secara elektrik - -  Blectrically operated
+
+9567 | 9027.50.20.00 |- - Tidak dioperasikan secara elektrik - - Not electrically operated
+9027.80 - Instrumen dan aparatus lainnya: - Other instruments and apparatus:
+
+9568 | 9027.80.10.00 |- - Pengukur pembukaan - - Exposure meters
+
+9569 | 9027.80.30.00 |- - Lain-lain. dioperasikan secara elektrik - - Other, electrically operated
+
+9570 | 9027.80.40.00 |- - Lain-lain, tidak dioperasikan secara elektrik - - Other, not electrically operated
+
+9027.90 - Mikrotom; bagian dan aksesori: - Microtomes; parts and accessories:
+
+9571 | 9027.90.10.00 |- - Dagian dan aksesori termasuk printed circuit assembly untuk produk |- - Parts and accessories, including printed circuit assemblies for products of
+dari pos 90.27, selain untuk aparatus analisa gas atau asap dan heading 90.27, other than for gas or smoke analysis apparatus or
+mikrotom microtomes
+
+- -  Lain-lain: - - Other:
+9572 | 9027.90.91.00 |- - - Dioperasikan secara elektrik - - - Electrically operated
+9573 9027.90.99 00 - - -  Lain-lain - - - Other
+90.31 Instrumen, peralatan dan mesin pengukur atau pemeriksa, tidak | Measuring or checking instruments, appliances and machines, not
+dirinci atau termasuk dalam pos manapun dalam Bab ini; proyektor | specified or included elsewhere in this Chapter; profile projectors.
+profil.
+9031.10 - Mesin untuk menyeimbangkan bagian mekanis: - Machines for balancing mechanical parts:
+9031.20 - Test bench: - Test benches:
+- Instrumen dan peralatan optik lainnya: - Other optical instruments and appliances:
+9031.11.00.00 Untuk memeriksa wafer atau peralatan scmi konduktor atau untuk For inspecting scmiconductor wafers or devices or for inspecting
+memeriksa photomask atau reticle yang diguuaken dakan pholomasks or reticles used in manufacturing semiconductor devices
+pembuatan peralatan semikonduktor
+9031.49 - -  Lain-lain: - - Other:
+
+9614 | 9031.49.10.00 |- - - Instrumen dan peralatan optik untuk mengukur kontaminasi|- - - Optical instruments and appliances for measuring surface particulate
+
+partikel padat pada permnkaan wafer semikonduktor contamination on semiconductor wafers
+
+9615 | 9031.49.20.00 |- - - Aparatus verifikasi dan perbaikan kesalahan optik untuk printed |- - - Optical error verification and repair apparatus for printed circuit
+
+circuit board/ printed wiring board dan printed circuit assembly boards/printed wiring boards and printed circuit assemblies
+
+9616 | 9031.49.30.00 |- - - Tustrumen dau peralutan optik untuk mengukur alau memeriksa |- - - Other optical instruments and appliances for measuring or checking
+
+printed circuit board/printed wiring board dan printed circuit printed circuit boards/printed wiring boards and printed circuit
+assembly assemblies
+
+9617 9031.49.90.00 - - -  Lain-lain - - - Other
+
+9031.80 - Instmimen, peralatan dan mesin lainnya: - Other instruments, appliances and machines:
+
+9618 9031.80.10.00 - - Penguji kabel - - Cable testers
+
+9619 90231.80.90.00 - - Lain-lain - - Other
+
+www.peraturan.go.id

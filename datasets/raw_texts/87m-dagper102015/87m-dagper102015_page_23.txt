@@ -1,0 +1,52 @@
+-10-
+
+1905.90.50.00 | -- Produk roti tanpa tepung
+
+-- Selongsong kosong dari jenis yang cocok
+150 1905.90.60.00 .
+untuk keperluan farmasi
+- Wafer komuni, sealing wafer, rice paper dan
+1905.90.70.00
+produk semacam itu
+
+1905.90.80.00 | -- Produk makanan garing lainnya
+
+Tomat diolah atau diawetkan selain dengan
+cuka atau asam asetat.
+— 2002.90 - f-Lainlain: ss lain:
+
+-- Pasta tomat ee en kemasan botol atau
+2002.90.10.00 sachet)
+
+Selai, jeli buah, marmelade, pure dan pasta
+
+20.07 dari buah atau kacang, diperoleh dari
+pemasakan, mengandung tambahan gula atau
+bahan pemanis lainnya maupun tidak.
+
+2007.10.00.00 | - Olahan homogen
+SS
+2007.99 - -Lainlain: lain:
+
+--- Butiran —————— pasta buah selain mangga,
+2007.99.10.00
+nanas atau stroberi
+
+Buah, kacang dan bagian tanaman lainnya
+20.08
+| [come maupun tidak:
+
+yang dapat dimakan, diolah atau diawetkan
+
+tidak, tidak dirinci atau termasuk pos
+
+=
+
+- Kacang, kacang tanah dan kacang lainnya,
+
+secara lain, mengandung tambahan gula atau
+bahan pemanis lainnya atau alkohol maupun
+
+2008.11.10.00 | --- Digongseng
+2008.11.20.00 | --- Mentega kacang
+

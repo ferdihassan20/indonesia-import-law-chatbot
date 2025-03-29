@@ -1,0 +1,83 @@
+17. 2016, No. 2091
+
+- Disepuh atau dilapisi dengan timah:
+
+7210.11 - - Dengan ketebalan 0,5 mm atau lebih:
+
+32 | 7210.11.10.00 - - - Mengandung karbon 0,6% atau lebih menurut
+beratnya
+
+33 | 7210.11.90.00 - - - Lain-lain
+
+7210.12 - - Dengan ketebalan kurang dari 0,5 mim:
+
+34 | 7210.12.10.00 - - - Mengandung karbon 0,6% atau lebih menurut
+beratnya
+
+35 7210.12.90.00 - - - Lain-lain
+
+7210.20 - Disepuh atau dilapisi dengan timbal, termasuk
+erne-plate:
+
+36 | 7210.20.10.00 - - Mengandung karbon kurang dari 0,6% menurut
+beratnya dan dengan ketebalan 1,5 mm atau kurang
+
+37 7210.20.90.00 - - Lain-lain
+
+7210.30 - Disepuh atau dilapisi secara elektrolisa dengan
+seng:
+- - Mengandung karbon kurang dari 0,6% menurut
+beratnya:
+
+38 | 7210.30.11.00 - - - Dengan ketebalan tidak melebihi 1,2 mm
+
+39 | 7210.30.12.00 - - - Dengan ketebalan melebihi 1.2 mm tetapi tidak
+melebihi 1,5 mm
+
+40 7210.30.19.00 - - - Lain-lain
+- - Lain-lain:
+
+41 7210.30.91.00 - - - Dengan ketebalan tidak melebihi 1,2 mm
+
+42 7210.30.99.00 - - - Lain-lain
+- Disepuh atau dilapisi secara lain dengan seng:
+
+7210.4 - - Bergelombang:
+- - - Mengandung karbon kurang dari 0,6% menurut
+beratnya:
+
+43 | 7210.41.11.00 - - - - Dengan ketebalan tidak melebihi 1,2 mm
+
+44 | 7210.41.12.00 - - - - Dengan ketebalan melebihi 1,2 mm tetapi tidak
+melebihi 1,5 mm
+
+45 7210.41.19.00 ---- Lain-lain
+- - - Lain-lain:
+
+4 7210.41.91.00 - -- - Dengan ketebalan tidak melebihi 1,2 mm
+
+47 7210.41.99.00 ---- Lain-lain
+
+7210.49 - - Lain-lain:
+- - - Mengandung karbon kurang dari 0,6% menurut
+beratnya:
+
+48 | 7210.49.11.00 -- - - Dilapisi dengan seng dengan metode paduan
+besi-seng, mengandung karbon kurang dari 0,04%
+menurut beratnya dan dengan ketebalan tidak
+melebihi 1,2 mm
+
+49 7210.49. 12.00 - --- Lain-lain, dengan ketebalan tidak melebihi 1,2
+mm
+
+90 7210.49.13.00 - -- - Dengan ketebalan melebihi 1,2 mm tetapi tidak
+melebihi 1,9 mm
+
+91 | 7210.49.19.00 -- - - Lain-lain
+- - - Lain-lain:
+
+52 7210.49.91.00 - --- Lain-lain, dengan ketebalan tidak melebihi 1,2
+
+mim
+
+www.peraturan.go.id

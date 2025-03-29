@@ -1,0 +1,60 @@
+Nomor (8)
+
+Nomor (9)
+
+Nomor (10)
+
+Nomor (11)
+
+Nomor (12)
+
+Nomor (13)
+
+Nomor (14)
+
+Nomor (15)
+
+53. 2017, No.1703
+
+Diisi tanggal berakhirnya perpanjangan jangka waktu izin
+Impor Sementara yang diberikan atas penggunaan barang
+Impor Sementara.
+
+Diisi nama Kantor Wilayah Direktorat Jenderal Bea dan Cukai
+yang mengawasi Kantor Pabean yang menerbitkan Keputusan
+Menteri Keuangan tentang Pemberian Izin Impor Sementara.
+Jika penerbit izin melalui Kantor Pelayanan Utama Bea dan
+Cukai, tidak perlu diisi.
+
+Diisi nama Kantor Wilayah Direktorat Jenderal Bea dan Cukai
+yang mengawasi tempat/lokasi barang Impor Sementara
+dipergunakan. Diisi apabila lokasi penggunaan barang berada
+di luar wilayah kerja pengawasan Kantor Pabean yang
+menerbitkan Keputusan Menteri Keuangan tentang Pemberian
+Izin Impor Sementara. Jika Kantor Pelayanan Utama Bea dan
+Cukai tidak perlu diisi.
+
+Diisi nama dan tipe Kantor Pelayanan Utama atau Kantor
+Pengawasan dan Pelayanan Bea dan Cukai tempat lokasi
+barang Impor Sementara dipergunakan. Diisi apabila lokasi
+penggunaan barang berada di luar wilayah kerja pengawasan
+Kantor Pabean yang menerbitkan Keputusan Menteri
+Keuangan tentang Pemberian Izin Impor Sementara.
+
+Diisi tempat ditetapkannya Keputusan Menteri Keuangan
+mengenai Pemberian Izin Impor Sementara.
+
+Diisi tanggal, bulan, dan tahun Keputusan Menteri Keuangan
+mengenai Pemberian Izin Impor Sementara.
+
+Diisi nama dan tipe Kantor Pelayanan Utama atau Kantor
+Pengawasan dan Pelayanan Bea dan Cukai yang menerbitkan
+Keputusan Menteri Keuangan mengenai Pemberian Izin Impor
+Sementara.
+
+Diisi nama dan Nomor Induk Pegawai (NIP) Pejabat Bea dan
+Cukai yang menandatangani Keputusan Menteri Keuangan
+
+mengenai pemberian izin Impor Sementara.
+
+www.peraturan.go.id

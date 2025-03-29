@@ -1,0 +1,53 @@
+(1)
+
+(2)
+
+2015, No.372
+
+indikator domestik yang bersifat spesifik yang ditetapkan
+oleh Otoritas Jasa Keuangan; dan
+ketergantian (substitutability) peran Bank dalam aktivitas
+
+sistem pembayaran dan kustodian.
+
+Pasal 9
+Bobot setiap indikator SIB sebagaimana dimaksud dalam
+Pasal 5 ditetapkan sama besar (equal weight).
+Bobot setiap sub-indikator sebagaimana dimaksud dalam
+Pasal 6, Pasal 7, dan Pasal 8 ditetapkan sama besar
+(equal weight).
+
+BAB III
+METODOLOGI PENETAPAN SYSTEMICALLY IMPORTANT
+BANK (SIB)
+
+Pasal 10
+
+Otoritas Jasa Keuangan menetapkan SJB berdasarkan
+
+perhitungan skor sistemik (systemic importance score).
+
+Pasal 11
+
+Skor sistemik (systemic importance score) setiap Bank dihitung
+
+dengan cara:
+
+a.
+
+menghitung nilai masing-masing sub-indikator dalam
+satuan basis poin, dengan cara menghitung proporsi nilai
+masing-masing sub-indikator terhadap nilai agregat
+industri perbankan;
+
+menghitung nilai pembobotan masing-masing sub-
+indikator, dengan cara mengalikan nilai masing-masing
+sub-indikator sebagaimana dimaksud dalam huruf a
+dengan bobot sub-indikator;
+
+menghitung nilai masing-masing indikator, dengan cara
+menjumlahkan nilai pembobotan masing-masing sub-
+indikator sebagaimana dimaksud dalam huruf b;
+menghitung nilai pembobotan masing-masing indikator,
+
+dengan cara mengalikan nilai masing-masing indikator

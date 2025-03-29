@@ -1,0 +1,399 @@
+2017, No.176
+
+-380-
+
+7223
+724
+725
+7226
+TT
+
+7228
+7229
+
+7230
+
+7231
+
+7232
+7233
+
+7234
+7238
+7236
+
+7237
+
+7236
+
+7239
+7240
+
+7241
+7242
+
+7243
+1244
+7245
+
+7246
+
+ra
+7248
+7249
+
+7250
+
+7251
+7252
+7253
+
+7254
+
+7255
+
+7256
+
+8412.31.00
+18412.29,00
+8412.80.00
+18412,90
+
+8412.90.10
+18412,90,20
+
+ls412.90.90
+84.13
+
+8413.11.00
+
+8413.19
+8413.19.10
+18413.19.20
+8413.20
+
+[8413.20.10
+18413.20..
+
+18413.20.90
+8413.30
+
+8413.30.30
+
+8413.30.40
+
+8413.30.51
+8413.30.52
+8413.30.90
+
+8413.40.00
+8413.50
+
+}8413.50.31
+8413.50.32
+8413.50.40
+
+8413.50.00
+8413.60
+
+8413.60.31
+8413.60.32
+8413.60.40
+
+8413,60,90
+8413.70
+
+8413.70.11
+8413.70.19
+8413.70.31
+
+8413.70.39
+
+1#413,70.42
+8413.70.43
+
+8413.70.49
+
+- Mesin reaksi selnin turbo-jet
+|- Mesin dan motor tenaga hidrolik :
+~ + Gerak linier {silinder}
+~~ Lain-lain
+|- Mesin dan motor tenaga pneumatik
+~~ Gerak linier (silinder)
+~~ Lain-tain
+|- Lain-lain
+- Bagian :
+- Dari mesin pada subpos 8412.10
+}---Untuk unit tenaga wap air atau unit tenaga uap lainnya
+|yang dilengkapi dengan ketel
+- - Laln-lain
+Pompa untuk cairan, dilengkapi dengan alat ukur
+maupun tidak; elevator cairan.
+
+- Pompa yang dilengkapi atau dirancang untuk dilengkapi
+dengan alat pengukur :
+
+.- Pompa untuk pengisian bahan bakar atau pelumas,
+Idani tipe yang digunakan di stasiun pengisian atau
+bengkel
+
+Lain-lain >
+
+Dioperasikan secara elektrik
+
+Tidak dioperasikan secara elektrike
+
+- Pompa tangan, selain yang dimaksud dari subpos
+[8413.11 atau 8413.19;
+
+- - Pompa air
+
+Pompa ASI {Air Susu Ibu}
+
+Lain-Iain
+
+- Pompa bahan bakar, pelumas atau media pendingin
+luntuk mesin piston pembakaran dalam :
+
+|. - Pomp bahan bakar dari jenis yang digunakan untale
+Imesin dari kendaraan bermotor pada pos 87.02, 87.03
+latau 87.03
+
+- - Pompa air dari jenis yang digunakan untuk mesin dart
+kendaraan bemotor pada pos 87.02, 87.03 atau 87.04
+
+Lain-lain, tipe sentrifugal :
+Dengan ukuran diameter inlet tidak melebihi 200 mm
+
+- ~~ Dengan ukuran diameter inlet melebibi 200 mum
+|- - Lain-lain
+
+- Fompa beton
+- Pompa displacement positif holak-balik tainnya :
+
++ - Pomps a
+im?/jamn :
+
+|. - - Dioperasikan secara elekirik
+~ Tidak dioperasikan secara elektrik
+
+- - Pompa air, dengan flow rate melebihi 8.000 m°/jam
+tetapi tidak melebihi 13,000 m°/jam
+
+, dengan flow rate tidak melebihi 8.000
+
+}- - Lain-lain
+- Pompa displacement positif berputar lainnya ;
+
+~~ Pompa air, dengan flow rate tidak melebihi 8.000
+
+jm? /jeum :
+~ Dioperasikun secara elekirike
+
++ Tidak dioperasikan secara elektrik
+
+Pompa air, dengan Now rate melebihi 8.000 m* /jam
+
+tetapi tidak melebihi 13.000 m°/jam
+
++ = Latin-lain
+
++ Pompa sentrifugal lainnya
+
+- - Pompa air single stage, poros tungeal penyedot
+horizontal cocok digunakan untuk sabuk penggerak atau
+jperangkai langsung, selain pompa dengan poros yang
+Idigunakan dengan prime mover :
+
++ ++ Dengan ukuran diameter inlet tidak melebihi 200 mm
+- Lain-lain
+
+Pompa air submersible :
+~ Dengan ukuran diameter inlet tidak melebihi 200 mm
+
+~ Lain-lain
+Pompa air lainnya, dengan flow rate tidak metebihi
+18.000 m*/jam +
+
+- - - Dengan ukuran diameter inlet tidak melebihi 200 mm,
+dioperasikan secara elektrik
+
+~ + « Dengan ukuran diameter inlet tidak melebihi 200 mm,
+‘tidak dioperasikan secara elektrike
+
++++ Lain-lain
+
+~ + Pompa air lainnya, dengan flow rate melebihi 8.000
+
+jin? /Jam tetapi tidak melebihi 13.000 m?/jam ;
+
+~ Dengan uikuran diameter inlet tidak melebihi 200 mam
+
+== Lain-laine
+
+Reaction engines other than turbo-jets
+- Hydraulic power engines and motors
+-- Linear acting (cylinders)
+
+-- Other
+
+- Pneumatic power engines and motors :
+
+-- Linear acting (cylinders)
+
+-- Other
+
+- Other
+
+- - Of engines of subheading 8412.10
+
+- - For steam of other vapour power tnits
+incorporating boilers
+
+-- Other
+
+Pumps for liquids, whether or not fitted
+|with a measuring device; liquid elevators.
+
+- Pumps fitted or designed to be fitted with
+measuring devie
+- - Pumps for dispensing fuel or lubricants,
+lof the type used in filling-stations or in
+garages
+
+- Electrically operated
+
+Not electrically operated
+- Hand pumps, other than those of
+subheading 8413.11 or 8413.19 :
+
+|- - Water pumps
+
+~~ Breast pumps
+
+- - Other
+
+- Ruel, lubricating oF cooling medium pumps
+for internal combustion piston engines :
+
+| - Fuel pumps of a kind used for engines of
+motor vehicles of heading 87.02, 87.03 or
+187.04
+
+- » Water pumps of a kind used for engines
+lof motor vehicles of heading 87.02, 87.03 or
+87.04
+
++ - Other, centrifugal type :
+
+|. - - With an inlet diameter not exceeding
+
+200 mm
+
+- - - With an inlet cliameter exceeding 200
+mam
+- - Other
+- Concrete pumps
+- Other reciprocating positive displacement
+pumps :
+|. - Water pumps, with a flow rate not
+jcxeeeding 8,000 m°/t
+Electrically operated
+Not electrically operated
+- - Water pumps, with @ flow rate exceeding
+18,000 m*/h but not exceeding 13,000 m?/h
+
+- - Other
++ Other rotary positive displacement pumps =
+
+- Water pumps, with @ flow rate not
+jexeecding 8,000 m?/h :
+
+Electrically operated
+
+Not electrically operated
+
+- Water pumps, with a flow rate exceeding
+18,000 m?/h but not exceeding 13,000 m°/h
+
+- - Other
+|- Other centrifuyal pumps :
+
+Single stage, single suction horizontal
+shaft water pumps suitable for belt drive or
+direct coupling, other than pumps with
+shafts commion with the prime mover :
+
+With an inlet diameter not exceeding
+200 men
+
+Other
+
+» Submersible water pumps :
+
+With an inlet diameter not exceeding
+200 mm
+
+Other
+
+- Other water pumps, with a flaw rate not
+exceeding 8,000 m°/h :
+
+~~ - With inlet diameter not exceeding 200
+mm, electrically operated
+
+-- - With inlet diameter not exceeding 200
+mm, not electrically operated
+
+Other
+
++ Other water pumps, with a flow rate
+exceeding 8,000 m*/h but not exceeding
+13,000 m°/h :
+
+-- - With an inlet diameter not exceeding
+200 mm
+
+«Other
+
+5.0%
+
+5,0%
+5.0%
+
+10,0%
+10,0%
+10,0%
+
+0.0%
+
+0,0%
+
+0,0%
+0,0%
+0,0%
+
+5.0%
+5.0%
+
+5.0%
+
+5.0%
+75%
+5,0%
+
+5.0%
+
+5.0%
+
+5,0%
+5,0%
+
+5.0%
+
+5,0%
+5,0%
+
+5.0%
+
+www.peraturan.go.id

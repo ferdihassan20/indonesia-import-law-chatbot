@@ -1,0 +1,136 @@
+Pos Tarif]
+
+-341-
+
+2017, No.176
+
+No. ‘HS Code ‘Uraian Barang
+3)
+5743 |6907.21.23 ~ Ubin paving, ubin perapian atau ubin dinding, - ~~~ Paving, hearth or wail tiles, glazed
+tigiasly
+5744 [6907.21.24 ~ Lain-lain, diglasir |. ++ - Other, glazed
+Lain-lain : --- Other
+5745 [6907.21.91 _|---- Ubin paving, ubin perapian atau ubin dinding, tidak Paving, hearth or wall tiles, unglazed
+diglasie
+8746 |6007.21.92 + Lain-tain, tidak diglasie ‘Other, unglazed
+8747 [6907.21.93 - Ubin paving, ubin perapian ata ubin dinding, |--~~ Paving, hearth or wall tiles, glazed
+Idiglasir
+$748 |6907.21.94 ~ Lain-lain, diglasic ~~ =~ Other, glazed
+1607.22 Dengan koefisien penyerapan air lebih cari 0,5 % tetapi_|-- Of a water absorption coefficient by
+tidak melebihi 10 % menurut beratnya : ‘weight exceeding 0.5 % but not exceeding 10
+le
+}- - - Yang area permukaan terluasnya dapat menutupi |- ~ + Having a largest surface area of which is,
+lbujur sangkar dengan sisi kurang dari 7 cm : capable of being enclosed in a square the
+‘side of which is less than 7 cm =
+5749 [6907.22.11 |--~- Ubin paving, ubin perapian atau ubin dinding, tidak |--- - Paving, hearth or wall tiles, ungkazed
+\dlighasir
+5750 [6907.22.12 ~ Lain-lain, tidak dighasir w ‘Other, unglazed
+5751 {6907.22.13 - Ubin paving, ubin perapian atau ubin dining, |. - -- Paving, hearth or wall tiles, glazed
+\dighasir
+5752 [6907.22.14 + Lain-lain, diglasir Other, glazed
+Lain-lain : Other :
+5753 |6907.22.91 Ubin paving, ubin perapian atau ubin dinding, tidak Paving, hearth or wall tiles, unglazed
+dighasir
+S754 |6907.22.92 ~ Lain-lain, tidak dighasir Other, unglazed
+5785 {6907.22.93 + Ubin paving, ubin perapian atau ubin dinding, Paving, hearth or wall tiles, ghazed
+dighasir
+S756 [6907.22.94 - - Lain-lain, diglasir + - - - Other, glazed
+6907.23 - - Dengan koefisien penyerapan air melebihi 10 % - - Of a water absorption coefficient by
+imenurut beratnya : weight exceeding 10% :
+» ++ Yang area permukaan terluasnya dapat menutupi - - = Having a largest surface area of which is|
+bujur sangkar dengan sisi kurang dari 7 ¢m : Jcapable of being enclosed in a square the
+'sicie of which is less than 7 em
+5757 |6907.23.11 _|- ~~ - Ubin paving, ubin perapian atau ubin dinding, tidak |-- -- Paving, hearth or wall tiles, unglazed
+Idiglasic
+8758 |6907.23.12 |-- -- Lain-tain, tidak diglasir + - + - Other, unglazed
+5759 |6907.23.13_|---- Ubin paving, ubin perapian atau ubin dinding, |. - ~~ Paving, hearth or wall tiles, glazed
+diglasir
+5760 |6907.23.14 |---- Lain-lain, diglasir - - - - Other, glazed
++ Lain-lain ; > > = Other =
+5761 |6907.23.91 |. - -- Ubin paving, ubin perapian atau ubin dinding, tidak |--- - Paving, hearth or wall tiles, unglazed
+dighasir
+5762 |6907.23.92  |---- Lain-lain, tidak diglasir ~ Other, unglazed
+5763 |6907.23.93 |. - - - Ubin paving, ubin perapian atau ubin dinding, ~ Paving, hearth or wall tiles, glazed
+diglasir
+5764 |6907,.23.94 |. --- Lain-lain, diglasir ~ Other, glazed
+6907.30 - Kubus mozaik dan barang semacam itu, selain barang —_|- Mosaic cubes and the like, other than
+dari subpos 6907.40 = those of subheading 6907.40 :
+Tidak liglasir : + Unglazed :
+5765 6907.30.11 - Yang area permukaan terluasnya dapat menutupi Having a largest surface of which is
+bujur sangkar dengan sisi kurang dari 7. cm capable of being cnclosed in a square the
+side of which is less than 7 cm
+5766 |6907.30.19 ‘Other
+- Other ;
+8767 |6907.30.91_ |--- Yang area permukaan terluasnya dapat menutypi Having a largest surface arca of which is|
+bujur sangkar dengan sisi kurang dari 7 cm Jeapabie of being enclosed in a square the
+side of which is less than 7 cm
+5768 |6907.30.99 |. -- Lain-lain -- - Other
+6907.40 + Keramik untuk finishing : - Finishing ceramics =
+5769 |6907.90.10 |. - Dari jenis yang digunakan untuk melapisi penggilingan, |- - Of a kind used for lining grinding mills,
+tidak dighasir junglazed
+-- Barang lainnya, yang area permukaan terluasnya dapat |- - Other articles, having a largest surface
+terlihat tidak melebihi 49 cm* setelah pemasangan = le after mounting is not exceeding
+5770 [6907.40.21 |--- Tidak digtasir
+5771 |6907.40.22 |--- Diglasir
+Laln-lain :
+5772 |6907.40.91 - Tidak dighasir
+5773 [6907.40.92 |-- - Diglasir
+69.09 /Barang keramik untuk laboratorium, kimia atau Ceramic wares for laboratory, chemical or
+penggunaan teknik lainnya; paling keramik, pasu dan other technical uses; ceramic troughs,
+wadah semacam itu dari jenis yang digunakan dalam _[tubs and similar receptacles of a kind
+|pertanian; pot keramik, tempayan dan barang semacam |used in agriculture; ceramic pots, jars and
+jita dari jenis digunakan untuk mengangkut atau similar asticles of a kind used for the
+mengepak barang. conveyance or packing of goods.
+- Barang keramik untuk laboratorium, kimia atau - Ceramic wares for laboratory, chemical or
+/penggunaan teknik lainnya : lother technical uses :
+3774 [6909.11.00 |- - Dari porselin atau keramik cina - - Of porcelain or china
+5778 [6909.12.00 |. . Barang yang mempunyai kekerasan ckuivalen dengan 9 |-- Articles having a hardness equivalent to 9
+Jatau lebih pada skala Mohs jor more on the Mohs scale
+++ Lain-lain - - Other
+- Lain-lain - Other
+ik cuci, wastafel, alas baskom cuci, bak mandi, bidet, |Ceramic sinks, wash basins, wash basin
+bejana kloset, tangki air pembilasan, tempat kencing, | pedestals, baths, bidets, water closet
+dan perlengkapan saniter semacam itu dari keramik. pans, flushing cisterns, urinals and
+similar sanitary fixtures.
++ Dari porselin atau keramik cine - Of porcelain of china
+~ Lain-tain [- Other
+
+20,0%
+20,0%
+
+20,0%
+
+20,0%
+
+20,0%
+20,0%
+
+20,0%
+20,0%
+
+20,0%
+20,0%
+
+20,0%
+
+20,0%
+20,0%
+
+20,0%
+
+5.0%
+
+20,0%
+20.0%
+
+20,0%
+
+5,0%
+5,0%
+
+5,0%
+
+20,0%
+20,0%
+
+www.peraturan.go.id

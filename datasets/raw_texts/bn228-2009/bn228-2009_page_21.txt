@@ -1,0 +1,46 @@
+21
+
+2009, No.228
+
+No. URAIAN BARANG POS TARIF
+(1) (2) (3)
+-Lain-lain, dilas, dengan penampang silang
+bukan lingkaran :
+--Dengan penampang silang bujur sangkar atau 7306.61.00
+persegi empat :
+---Dengan diameter dalam kurang dari 12,5 mm 7306.61.00.10
+135 | ---Lain-lain 7306.61.00.90
+--Dengan penampang silang bukan lingkaran 7306.69.00
+lainnya :
+---Dengan diameter dalam kurang dari 12,5 mm 7306.69.00.10
+136 | ---Lain-lain 7306.69.00.90
+-Lain-lain : 7306.90
+--Pipa dan pembuluh bundy-weld : 7306.90.10
+---Dengan diameter dalam kurang dari 12,5 mm 7306.90.10.10
+137 | ---Lain-lain 7306.90.10.90
+--Lain-lain : 7306.90.90
+---Dengan diameter dalam kurang dari 12,5 mm 7306.90.90.10
+138 | ---Lain-lain 7306.90.90.90
+Alat kelengkapan pembuluh atau pipa
+(misalnya, 73.07
+sambungan, siku-siku, selongsong) dari besi
+atau baja.
+-Alat kelengkapan besi tuangan :
+139 | --Dari besi tuang yang tidak dapat ditempa 7307.11.00.00
+140 | --Lain-lain 7307.19.00.00
+-Lain-lain, dari baja stainless :
+141 | --Flensa 7307.21.00.00
+142 | --Siku-siku, lengkungan dan_ selongsong 7307 .22.00.00
+-Lain-lain :
+143 | --Flensa 7307.91.00.00
+144 | --Siku-siku, lengkungan dan_ selongsong 7307 .92.00.00
+145 | --Alat kelengkapan butt welding 7307 .93.00.00
+Struktur (tidak termasuk bangunan pra- 73.08
+pabrikasi dari pos 94.06) dan bagian dari
+struktur (misalnya, jembatan dan bagian
+jembatan, daun pintu air, menara, tiang kisi-
+kisi, atap, rangka atap, pintu dan jendela
+serta rangkanya dan ambang untuk pintu,
+penutup jendela, langkan pilar dan tiang),
+-Jembatan dan bagian jembatan : 7308.10
+

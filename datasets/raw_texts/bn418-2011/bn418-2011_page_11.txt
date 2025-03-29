@@ -1,0 +1,36 @@
+11
+
+2011, No.418
+
+TERMASUK
+
+NO. URAIAN BARANG SPESIFIKASI DALAM POS
+TARIF
+Dengan keluaran melebihi 75 kVA | 8501.62.10.00
+tetapi tidak melebihi 150 kVA
+Dengan keluaran melebihi 150 kVA 8501.62.90.00
+tetapi tidak melebihi 375 kVA
+Dengan keluaran melebihi 375 kVA | —8501.63.00.00
+tetapi tidak melebihi 750 kVA
+Dengan keluaran melebihi 750 kVA 8501.64.00.00
+17. | Alternator Untuk kereta api 8511.50.20.00
+el | eg ier Dengan ampere 75 Ah, voltage 1 - 8506.80.90.00
+12VDC
+19. | Fuse Voltase melebihi 1.000 volt 8535.10.00.00
+20. | Cable Untuk kereta api 7614.90.90.00
+21. | Relay Untuk voltase melebihi 60 volt 8536.49.00.00
+rr rC—<—S—srs=—=—s—r—S—E Untuk voltase tidak melebihi 1.000 8537.10.90.00
+(TECU) volt
+Untuk voltase melebihi 1.000 volt 8537.20.90.00 |
+23. Seat assy For train, upholstered 9401.71.00.00
+
+For train, not upholstered
+
+9401.79.00.00
+
+MENTERI KEUANGAN
+REPUBLIK INDONESIA,
+
+AGUS D.W. MARTOWARDOJO
+
+www.djpp.kemenkumham.go.id

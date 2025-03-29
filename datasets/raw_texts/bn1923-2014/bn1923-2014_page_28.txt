@@ -1,0 +1,20 @@
+2014, No.1923 28
+
+No. (34) : Diisi jumlah bea masuk/bea keluar yang terutang sesuai masing-masing
+rincian barang
+
+No. (35) Diisi jumlah cukai yang terutang sesuai masing-masing rincian barang
+
+No. (36) Diisi jumlah PPN yang terutang sesuai masing-masing rincian barang
+
+No. (37) : Diisijumlah PPnBM yang terutang sesuai masing-masing rincian barang
+
+No. (38) Diisi jumlah PPh Impor yang terutang sesuai masing-masing rincian barang
+
+No. (39) Diisi jumlah denda yang terutang sesuai masing-masing rincian barang
+
+No. (40) Diisi jumlah lainnya yang terutang sesuai masing-masing rincian barang
+
+MENTERI KEUANGAN REPUBLIK INDONESIA,
+
+BAMBANG P.S. BRODJONEGORO

@@ -1,0 +1,47 @@
+2022, No.1089 _88-
+
+PETUNJUK PENGISIAN
+
+Nomor (1) : diisi nama perusahaan KITE Pembebasan.
+
+Nomor (2) : diisi nama perusahaan subkontrak.
+
+Nomor (3) : diisi dengan nomor dokumen.
+
+Nomor (4) : diisi dengan tanggal dokumen.
+
+Nomor (5) : diisi dengan nomor urut.
+
+Nomor (6) ; diisi uraian barang hasil pengerjaan subkontrak.
+
+Nomor (7) : diisi dengan jumlah barang hasil pengerjaan subkontrak.
+
+Nomor (8) : diisi dengan satuan barang hasil pengerjaan subkontrak.
+
+Nomor (9} ; diisi nomor dokumen barang yang disubkontrakkan dari
+perusahaan KITE (Form SUBK KITE 1.1).
+
+Nomor (10): diisi tanggal dokumen barang yang disubkontrakkan dari
+perusahaan KITE (Form SUBK KITE 1.1).
+
+Nomor (11): diisi dengan kode barang pada dokumen barang yang
+disubkontrakkan dari perusahaan KITE Pembebasan (Form
+SUBK KITE 1,1).
+
+Nomor (12): diisi nama pejabat/pegawai di perusahaan KITE Pembebasan
+yang bertanggungjawab menerima barang hasil pengerjaan
+subkontrak.
+
+Nomor (13) : diisi jabatan pejabat/pegawai di perusahaan KITE Pembebasan
+yang bertanggungjawab menerima barang hasil pengerjaan
+subkontrak.
+
+Nomor (14) : diisi dengan nama pejabat/pegawai di perusahaan subkontrak
+yang bertanggungjawab menyerahkan hasil pengerjaan
+subkontrak.
+
+Nomor (15) : diisi dengan jabatan pejabat/pegawai di perusahaan subkontrak
+yang bertanggungjawab menyerahkan’ hasil pengerjaan
+subkontrak.
+
+www.peraturan.go.id

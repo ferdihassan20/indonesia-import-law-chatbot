@@ -1,0 +1,89 @@
+2022, No.1076 -102
+
+PETUNJUK PENGISIAN
+Nomor (1) : diisi penomoran surat perusahaan.
+Nomor (2) : diisi tanggal surat perusahaan.
+Nomor (3) : diisi jamlah lampiran dokumen pendukung.
+Nomor (4) : diisi nama Kantor Wilayah Direktorat Jenderal Bea dan
+
+Cukai/Kantor Pelayanan Utama Bea dan Cukai yang
+menerbitkan Keputusan Menteri mengenai penetapan sebagai
+Perusahaan KITE Pengembalian.
+
+Nomor (5) : diisi alamat Kantor Wilayah Direktorat Jenderal Bea dan
+Cukai/ Kantor Pelayanan Utama Bea dan Cukai yang
+menerbitkan Keputusan Menteri mengenai penetapan sebagai
+Perusahaan KITE Pengembalian.
+
+Nomor (6) : diisi nama perusahaan.
+
+Nomor (7) : diisi NPWP perusahaan.
+
+Nomor (8) : diisi nomor Keputusan Menteri mengenai penetapan sebagai
+Perusahaan KITE Pengembalian
+
+Nomor (9) : diisi alamat perusahaan.
+
+Nomor (10) =: diisi nomor telepon dan faksimile perusahaan.
+Nomor(11)  ; diisi alasan dilakukannya impor kembali Hasil Produksi.
+
+Nomor (12): diisi uraian lampiran dokumen pendukung.
+
+Nomor (13) : diisi nama lengkap yang menandatangani surat
+
+Nomor (14) =: diisi jabatan yang menandatangani surat.
+
+Nomor (15) =; diisi kantor pabean pelabuhan bongkar (impor)
+
+Nomor (16) :; diisi nomor urut
+
+Nomor (17) : diisi jenis pemberitahuan pabean ekspor Hasil Produksi yang
+akan diimpor kembali. (contoh: BC 3.0 atau BC 3.3).
+
+Nomor (18) ; diisi nomor, tanggal, dan kode kantor pemberitahuan pabean
+ekspor Hasil Produksi yang akan diimpor kembali.
+
+Nomor (19) =; diisi nomor seri barang atas Hasil Produksi yang diekspor.
+
+Nomor (20) : diisi uraian barang atas Hasil Produksi yang diekspor.
+
+Nomor (21): diisi nilai barang / FOB atas Hasil Produksi yang diekspor.
+
+Nomor (22) =; diisi jenis satuan barang atas Hasil Produksi yang diekspor.
+
+Nomor (23) : diisi jumlah Hasil Produksi yang telah diekspor.
+
+Nomor (24) : diisi jumlah Hasil Produksi yang akan diimpor kembali-
+
+Nomor (25) =: diisi jenis pemberitahuan pabean impor/pemasukan atas
+Barang dan Bahan yang terkandung dalam Hasil Produksi
+yang akan diimpor kembali. (contoh: BC 2.0),
+
+Nomor (26) : diisi nomor, tanggal, dan kode kantor pemberitahuan pabean
+impor/pemasukan atas Barang dan Bahan yang terkandung
+dalam Hasil Produksi yang akan diimpor kembali.
+
+Nomor (27) : diisi nomor seri barang atas Barang dan Bahan yang
+
+terkandung.
+
+Nomor (28) : diisi uraian Barang dan Bahan yang terkandung dalam Hasil
+Produksi yang akan diimpor kembali.
+
+Nomor (29); diisi jumlah dan jenis satuan Barang dan Bahan yang
+
+terkandung dalam Hasil Produksi yang akan diimpor kembali.
+
+Nomor (30) : diisi nilai CIF atas Barang dan Bahan yang terkandung dalam
+Hasil Produksi yang akan diimpor kembali.
+
+Nomor (31) =: diisi nilai Bea Masuk dan PPN/PPnBM atas Barang dan Bahan
+yang terkandung dalam Hasil Produksi yang akan diimpor
+Kembali
+
+Nomor (32) : diisi nomor register permohonan pengembalian Bea Masuk
+atas Barang dan Bahan yang terkandung apabila telah
+
+disampaikan.
+
+www.peraturan.go.id

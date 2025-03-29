@@ -1,0 +1,47 @@
+2011, No.657
+
+www.djpp.kemenkumham.go.id
+
+POS/SUB POS BEA MASUK/
+NO. | HEADING’ SUB URAIAN BARANG DESCRIPTION OF GOODS IMPORT DUTY
+Cais 2011 2012 2013
+0) @) @) @ (5) Gy @_ |
+29 [0105.99.40.00 —_|---Angsa, kalkun dan ayam guinea lainnya -—Other geese, turkey and guinea fowls 0,00% | 0,00% | 0,00%
+01.06 Binatang lainnya, hidup Other live animals.
+-Binatang menyusui : -Mammals
+30 [0106.11.00.00 — |--Primata --Primates 0,00% | 0,00% | 0,00%
+31 {0106.12.00.00 _|--Ikan paus,lumba-lumba dan porpoise (binatang --Whales, dolphins and porpoises (mammals of 0,00% | 0,00% | 0,00%
+‘menyusui dari ordo Cetacea); manate dan the order Cetacea); manatees and dugongs
+dugong (binatang menyusui dari ordo Sirenia) mammals of the order Sirenia)
+32 |0106.19.00.00 — |--Lain-lain Other 0,00% | 0,00% | 0,00%
+33° [0106.20.00.00 _]-Binatang melata (termasuk ular dan penyu) -Reptiles (including snakes and turtles) 0,00% | 0,00% | 0,00%
+-Burung: -Birds:
+34 ]0106.31.00.00 | --Burung pemangsa --Birds of prey 0,00% | 0,00% | 0,00%
+35 /0106.32.00.00 _|--Psittaciformes (termasuk burung Beo, Parkit, }-Psittaciformes (including parrots, parakeets, 0,00% | 0,00% | 0,00%
+Macaw dan Kakatua) macaws and cockatoos)
+36 [0106.39.00.00 —_|--Lain-tain --Other 0,00% | 0,00% | 0,00%
+37 |0106.90.00.00 —_-Lain-tain -Other 0,00% | 0,00% | 0,00%
+02.01 Daging binatang jenis lembu, segar atau dingin. /Meat of bovine animals, fresh or chilled.
+38° /0201.10.00.00 _J-Karkas dan setengah karkas. -Carcasses and half-carcasses 0,00% | 0,00% | 0,00%
+39 [0201.20.00.00 _|-Potongan daging lainnya, bertulang, -Other cuts with bone in 0,00% | 0,00% | 0,00%
+40 }0201.30.00.00 _J-Daging tanpa tulang -Boneless 5,00% | 5,00% | 5,00%
+02.02 aging binatang jenis lembu, beku. Meat of bovine animals, frozen
+41 }0202.10.00.00 _|-Karkas dan setengah karkas -Carcasses and half-carcasses 0,00% | 0,00% | 0,00%
+42 [0202.20.00.00 _|-Potongan daging lainnya, bertulang, -Other cuts with bone in MFN MFN MEN
+43 [0202.30.00.00 | -Daging tanpa tulang -Boneless 5,00% | 5,00% | 5,00%
+02.03 Daging babi, segar, dingin atau beku, Meat of swine, fresh, chilled or frozen.
+-Segar atau dingin : -Fresh or chilled :
+44° /0203.11.00.00 —_ |--Karkas dan setengah karkas. --Carcasses and half-carcasses 0,00% | 0,00% | 0,00%
+45 ]0203.12.00.00 _}--Paha, bahu dan potongannya, bertulang --Hams, shoulders and cuts thereof, with bone in 0,00% | 0,00% | 0,00%
+46 [0203.19.00.00 —|--Lain-lain Other 0,00% | 0,00% | 0,00%
+-Beku -Frozen :
+47 10203.21.00.00 _|--Karkas dan setengah karkas. --Carcasses and half-carcasses 0,00% | 0,00% | 0,00%
+48 ]0203.22.00.00 _| --Paha, bahu dan potongannya, bertulang --Hams, shoulders and cuts thereof, with bone in 0,00% | 0,00% | 0,00%
+49 [0203.29.00.00 — |--Lain-lain --Other 5,00% | 5,00% | 5,00%
+02.04 [Daging biri-biri atau kambing, segar, dingin atau Meat of sheep or goats, fresh, chilled or frozen.
+beku.
+50 ]0204.10.00.00 _|-Karkas dan setengah karkas dari biri-biri muda, -Carcasses and half-carcasses of lamb, fresh 0,00% | 0,00% | 0,00%
+segar atau dingin or chilled
+-Daging lainnya dari biri-biri, segar atau dingin -Other meat of sheep, fresh or chilled :
+51 ]0204.21.00.00 —_ |--Karkas dan setengah karkas --Carcasses and half-carcasses 0,00% | 0,00% | 0,00%
+

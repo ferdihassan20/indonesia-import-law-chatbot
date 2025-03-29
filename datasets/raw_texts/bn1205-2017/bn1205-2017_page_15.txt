@@ -1,0 +1,94 @@
+-15-
+-S-
+
+37 | 7210.61.99 - - - - Lain-lain
+
+98 | 7210.69.11 - - - - Dengan ketebalan tidak melebihi 1,2 mm
+
+99 =| 7210.69.19 - - - - Lain-lain
+
+60 | 7210.69.99 - - - - Lain-lain
+
+61 | 7210.70.11 - - - Dicat
+
+62 | 7210.70.19 - - - Lain-lain
+
+63 | 7210.70.91 - - - Dicat
+
+64 | 7210.70.99 - - - Lain-lain
+
+65 | 7210.90.10 - - Mengandung karbon kurang dari 0,6 % menurut
+beratnya dan dengan ketebalan 1,5 mm atau kurang
+
+66 | 7210.90.90 - - Lain-lain
+
+67 |ex 7211.13.11 | - - - - Simpai dan strip; universal plate
+
+68 | ex 7211.13.91 | - - - - Simpai dan strip; universal plate
+
+69 | 7211.13.19 - - - - Lain-lain
+
+70 | 7211.13.99 - - - - Lain-lain
+
+71 |ex 7211.14.13 | - - - - Simpai dan strip; universal plate
+
+72 |ex 7211.14.91 | - - - - Simpai dan strip; universal plate
+
+73 | ex 7211.14.15 | - - - - Gulungan untuk re-rolling
+
+74 | ex 7211.14.19 | - - - - Lain-lain
+
+73 |ex 7211.14.92 | - - - - Bergelombang
+
+76 | ex 7211.14.93 | - - - - Gulungan untuk re-rolling
+
+77 | ex 7211.14.99 | - - - - Lain-lain
+
+78 | ex 7211.19.13 | - - - - Simpai dan strip; universal plate
+
+79 |ex 7211.19.91 | - - - - Simpai dan strip; universal plate
+
+80 | ex 7211.19.15 | - - - - Gulungan untuk re-rolling
+
+81 | ex 7211.19.19 | - - - - Lain-lain
+
+82 | ex 7211.19.92 | - - - - Bergclombang
+
+83 | ex 7211.19.93 | - - - - Gulungan untuk re-rolling
+
+84 | ex 7211.19.99 - - - - Lain-lain
+
+85 | 7211.23.20 - - - Simpai dan strip, dengan lebar tidak melebihi 400
+mm
+
+86 | 7211.23.30 - - - Lain-lain, dengan ketebalan 0,17 mm atau kurang
+
+87 | 7211.29.20 - - - Simpai dan strip, dengan lebar tidak melebihi 400
+mm
+
+88 | 7211.29.90 - - - Lain-lain
+
+89 | 7211.90.11 - - - Simpai dan strip, dengan lebar tidak melebihi 25
+mm
+
+90 | ex 7211.90.14 | - - - Lain-lain, dengan ketebalan 0,17 mm atau kurang
+
+91 |ex 7211.90.19 - - - Lain-lain
+
+92 | ex 7211.90.91 | - - - Dengan ketebalan 0,17 mm atau kurang
+
+93 | ex 7211.90.99 | - - - Lain-lain
+
+94 | 7211.90.13 - - - Bergelombang
+
+95 | ex 7211.90.12 | - - - Simpai dan strip, dengan lebar melebihi 400 mm
+
+96 | 7212.10.11 - - - Simpai dan strip, dengan lebar tidak melebihi 25
+mn.
+
+97 | 7212.10.13 - - - Simpai dan strip, dengan lebar melebihi 25 mm
+
+tetapi tidak melebihi 400 mm
+
+2017, No. 1205
+

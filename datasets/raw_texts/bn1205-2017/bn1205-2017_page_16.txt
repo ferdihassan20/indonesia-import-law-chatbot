@@ -1,0 +1,90 @@
+2017, No.
+
+1205
+
+-16-
+-4-
+98 | 7212.10.92 - - - Simpai dan strip, dengan lebar tidak melebihi 25
+mm
+99° | 7212.10.93 - - - Simpai dan strip, dengan lebar melebihi 25 mm
+
+tetapi tidak melebihi 400 mm
+
+100 | 7212.10.19 - - - Lain-lain
+
+101 | 7212.10.99 - - - Lain-lain
+
+102 | 7212.20.10 - - Simpai dan strip, dengan lebar tidak melebihi 400
+mm
+
+103 | 7212.20.20 - - Lain-lain, mengandung karbon kurang dari 0,6 %
+menurut beratnya dan dengan ketebalan 1,5 mm atau
+kurang
+
+104 | 7212.20.90 - - Lain-lain
+
+105) | 7212.30.11 - - - Simpai dan strip, dengan lebar tidak melebihi 25
+mm.
+
+106 | 7212.30.12 - - - Simpai dan strip, dengan lebar melebihi 25 mm
+tetapi tidak melebihi 400 mm
+
+107 | ex 7212.30.90 | - - Lain-lain
+
+108 | 7212.30.13 - - - Lain-lain, dengan ketebalan 1,5 mm atau kurang
+
+109 | 7212.30.19 - - - Lain-lain
+
+110 | 7212.40.11 - - - Simpai dan strip, dengan lebar tidak melebihi 400
+mm
+
+111) | 7212.40.91 - - - Simpai dan strip, dengan lebar tidak melebihi 400
+mm
+
+112 | ex 7212.40.12 | - - - Simpai dan strip lainnya
+
+113 | ex 7212.40.19 | - - - Lain-lain
+
+114 | 7212.40.92 - - - Simpai dan strip lainnya; universal plate
+
+115 | 7212.40.99 - - - Lain-lain
+
+116 | 7212.50.23 - - - Simpai dan strip, dengan lebar tidak melebihi 25
+mm
+
+117 (| ex 7212.50.24 | - - - Simpai dan strip lainnya; universal plate
+
+118 | ex 7212.50.29 | - - - Lain-lain
+
+119 | 7212.50.93 - - - Simpai dan strip, dengan lebar tidak melebihi 25
+mm
+
+120 | ex 7212.50.94 | - - - Simpai dan strip lainnya; universal plate
+
+121 | ex 7212.50.99 | - - - Lain-lain
+
+122 | ex 7212.60.11 - - - Simpai dan strip
+
+123 | ex 7212.60.91 | - - - Simpai dan strip
+
+124 | 7212.60.12 - - - Lain-lain, dengan ketebalan 1,5 mm atau kurang
+
+125 | 7212.60.19 - - - Lain-lain
+
+126 | 7212.60.99 - - - Lain-lain
+
+127 | 7213.10.10 - - Dengan ukuran diameter penampang silang
+lingkarannya tidak melebihi 50 mm
+
+128 | 7213.10.90 - - Lain-lain
+
+129 | 7213.20.00 - Lain-lain, dari baja free-cutting
+
+130 | 7213.91.10 - - - Dari jenis yang digunakan dalam pembuatan
+soldering stick
+
+131 | 7213.91.20 -- - Dari jenis yang digunakan untuk penguatan beton
+(rebar)
+
+132 | 7213.91.90 - - - Lain-lain
+

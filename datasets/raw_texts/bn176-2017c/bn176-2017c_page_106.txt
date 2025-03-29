@@ -1,0 +1,135 @@
+2017, No.176
+
+-426-
+
+8787
+8788
+
+8789
+
+8790
+8791
+8792
+
+8793
+
+8794
+
+8795
+
+8796
+
+8797
+
+8798
+8799
+
+8301
+8802
+
+8810
+
+8811
+8812
+
+6813
+
+8814
+
+8815
+
+8816
+
+Pos Tarif] Bea Masuk 7
+ee ede Uraian Barang Description of Goods panboraar
+(2) (5)
+[5.25 tus transmis untuk penyiaran radio atau televis! |Transmission apparatus for radio-
+|digabung dengan aparatus pencrima atau dengan broadcasting or television, whether or not
+aparatus perekam suara maupun tidak; kamera televisi, |incorporating reception apparatus or
+‘kamera digital dan kamera perekam video, |sound recording or reproducing
+apparatus; television cameras, digital
+lcameras and video camera recorders.
+[8525.50.00 |- Aparatus transmisi } Transmission apparatus 10,0%
+18525,60.00 _|- Aparatus transmisi dipasang pada aparatus penerima _|- Transmission apparatus incorporating 0,0%
+reception apparatus
+1525.90 - Kamera televisi, kamera digital dan kamera perekam - Television cameras, digital cameras and
+|vieleo + video camera recorders :
+8525.80.10 Kamera web - - Web cameras: 5,0%
+Kamera perekam video : - - Video camera recorders +
+8525.80.31 Dari jenis yang digunakan dalam penylaran }- > - Of a kind used in broadcasting 10,0%
+8525.80.39 Lain-lain == Other 10,0%
+8525.80.40 Kamera televisi > Television cameras 5,0%
+Kamera digital lainnya : | - Other digital cameras >
+8525.80.51 Digital Single Lens Reflex {DSLR} ~~ = Digital single lens reflex (DSLR} 0.0%
+8525.80.59 Lain-lain, ~~ - Other 0,0%
+85.26 |Aparatus radar, aparatus pembantu radio navigasi dan [Radar apparatus, radio navigational aid
+aparatus radio kendali jarak jauh. apparatus and radio remote control
+apparatus.
+8526.10 ‘Aparatus radar : - Radar apparatus :
+8526.10.10 | - Aparatus radar, dibangun di darat, atau dari jenis |- - Radar apparatus, ground based, or of a 0,0%
+juntuk dipasang pada pesawat penumpang, atau dari jenis |kind for use in civil aircraft, or of a kind
+Ivang digunakan semata-mata pata kapal laut lused solely on sea-going vessels
+[8526.10.90 | - Lain-lain |- - Other 5,0%
+Lain-lain : - Other :
+[8526.91 Aparatus pembantu radio navigas -- Radio navigational aid apparatus ;
+8526.91.10 Aparatus perabantu radio navigasi, dari jenis yang —_|- - - Radio navigational ald apparatus, of a 0,0%
+digunakan pada pesawat penumpang, atau jenis yang kind for use in civil aircrah, or of a kind
+digunakan semata-mata pada kapal laut jused solely on sea-going vessels
+8526.91.90 Lain-tain - - - Other 5,0%
+18526.92.00 _|- - Aparatus radio kendali jarak jauh - - Radio remote control apparatus 5,0%
+85.27 Aparatus penerima untuk penyiaran radio, dikombinasi |Reception apparatus for radio-
+‘maupun tidak, dalam rumah yang sama, dengan |broadeasting, whether or not combined, in|
+aparatus perekam atau pereproduksi suara atau ithe same housing, with sound recording
+penunjuk waktu. lor reproducing apparatus or a clock.
+- Penerima siaran radio dapat dioperasikan tanpa sumber |- Rario-broaccast receivers capable of
+renaga dati liar : loperating without an external source of
+power :
+18527.12,00 _|- - Radio-cassette player ukuran sakut - - Pocket-size radio cassette-players 10,0%
+8527.13 - - Aparatus lainnya dikombinasikan dengan aparatus —_|- - Other apparatus combined with sound
+perckam atau pereproduksi suara : recording or reproducing apparatus :
+8527.13.10 |- - - Portabel » Portable 10,0%
+8527.13.90 ~ Lain-lain + - « Other 10,0%
+8527.19 Lain-lai Other:
+8527.19.20 + Portabel ~~ Portable 10,0%
+8527.19.90 + Lain-lain > += Other 10,0%
+|- Penerima siaran radio tidak dapat dioperasikan tanpa - Radio-broadcast receivers not capable of
+sumber tenaga dari luar, dari jenis yang digunakan delam operating without an external source of
+kendaraan bermotor ; power, of a kind used {a motor vehicles :
+8527.21.00 |-- Dikombinasikan dengan aparatus perekam atau » Combined with sound recording or 15.0%
+lpereproduksi suara reproducing apparatus
+18527.29.00 | - Lain-lain | - Other 18,0%
+> Lain-tain : }- Other »
+1527.91 - - Dikombinasikan dengan aparatus perekam atau - » Combined with sound recording or
+pereproduksi suare : reproducing apparatus :
+8527.91.10 }- - - Portabel + - - Portatle
+18527.91.90  Lain-tain - - - Other
+8527.92 }- - Tidak dikombinasikan dengan aparatus perekam atau |- - Not combined with sound recording or
+pereproduksi suara tetapi dikombinasikan dengan reproducing apparatus but combined with a
+penunjuk waktu clock
+}8527.92.20 _|- - - Dioperasikan dengan tenags listrik -- - Mains operated 15,0%
+1527.92.90 + Lain-lain - - - Other 15,0%
+8527.99 Lain-lain - - Other ;
+8527.99.20 + Dioperasikan dengan tenaga listrik |- - - Mains operated 15,0%
+8527.99.90 |. - - Lain-lain . - - Other 15.0%
+85.28 Monitor dan proyektor, tidak digabung dengan aparatus |Monitors and projectors, not
+|penerima televisl; aparatus penerima untuk televisi, _ incorporating television recepti
+Jdigabung dengan penerima siaran radio atau aparatus apparatus; reception apparatus for
+perekum atau pereproduksi suara atau video, maupun |television, whether or not incorporating
+tidal. radio-broadcast receivers or sound or
+video recording or reproducing apparatus.
+- Monitor tabung sinar katoda : - Cathocle-ray tube monitors :
+{8528.42.00 |. - Dapat secara langsung dihulangkan ke dan dirancang_ |- - Capable of directly connecting to and 0,0%
+juntuk digunakan dengan mesin pengolah data otomatis designed for use with an automatic data
+Jdari pos 84.71 processing machine of heading 84.71
+8528.49 - - Lain- ~~ Other :
+8528.49.10 |--- Berwarna Colour 10,0%
+8528.99.20 |--- Monokrom --- Monochrome 10,0%
+}- Monitor lainnya - Other monitors :
+8528.52.00 |- - Dapat dihubungkan secara langsung ke dan dirancang_ |- - Capable of directly connecting to and 0,0%
+luntuk digunakan dengan mesin pengolah data otomatis {designed for use with an automatic data
+tari pos 84.71 processing machine of heading 84,71
+- = Lain-tain + ~ Other :
++ Berwarna. Colour 10,0%
+= Monokrom Monochrome 10,0%
+
+www.peraturan.go.id

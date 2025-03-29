@@ -1,0 +1,57 @@
+7 2015, No.1538
+121-
+
+Contoh:
+
+RINCIAN ALAT ANGKUTAN TERTENTU
+YANG DIBERIKAN FASILITAS TIDAK
+DIPUNGUT PAJAK PERTAMBAHAN NILAI
+
+No. Nama/Jenis Alat Kuantum ace
+Angkutan imper/Harga
+Tertentu Jual (Rp)
+1. Alat Angkutan 1 buah 1.000.000
+Tertentu A
+2. Alat Angkutan 2 unit 5.000.000
+Tertentu B
+3. Alat Angicatan 3 pes 7.000.000
+Tertentu C
+4. dst.
+Total
+
+a.n. Direktur Jenderal Pajak
+Kepala Kantor
+
+Kolom 3: Diisi dengan satuan jumlah alat angkutan tertentu
+dalam hal terdapat satuan pengukuran seperti 1
+buah, 1 unit, atau 1 set.
+
+Kolom 4 : Diisi dengan Nilai Impor atau Harga Jual dalam
+satuan rupiah.
+
+Dalam hal Nilai Impor atau Harga Jual dalam
+valuta asing, diisi dengan nilai transaksi dalam
+satuan rupiah yang telah dikonversi berdasarkan
+kurs yang ditetapkan oleh Menteri Keuangan pada
+saat SKTD diterbitkan dan dalam satuan mata
+uang asing tersebut.
+
+Contoh :
+
+Nilai Impor USD2.000,00
+
+Kurs Menteri Keuangan pada saat diterbitkan SKTD
+USD 1 = Rp10.000,00
+
+Nilai Impor menjadi sebesar Rp20.000.000,00
+Penulisan pada kolom (4) menjadi :
+Rp20.000.000,00 (USD2.000,00).
+
+Kolom 5: Diisi dengan nilai Pajak Pertambahan Nilai yang
+terutang dalam satuan rupiah.
+
+Dalam hal Pajak Pertambahan Nilai dalam valuta
+
+asing, diisi dengan nilai Pajak Pertambahan Nilai
+
+www.peraturan.go.id

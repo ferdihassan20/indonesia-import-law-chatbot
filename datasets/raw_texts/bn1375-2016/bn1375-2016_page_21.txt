@@ -1,0 +1,69 @@
+2016, No.1375
+
+-21-
+
+POS/SUB POS
+
+No. HEADING/ URAIAN BARANG DESCRIPTION OF GOODS
+
+SUB HEADING
+
+(1) 2) (3) (4)
+
+90.13 Peralatan kristal cair tidak merupakan barang yang disebut secara lebih | Liquid crystal devices not constituting articles provided for more specifically
+rinci dalam pos lainnya; laser, selain dioda laser; peralatan dan | in other headings; lasers, other than laser diodes; other optical appliances
+instrumen optik lainnya, tidak dirinci atau termasuk pos lainnya dari | and instruments, not specified or included elsewhere in this Chapter.
+
+Bab ini.
+9013.10.00.00 |- Pembidik teleskopik untuk dipasang pada senjata api; periskop; teleskop | - Telescopic sights for fitting to arms; periscopes; telescopes designed to form
+yaug dirauypkai untuk menjadi bagian dai mesin, perdaum, insumen parts of machines, appliauces, iusiuments or apparatus of this Chapter or
+atau aparatus dari Bab ini atau dari Bagian XVI Section XVI
+9013.20.00.00 - Laser, selain dioda laser - Lasers, other than laser diodes
+9013.80 - Peralatan, pesawat dan instrumen lainnya: - Other devices, appliances and instruments:
+9459 | 9013.80.10.00 |- - Aparatus verifikasi dan memperbaiki kesalahan optik untuk printed |- - Optical error verification and repair apparatus for printed circuit
+circuit board/ printed wiring board dan printed circuit assembly boards/ printed wiring boards and printed circuit assem blies
+9460 9013.80.20.00 - -  Peralatan kristal cair - - Liquid crystal devices
+9461 9013.80.90.00 - -  Lain-lain - - Other
+9013.90 - Bagian dan aksesori: - Parts and accessories:
+9462 | 9013.90.10.00 |- - Dari barang pada subpos 9013.20 - - Of goods of subheading 9013.20
+9463 9013.90.50.00 - - Dari barang pada subpos 9013.80.20 - - Of goods of subheading 9013.30.20
+9464 9013.90.60.00 - Dari barang pada subpos 9013.80.10 - - Of goods of subheading 9013.80.10
+9465 9013.90.90.00 - -  Lain-lain - - Other
+
+90.15 Instrumcn dan pcralatan survei (tcrmasuk survci photogrammctrical), | Gurvcying including photogrammctrical surveying), hydrographic,
+hidrografi, oseanografi, hidrologi, meteorologi atau geofisika, tidak | oceanographic, hydrological, meteorological or geophysical instruments and
+termasuk kompas; pengukur jarak. appliances, excluding compasses; rangefinders.
+
+9015.10 -  Pengukur jarak: - Rangefinders:
+
+9015.20.00.00 | - Teodolit dan tachymeter (tacheometer) - Theodolites and tachymeters (tacheometers)
+
+9015.30.00.00 |- Pengukur tinggi permukaan - Levels
+
+9015.40.00.00 - Instrumen dan peralatan survei photogrammetrical - Photogram metrical surveying instruments and appliances
+
+9015.30 Instrumen dan perlongkapan lainnya: Other instruments and appliances:
+
+9477 | 9015.80.10.00 |- - Aparatus radio sonde dan radio wind - -  Radio-sonde and radio wind apparatus
+9478 9015.80.90.00 - -  Lain-lain - - Other
+
+90.26
+
+9026.10
+
+Instrumen dan aparatus untuk mengukur atau memeriksa arus, tinggi
+permukaan, tekanan atau variabel lainnya dari cairan atau gas (misaln:
+pengukur arus, pengukur tinggi permukaan, manometer, pengukur
+panas), tidak termasuk instrumen dan aparatus dari pos 90.14, 90.15,
+90.28 atau 90.32.
+
+- Untuk mengukur atau memeriksa arus atau tinggi permukaan cairan:
+
+Instruments and apparatus for measuring or checking the flow, level,
+pressure or other variables of liquids or gases (for example, flow meters, level
+gauges, manometers, heat meters}, excluding instruments and apparatus of
+heading 90.14, 90.15, 90.28 or 90.32.
+
+- For measuring or checking the flow or level of liquids:
+
+www.peraturan.go.id

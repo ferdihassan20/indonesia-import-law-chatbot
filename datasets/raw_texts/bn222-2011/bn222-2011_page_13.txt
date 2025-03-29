@@ -1,0 +1,61 @@
+13
+
+2011, No.222
+
+POS/SUB POS % BEA
+HEADING/ DESCRIPTION OF MASUK/ %
+NO. SUB URAIAN BARANG GOODS IMPORT
+HEADING DUTY
+dd) Q) @) (4) G)
+8901.20 -Tanker : -Tankers :
+--Dengan tonase kotor tidak melebihi --Of a gross tonnage not
+43 | 8901.20.50.00 | 5 oq exceeding 5,000 5
+a --Of gross tonnage exceeding
+14 8901.20.60.00 | --Dengan tonase kotor melebihi 5.000 5,000 5
+-Kapal berpendingin, selain yang disebut -Refrigerated vessels, other
+8901.30 dalam than those of
+subpos 8901.20 : subheading 8901.20 :
+-Kendaraan air lainnya untuk -Other vessels for the transport
+8901.90
+pengangkutan of goods and
+barang dan kendaraan air lainnya other vessels for the
+untuk transport of both
+pengangkutan orang dan barang : persons and goods :
+--Tidak bermotor : --Not motorised :
+8901.90.11 | ---Dengan tonase kotor tidak melebihi 26 | ~7Of gross tonnage not
+exceeding 26
+ae . ---Of a gross tonnage
+8901.90.12 ---Dengan tonase kotor melebihi 26 tetapi exceeding 26 but not
+tidak melebihi 500 exceeding 500
+8901.90.14.00 | ---Dengan tonase kotor melebihi 500 ~-Of gross tonnage exceeding
+15 500 5
+--Bermotor : --Motorised :
+8901.90.21 | ---Dengan tonase kotor tidak melebihi 26 | ~7Of 908s tonnage not
+exceeding 26
+ae . ---Of gross tonnage
+16 8901.90.22.00 | ---Dengan tonase kotor melebihi 26 tetapi exceeding 26 but not 5
+tidak melebihi 250 exceeding 250
+ae . | ---Of gross tonnage
+17 8901.90.23.00 | ---Dengan tonase kotor melebihi 250 tetapi exceeding 250 but not 5
+tidak melebihi 500 exceeding 500
+ae . | ---Of gross tonnage
+18 8901.90.24.00 | ---Dengan tonase kotor melebihi 500 tetapi exceeding 500 but not 5
+tidak melebihi 4.000 exceeding 4,000
+a. ---Of gross tonnage exceeding
+19 8901.90.25.00 | ---Dengan tonase kotor melebihi 4.000 4,000 but not 5
+tetapi tonase melebihi 5.000 exceeding 5,000
+wv. ---Of gross tonnage exceeding
+20 8901.90.26.00 | ---Dengan tonase kotor melebihi 5.000 5,000 5
+
+89.04
+
+Kapal penarik dan pendorong.
+
+-Kapal penarik :
+
+Tugs and pusher craft.
+
+-Tugs :
+
+www.djpp.kemenkumham.go.id
+

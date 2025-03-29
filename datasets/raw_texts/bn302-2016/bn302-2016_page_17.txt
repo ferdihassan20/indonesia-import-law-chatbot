@@ -1,0 +1,75 @@
+“17. 2016, No.302
+
+No | Pos Tarif/ HS Uraian Kriteria Teknis
+
+17 | ex. - - Rectifier lainnya Konfigurasinya
+8504.40.30.00 spesifik untuk BTS
+18 | ex. - - Lain-lain selular yang belum
+8504.40.90.00 diproduksi di
+Indonesia dengan
+spesifikasi : "MCS
+1800 -48V Rectifier
+1. wide input voltage
+range : 90 - 275
+Vrms
+2. Power Factor
+Correction 0.99
+3. Operating
+Temperature range
+up to 65 derajat
+Celsius
+4. Intelligent micro-
+processor
+controlled
+
+85.07 Akumulator listrik, termasuk
+separatornya, empat persegi panjang
+(termasuk bujur sangkar) maupun.
+tidak.
+8507.30 - Nikel-kadmium:
+19 | 8507.30.90.00 | - - Lain-lain BATTERY NIKEL
+KADMIUM, Sampai
+dengan 16 KVA,
+dengan Bracket atau
+Mounting untuk
+Mesin ATM
+
+Perangkat telepon, termasuk telepon
+untuk jaringan seluler atau untuk
+jaringan tanpa kabel lainnya; aparatus
+Jainnya untuk mengirimkan atau
+menerima suara, gambar, atau data
+Jainnya termasuk aparatus untuk
+komunikasi dalam jaringan kabel atau
+tanpa kabel (seperti local atau wide
+area network), selain dari aparat
+transmisi atau penerima dari pos
+84.43, 85.25,85.27 atau 85.28.
+
+- Aparatus lainnya untuk transmisi
+atau menerima suara, gambar atau
+data lain, termasuk aparatus untuk
+komunikasi dengan kabel atau jaringan
+
+tanpa kabel :
+8517.61.00.00 | - - Base station
+8517.62 - - Mesin untuk menerima, konversi
+
+dan transmisi atau regenerasi suara,
+
+gambar atau data lainnya, termasuk
+
+aparatus switching dan routing:
+
+- - - Unit dari mesin pengolah data
+
+otomatis selain dari pos 84.71:
+
+8517,62.29.00 | - - - - Lain-lain Network Card
+
+---Aparatus untuk sistem saluran.
+pembawa gelombang listrik atau
+saluran sistem digital:
+
+22 | 8517.62.49.00 | - - - - Lain-lain
+

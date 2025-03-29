@@ -1,0 +1,446 @@
+-457-
+
+2017, No.176
+
+Pos Tarif]
+HS Code
+
+Uraian Barang
+
+Deseription of Goods
+
+ood
+
+10020
+10021
+
+10022
+10023
+10024
+
+10025
+
+10026
+
+10027
+10028
+
+10029
+10030
+10031
+10032
+
+10033
+10034
+10035,
+10036
+
+10037
+10038
+
+10039
+10040
+
+10041
+10042
+
+10043
+10044
+
+10045
+10046
+
+10047
+10048
+10049,
+
+10050
+10051
+
+10052
+10053
+
+10054
+10055
+
+10056
+10057
+10058,
+
+10059
+
+10060
+10061
+10062
+10063
+
+10064
+
+a
+
+(4)
+
+8711,20.15
+
+8711.20.16
+8711.20.19
+
+8711.20.91
+1871.20.92
+[8711.20.93
+
+18711,20.94
+8711.20.95
+
+8711.20.96
+8711.20.99
+8711.30
+
+8711.30.11
+9711.30.19
+8711.30.30
+8711.30.90
+8711.40
+
+8711.40.11
+8711.40.19
+8711.40.20
+8711.40.90
+8711.50
+
+8711.50.20
+3711.50.90
+8711.60
+
+8711.60.11
+8711.60.12
+
+8711.60.13
+1871.60.19
+
+8711.60.01
+18711.60,92
+
+1871.60.93
+8711.60.99
+8711.90
+8711.90.40
+18711,90.60
+8711.90.90
+87.12
+
+18712,00,10
+1871.00.20
+
+18712.00.30
+8712.00.90
+187.13
+
+8713.10.00
+8713.90.00
+87.14
+
+8714.10
+18714,10.10
+
+18714,10,20
+18714.10.30
+
+8714.10.40
+
+[8714.10.50
+8714.10.60
+8714.10.70
+18714,10.90
+8714.20
+
+8714.20.11
+
+~ Dengan kapasitas silinder melebihi 200 ec tetapt
+tidak melebihi 250 ce
+
+Sepetla motor motocross
+Moped dan sepeda roca dua bermotor
+
+“Pocket motorcycles”
+
+‘Sepoda motor lainnya (dengan atau tanpa kercta
+samping), termasuk skuter motor :
+
+~~ « » Dengan kapasitas silinder melebihi 150 ec tetapi
+tidak melebihi 200 ce
+
+~ Dengan kapasitas silinder melebihi 200 cc tetapi
+tidak melebihi 250 ee
+
+= Lain-lain
+
+Lain-tain
+
+|- Dengan mesin piston pembakaran dalam bolak-balik
+dengan kapasitas silinder melebihi 250 ce tetapi tidak
+melebihi 500 ec :
+
++ Sepeda motor motocross :
+
+Completely Knocked Down
+
+Lain-lain
+
+| - Lain-lain, Completely Knocked Down
+
+Lain-lain
+
+|- Dengan mesin piston permbakaran dalam botak-balik
+Jlengan kapasitas silinder melebihi $00 ce tetapl tidak
+Imelebihi 800 ce :
+
+Sepeda motor motocross :
+‘Completely Knocked Down:
+
+Lain-lain
+
+Lain-lain, Completely Knocked Down
+
+-- Lain-tain
+
+- Dengan mesin piston pembakaran dalam bolak-balik
+idengan kapasitas silinder melebihi 800 ce +
+
+| - Completely Knocked Down
+- = Lain-lain
+
+|- Dengan motor listrik untuk penggerak :
+Completely Knocked Down >
+
+Sepeda roda dua
+
+Skuter kaki; sepeda sel{-balancing; “pocket
+motorcycles”
+
+Scpeda motor lainnya
+
+Lain-l
+Lain-
+Sepeda roda dua
+
+- - - Skuter kaki; sepeda self-balancing; "pocket
+Imotoreycles*
+
+‘Sepeda motor lainnya
+
+Lain-lain
+
+- Lain-lain :
+
+Kereta samping
+
+Lain-lain, Completely Knocked Down
+
+> ~ Lain-lain
+
+|Sopeda roda dua dan sepeda Ininaya (tormasuk sepeda
+iroda tiga untuk pengantar), tidak bermotor,
+
+- Sepeda balap roda dua
+
+Janae
+- Sepeda roda dua lainnya
+|- Lain-lain
+
+jatau digerakkan secara mekanik lainnya.
+
+- Tidak digerakkan secara mekanik
++ Lain-tain
+
+/Bagian dan aksesori kendaraan dari pos 87.11 sampai
+dengan 87.13.
+
+|- Dari sepeda motor (termasuk moped) :
+
+Sade!
+
+Jeruji dan nipple
+
+Peredam (muffler) dan bagiannya
+Lain-lain
++ Dari kendaraan untuk orang cacat :
+
++ - Roda castor
+
+Dengan diameter (termasuk ban) melebihi 75 mm
+
+lvang dipasangkan tidak kurang dari 30 mm
+
+|-- - - Of a eylinder capacity exceeding 200 ce|
+but not exceeding 250 ce
+
+=» Other
+
+= Other
+
+~-- Motocross motorcycles
+
+- Mopeds and motorised bicycles
+
+Pocket motorcycles”
+
+- Other motorcycles (with or without side-
+(cars), including motor scooters :
+
+- ==» Of acylinder capacity exceeding 150 cc|
+but not exceeding 200 ce
+
+Of a cylinder capacity exceeding 200 cc
+‘but not exceeding 250 ce
+
+Other
+
+- -- Other
+
+- With reciprocating internal combustion
+piston engine of a cylinder capacity
+exceeding 250 cc but not exceeding 500 cc :
+
+- - Motocross motorcycles ;
+
+- -- Completely Knocked Down
+
+- Olber
+
+-- Other, Completely Knocked Down
+Other
+
+- With reciprocating internal combustion
+[piston engine of a cylinder capacity
+lexceeding S00 ce but not exceeding 800 cc
+
+}- - Motocross motorcycles :
+
+=~ Completely Knocked Down
+
+- -- Other
+
+- - Other, Completely Knocked Down
+-- Other
+
+> With reciprocating internal combustion
+piston engine of « cylinder capacity
+lexeceding 800 ce
+
+-- Compietely Knocked Down
+
+-- Other
+
+- With electric motor for propulsion >
+
+-- Completely Knocked Down :
+
+| -- Bicycles
+
+- - - Kick scooters; setf-balancing cycle;
+pocket motoreycles™
+
+~~ = Other motorcycles
+
+- = - Other
+
+-- Other :
+
+-- - Bicycles
+
+Kick scooters; self-balancing cycle;
+pocket motoreycles”
+
+~~~ Other motoreyeles
+
+Other
+
+~ Other =
+
+~~ Side-cars
+
+|-- Other, Completely Knocked Down
+~- Other
+
+\Bicycles and other cycles {including
+delivery tricycles}, not motorised.
+
+- Sepeda roda dua dirancang untuk dikendarai oleh anak-
+
+/Kendaraan untuk orang cacat, hermotor maupun tidak
+
+- - Rangka dun garpu termasuk garpu teleskopik, suspensi
+lbelakang dan bagiannya
+
+|- - Gir, gearbox, kopling dan peralatan transimisi tainnya
+tan bagiannya
+
+etapi tidak melebihi 100 mm, asalkan lebar roda atau ban
+
+- Racing bicycles
+~ Bicyeles designed to be ridden by children
+
+- Other bicycles
+
+- Other
+
+Carriages for disabled persons, whether or
+not motorised or otherwise mechanically
+‘Propelled.
+
+j- Not mechanically propelled
+
+- Other
+
+Parts and accessories of vehicles of
+Iheadings 87.11 to 87.13.
+
+- Of motorcycles {including mopeds) :
+-- Saddles
+
+-- Spokes and nipples
+
+- - Frame and forks including telescopic fork,
+rear suspension and parts thereof
+
+~~ Gearing, gearbox, clutch and other
+{transmission equipment and parts thereof
+
+- - Wheel rims
+
+- - Brakes and parts thereof
+
++ - Silencers {mufflers} and parts thereof
++ - Other
+
+- Of carriages for disabled persons :
+
+- - Castors wheels :
+
+- - - Of a diameter (Including tyres) excecding|
+75 mm but not exceeding 100 mm, provided
+that the width of any whee! or tyre fitted
+thereto is not less than 30 aim
+
+40,0%
+
+40,0%
+10,0%
+
+40,0%
+10,0%
+40.0%
+
+25,0%
+25,0%
+
+25,0%
+25,0%
+
+0,0%
+0,0%
+
+10,0%
+
+www.peraturan.go.id

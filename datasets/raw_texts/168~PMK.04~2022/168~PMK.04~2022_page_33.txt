@@ -1,0 +1,63 @@
+~ 33 -
+
+PETUNJUK PENGISIAN
+
+Nomor (1) : diisi nomor surat pengajuan izin penggunaan Jaminan.
+
+Nomor (2) : diisi nama kota tempat surat pengajuan izin penggunaan
+Jaminan dibuat.
+
+Nomor (3) : diisi tanggal, bulan, dan tahun surat pengajuan izin
+penggunaan Jaminan.
+
+Nomor (4) : diisi jumlah lampiran surat pengajuan izin penggunaan
+Jaminan.
+
+Nomor (5) : diisi bentuk Jaminan Jaminan Bank/Garansi Bank, Customs
+
+Bond, Excise Bond, Jaminan Lembaga Pembiayaan Ekspor
+Indonesia, atau Jaminan Aset Berwujud).
+
+Nomor (6) : diisi Nama Kantor Bea dan Cukai yang ditunjuk.
+
+Nomor (7) : Diisi nama kota tempat Kantor Bea dan Cukai yang ditunjuk
+sebagaimana dimaksud pada Nomor (6).
+
+Nomor (8) : diisi nama penggunajasa yang menandatangani surat
+pengajuan izin penggunaan Jaminan.
+
+Nomor (9) : diisi nama jabatan pada perusahaan yang mengajukan
+Jaminan (jika pengguna jasa merupakan perusahaan).
+
+Nomor (10) : diisi nama kota tempat domisili pengguna jasa yang
+mengajukan Jaminan.
+
+Nomor (11) : diisi nama perusahaan yang mengajukan Jaminan (jika
+pengguna jasa merupakan perusahaan).
+
+Nomor (12) : diisi alamat pengguna jasa yang mengajukan Jaminan
+
+Nomor (13) : diisi Nomor Pokok Wajib Pajak (NPWP) atau nomor paspor
+(untuk penumpang warga negara asing) pengguna jasa yang
+mengajukan Jaminan.
+
+Nomor (14) : diisi Nomor Pokok Pengusaha Barang Kena Cukai (NPPBKC)
+pengusaha yang mengajukan Jaminan (jika ada).
+
+Nomor (15) : diisi nomor telepon pengguna jasa yang mengajukan Jaminan.
+
+Nomor (16) : diisi alamat email pengguna jasa yang mengajukan Jaminan.
+
+Nomor (17) : diisi besaran nilai Jaminan yang diajukan (dengan angka).
+
+Nomor (18) : diisi besaran nilai Jaminan yang diajukan (dengan huruf).
+
+Nomor (19) : diisi kegiatan kepabeanan dan/atau cukai yang dilakukan
+oleh pengguna jasa yang mengajukan Jaminan.
+
+Nomor (20) : diisijenis, nomor, tanggal, bulan, dan tahun dokumen sumber
+sebagai dasar diserahkannya Jaminan.
+
+rf
+
+jdih.kemenkeu.go.id

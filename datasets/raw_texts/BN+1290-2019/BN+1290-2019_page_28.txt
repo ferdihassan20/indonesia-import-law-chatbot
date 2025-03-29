@@ -1,0 +1,84 @@
+2019, No. 1290 _28-
+
+Pos .
+Cin ag
+5516.12.00 - - Dicelup
+5516.13.00 | - - Dari benang aneka warna
+
+5516.14.00 - - Dicetak
+
+- Mengandung serat stapel artifisial kurang dari 85 %
+menurut beratnya, dicampur terutama atau semata-mata
+dengan filamen buatan :
+
+201 - - Tidak dikelantang atau dikelantang
+~~ Dicetak
+5516.31.00 | - - Tidak dikelantang atau dikelantang
+
+3
+2
+205
+is)
+‘7
+8
+
+202 [5516.22.00 ~~ Dicelup
+5516.23.00 - - Dari benang aneka warna
+- Mengandung serat stapel artifisial kurang dari 85 %
+menurut beratnya, dicampur terutama atau semata-mata
+dengan wol atau bulu hewan halus :
+5516.32.00 | -- Dicelup
+
+4
+5516.33.00 __|- - Dari benang aneka warna
+5516.34.00 - - Dicetak
+
+- Mengandung serat stapel artifisial kurang dari 85 %
+menurut beratnya, dicampur terutama atau semata-mata
+
+20.
+‘0
+‘0
+
+20
+‘0
+
+20i
+
+dengan kapas ;
+‘0
+
+9 - - Tidak dikelantang atau dikelantang
+
+15516.41.00 _|
+210 - - Dicelup
+211 - - Dari benang aneka warna
+212 - - Dicetak
+Pf Lain-lain :
+|5516.91.00 _|
+
+2
+2
+2
+
+3 |5516.91.00 | - - Tidak dikelantang atau dikelantang
+
+214 [5516.92.00 ~~ Dicelup
+215 [5516.93.00 - - Dari benang aneka warna
+
+216 | 5516.94.00 - - Dicetak
+
+1
+s701 | Karpet dan penutup lantai tekstil lainnya, rajutan,
+sudah jadi maupun belum.
+- Dari wol atau bulu hewan halus :
+21 - - Babut untuk sembahyang
+21 - = Lain-lain
+- Dari bahan tekstil lainnya :
+
+5516.41.00
+
+219 | 5701.90.11 - -- Babut untuk sembahyang
+220 | 5701.90.19 - -- Lain-lain
+
+www.peraturan.go.id

@@ -1,0 +1,46 @@
+2009, No.228 16
+
+No. URAIAN BARANG POS TARIF
+(1) (2) (3)
+76 | ----Besi beton 7214.99.10.10
+----Batang poros; manganese steel 7214.99.10.20
+77~=‘| ----Lain-lain 7214.99.10.90
+--- Lain-lain: 7214.99.90
+78 | ----Besi beton 7214.99.90.10
+----Batang poros; manganese steel 7214.99.90.20
+79 =+‘| ----Lain-lain 7214.99.90.90
+Batang dan batang kecil lainnya dari besi, 72.15
+atau baja bukan paduan.
+-Dari baja free cutting, tidak dikerjakan 7215.10.00.00
+lebih lanjut selain cold-formed atau cold-
+finished
+-Lain-lain, tidak dikerjakan lebih lanjut 7215.50
+selain cold-formed atau cold-finished :
+80 | --Mengandung karbon 0,6% atau lebih menurut 7215.50.10.00
+beratnya, selain penampang silang lingkaran
+81 | --Lain-lain 7215.50.90.00
+- Lain-lain 7215.90.00
+--Manganese steel atau batang poros,
+mengandung 7215.90.00.10
+karbon kurang dari 0,6% menurut beratnya
+82 | --Lain-lain, mengandung karbon kurang dari 0,6% | 7215.90.00.20
+menurut beratnya
+Angle, shape dan section, dari besi atau baja 72.16
+bukan paduan.
+83 | -U, | atau H section, tidak dikerjakan lebih 7216.10.00.00
+lanjut selain dicanai panas, ditarik panas
+atau diekstrusi, dengan tinggi kurang dari
+80 mm
+-L atau T section, tidak dikerjakan lebih
+lanjut selain dicanai panas, ditarik panas
+atau diekstrusi, dengan tinggi kurang dari
+80 mm:
+84 | --L section 7216.21.00.00
+85 | --T section 7216.22.00.00
+-U, | atau H section tidak dikerjakan lebih
+lanjut selain dicanai panas, ditarik panas
+atau diekstrusi, dengan tinggi 80 mm atau
+lebih :
+86 | --U section 7216.31.00.00
+87 | --l section 7216.32.00.00
+

@@ -1,0 +1,56 @@
+2015, No. 1142 40
+
+. (31)
+
+. (32)
+
+. (33)
+
+. (34)
+
+. (35)
+
+. (36)
+
+. (37)
+. (38)
+. (39)
+. (40)
+. (41)
+
+: Diisi nama orang/badan/lembaga yang menerima pemindahtanganan
+
+Kendaraan Bermotor.
+
+: Diisi nomor identitas orang/badan/lembaga yang menerima
+
+pemindahtanganan Kendaraan Bermotor.
+
+: Diisi nama tempat orang/badan/lembaga yang menerima
+
+pemindahtanganan Kendaraan Bermotor berdomisili.
+
+: Diisi nomor pokok wajib pajak (NPWP) orang/badan/lembaga yang
+
+menerima pemindahtanganan Kendaraan Bermotor.
+
+: Diisi nomor Persetujuan Menteri Luar Negeri mengenai pemindahtanganan
+
+Kendaraan Bermotor.
+
+: Diisi tanggal Persetujuan Menteri Luar Negeri mengenai
+
+pemindahtanganan Kendaraan Bermotor.
+
+: Diisi tempat surat izin pemindahtanganan Kendaraan Bermotor diterbitkan.
+: Diisi tanggal surat izin pemindahtanganan Kendaraan Bermotor diterbitkan.
+: Diisi jabatan Pejabat Bea dan Cukai yang ditunjuk.
+
+: Diisi nama Pejabat Bea dan Cukai yang ditunjuk.
+
+: Diisi NIP Pejabat Bea dan Cukai yang ditunjuk.
+
+MENTERI KEUANGAN REPUBLIK
+INDONESIA,
+
+BAMBANG P.S. BRODJONEGORO

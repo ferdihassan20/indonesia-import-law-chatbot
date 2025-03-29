@@ -1,0 +1,51 @@
+2019, No.1718 96
+
+Nomor (12) ; diisi tanggal, bulan, dan tahun ditetapkannya Keputusan
+Menteri Keuangan mengenai persetujuan Pemusnahan atas
+barang impor yang mendapatkan pembebasan bea masuk
+dan/atau tidak dipungut pajak dalam rangka impor atas impor
+barang untuk kegiatan penyelenggaraan panas bumi.
+
+Nomor (13) : diisi Kepala Kantor Pabean yang menerbitkan Keputusan
+Menteri Keuangan mengenai persetujuan Pemusnahan atas
+barang impor yang mendapatkan pembebasan bea masuk
+dan/atau tidak dipungut pajak dalam rangka impor atas impor
+barang untuk kegiatan penyelenggaraan panas bumi.
+
+Nomor (14) : diisi nama Kepala Kantor Pabean yang menandatangani
+Keputusan Menteri Keuangan mengenai  persetujuan
+Pemusnahan atas barang impor yang mendapatkan
+pembebasan bea masuk dan/atau tidak dipungut pajak dalam
+rangka impor atas impor barang untuk kegiatan
+penyelenggaraan panas bumi (tanpa gelar, pangkat, dan/atau
+nomor induk pegawai),
+
+Huruf(a) =: diisi nomor urut.
+
+Huruf(b) : diisi uraian barang secara lengkap meliputi jenis, merek, tipe,
+ukuran dan spesifikasi lainnya.
+
+Huruf(c) : diisi jumlah dan jenis satuan barang yang dipergunakan dalam
+nilai satuan barang.
+
+Huruf(d) : diisi nilai pabean sesuai dengan pemberitahuan pabean impor
+untuk setiap jenis barang impor.
+
+Huruf(e) =: diisi nomor pos tarif/HS.
+
+Huruf(f} : diisi nomor Keputusan Menteri Keuangan mengenai pemberian
+fasilitas pembebasan bea masuk dan/atau tidak dipungut pajak
+dalam rangka impor atas impor barang untuk kegiatan
+penyelenggaraan panas bumi.
+
+Huruf(g) : diisi tanggal, bulan, dan tahun Keputusan Menteri Keuangan
+mengenai pemberian fasilitas pembebasan bea masuk dan/atau
+tidak dipungut pajak dalam rangka impor atas impor barang
+untuk kegiatan penyelenggaraan panas bumi.
+
+Huruf(h) : diisi nomor urut barang pada Keputusan Menteri Keuangan
+mengenai pemberian pembebasan bea masuk dan/atau tidak
+dipungut pajak dalam rangka impor atas impor barang untuk
+kegiatan penyelenggaraan panas bumi.
+
+www.peraturan.go.id

@@ -1,0 +1,31 @@
+2017, No. 1206
+
+-26-
+
+No | Pos Tarif/HS Uraian Barang
+92 | 5801.22.90 - - - Lain-lain
+9801.23 - - Kain bulu pakan lainnya :
+93 5801.23.10 - - - Diresapi, dilapisi, ditutupi atau dilaminasi
+94 | 5801.23.90 - - - Lain-lain
+5801.26 - - Kain chenille :
+95 | 5801.26.10 - - - Diresapi, dilapisi, ditutupi atau dilaminasi
+96 | 5801.26.90 - - - Lain-lain
+9801.27 - - Kain bulu lusi :
+97 | 5801.27.10 - - - Diresapi, dilapisi, ditutupi atau dilaminasi
+98 | 5801.27.90 - - - Lain-lain
+- Dari serat buatan :
+5801.31 - - Kain bulu pakan tidak dipotong :
+199 | 5801.31.10 - - - Diresapi, dilapisi, ditutupi atau dilaminasi
+200 | 5801.31.90 - - - Lain-lain
+9801.32 - - Kain corduroy dipotong :
+201 | 5801.32.10 - - - Diresapi, dilapisi, ditutupi atau dilaminasi
+202 | 5801.32.90 - - - Lain-lain
+5801.33 - - Kain bulu pakan lainnya :
+203 | 5801.33.10 - - - Diresapi, dilapisi, ditutupi atau dilaminasi
+204 | 5801.33.90 - - - Lain-lain
+9801.36 - - Kain chenille :
+205 | 5801.36.10 - - - Diresapi, dilapisi, ditutupi atau dilaminasi
+206 | 5801.36.90 - - - Lain-lain
+9801.37 - - Kain bulu lusi :
+207 | 5801.37.10 - - - Diresapi, dilapisi, ditutupi atau dilaminasi
+

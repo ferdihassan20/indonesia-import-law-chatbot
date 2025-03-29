@@ -1,0 +1,142 @@
+2017, No.176
+
+-410-
+
+e271
+8272
+9273
+
+8274
+8275
+
+8276
+
+8277
+
+8278
+
+8270
+
+8280
+
+8281
+
+8282
+
+8283
+
+8284
+
+8286
+
+8287
+
+8288
+
+8289
+
+6290
+
+8201
+
+8292
+
+8293
+
+8293
+
+8205
+
+Pos Tarif/
+gether Uraian Barang Description of Goods
+a SSSI} (4)
+[4186.20.41 ‘Aparatus dincet write-on-warer ~ Direct write-on-waler apparatus
+18486,20.42 Step dan repeat aligner ~ Step and repeat aligners
+[2486.20.49 Lain-lain --- Other
+Peralatan untuk mencuci waler yang disinari : }- - Equipment for developing exposed wafers
+1486.20.51 |- - - Mesin pemotong untuk mematong atau menggores _|- - - Dicing machines for scribing or scoring
+\waler semikonduktor ‘semiconductor wafers
+[8486.20.59 Lain-tain |--- Other
+Lain-lain : -- Other :
+[8486.20.91 Pemotong laser untuk memotong jalur penghubung —_|-- - Lasercutters for cutting contacting 5,0%
+\dalam produkst semikonduktor dengan sinar laser ‘tracks in semiconductor production by laser
+beam
+1486.20.92 |--- Mesin untuk membengkokkan, melipat dan }- - - Machines for bending, folding and 5,0%
+meluruskan timbal semikonduktor straightening semiconductor leads
+8486.20.93 |-- - Tanur dan oven panas untuk pembuatan peralatan |» ~ Resistance heated furnaces and ovens 5.0%
+|semikoruluktor pada wafer semikonduktor for the manufacture of semiconductor
+devices on semiconductor wafers
+1486.20.94 |. - - Tanur dan oven induktansi atau dielektrik untuk -- - Indisctance or dielectric furnaces and 5,0%
+pembuatan peralatan semikonduktor pada wafer Jovens for the mantifacture of semiconductor
+|semikoncluktor devices on semiconductor walers
+[8486.20.95 _|--- Mesin otomatis untuk penempatan atau penghitangan |-- - Automated machines for the placement 5.0%
+komponen atau clemen kontak pada bahan semikonduktor Jor the removal of components or contact °
+Jclements on semiconductor materials
+8486.20.99 |-- - Lain-lain + == other 5.0%
+8486.30 - Mesin dan apnratus untuk pembuatan panel layar datar: |- Machines and apparatus for the
+manufacture of flat panel displays ;
+1$486.30.10 |}. - Aparatus untuk pola etsa kering pada substrat panel | - Apparatus for dry etching patterns on flat 5,0%
+layar datar [panel display substrates
+8486.30.20 _|- - Aparatus untuk mengetsa basah, mencuci, mengupas _ |- - Apparatus for wet etching, developing, 50%
+Jatau: membersihkan pane! lavar datar [stripping or cleaning Nat panel displays
+8486.30.30 _|- - Aparatus deposisi kimia untuk pembuatan panel lavar_ |.» Chemical vapour deposition apparatus for 5.0%
+datar, pemintal untuk melapisi emulsi peka cahaya pada [Mat panel display production: spinners for
+lsubstrat pancl layar datar; aparatus untuk deposisi fisik — |coating photosensitive emulsions on flat
+pada substrat panel layar datar pane! display substrates; apparatus for
+[physical deposition on flat panel display
+substrates
+8486.30.90 |-- Lain-lain += Other 5.0%
+[8486.40 - Mesin dan aparatus yang dirinci pada Catatan 9 (C) Bab |- Machines and apparatus specified in Note
+in: 9 (C) to this Chapter :
+8486.40.10 Mesin penggilingan dengan sinar jon terfokus untuk —_|- - Focused ion beam milling machines to 5.0%
+memproduksi atau memperbaiki mask dan reticle untuk | produce or repair masks and reticles for
+pola pacia peralatan semikonduktor patterns on semiconductor elevices
+8486.40.20 |- - Aparatus pcickat die, pengikat pita otomatis, pengikat |-- Die attach apparatus, tape automated 5.0%
+kawat dan peralatan enkapsulasi untuk perakitan lbonders, wire bonders and encapsulation
+semikonduktor; mesin otomatis untuk pengangkutan, lequipment for the assembly of
+penanganan dan penyimpanan wafer semikonduktor, semiconductors; automated machines for
+kaset wafer, kotak wafer dan bahar lainnya untuk transport, handling and storage of
+peralatan semikonduktor [semiconductor wafers, waler cassettes, wafer
+boxes and other materials for semiconductor
+devices
+18486.40.30 | - Cetakan untuk pembuatan peralatan semikonduktor Moulds for manufacture of semiconductor 5.0%
+Mevices
+8486.40.40 |- - Mikroskop stereoskopik optik dilengkapi dengan ~ - Optical stereoscopic microscopes fitted 0,0%
+periengkapan yang dirancang secara khusus untuk ‘with equipment specifically designed for the
+Jpenanganan dan pengangkutan wafer atau reticle handling and transport of semiconductor
+jsemikonduktor wafers of reticles
+8480.40.50 |- - Mikroskop fotomikrografis dilengkapi dengan }- - Photomicrographic microscopes fitted 0.0%
+perlengakapan yang, (lirancang secara khusus untuk with equipment specifically designed for the
+Penanganan dan pengangkutan waicr atau reticle handling and transport of semiconductor
+jsemikonduktor wafers or reticies
+[8486.40.60 _|-- Mikroskop sinar elektron dilengkapi dengan -- Electron beam microscopes fitted with 5.0%
+perlengakapan yang dirancang secara khusus untuk: equipment specifically designed for the
+penanganan dan pengangkulan wafer atau reticle handling and transport of semiconductor
+semikonduktor wafers or reticles
+18486.40.70 |. » Aparatus penghasil pola dari jenis yang digunakan - - Pattern generating apparatus of a kind 5.0%
+untuk memproduksi mask atau reticle dari substrat ised! for producing masks or teticles from
+dilapisi photoresist photoresist coated substrates
+[8486.40.90 |-- Lain-lain - - Other 5,0%
+|8986.90 - Bagian dan aksesori : - Parts and accessories =
+-- Dari mesin dan aparatus yang digunakan untuk |- - Of machines and apparatus for the
+pembuatan boule atau wafer : manufacture of boules or wafers :
+18486.90.11  |-- - Dari aparatus untuk pemanasan cepat wafer - = = Of apparatus for rapid heating of 5.0%
+semikonduktor semiconductor wafers
+8486.90.12 |. - - Dari pengering putar untuk pemrosesan wafer ~~ - Of spin dryers for semiconductor wafer 5,0%
+lsemikonduktor processing
+{8486.90.13 |--- Dari mesin perkakas wnttik mengerjakan berbagai —_|- - - Of machines for working any material by 5.0%
+bahan dengan penghilangan bahan, melalui proses removal of material, by laser or other light or
+penyinaran laser atau sinar lainnya atau sinar foton dalam |photon beam in the production of
+produksi wafer semikonduktor ‘semiconductor walers
+~~~ Dari mesin untuk menggergaji boule semikonduktor —_|- - - Of machines for sawing monoerystal
+monokristal menjadi irisan, atau wafer menjadi keping: [semiconductor boules into slices, or wafers
+into chips
+8486.90.14 |---- Alat pemegang perkakas dan sel-opening dichead; —_|-- - - Tool holders and self-opening 5,0%
+
+pemegang barang yang dlikerjakan; dividing head dan
+kelengkapan khusus lainnya untuk mesin perkakas
+
+ldieheads; work holders; dividing heads and
+lother special attachments for machine tools
+
+www.peraturan.go.id

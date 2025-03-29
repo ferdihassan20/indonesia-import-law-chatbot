@@ -1,0 +1,97 @@
+2017, No.176
+
+Pos Tarif]
+
+-364-
+
+HS Code
+43)
+7521.19 >= Lain-lain, termasuk peraiatan dengan bahan bakar  |-- Other, Including appliances for solid Tucl =
+padat ;
+6566 |7321.19.10 Dengan bakan bakar padat | - - For solid fuel
+6567 [7321.19.90 Lain-ain ~~ = Other
+- Peralatan lainnya : - Other appliances :
+6568 [7321.81.00 |-- Dengan bahan bakar gas atau gabungan gas dan bahan |- ~ Por gas fuel or for both gas and other 20,0%
+fbekar lainnya fuels
+6569 [7321.82.00 |-- Dengan bahan bakar cair ~~ For liquid fuet 75%
+6570 |7321.89.00 _|- - Lain-jain, termasuk peralatan dengan bahan bakar |. - Other, including appliances for solid fuel 20,0%
+jpadat
+7321.90 + Bagian : - Parts :
+6571 |7321.90.10 Dart (ungku untuk kompor minyak tanah ~~ Of kerosene stoves 75%
+6572 |7321.90.20 _ |- - Dari peralatan masak dan piring pemanas - - Of cooking appliances and plate warmers: 75%
+Imenggunakan bahan bakar gas using gas fucl
+6573 |7321.90.90 _ |- - Lain-lain }- - Other 7.5%
+173.22 Radiator untuk pemanasan sentral, tidak dipanaskan | Radiators for contral heating, not
+dengan listrik, dan bagianaya, dari besi atau baja; electrically heated, and parts thereof, of
+[pemanas udara dan distributor udara panas (termasuk iron or steel; air heaters and hot air
+distributor yang dapat juga mendistribusikan udara distributors (including distributors which
+lsegar atau didinginkan), tidak dipanaskan dengan can also distribute fresh or conditioned
+listrik, didalamnya dipasang kipas ataw alat tiup yang _|air}, not electrically heated, incorporating
+dijalankan dengan motor, dan bagiannya, dari besi atau | motor-driven fan or blower, and parts
+baja. |thereof, of iron or steel.
+| Revliator dan bagiarinya |. Radiators and parts thereof :
+6574 |7322.11,00 Dari besi tuang: >» Of cast iron 5.0%
+6575 |7322.19.00 + = Other 5,0%
+6576 [7322.90.00 |- dain - Other 10,0%
+73.23 /Barang untuk penggunaan di atas meja,didapuratay |Table, kitchen or other household articles
+peralatan rumah tanggs lainnya dan bagiannya, dari —_{and parts thereof, of iron or stecl; iron or
+besi atau baja; wol besi atau wol baja; penggosok pot _|steel wool; pot scourers and scouring or
+dan bantalan gosok atau pemoles, sarung tangan dan _|polishing pads, gloves and the like, of iron
+|sejenisnya, dari besi atau baja. jor steel.
+6577 {7323.10.00 _|- Wol besi atau wo! baja; penggosok pot dan bantalan |. Iron or steel wool; pot scourers and 15,0%
+jgosok atau pemoles, sarung Langan dan sejenisnya scouring or polishing pads, gloves and the
+tke
+}- Lain-lain > |- Other +
+7323.91 Dari besi tuang, tidak dienamel : - - Of cast iron, not enamelled :
+6578 [7323.91.10 ~ Perangkat dapur Kitchenware 15,0%
+6579 |7323.91.20 |. -- Asbak Ashtrays 15,0%
+6580 |7323.91.90  |--- Lain-lain Other 15,0%
+6581 |7323.92.00 ~ Dari besi tuang, dienamel ~ Of cast iron, enamelled 15,0%
+7323.93 ~ Dari besi stainless : - Of stainless steel :
+6582 [7323.93.10 ~ Perangkat dapur Kitchenware 15,0%
+6583 [7323.93.20 ~ Asbak Ashtrays: 15,0%
+6584 |7323,93,.90 |--- Lain-lain Other 15,0%
+6585 |7323.94.00 _]- - Dari besi (selain besi tuang) atau baja, dienamel 15,0%
+7323.99 Lain-tain
+6586 7325.99.10 |. -- Perangkat dapur 15,0%
+6587 |7323,99.20 ~ Asbak 15,0%
+6588 |7323.99.90 |--- Lain-lain 15,0%
+73.24 [Perangkat saniter dan bagianaya, dari besi atau baja, | Sanitary ware and parts thereof, of iron or
+steel,
+7324.10 - Bake cuci dan wastafel, dari baja stainless ; - Sinks and wash basins, of stainless steel :
+6589 |7324.10.10 _|-- Tempat cuci piring hen sinks 15,0%
+6590 |7324.10.90 _|-- Lain-tain = Other 15,0%
+- Bak mandi: ~ Baths =
+7324.21 - - Dari besi tuang, dienamel maupun tidak : | - Of cast iron, whether or not enamelled ;
+6591 |7324.21,10  |- - + Bak mandi dengan bentuk bagian dalam empat Rathtubs having rectangular or oblong: 75%
+[persegi panjang atau oblong interior shape
+6592 [7924.21.90 |--- Lain-lain Other 75%
+7324.29 Lain-lain : Other :
+6593 |7324.29.10 _|-- - Bak mandi dengan bentuk bagian dalam empat Bathtubs having rectangular or oblong 75%
+segi punjang atau oblong werior shape
+6594 [7324.29.90 |. ~~ Lain-lain Other 75%
+7324.90 > Lain:lain, termasuk bagian : }- Other, including parts ;
+6595 {7324.90.10 _|- - Pembuang air kloset atau urinal {tipe tetap) Flushing water closets or urinals (fixed 7.5%
+pe}
+6506 [7324.90.30 _|- - Rejana sorong, urinal portabel Bedpans and portable urinals 15,0%
+>= Lain-lain : Other :
+6597 }7324.90.91 _|- -- Bagian dari tempat cuci piring atau bak mancti Parts of kitchen sinks or bathtubs 15,0%
+6598 [7324.90.93 |- - - Bagian dari pembuang air kloset atau urinal (tipe Parts of flushing water closets or urinals 15,0%
+tetap) (fixed type)
+6599 17324.90.99  |- - - Lain-tain Other 15,0%
+73.25 /Barang tuangan lainnya dari bes! atau baja. Other cast articles of iron or steel.
+7325.10 > Dari besi tuang tidak dapat ditempa : - Of non-malieabie cast iron :
+6600 /7325.10.20 |- - Penutup lubang, grating dan framenya }- - Manhole covers, gratings and frames 75%
+therefor
+6601 7325.10.30 |. - Cerek dan cawan untuk pengumpul lateks: - - Spouts and cups for latex collection 7.5%
+6602 (7325.10.90 |- - Lain-lain ~~ Other 715%
+Lain-lain : - Other :
+6603 [7325.91.00 |. - Bola penggerinda dan barang semacam itu untuk }- - Grinding balls and similar articles for 75%
+menagiling
+7325.99 - = Lain-lain : Other =
+6604 [7325.99.20 |- - - Penutup lubang, grating dan framenya: |- - - Manhole covers, gratings and frames 75%
+therefor
+6605 [7325.99.90 |-- - Lain-lain | - = Other 15%
+L 73.26 ‘Barang lainnya dari besi atau baja. lother articles of iron or stecl.
+
+www.peraturan.go.id

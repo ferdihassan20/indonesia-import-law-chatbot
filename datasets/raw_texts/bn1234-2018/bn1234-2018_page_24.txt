@@ -1,0 +1,122 @@
+2018, No.1234
+
+-24-
+
+450 mm
+
+235 4013.90.39 - - - Cocok dipasang pada ban dengan lebar melebihi 450 mm
+
+236 4013.90.91 - -- Cocok dipasang pada ban dengan lebar tidak melebihi
+450 mm
+
+237 4013.90.99 - -- Cocok dipasang pada ban dengan lebar melebihi 450 mm
+
+238 4014.10.00 - Kondom
+
+239 4014.90.10 - - Dot untuk botol minuman dan semacamnya
+
+240 4014.90.40 - - Sumbat untuk kegunaan farmasi
+
+241 | 4014.90.50 - - Finger stalls
+
+242 4014.90.90 - - Lain-lain
+
+243 4015.11.00 - - Untuk bedah
+
+244 4015.19.00 - - Lain-lain
+
+245 4015.90.10 - - Lead apron
+
+246 4015.90.90 - - Lain-lain
+
+247 4202.12.11 - --- Dengan permukaan luar dari serat yang divulkanisasi
+
+248 4202.12.19 - Lain-lain
+
+249 4202.12.91 - Dengan permukaan luar dari serat yang divulkanisasi
+
+250 4202.12.99 ----Lain-lain
+
+251 4202.19.20 - - - Dengan permukaan luar dari kertas karton
+
+252 4202.19.90 - -- Lain-lain
+
+253 4202.22.00 - - Dengan permukaan luar dari Ilembaran plastik atau dari
+bahan tekstil
+
+254 4202.29.00 - - Lain-lain
+
+255 4202.32.00 - - Dengan permukaan luar dari Iembaran plastik atau dari
+bahan tekstil
+
+256 4202.39.00 - - Lain-lain
+
+257 4202.92.10 - -- Tas rias, dari lembaran plastik
+
+258 4202.92.20 - -- Tas bowling
+
+259 4202.92.90 - -- Lain-lain
+
+260 4202.99.10 - - - Dengan permukaan luar serat divulkanisasi dari kertas
+karton
+
+261 4202.99.20 - -- Dari tembaga
+
+262 4202.99.90 - -- Lain-lain
+
+263 | 4205.00.10 - Tali sepatu bot; mat
+
+264 =| 4205.00.30 - String atau jalinan tali dari kulit samak dari jenis yang
+digunakan untuk perhiasan atau barang perhiasan pribadi
+
+265 4205.00.90 - Lain-lain
+
+266 4304.00.91 - - Tas olahraga
+
+267 4414.00.00 Bingkai kayu untuk lukisan, foto, cermin atau benda
+semacam itu.
+
+268 4419.11.00 - - Papan roti, talenan dan papan semacam itu
+
+269 4419.12.00 - - Sumpit
+
+270 4419.19.00 - - Lain-lain
+
+271 4419.90.00 - Lain-lain
+
+272 4420.10.00 - Patung kecil dan ornamen lainnya, dari kayu
+
+273 4420.90.10 - - Perabotan dari kayu yang tidak termasuk Bab 94
+
+274 4420.90.90 - - Lain-lain
+
+275 4601.21.00 - - Dari bambu
+
+276 4601.22.00 - - Dari rotan
+
+277 4601.29.00 - - Lain-lain
+
+278 4601.92.10 - -- Anyaman dan produk semacam itu dari bahan anyaman,
+dirakit menjadi strip maupun tidak
+
+279 4601.92.20 - -- Kipas dan handscreen, bingkai dan gagangnya serta
+
+280
+
+4601.92.90
+4601.99.10
+4601.99.20
+
+8
+
+4601.99.30
+
+4601.99.90
+4602.11.10
+4602.11.20
+4602.11.90
+4602.12.10
+
+Basse gg
+
+www.peraturan.go.id

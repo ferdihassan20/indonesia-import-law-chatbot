@@ -1,0 +1,90 @@
+2016, No.302
+
+-27-
+
+No Pos Tarif/ HS Uraian Kriteria Teknis
+laser atau sinar lainnya atau sinar
+foton.
+
+84 | 8456.30.00.00 - Dioperasikan dengan proses
+penyinaran elektro
+
+8456.90 - Lain-lain:
+85 | 8456.90.90.00 - - Lain-lain
+84.57 Machining center, mesin konstruksi
+unit (single station) dan mesin transfer
+muuti-station, untuk mengerjakan
+logam.
+86_ | 8457.10.00.00 - Machining center
+87 | 8457.20.00.00 - Mesin konstruksi unit (single-station)
+84.58 Mesin bubut (termasuk turning centre)
+untuk menghilangkan logam.
+- Mesin bubut horizontal:
+88 | 8458.11.00.00 - - Dikontrol secara numerik
+8458.19 - - Lain-lain:
+
+89 | 8458.19.10.00 - - - Dengan jarak antara pusat
+spindle dan bed tidak melebihi 300
+mm
+
+90 | 8458.19.90.00 - - - Lain-lain. panjang bed = 1,6
+
+meter
+- Mesin bubut lainnya:
+91 =| 8458.91,00,00 - - Dikontrol secara numerik
+8458.99 - - Lain-lain:
+
+92 | 8458.99,10.00 - - - Dengan jarak antara pusat
+spindle dan bed tidak melebihi 300
+mm
+
+93 | 8458.99.90,.00 - - - Lain-lain
+
+84.59 Mesin perkakas (termasuk way-type
+unit head machine) untuk menggurdi,
+mengebor, menggiling dan membuat
+ulir atau alur dengan menghilangkan
+logam, selain mesin bubut (termasuk
+turning centre) dari pos 84.58.
+
+8459.10 - Way-type unit head-machines:
+
+94 | 8459.10,10.00 - - Dioperasikan secara elektrik
+- Mesin penggurdi lainnya:
+
+8459.29 - - Lain-lain:
+
+95_| 8459.29.10.00 - - - Dioperasikan secara elektrik
+- Mesin pengebor-penggiling lainnya:
+
+96_| 8459.31.00.00 - - Dikontrol secara numerik
+
+8459.39 - - Lain-lain:
+
+97 | 8459.39.10.00 - - - Dioperasikan secara elektrik
+
+8459.40 - Mesin pengebor lainnya:
+
+98 [| 8459.40.10.00 - - Dioperasikan secara elektrik
+- Mesin penggiling, tipe knee:
+
+8459.59 - - Lain-lain.
+
+99 | 8459,59,10,00 - - - Dioperasikan secara elektrik
+- Mesin penggiling lainnya:
+
+100 | 8459.61.00.00 - - Dikontrol secara numerik
+
+8459.69 - - Lain-lain:
+
+101 | 8459.69.10.00 - - - Dioperasikan secara elektrik
+
+8459.70 - Mesin pembuat ulir atau alur
+lJainnya:
+
+102 | 8459.70.10.00 - - Dioperasikan secara elektrik
+
+84,60
+
+Mesin perkakas untuk menghaluskan,
+

@@ -1,0 +1,363 @@
+2017, No.176
+
+-422-
+
+8608
+
+8670
+
+8671
+8672
+
+8073
+
+8074
+
+8675
+
+8676
+
+8677
+
+8678
+
+i
+
+Uraian Barang
+=
+
+BS 18.22
+
+8518.30.10
+18518,30,20
+8518.30.90
+8518.30.51
+8518.30.59
+8518.30.90
+8518.40
+
+8518.40.20
+8518.40.20
+8518.40.40
+8518.40.90
+8518.50
+
+8518.50.10
+
+8518.50.20
+
+8518.50.90
+8518.90
+8518.90.10
+
+18518,90.20
+16518,90.30
+8518.90.40
+8518.90.90
+85.19
+
+}8519.20
+
+[8519.20.10
+(8519.20.90
+[8519.30.00
+8519.50.00
+8519.81
+
+8519.81.10
+
+8519.81.20
+
+8519.81.30
+8519.81.41
+
+8519.81.49
+8519.81.50
+
+8519.81.61
+
+8519.81.69
+
+8519.81.71
+
+8519.81.79
+
+8519.81.91
+
+8519.81.99
+[8519.89
+
+> Pengeras suara mullipel, dipasang pada ramah yang
+sama :
+
+~ Tipe box speaker
+
++ Lain-lain
+
+Lain-lain :
+
+- Pengeras suara, tanpa rumah, mempunyai rentang
+frekuensi 300 Hz sampai dengan 3.400 Hz, dengan
+diameter tidak melebihi 50 mm, untuk keperluan
+telekomunikasi
+
+- Headphone dan earphone, dikombinasikan dengan
+mikrofon maupun tidak, dan set yang terdiri dari satu
+mikrofon dan satu atau lebih pengeras suare :
+
+-- Headphone
+Earphone
+
+Handset telepon kabel
+
++ - Set kombinasi mikrofon/speaker tainnya
+
+- - - Untuk barang dari sulypos 8517.12.00
+
+- Lain-lain
+
+Lain-tain
+
+- Amplifier listrik audio-rekuensi :
+
+Digunakan sebagai repeater dalam telepon kabel
+Digunakan sebagai repeater dalam telepon selin
+telepon kabel
+
+-- Lainnya, mempunyai 6 jalur atau tebih sinyal masukan,
+dengan atau tanpa elemen untuk capacity amplifier
+
++ + Lain-lain
+- Set amplifier suara listrile ;
+- - Mempunyai tingkat kekuatan 240 W atau lebih
+
+~ Lainnyn, dengan pengeras suara, dari jenis yang cocok
+Juntuk penyiaran, mempunyai voltage rating 50 V atau
+ebin tetapi tidak metebihi 100 V
+
+- - Lain-lain
+- Bagian +
+
+- - Dari barang pada subpos 8518.10.11, 8518.29.20,
+1518.30.40 atau 8518.40.20, termasuk printed circuit
+Jassembly
+
+- - Dari barang pada subpos 8518.40.40
+
+- - Dari barang pada subpos 8518.21 atau 8518.22
+
+- - Dari barang pada subpos 8518.29.90
+- - Lain-laien
+JAparatus untuk perokam atau reproduksi suara.
+
+- Aparatus yang dioperasikan dengan koin, uang kertas,
+bank card, token atau dengan alat pembayaran lainnya :
+
+- - Record player dioperasikan dengan koin, token atau
+leakrem
+
+~~ Lain-lain
+
+|. Pemutar piringan hitam (record-deck)
+
+|. Mesin penjawab telepon
+
+- Aparatus tainnya :
+
+- - Menggunakan magnet, media optik atau semi
+konduktor >
+
+. - - Perekam pita kaset ukuran saku, dengan ukuran
+tidak melebihi 170 mm x 100 mm x 45 mm
+
+- - - Perekam pita kaset, dengan amplifier terpasang dan
+satu atau lebih pengeras suara terpasang, dioperasikan
+hanya dengan sumber tenaga dart tuar
+
+| - - Compact disc player
+- Transcribing machine :
+---- Dari jenis yang cocok untuk sinematografi atau
+[penyiaran
+
+~~ Lain-lain
+Mesin dikte tidak dapat dijatankan tanpa umber
+tenaga dari lar
+
+Perckam pita magnetik digabung dengan aparatus
+Jreproduksi suara. tipe audio digital
+
++ -<- Dari jenis yang cocok untuk sinematografi ntau
+ipenyiaran
+~- Aparatus reproduks! suara lainnya, tipe kaset :
+
+- -- - Dari jenis yang cocok untuk sinematografi atau
+ipenyiaran
+
+~~ = Lain-tain
+
+Lain-tain :
+
+= Dari jenis yang cocok untuk sinematografi atau
+jpenviairan
+
+- = Lain-tain :
+
+—~ Multiple loudspeakers, mounted in the
+same enclosure :
+
+- - - Box speaker type
+
+Other
+
+> Other
+
+~~ - Loudspeakers, without enclosure,
+having a frequency range of 300 fiz to 3,400
+Hz, with a diameter not exceeding 50 mm,
+for telecommunication use
+
+--- Other
+
+- Headphones and earphones, whether or
+not combined with a microphone, and sets
+consisting of a microphone and ene ar more
+loudspeakers :
+
+- = Headphones
+
+- - Earphones
+
+. - Line telephone handsets
+
+-- Other combined microphone/speaker sets|
+
+- - - For goods of subheading 8517.12,00
+
+|. - - Other
++ = Other
+- Audio-frequeney electric amplifiers =
+- - Used as repeaters in line telephony
+- - Used as repeaters in telephony other than
+tine telephony
++ Other, having 6 or more input signal
+tines, with or without elements for capacity
+lamplifiers
+}- - Other
+- Electric sound amplifier sets :
+- = Having « power rating of 240 W or more
+
+- - Other, with loudspeakers, of « kind
+suitable for broadcasting, having a voltage
+
+rating of 50 V or more but not exceeding 100)
+iV
++ - Other
+- Parts :
+- = Of goods of subheading 8518.10.11,
+18518.29.20, 8518.30.40 or 8518.40.20,
+including printed circuit assemblies
+- = Of goods of subheading 8518.40.40
+
+- Of goods of subheading 8518.21 or
+2518.22
+- - Of goods of subheading 8518.29.90
+- - Other
+[Sound recording or reproducing
+lapparatas.
+- Apparatus operated by coins, banknotes,
+bank cards, tokens or by other means of
+[payment =
+- - Coins, tokens or dise operated record
+players
+ - Other
+- Turntables (record-decks)
+} Telephone answering machines
+- Other apparatus :
+. - Using magnetic, optical or semiconductor
+media :
+- - - Pocket-size cassette recorders, the
+[dimensions of which do not exceed 170 mm
+x 100 mm x45 mm
+. - - Cassette recorders, with built-in
+lamplifiers and one or more built-in
+loudspeakers, operating only with an
+lexternal source of power
+Compact dise players
+‘Transcribing machines :
+Ofa kind suitable for cinematography
+lor broadcasting
+~~~ Other
+- = « Dietating machines not capable of
+loperating without an external source of
+power
+}- - - Magnetic tape recorders incorporating
+sound reproducing apparatus, digital audio
+ype :
+- --- Of a kind suitable for cinematography
+Jor broadcasting
+= -- Other
+--- Other sound reproducing apparatus,
+lcassette type :
+| - -- Of a kind suitable for cinematography
+Jor broadeasting
+- ~~~ Other
+Other :
+Of a kind suitable for cinematography
+lor broadcasting
+- Other
+| - Other
+
+15,0%
+15,0%
+
+0.0%
+
+10,0%
+
+5.0%
+5.0%
+00%
+5,0%
+
+5,0%
+50%
+
+10,0%
+10,0%
+
+10.0%
+
+10,0%
+15,0%
+
+15,0%
+
+15,0%
+
+0,0%
+
+0,0%
+0.0%
+
+0,0%
+
+10,0%
+
+10,0%
+
+15,0%
+10,0%
+
+10,0%
+
+10,0%
+
+10,0%
+
+10,0%
+10,0%
+10,0%
+
+15,0%
+
+www.peraturan.go.id

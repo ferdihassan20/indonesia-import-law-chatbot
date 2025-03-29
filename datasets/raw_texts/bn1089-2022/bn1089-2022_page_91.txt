@@ -1,0 +1,53 @@
+2022, No.1089
+91-
+
+PETUNJUK PENGISIAN
+
+Nomor (1) : diisi nomor surat perusahaan.
+
+Nomor (2) : diisi tanggal surat perusahaan,
+
+Nomor (3) : diisi jumlah lampiran dokumen pendukung.
+
+Nomor (4) : diisi nama Kantor Wilayah Direktorat Jenderal Bea dan Cukai/
+Kantor Pelayanan Utama Bea dan Cukai yang menerbitkan
+Keputusan Menteri mengenai penetapan sebagai Perusahaan
+KITE Pembebasan.
+
+Nomor (5) : diisi alamat Kantor Wilayah Direktorat Jenderal Bea dan Cukai/
+Kantor Pelayanan Utama Bea dan Cukai yang menerbitkan
+Keputusan Menteri mengenai penetapan sebagai Perusahaan
+KITE Pembebasan.
+
+Nomor (6) : diisi nama perusahaan.
+
+Nomor (7) ; diisi nomor Keputusan Menteri mengenai penetapan sebagai
+Perusahaan KITE Pembebasan.
+
+Nomor (8) : diisi nama lengkap penanggung jawab perusahaan.
+
+Nomor (9) : diisi jabatan penanggung jawab perusahaan.
+
+Nomor (10) : diisi nomor urut.
+
+Nomor (11); diisi uraian Barang dan Bahan yang akan disubkontrakkan.
+
+Nomor (12) ; diisi satuan Barang dan Bahan yang akan disubkontrakkan.
+
+Nomor (13) : diisi jumlah Barang dan Bahan yang akan disubkontrakkan.
+
+Nomor (14) : diisi nilai FOB Barang dan Bahan yang akan disubkontrakkan.
+
+Nomor (15) : diisi jenis kegiatan yang disubkontrakkan.
+
+Nomor (16) ; diisi negara tujuan ekspor.
+
+Nomor (17) : diisi perkiraan waktu pengerjaan subkontrak.
+
+Nomor (18) ; diisi jenis pemberitahuan pabean asal Barang dan Bahan.
+
+Nomor (19) : diisi nomor pemberitahuan pabean asal Barang dan Bahan.
+
+Nomor (20) ; diisi tanggal pemberitahuan pabean asal Barang dan Bahan.
+
+www.peraturan.go.id

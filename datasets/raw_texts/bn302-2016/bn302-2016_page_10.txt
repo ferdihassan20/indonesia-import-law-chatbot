@@ -1,0 +1,106 @@
+2016, No.302
+
+-10-
+No | Pos Tarif/ HS Uraian. Kriteria Teknis
+atau barang (misalnya, lori derek, lori
+crane, kendaraan pemadam kebakaran,
+lori pencampur beton, lori penyapu
+jalan, lori penyemprot, mobil bengkel,
+mobil unit radiologi).
+7__| 8705.10.00.00 | - Lori crane 4
+8 | 8705.30.00.00 | - Kendaraan pemadam kebakaran *
+8705.40.00.00 | - Lori pencampur beton 4
+8705.90 - Lain-lain:
+8705.90.90.00 | - - Lain-lain *)
+
+8716
+
+Trailer dan semi trailer, kendaraan
+lainnya, tidak digerakkan secara
+mekanis; bagiannya.
+
+8716.31.00.00
+
+- Trailer dan semi-trailer lainnya untuk
+pengangkutan barang:
+- - Trailer dan semi-trailer tangki
+
+8716.39 - - Lain-lain:
+- - - Lain-lain:
+8716.39,99.00 | - - - - Lain-lain *
+
+8716.40,00,.00
+
+- Trailer dan semi-trailer lainnya
+
+*) Perlu pertimbangan teknis dari Direktorat Pembina Industri
+
+B. Kelompok Industri Maritim
+
+maksimal 15 tahun)
+
+(Untuk Pemakai Langsung dengan usia
+
+Pos Tarif/ HS
+
+Uraian.
+
+Kriteria Teknis
+
+89,01
+
+Kapal pesiar, kapal ekskursi, kapal feri,
+kapal kargo, tongkang dan kendaraan
+air semacam itu untuk pengangkutan,
+orang atau barang.
+
+- Kapal pesiar, kapal ekskursi dan
+kendaraan air semacam itu terutama
+dirancang untuk pengangkutan orang;
+kapal feri dari semua jenis:
+
+8901.10.70.00
+
+- - Dengan tonase kotor melebihi 26
+tetapi tidak melebihi 500
+- - Dengan tonase kotor melebihi 500
+
+- - Dengan tonase kotor melebihi 1.000
+tetapi tidak melebihi 4.000
+
+8901.10.80.00
+
+- - Dengan tonase kotor melebihi 4.000
+tetapi tidak melebihi 5.000
+
+8901.20
+
+- Tanker:
+
+8901.20.50.00
+
+- - Dengan tonase kotor tidak melebihi
+5.000
+
+8901.20.70.00
+
+- - Dengan tonase kotor melebihi 5.000
+tetapi tidak melebihi 50.000
+
+(khusus untuk kapal
+dengan ukuran Bobot
+Mati maksimal 17.500
+DWT)
+
+8901.90
+
+- Kendaraan air lainnya untuk
+pengangkutan barang dan kendaraan
+air lainnya untuk pengangkutan orang
+dan barang:
+
+8901.90,14,00
+
+- - Tidak bermotor:
+- - - Dengan tonase kotor melebihi 500
+

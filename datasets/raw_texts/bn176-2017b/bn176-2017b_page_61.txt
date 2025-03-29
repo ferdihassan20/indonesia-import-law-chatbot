@@ -1,0 +1,96 @@
+-221-
+
+2017, No.176
+
+mw: = pad Usiien' Barat Description of Goods
+(4) {3) {4)
+1239 [1518.00.19 _|-- tain lain ~~ other 3.0%
+1240 |1518.00.20 —_|- Campuran atau olahan yang tidak dapat dimakan dari }- Inedible mixtures or preparations of animal 5.0%
+lemak atau minyak hewani atau dari fraksi lemak atau —_ fats or olls or of fractions of different fats or
+minyak yang berbeda oils
+- Campuran atau olahan yang tidak dapat dimakan dari |- Inedible mixtures or preparations of
+lemak atau minyok nabati atau cari fraksi lemale atau vegetable fats or oils or of fractions of
+minynk yang berbeda : different fats or oils :
+1241 ]1518.00.31_ |-- Dari bunh kelapa sawit atau kernel kelapa sawit - - OF the fruit of the oil palm or of palm 5,0%
+kernels
+1242 |1518.00.33 |. - Dari biji rami - - Of linseed 5,0%
+1243 | 1518.00.34 |- - Dari buah zaitun - - Of olives 5.0%
+1244 |1518.00.35 _|- - Dari kacang tanah }- - Of ground-nuts: 5,0%
+1245 1518.00.36 |- - Dari kacang kedelai atau kelapa - + Of soya beans or coconuts 5,0%
+1246 |1518.00.37 _|- - Dari biji kapas - - Of cotton seeds 5.0%
+1247 |1518.00.39 |-- Lain-lain + = Other 5,0%
+1248 |1518,00.60 _- Olahan atau campuran yang tidak dapat dimakan dari |- Inedible mixtures or preparations of animal 5,0%
+emak atau minyak hewani alau fraksinya dan lemak atau |{fats or oils or of fractions thereof and
+Iminyak nabati atau fraksinya vegetable fats or oils or fractions thereof
+15.20 |Gliserol, mentah; air gliserol dan Jarutan alkali gliserol. |Glycerol, crude; glycerol waters and
+\glycerol lyes.
+1249 1520.00.10 |- Gtiserol mentah - Crude glycerol 5,0%
+1250 [1520.00.90 |- Lain-tain - Other 5,0%
+15.21 Malam nabati (selain trigliserida}, malam lebah, malam [Vegetable waxes (other than triglycerides), |
+serangga lainnya dan spermaceti, dimurnikan atau —[beeswax, other insect waxes and
+diwarnai maupun tidak, 'spermaceti, whether or not refined or
+jcoloured.
+1251 [1521.10.00 |- Malam nabati ~ Vegetable waxes 5.0%
+1521.90 |- Lain-lain : > Other
+1252 |1521.90,10 _ |-- Malam lebah dan molam serangga Jainnya ~ + Beeswax and other insect waxes 5,0%
+1253 |1521.90.20  |-- Spermaceti ~- Spermaceti 5,0%
+18.22 IDegra; residu yang diperoloh dari pengolahan zat Dogras; residues resulting from the
+|berlemak atau malam hewani atau nabati. treatment of fatty substances or animal or|
+|vegetable waxes.
+1254 |1522.00.10  |- Degra - Degras 5.0%
+1258 |1522.00,90 _|- Lain-lain - Other 5.0%
+16.01 ‘Sosis dan produk semacamnya,dari daging, sisa daging |Sausages and similar products, of meat,
+jatau darah; olahan makanan berasal dari produk ini. ‘meat offal or blood; food preparations
+lbased on these products.
+1256 |1601.00.10  |- Dalam kemasan kedap utara untuk penjualan eceran —_|- In airtight coniainers for retail sale 30,0%
+1257 [1601.00.90 }- Lain-Lain |- Other 30,0%
+16.02 ‘Daging, sisa daging atau darah lainnya yang diolah atau |Other prepared or preserved moat, moat
+diawetkan. loffal or blood.
+1602.10 |- Olahan homogen : ~ Homogenised preparations :
+1258 [1602.10.10 |-- Mengandung babi, dalam kemasan kedap udara untuk |- - Containing pork, in airtight containers for 30,0%
+penjuatan cceran retail sale
+1259 |1602.10.90  |- - Lain-fain | - Other
+1260 |1602.20.00 |- Dari hati binatang |- Of liver of any animal
+}- Dari unggas dari pos 01.05 |- Of poultry of heading 01.05,
+1602.31 Dari kalkun > -- Of turkeys =
+1261 /1602.31.10 Dalam kemasan kedap udara untuk penjualan eceran |- - - In airtight containers for retail sale 300%
+Lain-lain : Other =
+1262 |1602.31.91 - Daging yang dibilangkan tulangnya atau dipisahkan Of mechanically deboned or separated 30,0%
+dengan mesin meat
+1263 [1602.31.99 ~ Laindain: - += + Other 30,0%
+1602.32 Unggas dari spesies Gulls domesticus ; }- - Of fowls of the species Gallus domesticus :)
+1264 }1602.32.10 Kari ayam, dalam kemasan kedap udara untuk Chicken curry. in airtight containers for 30,0%
+penjualan eceran
+1265 [1602.32.90 Lain-lain 30,0%
+1266 |1602.39.00_|-- Lain-lain 30,0%
+- Dari babi =
+1602.41 Puha dan potongannye : cuts thereof :
+1267 [1602.41.10 Dalam kemasan kedap dart untuk penjualan eceran |- - - In airtight containers for retail sale 30.0%
+1268 |1602.41,90 Lain-lain - ~~ Other 0%
+1602.42 Bahu dan potongannya : + = Shoulders and cuts thereof :
+1269 ]1602.92.10 |--- Dalam kemasan kedap udara untuk penjualan eceran_|--- In airtight containers for retail sale 30,0%
+1270 |1602.42.90 _|- - - Lain-lain --- Other 30,0%
+1602.49 Lain-lain, termasuk campuran * }- - Other, including mixtures
+Laincheon meat Luncheon meat :
+1271 [1602.49.11 - Dalam kemasan kedap udara untuk penjualan - In airtight containers for retail sale 30,0%
+jeceran
+1272 [1602.49.19 |- - - - Laindain - Other 30,0%
++ Lain-lain = Other
+1273 |1602.49.91 - - => Dalam kemasan kedap udara untuk penjualan ~ In airtight containers for retail sale 0,0%
+Jeceran
+1274 |1602.49.99 |. - - - Lain-tain - - -- Other 30,0%
+1275 |1602.50.00 _|- Dari binatang jenis lombu - Of bovine aniurals 30,0%
+1602.90 - Lain-lain, termasuk olaban dari darah binatang : - Other, including preparations of blood of
+Jany animal :
+1276 |1602.90.10 Kari domba, dalam kemasan kedap udara untuk -- Mutton curry, in airtight containers for 30,0%
+penjualan eceran retail sale
+1277 |1602.90.90  |-- Lain-lain - - Other 30,0%
+1278 |1603.00.00  |ekcstrak dan jus daging, ikan atau krustasea, moluska [Extracts and juices of meat, fish or 5.0%
+jatau invertebrate air lainnya. crustaceans, molluscs or other aquatic
+invertebrates.
+16.04 kan diolah atau diawetkan; kaviar dan pengganti Prepared or preserved fish; caviar and
+heaviar yang diolah dari telur ikan. caviar substitutes prepared from fish
+
+ee
+
+www.peraturan.go.id

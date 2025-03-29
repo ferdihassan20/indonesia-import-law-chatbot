@@ -1,0 +1,140 @@
+2017, No.176
+
+-382-
+
+Pos Tarif/
+ee ae Uraian Barang Description of Go
+2)
+7299 18414.80.30 —|-- Generator piston bebas untuk turbin gas: | - Free-pision generators for gas turbines
+- - Kompresor selain yang dimaksud dari subpos 8414.30 |-- Compressors other than those of
+atau 8414.40 : subheading 8414.30 or 8414.40 :
+7300 |8434.80.41 Modul kompresi gas cocok untuk digunakan dalam —_|-- - Gas compression modules suitable for
+loperasi pengeboran minyak tase in oll drilling operations
+7301 [8414.80.42 |- - - Dari jenis yang digunakan untuk pengatur suhu --- Of a kind used for automotive air
+udara pada otomotif conditioners
+‘7302 (8414.80.43 |-- - Sealed unit untuk mesin pengatur subu udara ~~ « Sealed units for air conditioning
+machines
+7303 |8414,80.49 Lain-lain - Other
+7304 [8414.80.50 ~ Pompa udara - - Air pumps
+7305 8414.80.90 ~ Lain-lain - - Other
+[9414.90 |- Bagian : - Parts :
+~ Dari kipas : + - Of fans
+7306 |8414.90.21 Dari barang pada pos 84.15, 84.18, 85.09 alau 85.16 |- - - Of goods of heading 84.15, 84.18, 85,09
+lor 85,16
+7307 [8414.90.22 Dari blower |- - - Of blowers
+7308 [8414.90.29 Lain-lain ~~ = Other
+Dari hood : - - Of hoods :
+7309 |8414.90.31 Dari Larang pada subpos 8414.60 - - = Of goods of subheading 8414.60
+7310 |8414.90,32 Dari barang pada subpos 8414.80 ~- - Of goods of subheading 8414.80
+Dari barang pada subpos 8414.10 : -- Of goods of subheading 8414.10 :
+7311 [8414.90.41 Untuk mesin yang diopernsikan secarn elektcite For electrically operated machines
+7312 [8414.90.42 Untuk mesin yang tidak dioperasikan secara elektrilc For non-electrically operated machines
+7313 [8414.90.50 |- - Dari barang pada subpos 8414.20 | - Of goods of subheading $414.20
+7314 [8414.90.60 Dari barang pada subpos 8414.30 }- - Of goods of subheading 8414.30
+Dari barang pada subpos 8414.40 : + - Of goods of subheading 8414.40 :
+7315 [8414.90.71 Untuk mesin yang dioperasikan secara elektrite -- - For electrically operated machines
+7316 |8414.90,72 _|- - - Untuk mesin yang tidak diopemsikan secara elektrik Por non-electrically operated machines
+Dari pampa atau Kompresor lainnya + |. - Of ather pumps or compressors :
+7317 [8414.90.91 Untuk mesin yang dioperasikan secara elektrite - - - For electrically operated machines
+‘7918 |8414.90.92 _|- - - Untuk mesin yang tidak dioperasikan secara elektrik _ |--- For non-electrically operated machines
+184.15 Mesin pengatur suhu udara, terdiri dari kipas yang conditioning machines, comprising a
+digerakkan dengan motor dan elemen untuk mengubah | motor-driven fan and elements for
+swha dan kelombaban udara, termasuk mesin tersebut  |changing the temperature and humidity,
+lyang tidak dapat mengatur kelembaban udara sccara _ including those machines in which the
+terpisah. Jhumidity cannot be separately regulated,
+8415.10 }- Tipe yang dirancang untuk dipasang pada jendela, - Of a kind designed to be fixed to a window,
+Jdinding, langit-langit atau lantai, menyatu atau “sistem ~ |wall, ceiling or Noor, self-contained or “split-
+jterpisah” : system”
+7319 |8415.10.10 _]- - Dengan kapasitas pendinginan tidak melebihi 26,38 kW |- - Of a cooling capacity not excceding 26.38
+kw
+7320 |8415.10.90 |. - Lain-tain ~~ Other
+8415.20 - Dari jenis vang digunakan untuk orang, di dalam - Of a kind used for persons, in motor
+kendaraan bermotor : vehicles :
+7321 |8415.20.10 _|-- Dengan kapasitas pendinginan tidak melebihi 26,38 kW |- - Of a cooling capacity not exceeding 26.38
+kW
+7322 |8415.20.90 |.» Lain-tain - - Other
+- Lain-lain : - Other ;
+8415.81 ~~ Digabungkan dengan unit refrigerating dan katup - - Incorporting a refrigerating unit and a
+Juntuk mengubah siklus pendingis/pemanas (pompa valve for reversal of the cooling/heat cycle
+panas reversible} : [reversible heat pumps) :
++ - = Dari jenis yang digunakan pada kendaran udara: | - - Of a kind used in aircraft :
+7323 |8415.81.11 _|---- Dengan kapasitas pendlinginan tidak melebihi 21,10 - Of a cooling capacity not exceeding
+kw ‘oO KW
+7324 |8415.81.12 _|---- Dengan kapasitas pendinginan melebihi 21,10 kW - Of a cooling capacity exceeding 21.10
+dengan kecepatan aliran udara paila tiap unit evaporator |kW and with an air flow rate of each
+tebih dari 67,96 m*/menit Jevaporator unit exceeding 67,96 m°/min
+7325 [8415.81.19 |---- Lain-lain - Other
+~ Dari jenis yang digunakan pada kendaraan diatas rel: |-- - Of a kind used in railway rolling stock :
+7326 [8415.81.21 ~ >» Dengan kapasitas pendinginan tidak meicbihi 26,38 |- - - - Of a cooling capacity not exceeding
+kw 26.38 kW
+7327 |8415.81.29  |---- Lain-tain - Other
+- - - Dari jenis yang digunakan di kendiraan bermotor ‘Of a kind used in motor vehicles {other
+(selain dari yang dimaksud pada subpos 8415.20) : than those of subheading 8415.20) :
+7328 |8415.81.31 _|--- - Dengan kapasitas pendinginan tidak melebihi 26,38 - OF a cooling capacity not exceeding
+kW
+7329 |8415.81,39 |. ~~» Lain-lain
+7330 [8415.81.91 |-- - - Dengan kapasitas penclinginan melebihi 21,10 kW capacity exceeding 21.10
+dengan kecepatan aliran udara pada tiap unit evaporator |W and with an air flow rate of each
+lebih dari 67.96 m*/menit jevaporator unit exceeding 67.96 m*/min:
+= == Lainstain : = === Other :
+7331 [8415.81.93 |-.--- Dengan kapasitas pendinginan tidak melebihi ~ = - Of a cooling capacity not exceeding
+22,10 kW 21.10 kW
+7332 [8415.81.94 |----~ Dengan kay itas pencinginan melebihi 21,10 kW ~~» Of a cooling capacity exceeding 21.10
+tetapi tidak melebihi 26,38 kW kW but not exceeding 26.38 kW
+7333 [9415.81.99 |--. -- Lain-lain --- Other
+[8415.82 -- Lain-fain, digabung dengan unit refrigerating : Other, incorporating a refrigerating unit :
+-~» Dari jenis yang digunakan pada kendaraan udara ; > Of a kind used in aircraft :
+es |
+
+5,0%
+5.0%
+5,0%
+5,0%
+5,0%
+5,0%
+5.0%
+
+5.0%
+5.0%
+
+5.0%
+5,0%
+
+5,0%
+5,0%
+
+5.0%
+5.0%
+
+5.0%
+50%
+
+5.0%
+5,0%
+
+15,0%
+
+10,0%
+
+10,0%
+
+10,0%
+
+10,0%
+0,0%
+10.0%
+
+10,0%
+
+10,0%
+
+10,0%
+10,0%
+
+10,0%
+
+10,0%
+10,0%
+10,0%
+
+www.peraturan.go.id

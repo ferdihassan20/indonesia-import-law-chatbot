@@ -1,0 +1,77 @@
+MENTERI KEUANGAN
+REPUBLIK INDONESIA
+
+-5-
+POS/SUB POS BEA MasuK/ |
+NO. |HEADING/ SUB URAIAN BARANG DESCRIPTION OF GOODS MPORT DUTY
+HEADING OR
+() (2) @) (4) )
+- - Lain-lain: - Other:
+- - - Dengan penampang silang lingkaran: Of circular cross-section:
+5830 |7214.20.51.00 - - - - Dari jenis yang biasa digunakan untuk penguatan beton (rebar) - Ofa kind used for concrete reinforcement (rebars) 17,5%
+5831 |7214.20.59.00 - - - - Lain-lain - Other 17,5%
+- - - Lain-lain: Other:
+5832 |7214.20.61.00 - - - - Dari jenis yang biasa digunakan untuk penguatan beton (rebar) - Of a kind used for concrete reinforcement (rebars) 17,5%
+5833 |7214.20.69.00 - - - - Lain-lain - - - - Other 17,5%
+5834 |7214.30.00.00 - Lain-lain, dari baja free cutting |- Other, of free-cutting steel 10%
+- Lain-lain: Other:
+7214.91 - - Dengan penampang silang persegi panjang (selain bujur sangkar): Of rectangular (other than square) cross-section:
+7214.91.10 - - - Mengandung karbon kurang dari 0,6% menurut beratnya: - Containing by weight less than 0.6% of carbon:
+5835 |7214.91.10.10 - - - - Besi beton - Concrete steel 17,5%
+|- - - - Batang poros; manganese steel - - Shaft bars; manganese steel
+5837 |7214.91.10.90 - - - - Lain-lain |- - - - Other 17,5%
+7214.91.20 - - - Mengandung karbon 0,6% atau lebih menurut beratnya: Containing by weight 0.6% or more of carbon:
+5838 |7214.91.20.10 - - - - Besi beton |- - - - Concrete steel 17,5%
+- - - - Batang poros; manganese steel - - - - Shaft bars; manganese steel
+5840 |7214.91.20.90 - - - - Lain-lain - - - - Other 17,5%
+7214.99 - - Lain-lain: - - Other:
+7214.99.10 - - - Mengandung karbon 0,6% atau lebih menurut beratnya, selain}- - - Containing by weight 0.6% or more of carbon, other than of|
+penampang silang lingkaran: circular cross-section:
+5841 |7214.99.10.10 - - - - Besi beton |- - - - Concrete steel 17,5%
+- - - - Batang poros; manganese steel - - - - Shaft bars; manganese steel
+5843 |7214.99.10.90 - - - - Lain-lain - - - - Other 17,5%
+7214.99.90 - - - Lain-lain: - - - Other:
+5844 |7214.99.90.10 _ Besi beton - - - - Concrete steel 17,5%
+r Batang poros; manganese steel |- - - - Shaft bars; manganese steel
+5846 |7214.99.90.90 - Lain-lain |- - - - Other 17,5%
+72.15 Batang dan batang kecil lainnya dari besi, atau baja bukan/Other bars and rods of iron or non-alloy steel.
+Paduan.
+5847 |7215.10.00.00 - Dari baja free cutting, tidak dikerjakan lebih lanjut selain cold-formed|- Of free-cutting steel, not further worked than cold-formed or cold-| 10%
+atau cold- finished finished
+7215.50 - Lain-lain, tidak dikerjakan lebih lanjut selain cold-formed atau cold-|- Other, not further worked than cold-formed or cold-finished:
+finished:
+5848 |7215.50.10.00 - - Mengandung karbon 0,6% atau lebih menurut beratnya, selain}- - Containing by weight 0.6% or more of carbon, other than of circular] 15%
+penampang silang lingkaran cross-section
+- Lain-lain: - - Other:
+5849 |7215.50.91.00 - - - Dari jenis yang biasa digunakan untuk penguatan beton (rebar) |- - - Of a kind used for concrete reinforcement (rebars) 17,5%
+5850 |7215.50.99.00 - - - Lain-lain - - - Other 17,5%
+7215.90 - Lain-lain: - Other:
+5851 |7215.90.10.00 Dari jenis yang biasa digunakan untuk penguatan beton (rebar) - - Of a kind'used for concrete reinforcement (rebars) 17,5%
+5852 |7215.90.90.00 - - Lain-lain - - Other 15%
+72.16 Angle, shape dan section, dari besi atau baja bukan paduan. Angles, shapes and sections of iron or non-alloy steel.
+5853 |7216.10.00.00 |- U, | atau H section, tidak dikerjakan lebih lanjut selain dicanai panas,|- U, | or H sections, not further worked than hot-rolled, hot-drawn or] 20%
+ditarik panas atau diekstrusi, dengan tinggi kurang dari 80 mm extruded, of a height of less than 80 mm
+- L atau T section, tidak dikerjakan lebih lanjut selain dicanai panas,]- L or T sections, not further worked than hot-rolled, hot-drawn or}
+ditarik panas atau diekstrusi, dengan tinggi kurang dari 80 mm: extruded, of a height of less than 80 mm:
+5854 |7216.21.00.00 - - L section - - L sections 20%
+5855 |7216.22.00.00 - - T section - - T sections 20%
+- U, | atau H section tidak dikerjakan lebih lanjut selain dicanai panas,|- U, | or H sections, not further worked than hot-rolled, hot-drawn or|
+ditarik panas atau diekstrusi, dengan tinggi 80 mm atau lebih: extruded of a height of 80 mm or more:
+5856 |7216.31.00.00 - - U section - - U sections 20%
+5857 |7216.32.00.00 - - | section - - | sections 20%
+5858 |7216.33.00.00 - - H section - - H sections 20%
+5859 |7216.40.00.00 - L atau T section, tidak dikerjakan lebih lanjut selain dicanai panas,|- L or T sections, not further worked than hot-rolled, hot-drawn or| 20%
+ditarik panas atau diektrusi, dengan tinggi 80 mm atau lebih extruded, of a height of 80 mm or more
+7216.50 - Angle, shape dan section lainnya, tidak dikerjakan lebih lanjut selain|- Other angles, shapes and sections, not further worked than hot-|
+dicanai panas, ditarik panas atau diekstrusi: rolled, hot-drawn or extruded:
+5860 |7216.50.10.00 - - Dengan tinggi kurang dari 80 mm - - Of a height of less than 80 mm 20%
+5861 |7216.50.90.00 - - Lain-lain - - Other 20%
+- Angle, shape dan section, tidak dikerjakan lebih lanjut selain cold-]- Angles, shapes and sections, not further worked than cold-formed or|
+formed atau cold- finished: cold-finished:
+5862 |7216.61.00.00 - - Diperoleh dari produk canai-lantaian - - Obtained from flat-rolled products 20%
+5863 |7216.69.00.00 - - Lain-lain Other 20%
+|- Lain-lain: - Other:
+5864 |7216.91.00.00 |- - Cold-formed atau cold-finished dari produk canai-lantaian Cold-formed or cold-finished from flat-rolled products 20%
+5865 |7216.99.00.00 - - Lain-lain - - Other 20%
+
+www.jdih.kemenkeu.gogd } x

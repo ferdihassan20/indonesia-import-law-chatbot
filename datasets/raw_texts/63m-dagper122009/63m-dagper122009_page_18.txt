@@ -1,0 +1,134 @@
+NO.
+
+POS TARIF/
+HS
+
+URAIAN BARANG
+
+KETERANGAN
+
+(1)
+
+(2)
+
+(3)
+
+(4)
+
+dengan 84.65), untuk menyiapkan atau membuat
+
+pelat, silinder cetak atau komponen cetak
+
+lainnya; pelat, silinder cetak dan komponen
+
+cetak lainnya; pelat, silinder dan batu lito-
+
+graf, disiapkan untuk keperluan pencetakan
+
+(misalnya, diratakan, dibuat tidak licin atau
+
+dipoles).
+
+8442.30
+
+-Mesin, aparatus dan perlengkapan :
+
+58 |8442.30.10.00
+
+--Dioperasikan secara elektrik
+
+84.43
+
+Mesin cetak digunakan untuk mencetak dengan
+
+memakai pelat, silinder dan komponen cetak lainnya
+
+dari pos 84.42; mesin cetak, mesin fotocopy dan
+
+mesin faksimili lainnya, dikombinasi atau tidak;
+
+bagian dan aksesori lainnya.
+
+-Mesin cetak digunakan untuk mencetak dengan
+
+memakai pelat, silinder dan komponen cetak
+
+lainnya dari pos 84.42:
+
+59
+
+8443.11.00.00
+
+--Mesin cetak offset, reel-fed
+
+60
+
+8443.12.00.00
+
+--Mesin cetak offset, sheet-fed, tipe kantor
+
+(menggunakan lembaran dengan satu sisinya
+
+tidak melebihi 22 cm dan sisi lainnya tidak
+
+melebihi 36 cm dalam keadaan tidak dilipat)
+
+61
+
+8443.13.00.00
+
+--Mesin cetak offset lainnya
+
+62
+
+8443.14.00.00
+
+--Mesin cetak letterpress, reel-fed
+
+tidak termasuk cetak flexographic
+
+63
+
+8443.15.00.00
+
+--Mesin cetak letterpress, selain reel-fed, tidak
+
+termasuk cetak flexographic
+
+64
+
+8443.16.00.00
+
+--Mesin cetak flexographic
+
+65
+
+8443.17.00.00
+
+--Mesin cetak grafir
+
+-Printer lainnya, mesin fotocopy dan mesin
+
+faksimili, baik dikombinasi maupun tidak :
+
+8443.39
+
+--Lain-lain :
+
+---Aparatus fotocopy elektrostatik beroperasi
+
+dengan memproduksi gambar asli secara
+
+langsung diatas copy (proses langsung) :
+
+66 |8443.39.19.00 |----Lain-lain Hanya untuk fotocopy tidak berwarna
+8443.39.20 ---Aparatus fotocopy elektrostatik, ber-
+operasi dengan mereproduksi gambar asli
+melalui perantara di atas copy (proses
+tidak langsung), beroperasi dengan merubah
+dokumen asli menjadi kode digital :
+67 |8443.39.20.90 |----Lain-lain Hanya untuk fotocopy tidak berwarna
+8443.39.30 ---Aparatus fotocopy lainnya dilengkapi
+
+dengan sistem optik :
+

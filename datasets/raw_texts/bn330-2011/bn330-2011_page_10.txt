@@ -1,0 +1,62 @@
+2011, No.330
+
+10
+
+nomor metrik 43 tetapi tidak melebihi nomor
+
+metric number but not exceeding 52
+metric
+
+metrik 52)
+
+number)
+
+--Measuring less than 192.31 decitex but
+
+23_| 5206.14.00.00 --Ukuran kurang dari 192,31 desiteks tetapi not
+less than 125 decitex (exceeding 52
+tidak kurang dari 125 desiteks (melebihi metric
+number but not exceeding 80 metric
+nomor metrik 52 tetapi tidak melebihi nomor _[number)
+metrik 80)
+POS/SUB POS
+no. | BEADING! URAIAN BARANG DESCRIPTION OF GOODS
+HEADING
+qd) Q) (3) (4)
+--Measuring less than 125 decitex
+24 | 5206.15.00.00 --Ukuran kurang dari 125 desiteks (melebihi (exceeding
+nomor metrik 80) 80 metric number)
+-Benang tunggal, dari serat disisir : -Single yarn, of combed fibres :
+--Measuring 714.29 decitex or more (
+25 | 5206.21.00.00 --Ukuran 714,29 desiteks atau lebih (tidak not
+melebihi nomor metrik 14) exceeding 14 metric number )
+--Measuring less than 714.29 decitex but
+26 | 5206.22.00.00 --Ukuran kurang dari 714,29 desiteks tetapi not
+less than 232.56 decitex (exceeding
+tidak _kurang dari 232,56 desiteks (melebihi 14
+metric number but not exceeding 43
+nomor metrik 14 tetapi tidak melebihi nomor __| metric
+metrik 43) number)
+--Measuring less than 232.56 decitex but
+27 | 5206.23.00.00 --Ukuran kurang dari 232,56 desiteks tetapi not
+less than 192.31 decitex (exceeding
+tidak _kurang dari 192,31 desiteks (melebihi 43
+metric number but not exceeding 52
+nomor metrik 43 tetapi tidak melebihi nomor __| metric
+metrik 52) number)
+--Measuring less than 192.31 decitex but
+28 | 5206.24.00.00 --Ukuran kurang dari 192,31 desiteks tetapi not
+less than 125 decitex (exceeding 52
+tidak kurang dari 125 desiteks (melebihi metric
+number but not exceeding 80 metric
+nomor metrik 52 tetapi tidak melebihi nomor __[number)
+metrik 80)
+--Measuring less than 125 decitex
+29 5206.25.00.00 --Ukuran kurang dari 125 desiteks (melebihi | (exceeding
+
+nomor metrik 80)
+
+80 metric number)
+
+www.djpp.kemenkumham.go.id
+

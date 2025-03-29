@@ -1,0 +1,33 @@
+17 2014, No.1704
+
+NO POS TARIF / HS URAIAN BARANG
+1 2 3
+Meranti Kuning dan Alan:
+45. 4407.26.10.00 - - - Diketam, diampelas atau end-joined
+46. | 4407.26.90.00 - - - Lain-lain
+4407.27 - - Sapelli:
+47. 4407.27.10.00 - - - Diketam, diampelas atau end-joined
+48. | 4407.27.90.00 - - - Lain-lain
+4407.28 - - Iroko:
+49. 4407.28.10.00 - - - Diketam, diampelas atau end-joined
+$0. | 4407.28.90.00 - - - Lain-lain
+4407.29 - - Lain-lain:
+- - - Jelutung (Dyera spp.):
+1. | 4407.29.11.00 - --- Diketam, diampelas atau end-jointed
+$2. | 4407.29.19.00 - - - - Lain-lain
+- - - Kapur (Dryobalanops spp.):
+93. 4407.29.21.00 - --- Diketam, diampelas atau end-jointed
+°4. | 4407.29.29.00 - - - - Lain-lain
+- - - Kempas (Koompassia spp.):
+°5- | 4407.29.31.00 - --- Diketam, diampelas atau end-jointed
+6. | 4407.29.39.00 - = -- Lain-lain
+- - - Keruing (Dipterocarpus spp.):
+97. 4407.29.41.00 - --- Diketam, diampelas atau end-jointed
+58.
+
+4407.29.49.00
+
+---- Lain-lain
+
+- - - Ramin (Gonystylus spp.):
+

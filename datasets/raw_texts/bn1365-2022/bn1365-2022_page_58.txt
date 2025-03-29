@@ -1,0 +1,67 @@
+2022, No.1365 _58-
+
+H, LAPORAN PERTANGGUNGJAWABAN PADA IT INVENTORY PENERIMA
+FASILITAS TPB
+
+IT Inventory yang didayagunakan oleh Penerima Fasilitas TPB wajib
+menampilkan dan/atau menghasilkan laporan pertanggungjawaban
+ee sebagai berikut:
+omer Berikat (KB)
+pertanggungjawaban Penerima Fasilitas TPB kawasan
+betuant (KB) meliputi 7 (tujuh) laporan yaitu:
+a. Laporan Pemas Barang
+Laporan ini menampilkan pencatatan barang yang masuk ke
+kawasan berikat (KB), meliputi bahan baku, bahan penolong,
+barang modal, barang subkontrak, dan/atau barang lain sesuai
+ketentuan peraturan perundang-undangan yang mengatur
+mengenai kawasan berikat.
+Laporan ini minimal memuat elemen data dan/atau informasi
+terkait:
+1) Jenis dokumen pabean
+Jenis dokumen pabean pemasukan dan/atau dokumen lain
+yang dipersamakan dengan dokumen pabean pemasukan
+barang (contoh: berita acara stock opname saat awal
+beroperasi).
+2) Nomor pendaftaran dokumen pabean
+Nomor dokumen pabean pemasukan yang diberikan oleh
+Kantor Pabean dan/atau nomor dokumen lain yang
+dipersamakan dengan dokumen pabean pemasukan
+
+barang.
+
+3) Tanggal dokumen pabean
+Tanggal dokumen pabean pemasukan mendapatkan nomor
+pendaftaran dan/atau tanggal dokumen lain yang
+dipersamakan dengan dokumen pabean pemasukan
+barang.
+
+4) Nomor bukti penerimaan barang
+Nomor dokumen dan/atau surat internal penerima fasilitas
+kawasan berikat (KB) sebagai bukti penerimaan barang atas
+yang dimasukkan dan diterima di tempat penyimpanan.
+
+5) Tanggal bukti penerimaan barang
+Tanggal dokumen dan/atau surat internal penerima
+fasilitas kawasan berikat (KB) sebagai bukti penerimaan
+barang atas yang dimasukkan dan diterima di tempat
+penyimpanan.
+
+6) Pengirim barang
+Nama perusahaan pemasok barang dalam hal barang
+berasal dari luar daerah pabean atau nama perusahaan
+pengirim barang dalam hal barang berasal dari tempat lain
+dalam daerah pabean atau kawasan berfasilitas lainnya.
+
+7) Kode barang
+Kode barang yang dibuat oleh penerima fasilitas kawasan
+berikat (KB) untuk setiap jenis barang yang berbeda. Kode
+barang ini menjadi salah satu elemen data utama untuk
+menelusuri keterkaitan dalam setiap proses mutasi barang.
+
+8) Nama barang
+Nama setiap jenis barang yang berbeda sesuai dengan kode
+barang, dapat dipahami secara jelas dan bukan merupakan
+singkatan atau penamaan yang hanya dipahami oleh
+internal penerima fasilitas kawasan berikat (KB).
+
+www.peraturan.go.id

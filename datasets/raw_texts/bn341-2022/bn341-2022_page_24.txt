@@ -1,0 +1,85 @@
+2022, No. 341 04-
+
+8703.50.64 - - - - Dengan kapasitas silinder melcbihi 1.800 ce tetapi tidak
+melebihi 2.000 ce
+
+8703.50.65 - - - - Dengan kapasitas silinder melebihi 2.000 ce tetapi tidak
+melebihi 2.500 ce
+
+8703.50.66 - - - - Dengan kapasitas silinder meicbihi 2.500 ce tetapi tidak
+melebihi 3.000 cc
+
+8703.50.67 ~--- Dengan kapasitas silinder melebihi 3.000 cc
+~ - - Mobil lainnya (termasuk station wagon dan mobil sport, tetapi
+tidak termasuk van}, berpenggerak empat roda :
+
+8703.50.71 ~ - ~~ Dengan kapasitas silinder tidak melebihi 1.000 cc
+
+8703.50.72 - - - - Dengan kapasitas silinder melebihi 1.000 cc tetapi tidak
+melebihi 1.500 ce
+
+8703.50.73 - - - - Dengan kapasitas silinder melebihi 1.500 ce tetapi tidak
+melebihi 1.800 ce
+
+8703.50.74 ~ - - - Dengan kapasitas silinder melebihi 1.800 ce tetapi tidak
+melebihi 2.000 cc
+
+8703.50.75 - - - - Dengan kapasitas silinder melebihi 2.000 ce tetapi tidak
+melebihi 2.500 ce
+
+8703.50.76 - - - - Dengan kapasitas silinder melebihi 2.500 ce tetapi tidak
+melebihi 3.000 cc
+
+8703.50.77 - --- Dengan kapasitas silinder melebihi 3.000 oc
+~~ - Mobil lainnya (termasuk station wagon dan mobil sport, tetapi
+tidak termasuk van}, bukan berpenggerak empat roda :
+
+8703.50.81 ---- Dengan kapasitas silinder tidak melebihi 1.000 cc
+
+8703.50.82 - - - - Dengan kapasitas silinder melebihi 1.000 cc tetapi tidak
+melebihi 1.500 cc
+
+8703.50.83 ~ - - - Dengan kapasitas silinder meiebihi 1.500 ce tetapi
+melebihi 1.800 ce
+
+8703.50.84 ~ - - - Dengan kapasitas silinder melebihi 1.800 cc tetapi
+melebihi 2.000 cc
+
+8703.50.85 - - - - Dengan kapasitas silinder meicbihi 2.000 ce tetapi
+melebihi 2.500 ce
+
+8703.50.86 ~ - - - Dengan kapasitas silinder melebihi 2.500 ce tetapi
+melebihi 3.000 cc
+
+8703.50.87 ~ - -- Dengan kapasitas silinder melebihi 3.000 cc
+~~ - Lain-lsin :
+
+8703.50.91 ---- Dengan kapasitas silinder tidak melebihi 1.000 cc
+
+8703.50.92 - - - - Dengan kapasitas silinder melebihi 1.000 ce tetapi
+melebihi 1.500 ce
+
+8703.50.93 - - - - Dengan kapasitas silinder melebihi 1.500 ce tetapi
+melebihi 1.800 cc
+
+8703.50.94 - - - - Dengan kapasitas silinder melebihi 1.800 cc tetapi
+melebihi 2.000 ce
+
+8703.50.95 - - - - Dengan kapasitas silinder melebihi 2.000 ce tetapi
+melebihi 2.500 ce
+
+8703.50.96 - - - - Dengan kapasitas silinder melebihi 2.500 ce tetapi
+melebihi 3.000 cc
+
+8703.50.97 ~ --- Dengan kapasitas silinder melebihi 3.000 cc
+
+8703.60 - Kendaraan lainnya, dengan kedua mesin piston pembakaran
+dalam cetus api dan motor listrik sebagai motor untuk penggerak,
+dapat diisi tenaganya dengan menghubungkannya ke sumber
+tenaga listrik cksternal :
+
+8703.60.31
+~ - - All-Terrain Vehicles (ATV) :
+8703.60.32 ~--- Dengan kapasitas silinder tidak melebihi 1.000 cc
+
+www.peraturan.go.id

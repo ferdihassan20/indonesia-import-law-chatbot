@@ -1,0 +1,107 @@
+2018, No.1234 _-99-
+
+volumenya
+146 2205.10.20 - - Dengan kadar alkohol melebihi 15 % menurut volumenya
+147 2205.90.10 - - Dengan kadar alkohol tidak melebihi 15 % menurut
+volumenya
+
+148 2205.90.20 - - Dengan kadar alkohol melebihi 15 % menurut volumenya
+
+149 2206.00.10 - Fermentasi buah apel dan fermentasi buah pir
+
+150 2206.00.20 - Sake (minuman fermentasi dari beras)
+
+151 2206.00.31 - - Dalam kemasan 2 | atau kurang
+
+152 2206.00.39 - - Lain-lain
+
+153 2206.00.41 - - Dengan kadar alkohol tidak melebihi 1,14 % menurut
+volumenya
+
+154 2206.00.49 - - Lain-lain
+
+155 2206.00.91 - - Minuman fermentasi beras lainnya (termasuk minuman
+fermentasi beras mengandung obat)
+
+156 2206.00.99 - - Lain-lain
+
+157 2208.20.50 - - Brandy
+
+158 2208.20.90 - - Lain-lain
+
+159 2208.30.00 - Wiski
+
+160 2208.40.00 - Rum dan alkohol lainnya yang diperoleh dengan
+
+161 2208.50.00 - Gin dan Geneva
+
+162 2208.60.00 - Vodka
+
+163 2208.70.10 - - Dengan kadar alkohol tidak melebihi 57 % menurut
+volumenya
+
+164 2208.70.90 - - Lain-lain
+
+165 2208.90.10 - -Samsu mengandung obat dengan kadar alkohol tidak
+melebihi 40 % menurut volumenya
+
+166 2208.90.20 - - Samsu mengandung obat dengan kadar alkohol melebihi
+40 % menurut volumenya
+
+167 2208.90.30 - - Samsu lainnya, dengan kadar alkohol tidak melebihi 40 %
+menurut volumenya
+
+168 2208.90.40 - - Samsu lainnya,dengan kadar alkohol melebihi 40 %
+menurut volumenya
+
+169 2208.90.50 - - Arak atau alkohol nanas dengan kadar alkohol tidak
+melebihi 40 % menurut volumenya
+
+170 2208.90.60 - - Arak atau alkohol nanas dengan kadar alkohol melebihi 40
+% menurut volumenya
+
+171 2208.90.70 - - Bitter dan minuman sejenis dengan kadar alkohol tidak
+melebihi 57 % menurut volumenya
+
+172 2208.90.80 - - Bitter dan minuman sejenis dengan kadar alkohol melebihi
+57 % menurut volumenya
+
+173 2208.90.91 - - - Dengan kadar alkohol tidak melebihi 1,14 % menurut
+volumenya
+
+174 2208.90.99 - -- Lain-lain
+
+175 2710.19.43 - --- Minyak pelumas lainnya
+
+176 3213.10.00 - Pewarna dalam set
+
+177 3213.90.00 - Lain-lain
+
+178 3401.11.60 - -- Lain-lain, dari kain kempa atau bukan tenunan, diresapi,
+
+179 3401.11.90 - -- Lain-lain
+
+180 3401.19.10 - -- Dari kain kempa atau bukan tenunan, diresapi, dilapisi
+atau ditutupi dengan sabun atau deterjen
+
+181 3401.19.90 - -- Lain-lain
+
+182 3401.20.91 - -- Dari jenis yang digunakan untuk memisahkan tinta pada
+kertas daur ulang
+
+183 3401.20.99 - -- Lain-lain
+
+184 3401.30.00 - Produk dan preparat aktif-permukaan organik untuk
+disiapkan untuk penjualan cceran, mengandung sabun
+maupun tidak
+
+185 3402.20.95 - -- Preparat pencuci atau penghilang noda, termasuk
+Preparat pengelantang, pembersih atau penghilang gemuk
+
+186 3403.19.12
+
+187 3403.19.19
+
+188 3403.99.12
+
+www.peraturan.go.id

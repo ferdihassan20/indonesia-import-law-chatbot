@@ -1,0 +1,120 @@
+-15-
+
+2016, No.302
+
+Pos Tarif/ HS
+
+Uraian
+
+Kriteria Teknis
+
+Kelas B kapasitas 100
+- 500 GB, Otomasi
+autoloader,
+
+Kelas C Kapasitas C:
+di atas SOOGB,
+otomasi lengan robot
+
+8471.70.40.00
+
+- - Optical disk drive, termasuk CD-
+ROM drive, DVD drive dan CD-R drive
+
+Kelas kecepatan tulis
+A; maksimum di
+bawah 8x,
+
+Kelas kecepatan tulis
+A: maksimum antara
+8x - 48x,
+
+Kelas kecepatan tulis
+A: diatas 48x
+
+- - Lain-lain:
+
+847 1.70.99.00
+
+- - - Lain-lain
+
+USB, SYSTEM
+STORAGE High
+performance Storage,
+Dual active RAID
+controllers (4 to 8
+Gbps)
+
+10
+
+8471.80
+
+847 1.80.90.00
+
+- Unit lainnya dari mesin pengolah data
+otomatis:
+- - Lain-Lain
+
+Network Card
+
+84.72
+
+Mesin kantor lainnya (misalnya,
+hektograf atau mesin duplikasi stensil,
+mesin pencetak alamat, mesin penyedia
+uang kertas otomatis, mesin penyortir
+koin, mesin penghitung atau
+pembungkus koin, mesin peruncing
+pensil, mesin pembuat lubang atau
+mesin kokot).
+
+8472.90
+
+- Lain-lain:
+
+11
+
+8472.90.10.00
+
+- - Automatic teller machine
+
+84.73
+
+Bagian dan aksesori (selain penutup,
+kotak pembawa dan sejenisnya) cocok
+untuk digunakan semata-mata atau
+terutama dengan mesin dari pos 84.69
+sampai dengan 84.72.
+
+8473.30
+
+- Bagian dan aksesori pada mesin dari
+os 84.71:
+
+12
+
+8473.30,10.00
+
+- - Printed circuit board yang dirakit
+
+CARD
+ASSEMBLY/PCB,
+COMP PART, PLANAR,
+PC CARD, PRINTED
+CIRCUIT
+ASSEMBLY,MEMORY
+CARD, PC
+ASSEMBLY, BOARD
+CARD ADAPTOR/ASM
+
+PRINTED CIRCUIT
+CARD, ASM Yo
+CARD, CARD
+ADAPTER :
+
+Kelas input voltage A :
+di bawah 0.5 V
+
+Kelas input voltage B :
+O.5V - 3V
+

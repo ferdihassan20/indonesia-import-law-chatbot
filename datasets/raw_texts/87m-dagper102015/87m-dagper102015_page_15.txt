@@ -1,0 +1,50 @@
+-2-
+
+[iat [tain emanicampar |
+Enemas
+
+12
+13
+
+--- Luncheon meat:
+
+es
+ii
+
+1602.49.99.00 ---- Lain-lain
+
+1602.50.00.00 - Dari binatang jenis lembu
+
+- Lain-lain, termasuk olahan dari darah
+1602.90
+binatang:
+
+| 21 | 1602.90.10.00 -- Kari domba, dalam kemasan kedap udara
+| 22 | 1602.90.90.00 -- Lain-lain
+
+Ekstrak dan jus daging, ikan atau krustasea,
+moluska atau invertebrata air lainnya.
+
+| 23 1603.00.10.00 | - Dari ayam, dibumbui
+
+| 24 1603.00.20.00 | - Dari ayam, tanpa bumbu
+| 25 | 1603.00.30.00 | - Lain-lain, dibumbui
+26 1603.00.90.00 | - Lain-lain
+
+Ikan diolah atau diawetkan; kaviar dan
+
+pengganti kaviar yang diolah dari telur ikan.
+
+- Ikan, utuh atau dalam potongan, tetapi tidak
+dicincang:
+
+1604.11 -- Salmon:
+1604.11.10.00 | --- Dalam kemasan kedap udara
+
+—
+en
+
+1604.12 -- Herring:
+1604.12.10.00 | --- Dalam kemasan kedap udara
+1604.12.90.00 | --- Lain-lain
+

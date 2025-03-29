@@ -1,0 +1,59 @@
+2019, No.1670 -62-
+
+PETUNJUK PENGISIAN
+
+Nomor (1) : Diisi hari saat pelaksanaan pemusnahan,
+
+Nomor (2) : Diisi tanggal saat pelaksanaan pemusnahan.
+
+Nomor (3) : Diisi bulan saat pelaksanaan pemusnahan,
+
+Nomor (4) : Diisi tahun saat pelaksanaan pemusnahan.
+
+Nomor (5) : Diisi tempat (kota) pelaksanaan pemusnahan.
+
+Nomor (6) : Diisi nama Pejabat Bea dan Cukai yang mewakili Kementerian
+Keuangan yang menyaksikan pemusnahan.
+
+Nomor (7) : Diisi Nomor Induk Pegawai Pejabat Bea dan Cukai yang
+mewakili Kementerian Keuangan yang  menyaksikan
+pemusnahan,
+
+Nomor (8) : Diisi nama unit kerja Pejabat Bea dan Cukai yang mewakili
+Kementerian Keuangan yang menyaksikan pemusnahan.
+
+Nomor (9) : Diisi nama jabatan Pejabat Bea dan Cukai yang mewakili
+Kementerian Keuangan yang menyaksikan pemusnahan.
+
+Nomor (10) : Diisi nama pejabat yang mewakili Perguruan Tinggi swasta
+
+atau Badan Usaha yang menyaksikan.
+
+Nomor (11): Diisi nomor identitas pejabat yang mewakili Perguruan Tinggi
+swasta atau Badan Usaha yang menyaksikan.
+
+Nomor (12) : Diisi nama entitas pejabat yang mewakili Perguruan Tinggi
+swasta atau Badan Usaha yang menyaksikan.
+
+Nomor (13) : Diisi nama jabatan Pejabat yang mewakili Perguruan Tinggi
+swasta atau Badan Usaha yang menyaksikan.
+
+Nomor (14): Diisi nama pihak yang melakukan pemusnahan.
+
+Nomor (15) : Diisi nomor identitas pihak yang melakukan pemusnahan.
+
+Nomor (16) : Diisi nama _ entitas (perusahaan/badan/lainnya) yang
+melakukan pemusnahan.
+
+Nomor (17) =: Diisi nama jabatan yang melakukan pemusnahan.
+
+Nomor (18) : Diisi nama tempat pelaksanaan pemusnahan.
+
+Nomor (19) : Diisi nama Perguruan Tinggi swasta atau Badan Usaha
+
+pemilik barang yang dimusnahkan.
+Nomor (20) : a.  Diisi uraian jenis barang dan spesifikasi teknis barang
+(merk, tipe, dimensi, kapasitas, dll), dalam hal barang
+selain kendaraan bermotor, atau
+
+www.peraturan.go.id

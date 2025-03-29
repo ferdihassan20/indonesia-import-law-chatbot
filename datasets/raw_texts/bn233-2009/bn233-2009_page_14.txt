@@ -1,0 +1,77 @@
+2009, No.233
+
+BAHAN BAKU
+
+14
+
+NO
+
+POS TARIF/HS
+
+URAIAN BARANG
+
+3907.40.00.00
+
+Polikarbonat.
+
+CAKRAM OPTIK KOSONG DAN CAKRAM OPTIK ISI
+
+NO
+
+POS TARIF/HS
+
+URAIAN BARANG
+
+8523.40
+
+8523.40.11.00
+
+8523.40.12.00
+
+8523.40.13.00
+
+8523.40.14.00
+
+8523.40.19.00
+
+8523.40.91.00
+
+8523.40.92.00
+
+8523.40.93.00
+
+Media optik :
+Cakram untuk sistem pembaca laser :
+
+Dari jenis yang cocok untuk penggunaan komputer,
+tidak terekam.
+
+Dari jenis yang digunakan untuk reproduksi fenomena
+selain suara atau gambar.
+
+Dari jenis yang digunakan hanya untuk reproduksi
+suara.
+
+Dari jenis yang digunakan untuk untuk mereproduksi
+bentuk, data, suara dan gambar, direkam dalam
+bentuk biner yang dibaca oleh mesin, dan dapat
+dimanipulasi atau memberikan interaktivitas terhadap
+pemakai, dengan menggunakan mesin pengolah data
+otomatis; media penyimpanan format proprietary
+(terekam).
+
+Cakram untuk sistem pembaca laser selain dari HS
+8523.40.11.00, HS 8523.40.12.00, HS 8523.40.13.00,
+dan HS 8523.40.14.00.
+
+Cakram untuk sistem pembaca selain laser:
+
+Dari jenis yang cocok untuk penggunaan komputer,
+tidak terekam.
+
+Dari jenis yang digunakan untuk reproduksi fenomena
+selain suara atau gambar.
+
+Dari jenis yang digunakan hanya untuk reproduksi
+suara.
+

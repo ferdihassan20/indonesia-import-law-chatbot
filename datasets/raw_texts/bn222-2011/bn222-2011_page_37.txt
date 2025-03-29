@@ -1,0 +1,84 @@
+37
+
+2011, No.222
+
+POS/SUB POS % BEA
+HEADING/ DESCRIPTION OF MASUK/ %
+NO. SUB URAIAN BARANG GOODS IMPORT
+HEADING DUTY
+103) (2) @) (4) (5)
+152 | 8505.19.00.00 | --Lain-lain --Other 0
+Bagian dan aksesori yang cocok untuk | Parts and accessories
+85.22 fi
+digunakan suitable for use solely
+semata-mata atau terutama dengan or principally with the
+aparatus dari apparatus of headings
+pos 85.19 sampai dengan 85.21. 85.19 to 85.21.
+8522.10 -Pick-up catridges : -Pick-up cartridges :
+8522.90 -Lain-lain : -Other :
+8522.90.50.00 ~-Head reproduksi audio atau visual, --Audio or video reproduction
+153 tipe heads, magnetic 0
+magnetik; head dan batang kecil type; magnetic erasing
+penghapus heads and rods
+magnetik
+Kapasitor listrik, tetap, variabel atau Electrical capacitors, fixed,
+85.32 .
+dapat variable or
+disesuaikan (pre-set). adjustable (pre-set).
+-Kapasitor tetap dirancang untuk -Fixed capacitors designed for
+154 | 8532.10.00.00 digunakan da- use in 50/60 Hz 0
+lam sirkit 50/60 Hz dan mempunyai circuits and having a reactive
+kapasitas power handling
+pemindah daya reaktif tidak kurang dari capacity of not less than 0.5
+0,5 kvar (power
+kvar (kapasitor daya) capacitors)
+Resistor listrik (termasuk reostat dan Electrical resistors
+85.33
+poten- (including rheostats and
+. . . potentiometers), other than
+siometer), selain resistor panas. heati .
+eating resistors.
+-Resistor karbon tetap, tipe komposisi -Fixed carbon resistors,
+8533.10 Se
+atau film : composition or film
+types :
+-Resistor tetap lainnya : -Other fixed resistors :
+--Untuk kapasitas pemindah daya tidak --For a power handling
+8533.21 ae : .
+melebihi capacity not exceeding
+20 W 20 W
+155 | 8533.29.00.00 | --Lain-lain --Other 0
+
+85.36
+
+Aparatus listrik untuk memindahkan
+atau melin-
+
+dungi sirkit listrik, atau untuk membuat
+sam-
+
+bungan ke atau pada sirkit listrik
+(misalnya,
+
+sakelar, relai, sekering, penekan
+kenaikan
+
+tegangan, stop kontak, soket, gagang
+lampu
+
+Electrical apparatus for
+switching or
+
+protecting electrical circuits,
+or for making
+
+connections to or in
+electrical circuits
+
+(for example, switches,
+relays, fuses, surge
+suppressors, plugs,
+sockets, lamp-holders
+
+www.djpp.kemenkumham.go.id
+

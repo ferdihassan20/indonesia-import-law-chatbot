@@ -1,0 +1,422 @@
+7089
+7690
+7691
+
+7692
+7693
+
+7694
+7098
+
+7096
+7097
+
+7698
+7699
+7700
+7701
+
+7702
+7703
+7704
+
+7708
+7706
+7107
+
+7708
+7709
+
+7710
+
+Tmt
+
+772
+
+773
+774
+
+7s
+7716
+
+THT
+718
+
+m9
+7720
+
+77
+T722
+
+7723
+7724
+
+7725
+7726
+
+q27
+7728
+
+-393-
+
+2017, No.176
+
+(3338.20.20
+8433.30
+8438.30.10
+(8438.30.20
+8438.40.00
+8438.50
+
+8438.50.10
+8438.50.20
+8438.60
+
+8438.60.10
+3438.60.20
+[4438.80
+
+[8438.80.11
+18438,80.12
+
+18498,80.21
+8438.80.22
+
+8438.80.91
+8438.80.92
+8438.90
+
+8438.90.11
+8438.90.12
+8438.90, 19
+
+18438.90,21
+18438,90,22
+
+8438.90.20
+84.39
+
+8439.10.00
+8439.20.00
+
+8439.30.00
+
+8439.91.00
+
+[8439.99.00
+84.40
+
+[3440.10
+8440.10.10
+8340.10.20
+8440.90
+8440.90.10
+8440.90.20
+
+84.41
+
+8441.10
+8441.10.10
+8441.10.20
+8441.20
+
+8441.20.10
+8441.20.20
+1841.30
+
+8441.30.10
+8441.30.20
+8441.40
+
+8441.40.10
+8441.40.20
+8441.80
+
+8441.80.10
+8441.80.20
+8441.90
+
+8441.90.10
+8441.90.20
+
+84.42
+
+= Tidak dioperasikan secam elektri
+- Mesin untuk pembuatan gula =
+
+~~ Dloperasikan secara elektrik
+
+- - Tidak dioperasikan secara elektrik
+- Mesin pembuat bit
+
+- Mesin untuk pengolahan daging atau unggas :
+
+- - Dioperasikan secara elektrik
+- - Tidak dioperasikan secara elektrik
+}- Mesin untuk pengolahan buah, kaceng atau sayuran :
+
+- - Dioperasikan seeara elektrike
+- Tidak dioperasikan secara elektrike
+- Mesin lainnya ;
+> Mesin pembuat pulp kopi
+Dioperasikan sccara eiektrik
+Tidak diopernsikan secara elektrik
+~ Mesin untuk pengolahan ikan, krustasea atau moluska
+
+Dioperasikan sccara clektrik
+
+Jak dioperasikan secara elektrik
+
+- Lain-lain :
+
+Dioperasikan secara elektrik
+
+Tidak dioperasikan secara elektrile
+
+- Bagian =
+
+Dari mesin yang dioperasikan secara elektrik :
+Dari barang pada subpos 8438.30.10
+
+Dari mesin pembuat pulp kopi
+
+Lain-tain
+
+- - Dari mesin yang tidak dioperasikan secara elektrik :
+
+Dari barang pada subpos 8438.30.20
+Dari mesin pembuat pulp kopi
+
+Lain-lain
+
+/Mesin untuk membuat pulp dari bahan serst seluloss
+jatau untuk membuat atau merampungkan kertas atau
+Ikertas karton.
+
+| Mesin untuk membuat pulp dari bahan serat sclulosa
+
+- Mesin untuk membuat kertas atau kertas karton
+- Mesin untuk merampungkan kertas atau kerias karton
+
+- Bagian :
+-- Dari mesin untuk membuat pulp dari bahan serat
+selulosa
+
+- ~ Lain-laies
+
+Mesin penjilid buku, termasuk mesin penjahit buku.
+
+- Mesin :
+
+Dioperasikan secara clektrik
+
+Tidak dioperasikan secara elektrike
+
+- Bugian :
+
+- - Dari mesin yang dioperasikan secara clektrlk
+
+- + Dari mesin vang tidak dioperasikan secara elektrile
+
+Mesin lainnya untuk membuat pulp kertas, kertas atau
+kertas karton, termasuk mesin pemotong dari semua
+|jenis.
+
+- Mesin pemotong :
+
+. - Dioperasikan secara elektrik
+
+|. - Tidak dioperasikan secara elekiri
+
+- Mesin untuk membuat kantong, sak atau amplop :
+
+- - Dioperasikan sccara elcktrik
+- - Tidak dioperasikan secara elektrike
+
+- Mesin untuk membuat kardus, kotak, petl, tabung, drum
+Jatau kemasan semacam itu, selain dengan pencetakan :
+
+Dioperasikan secara elektrik
+- - Tidak dioperasikan secara elektrile
+- Mesin untuk mencetak barang dari pulp kertas, kertas
+atau kertas karton ;
+- - Dioperasikan secara elektrik
+|- - Tidak dioperasikan secara elektrik
+}- Mesin lainnya >
+
+Dioperasikan secara elektrile
+Tidak dioperasikan secara clekirik
+Bagian ;
+
+| - Dari mesin yang dioperasikan secara clektrik
+-- Dari mesin yang tidak dioperasikan secara clektrik:
+
+IMesin, aparatus dan porlengkapan (selain mesin yang
+|dimaksud dari pos 84.56 sampai dengan 84,65) untuk
+Imenyiapkan atau membuat pelat, silinder cetak atau
+}komponen cetak lainnya; pelat, silinder cetak dan
+komponen cetal lainnya; pelat, silinder dan batu
+litograf, disiapkan untuk keperluan poncetalan
+(misalnya, diratakan, dibuat tidak licin atau dipoles).
+
+~ Not electrically operated
+}- Machinery for sugar manufacture
+-- Blectrically operated
++ ~ Not electrically operated
+- Brewery machinery
+- Machinery for the preparation of meat or
+poultry :
+-- Electrically operated
+-- Not electrically operated
+- Machinery for the preparation of fruits,
+‘nuts or vegetables :
+~~ Electrically operated
+- - Not electrically operated
+- Other machinery :
+- - Colle pulpers :
+- Electrically operated
++ += Not electrically operated
+~~ Machinery for the preparation of fish,
+crustaceans or molluscs ;
++ Electrically operated
+- - = Not electrically operated
++ Othe:
+- - - Blectrically operated
+- - Not electrically opernted
+- Parts :
+-- Of electrically operated machines >
+~~ - Of goods of subheading 8438.30.10
+- Of cofee pulpers
+- -- Other
+-- Of non-electrically operated machines ;
+
+- Of goorts of subheading 8438.30.20
+
+Of coflee pulpers
+
+- Other
+
+Machinery for making pulp of fibrous
+cellulosic material or for making or
+finishing paper or paperboard.
+
+- Machinery for making pulp of fibrous
+cellulosic material
+
+- Machinery for making paper or paperboard
+
+- Machinery for finishing paper or
+paperboard
+
+= Parts :
+
+- - Of machinery for making pulp of fibrous
+cellulosic material
+
+- - Other
+
+Book-binding machinery, including book.
+lsewing machines.
+
+- Machinery :
+
+- = Llectrically operated
+
+- - Not electrically operated
+
+| Parts :
+
+- - Of electrically operated machines
+
+~ Ofmnon-electrically operated machines
+
+[Other machinery for making up paper
+pulp, paper or paperboard, including
+joutting machines of all kinds.
+- Cutting machines :
+|. - Electrically operated
+}- - Not electrically operated
+|- Machines for making bags, sacks or
+lenvelopes :
+|. - Electrically operated
+|. - Not electrically operated
++ Machines for making cartons, boxes, cases,
+tubes, drums or similar containers, other
+than by moulding =
+Electrically operated
+
+- - Not electrically operated
+|- Machines for moulding articles in paper
+pulp, paper or paperboard ;
+= Rlectrically operated
++ Not electrically operated
+|- Other machinery :
+- - Electrically operated
+
+~ Not electrically operated
+- Parts
+
+~ Of electrically operated machines
+- - Of non-electrically operated machines:
+
+Machinery, apparatus and equipment
+(other than the machines of headings
+84.56 to 84.68) for preparing or making
+plates, cylinders or other printing
+components; plates, cylinders and other
+printing components; plates, cylinders
+‘and lithographic stones, prepared for
+printing purposes (for example, planed,
+grained or polished).
+
+5,0%
+5,0%
+
+5.0%
+0%
+
+5.0%
+5.0%
+5,0%
+5.0%
+
+‘5.0%
+50%
+
+5,0%
+5,0%
+50%
+
+5.0%
+5.0%
+
+5.0%
+
+5.0%
+
+5,0%
+
+0,0%
+5,0%
+
+3.0%
+5,0%
+
+0,0%
+5,0%
+
+5,0%
+
+5.0%
+50%
+
+5,0%
+5,0%
+
+0.0%
+5.0%
+
+5.0%
+5.0%
+
+www.peraturan.go.id

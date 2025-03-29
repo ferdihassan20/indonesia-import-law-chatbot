@@ -1,0 +1,64 @@
+-51-
+
+PETUNJUK PENGISIAN
+
+Nomor (1) : diisi nama Kantor Wilayah Direktorat Jenderal Bea dan Cukai,
+nama dan tipe Kantor Pelayanan Utama Bea dan Cukai, atau
+nama kantor dan tipe Kantor Pengawasan dan Pelayanan Bea
+
+dan Cukai.
+
+Nomor (2) : diisi alamat Kantor Bea dan Cukai.
+
+Nomor (3) : diisi nomor Surat Pemberitahuan Pencairan Jaminan Tunai.
+
+Nomor (4) : diisi tanggal, bulan, dan tahun  penerbitan Surat
+Pemberitahuan Pencairan Jaminan Tunai.
+
+Nomor (5) : diisi nama orang/perusahaan yang menyerahkan Jaminan
+Tunai.
+
+Nomor (6) : diisi alamat lengkap orang/perusahaan yang menyerahkan
+Jaminan Tunai.
+
+Nomor (7) : diisi nilai Jaminan tunai (dalam angka Rupiah).
+
+Nomor (8) : diisi nilai Jaminan tunai (dalam huruf).
+
+Nomor (9) : diisi nomor bukti penerimaan Jaminan.
+
+Nomor (10) : diisi tanggal bukti penerimaan Jaminan.
+
+Nomor (11) : diisi nilai Jaminan tunai yang disetorkan ke Kas Negara (dalam
+angka Rupiah).
+
+Nomor (12) : diisi nilai Jaminan tunai yang disetorkan ke Kas Negara (dalam
+huruf).
+
+Nomor (13) : diisi Nomor Transaksi Penerimaan Negara (NTPN).
+
+Nomor (14) : diisi tanggal Nomor Transaksi Penerimaan Negara (NTPN).
+
+Nomor (15) : diisi kegiatan kepabeanan dan/atau cukai yang dijamin.
+
+Nomor (16) : diisi jenis dokumen sumber yang menjadi dasar penyerahan
+Jaminan.
+
+Nomor (17) : diisi nomor dokumen sumber yang menjadi dasar penyerahan
+Jaminan.
+
+Nomor (18) : diisi tanggal dokumen sumber yang menjadi dasar penyerahan
+Jaminan.
+
+Nomor (19) : diisi Kepala Kantor atau jabatan Pejabat Bea dan Cukai atas
+nama Kepala Kantor yang menandatangani surat
+pemberitahuan pencairan Jaminan.
+
+Nomor (20) : diisi nama Kepala Kantor atau nama Pejabat Bea dan Cukai
+atas nama Kepala Kantor yang menandatangani surat
+pemberitahuan pencairan Jaminan.
+
+Nomor (21) : diisi nomor Peraturan Menteri mengenai Jaminan dalam
+rangka kegiatan kepabeanan dan cukai.
+
+din oebrseugoi

@@ -1,0 +1,22 @@
+37. 2022, No.1149
+
+Nomor (34) : diisi dengan total jumlah bea masuk, cukai, pajak, dan denda
+
+yang wajib dilunasi.
+
+Nomor (35) =: diisi nama jabatan Pejabat Bea dan Cukai yang menerbitkan
+SPPBMCP.
+
+Nomor (36) : diisi nama Pejabat Bea dan Cukai yang menerbitkan
+SPPBMCP.
+
+Nomor (37) : diisi NIP Pejabat Bea dan Cukai yang menerbitkan SPPBMCP.
+
+Nomor (38) : diisi dengan keterangan lainnya seperti dasar hukum,
+ketentuan pembayaran, tanggal jatuh tempo dil.
+
+Nomor (39) : diisi nomor halaman.
+
+Nomor (40) : diisi jumlah halaman,
+
+www.peraturan.go.id

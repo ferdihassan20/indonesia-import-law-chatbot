@@ -1,0 +1,85 @@
+NO.
+
+POS TARIF/
+
+URAIAN BARANG
+
+KETERANGAN
+
+HS
+
+(1) (2) (3) (4)
+setelah mendapat pertimbangan teknis
+dari Dirjen IATT, Depperin
+
+-Kapal penangkap ikan :
+
+272 |8902.00.11.00 |--Dengan tonase kotor tidak melebihi 26
+
+273 |8902.00.12.00 |--Dengan tonase kotor melebihi 26 tetapi kurang dari 40
+
+274 |8902.00.13.00 |--Dengan tonase kotor 40 atau lebih tetapi
+
+kurang dari 100
+275 |8902.00.14.00 |--Dengan tonase kotor 100 atau lebih tetapi
+
+tidak melebihi 250
+
+276
+
+8902.00.15.00
+
+--Dengan tonase kotor melebihi 250 tetapi
+
+tidak melebihi 4.000
+
+277 |8902.00.16.00 |--Dengan tonase kotor melebihi 4.000
+-Lain-lain :
+278 |8902.00.91.00 |--Dengan tonase kotor tidak melebihi 26
+279 |8902.00.92.00 |--Dengan tonase kotor melebihi 26 tetapi kurang dari 40
+89.03 Yacht dan kendaraan air lainnya untuk pelesir atau Kapal dengan usia diatas 20 tahun
+
+setelah mendapat pertimbangan teknis
+dari Dirjen IATT, Depperin
+
+280 |8903.10.00.00 |-Dapat digembungkan
+
+-Lain-lain :
+
+281 |8903.91.00.00 |--Perahu layar, dengan atau tanpa motor pembantu
+
+282 |8903.92.00.00 |--Perahu motor, selain perahu motor tempel
+
+283 |8903.99.00.00_|--Lain-lain
+
+89.04 Kapal penarik dan pendorong. Kapal dengan usia diatas 20 tahun
+setelah mendapat pertimbangan teknis
+dari Dirjen IATT, Depperin
+-Kapal penarik :
+284 |8904.00.11.00 |--Dengan tonase kotor tidak melebihi 26
+
+285
+
+8904.00.19.00
+
+--Dengan tonase kotor melebihi 26
+
+-Kapal pendorong :
+
+286 |8904.00.21.00 |--Dengan tonase kotor tidak melebihi 26
+287 |8904.00.29.00 |--Dengan tonase kotor melebihi 26
+89.05 Kapal suar, kapal pemadam kebakaran, kapal keruk, |Kapal dengan usia diatas 20 tahun
+setelah mendapat pertimbangan teknis
+dari Dirjen IATT, Depperin
+288 |8905.10.00.00 |-Kapal keruk
+289 |8905.20.00.00 |-Platform pengeboran atau produksi terapung
+atau di bawah air
+8905.90 -Lain-lain :
+290 |8905.90.10.00 |--Dok terapung
+291 |8905.90.90.00_|--Lain-lain
+89.06 Kendaraan air lainnya, termasuk kapal perang
+
+dan perahu penyelamat selain sampan.
+
+22
+

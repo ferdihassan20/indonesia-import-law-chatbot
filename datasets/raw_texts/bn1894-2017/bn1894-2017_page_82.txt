@@ -1,0 +1,42 @@
+2017, No.1894 -89-
+
+No Pos Tarif/HS Uraian Barang
+
+804. 8518.22.10 - - - Tipe box speaker
+
+805. 8518.22.90 - - - Lain-lain
+8518.29 - - Lain-lain:
+
+806. 8518.29.90 - - - Lain-lain
+8518.40 - Amplifier listrik audio-frekuensi:
+
+807. 8518.40.90 - - Lain-lain
+8518.50 - Perangkat amplifier suara listrik:
+
+808. 8518.50.10 - - Mempunyai tingkat kekuatan 240 W atau lebih
+
+soo. |  |-- Lainnya, dengan pengeras suara,dari jenis yang |
+
+8518.50.20 cocok untuk penyiaran, mempunyai voltage rating
+
+50 V atau lebih tetapi tidak melebihi 100 V
+
+810. 8518.50.90 -- Lain-lain
+
+85.19 Aparatus untuk perekam dan reproduksi suara.
+
+- Aparatus lainnya:
+
+8519.81 - - Menggunakan magnet, media optik atau semi
+
+konduktor:
+811. 8519.81.30 - - - Compact disc player untuk audio
+85.21 Aparatus perekam atau pereproduksi video,
+digabung dengan video tuner maupun tidak.
+8521.10 - Tipe pita magnetik:
+812. 8521.10.90 - - Lain-lain
+8521.90 - Lain-lain
+
+- - Laser disc player:
+
+www.peraturan.go.id

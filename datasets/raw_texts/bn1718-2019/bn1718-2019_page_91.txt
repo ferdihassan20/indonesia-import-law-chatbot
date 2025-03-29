@@ -1,0 +1,35 @@
+‘OL 2019, No.1718
+
+Nomor (13) ; diisi pangkat dan jabatan Pejabat Bea dan Cukai yang
+mengawasi Pemindahtanganan.
+
+Nomor (14) : diisi nama lengkap KKOB/Badan Usaha.
+
+Nomor (15) : diisi Nomor Pokok Wajib Pajak (NPWP) KKOB/Badan Usaha.
+
+Nomor (16) ; diisi nomor pemberitahuan pabean impor.
+
+Nomor (17) : diisi tanggal, bulan, dan tahun pemberitahuan pabean impor.
+
+Nomor (18) ; diisi tempat dan alamat pelaksanaan Pemindahtanganan.
+
+Nomor (19) ; diisi nomor urut barang.
+
+Nomor (20) : diisi uraian barang disertai dengan spesifikasi barang, seperti
+merk, tipe, ukuran dan yang semacam itu.
+
+Nomor (21) : diisi jumlah dan satuan barang yang dipindahtangankan.
+
+Nomor (22) : diisi catatan atau keterangan yang dibutuhkan.
+
+Nomor (23) : diisi nama jabatan dari perwakilan KKOB/Badan Usaha yang
+melaksanakan Pemindahtanganan.
+
+Nomor (24) : diisi mama orang yang ditunjuk menjadi perwakilan
+KKOB/ Badan Usaha yang melaksanaan Pemindahtangan.
+
+Nomor (25) : diisi nama jabatan dari penerima barang.
+
+Nomor (26) : diisi nama dari penerima barang.
+
+www.peraturan.go.id

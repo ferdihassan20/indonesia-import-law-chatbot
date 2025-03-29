@@ -1,0 +1,64 @@
+2022, No.1365
+
+-76-
+
+9) Satuan barang
+Satuan Barang dan Bahan Fasilitas KITE untuk setiap seri
+barang yang tercantum dalam dokumen pabean yang
+dimasukkan ke lokasi penyimpanan (contoh: liter, kilogram,
+dan/atau meter).
+
+10) Jumlah barang
+Jumlah Barang dan Bahan Fasilitas KITE untuk setiap
+satuan barang dan setiap seri barang yang tercantum
+dalam dokumen pabean yang dimasukkan ke lokasi
+penyimpanan.
+
+11) Mata uang
+Satuan mata uang untuk setiap seri Barang dan Bahan
+Fasilitas KITE yang tercantum dalam dokumen pabean yang
+dimasukkan ke lokasi penyimpanan.
+
+12) Nilai barang
+Nilai Barang dan Bahan Fasilitas KITE yang dimasukkan ke
+lokasi penyimpanan sesuai dengan satuan mata uang yang
+
+digunakan.
+13) Lokasi Gudang
+Lokasi penyimpanan Barang dan Bahan Fasilitas KITE
+termasuk lokasi penyimpanan milik perusahaan penerima
+subkontrak.
+14) Nama penerima subkontrak
+Nama pihak yang menerima pekerjaan olah, rakit, dan/atau
+pasang Barang dan Bahan Fasilitas KITE dari Penerima
+Fasilitas KITE dengan perjanjian subkontrak. Elemen data
+ini diisi dalam hal Barang dan Bahan Fasilitas KITE
+dimasukkan ke lokasi gudang penerima subkontrak.
+15) Perusahaan pengirim atau negara asal barang
+Nama perusahaan atau negara asal Barang dan Bahan
+Fasilitas KITE.
+Laporan Pemakaian Bahan Baku
+Laporan ini menampilkan pencatatan atas Barang dan Bahan
+Fasilitas KITE yang dikeluarkan untuk tujuan proses produksi
+termasuk Barang dan Bahan Fasilitas KITE yang
+disubkontrakan kepada perusahaan penerima subkontrak,
+Laporan ini minimal memuat elemen data dan/atau informasi
+terkait:
+1) Nomor bukti pengeluaran barang
+Nomor dokumen dan/atau surat internal Penerima Fasilitas
+KITE yang digunakan untuk bukti dokumentasi kegiatan
+pengeluaran Barang dan Bahan Fasilitas KITE dari lokasi
+penyimpanan untuk dilaksanakan proses produksi.
+2) Tanggal bukti pengeluaran
+Tanggal dokumen dan/atau surat internal Penerima
+Fasilitas KITE yang digunakan untuk bukti dokumentasi
+kegiatan pengeluaran Barang dan Bahan Fasilitas KITE dari
+lokasi penyimpanan untuk dilaksanakan proses produksi.
+3) Kode barang
+Kode barang yang dibuat oleh Penerima Fasilitas KITE
+untuk setiap jenis Barang dan Bahan Fasilitas KITE yang
+berbeda. Kode barang ini menjadi salah satu elemen data
+utama untuk menelusuri keterkaitan dalam setiap proses
+mutasi Barang Berfasilitas KITE.
+
+www.peraturan.go.id

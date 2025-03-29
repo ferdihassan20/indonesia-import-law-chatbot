@@ -1,0 +1,89 @@
+311 2017, No.176
+
+v: B pa Masuk /
+|_Import Duty _|
+13) (8)
+5208.41 |. - Tenunan polos, beratnya tidak lebih dari 100 g/m” :
+5208.41.10 Tenun ikat 20,0%
+4510 15208.41,90 ~ Lain-lain 15.0%
+5208.42 ~ + Tenunan polos, beratnya lebih dari 100 g/m* : > > Plain weave, weighing more than 100
+g/m:
+4511 [5208.42.10 _|--~Tenun ikat + = Tkat fabric 20,0%
+4512 |5208.42.90 Lain-lain + - - Other 15,0%
+4513 [5208.43.00 _|-- Kepar 3-benang atau +-benang, termasuk kapar silang |-- 3-thread or 4-thread twill, including cross 10,0%
+twill
+4514 |5208.49.00 _|-- Kain tainnya + - Other fabrics 10,0%
+|- Dicetak > }- Printed :
+5208.51 + - Tenunan polos, beratnya tidak lebih dari 100 g/m? = een nears ee bt Salita
+le/m* :
+4515 [5208.51.10 _|- - - Dicctak dengan proses batik tradisional -- - Printed by the traditional batik process 10,0%
+4516 |5208.51.90 - Lain-tain, + - = Other 10,0%
+8208.53 }- - Tenunan poles, beratnya lebih dari 100 g/m? = }- - Plain weave, weighing more than 100
+igi m?
+4517 |5208.52.10 _ |-- - Dicetak dengan proses batik tradisional - - - Printed by the traditional batik process 10,0%
+4518 [5208.52.90 ~ Lain-lain + - - Other 10,0%
+5208.59 Kain lainnya : - - Other fabrics :
+4519 [5208.59.10 |-- - Dicetak dengan proses batik tratlisional - - - Printed by the traditional batik process 10,0%
+4520 |5208.59.20 |. - - Lain-lnin, kepar 3-benang atau 4-benang, termasuk —_|-- - Other, 3-thread or 4-thrend twill, 10,0%
+kapar silang including cross twill
+49521 [5208.59.90 }--- Lain-lain - - - Other 10,0%
+52.09 Kain tenunan dari kapas, mengandung kapes 85 % atau |Woven fabrics of cotton, containing 85 %
+iebth menurut beratnya, beratnya lebih dari 200 g/m*. [or more by weight of cotton, weighing
+‘more than 200 g/m*.
+- Tidak dikelantang - Unbleached :
+5209.11 Tenunan polos > ~~ Plain weave :
+4522 [5209.11.10 - Duck dan kanvas Duck and canvas 10,0%
+4523 [5209.11.90 ~ Lain-lain Other 10.0%
+4524 |5209.12.00 Kepar 3-benang alau 4-benang, termasuk kepar silang |. - 3-thread or $-thread twill, including cross. 10,0%
+twill
+4525 [5209.19.00 |- - Kain lainnya - - Other fabrics 10,0%
+- Dikelantang : + Bleached :
+4526 [5209.21.00 |-- Tenunan polos - Plain weave 15,0%
+4527 |5209.22.00 _|-- Kepar 3-benang atau 4-benang, termasuk kepar silang |- - 3-thread or 4-thread twill, including cross 10,0%
+twit
+4528 |5209.29.00 Kain lainnya: ~~ Other fabrics: 10,0%
+* Dicelup,: - Dyed :
+4529 |5209.31.00 _|- - Tenunan polos - Plain weave 15,0%
+4530 [5209.32.00 _|-- Kepar 3-henang atau 4-benang, termasuk kepar sifang |-- 3-thread or 4-thread twill, including cross 10,0%
+twill
+4531 |5209.39.00 | - Kain lainnya - - Other fabries 10,0%
+- Dari benang aneka warna > |- OF yarns of different colours ;
+4532 |5209.41.00 _|-- Tenunan polos + Plain weave 15.0%
+4533 [5209.42.00 |-- Denim ~ Denim 10,0%
+4534 [5209.43.00 _|-- Kain lainnya dari kepar 3-benang atau 4-benang, ~~ Other fabrics of 3-thread or 4-thread twill, 10,0%
+hermastuk kepar silang including cross twill
+4535 |5209.40.00 _|-- Kain lainnya Other fabrics 10,0%
+- Dicetak : - Printed :
+$209.51 - Tenunan polos : - Plain weave :
+4536 [5209.51.10 |-- - Dicetak dengan proses batik tradisional Printed by the traditional batik process 15,0%
+4537 |5209.51.90  |- -- Lain-lain Other 15,0%
+5209.52 ~~ Kepar 3-benang atau 4-benang, termasuk kepar silang :
+4538 |5209.52.10 _|- - - Dicetak dengan proscs batik tradisional Printed by the traditional batik process 10,0%
+4539 |5209,52.90  |- - - Lain-lain Other 10,0%
+209,59 - - Kain lainnye > + Other fabrics :
+4540 |5209.59,.10|- - - Dicetak dengan proses batik tradisional Printed by the traditional batik process 10,0%
+4541 [5209.50.90 |-- - Lain-inin - - - Other 10,0%
+182.20 Kain tenunan dari kapas, mengandung kapas kurang —_—| Woven fabries of cotton, containing leas
+/dari 85 % menurat beratnya, dicampur terutama atau | than 85 % by weight of cotton, mixed
+jsemata-mata dengan serat buatan, beratnya tidak lebih | mainly or solely with man-made fibres,
+dari 200 g¢/m*
+- Tidak diketantang + - Unbleached +
+4542 |5210.11.00_ |-- Tenunan polos ~ Plain weave 10,0%
+4543 [5210.19.00 |- - Kain jainnya - Other fabrics 10,0%
+- Dikelantang, : + Bleached :
+4544 [5210.21.00 |-- Tenunan polos - Plain weave 15,0%
+4545 |5210.29.00 |- - Kain lainnva Other fabrics 15,0%
+- Dicelup : + Dyed =
+9540 |5210.31.00 |. - Tenunan polos ~ Plain weave 15,0%
+4547 |5210,32,00 _|-- Kepar 3-benang atau 4-benang, termasuk kepar silang _|- - 3-thread or 4-thread twill, including cross 15,0%
+twill
+4548 |5210,39.00 _|-- Kain lainnya += Other fabrics 15,0%
++ Dari benang ancka warna : + Of yarns of different colours =
+5210.41 -- Tenunan polos Plain weave
+45499 15210.41.10 - Tenun ikat That fabric 20,0%
+4550 [5210.41.90 Other 15,0%
+4551 {5210.49.00 ~ Other fabrics 10,0%
+2 + Printed =
+5210.51 -- Tenunan polos -- Pain weave :
+
+www.peraturan.go.id

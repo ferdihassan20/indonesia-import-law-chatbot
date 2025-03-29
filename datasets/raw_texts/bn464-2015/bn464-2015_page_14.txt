@@ -1,0 +1,50 @@
+Petunjuk Pengisian:
+
+Diisi dengan Nomor dan Tanggal Surat Permohonan.
+
+Diisi dengan Tanggal Surat Permohonan
+
+Diisi dengan nama perusahaan
+
+Diisi dengan Nomor Pokok Wajib Pajak (NPWP) perusahaan
+
+Diisi dengan alamat perusahaan sesuai NIK
+
+Diisi dengan Kurs NDPBM yang berlaku pada tanggal surat permohonan
+
+Diisi nomor urut barang
+
+Diisi uraian barang
+
+Diisi negara asal barang
+
+. Diisi dengan nama Kantor Pabean tempat penyelesaian kewajiban pabean
+
+11. Diisi spesifikasi teknis barang
+
+12. Diisi dengan kode satuan barang sesuai ketentuan
+
+13. Diisi dengan perkiraan nilai impor dalam mata uang asing dengan incoterm C&F atau CIF
+
+14. Diisi pos tarif HS barang
+
+15. Diisi dengan perkiraan bea masuk barang
+
+16. Diisi nomor persetujuan dan penandasahan oleh Direktur Jenderal Ketenagalistrikan, Kementerian Energi dan Sumber Daya Alam
+17. Diisi tanggal persetujuan dan penandasahan oleh Direktur Jenderal Ketenagalistrikan, Kementerian Energi dan Sumber Daya Alam
+18. Diisi nama Direktur Jenderal Ketenagalistrikan, Kementerian Energi dan Sumber Daya Alam yang memberikan persetujuan dan penandasahan
+19. Diisi NIP Direktur Jenderal Ketenagalistrikan, Kementerian Energi dan Sumber Daya Alam yang memberikan persetujuan dan penandasahan
+20. Diisi dengan nama direksi perusahaan yang tercantum dalam API/API-P/API-T
+
+21. Diisi dengan nomor dan tanggal pengesahan dari Direktur Jenderal Ketenagalistrikan, Kementerian Energi dan Sumber Daya Alam
+
+1 NS Grea
+
+14
+5
+
+MENTERI KEUANGAN REPUBLIK INDONESIA,
+
+BAMBANG P.S. BRODJONEGORO
+
+2015, No.464

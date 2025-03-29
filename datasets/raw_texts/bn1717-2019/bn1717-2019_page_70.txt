@@ -1,0 +1,73 @@
+2019, No.1717
+
+Nomor (7)
+
+Nomor (8)
+
+Nomor (9)
+
+Nomor (10)
+
+Nomor (11) :
+
+Nomor (12) :
+
+Nomor (13) :
+
+Nomor (14) :
+
+Nomor (15) :
+
+-70-
+
+: diisi nilai masing-masing barang impor dalam bentuk CIF (Cost,
+
+Insurance, and Freight} dan dengan valuta asing US Dollar
+(US$).
+
+: diisi nomor pos tarif atau klasifikasi barang dalam
+
+pemberitahuan pabean impor dari barang impor yang tercantum
+dalam Keputusan Menteri Keuangan mengenai pemberian
+fasilitas pembebasan bea masuk dan pajak dalam rangka impor
+atas impor barang untuk kegiatan usaha hulu minyak dan gas
+bumi.
+
+: diisi nomor pemberitahuan pabean ekspor dari barang sewa
+
+yang diimpor oleh KKKS dengan mendapatkan fasilitas
+pembebasan bea masuk dan pajak dalam rangka impor barang
+yang dilakukan ekspor.
+
+: diisi tanggal pemberitahuan pabean ekspor dari barang sewa
+
+yang diimpor oleh KKKS dengan mendapatkan fasilitas
+pembebasan bea masuk dan pajak dalam rangka impor barang
+yang dilakukan ekspor.
+
+diisi uraian jenis barang dalam pemberitahuan pabean ekspor
+dari barang sewa yang diimpor oleh KKKS dengan mendapatkan
+fasilitas pembebasan bea masuk dan pajak dalam rangka impor
+barang yang dilakukan ekspor yang telah dilakukan ekspor.
+
+diisi jumlah barang dalam pemberitahuan pabean ekspor dari
+barang sewa yang diimpor oleh KKKS dengan mendapatkan
+fasilitas pembebasan bea masuk dan pajak dalam rangka impor
+yang telah dilakukan ekspor.
+
+diisi satuan barang dalam dalam pemberitahuan pabean ekspor
+dari barang sewa yang diimpor oleh KKKS dengan mendapatkan
+fasilitas pembebasan bea masuk dan pajak dalam rangka impor
+barang yang telah dilakukan ekspor.
+
+diisi nomor Bill of Lading/Air Way Bill dari barang sewa yang
+diimpor oleh KKKS dengan mendapatkan fasilitas pembebasan
+bea masuk dan pajak dalam rangka impor yang telah dilakukan
+ekspor.
+
+diisi tanggal Bill of Lading/ Air Way Bill dari barang sewa yang
+diimpor oleh KKKS dengan mendapatkan fasilitas pembebasan
+bea masuk dan pajak dalam rangka impor yang telah dilakukan
+ekspor.
+
+www.peraturan.go.id

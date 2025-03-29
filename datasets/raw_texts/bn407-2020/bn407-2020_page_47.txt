@@ -1,0 +1,104 @@
+47- 2020, No.407
+
+- Cooler Drive with Cooling
+Plat
+
+NO.
+
+KELOMPOK
+
+NAMA BARANG
+
+-  Voith Cooling Unit
+
+- Cooler Joint
+
+- Variable Speed Fan with
+Impeller
+
+- Water Thank
+
+- Water Inlet Header
+
+- Discharge Header
+
+- Piping
+
+-__ Radiator
+
+- Fan Drive
+
+- Cooler & Mounting
+
+- Water Pump
+
+- Air Cooler
+
+- Shutter
+
+- Regulating
+
+- Valve Assy
+
+- Water Treatment
+
+- Bevel Gear Assy
+
+- Temperature Control for
+Cooling Water
+
+4. Fuel System
+
+- Fuel Tank Arrangement
+
+-_ Fuel Tank
+
+- Fuel Strainer
+
+- Fuel Injection Pump
+
+- Fuel Nozzle Assy
+
+- Fuel Piping & Fitting
+
+- Fuel Pump with DC Motor
+
+- Fuel Pump with AC Motor
+
+- Fuel Filter Assy
+
+-_Pre-Fuel Tank
+
+5S. Lube Oil System
+
+- Lube Oil Assy
+
+- Lube Oil Filter/ Element
+
+- Lube Oil Cooler
+
+- Lube Oil Pipe System
+
+- Preliminary Lubrication
+Pump Assy
+
+- Oil Pump
+
+- Relay Valve
+
+-__Oil Pressure Switch
+
+- Low Oil Switch
+
+A2
+
+Sistem Kontrol
+Lokomotif
+
+1. CDC/PDC
+- Miscellaneous Control
+Equipment
+Bus Bar-Cable-Cleat
+
+Arrangment
+

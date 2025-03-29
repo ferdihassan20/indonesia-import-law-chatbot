@@ -1,0 +1,62 @@
+-15- 2021, No.152
+
+(rebar)
+
+150. | 7213.91.90 - - Lain-lain
+
+151. | 7213.99.20 - - - Dari jenis yang digunakan untuk penguatan beton
+(rebar)
+
+152. | 7213.99.90 - - - Lain-lain
+
+153. | 7214.10.11 - - - Dengan penampang silang lingkaran
+
+154. | 7214.10.19 - - - Lain-lain
+
+155. | 7214.10.21 - - - Dengan penampang silang lingkaran
+
+156. | 7214.10.29 - - - Lain-lain
+
+157. | 7214.20.31 - - - - Dari jenis yang digunakan untuk penguatan
+beton (rebar)
+
+158. | 7214.20.39 - - - - Lain-lain
+
+159. | 7214.20.69 - - - - Lain-lain
+
+160. | 7214.30.10 - - Dengan penampang silang lingkaran
+
+161. | 7214.30.90 - - Lain-lain
+
+162. | 7214.91.19 - - - - Lain-lain
+
+163. | 7214.91.11 - - - - Mengandung karbon 0,38 % atau lebih dan
+mangan kurang dari 1,15 % menurut beratnya
+
+164. | 7214.91.12 - - - - Mengandung karbon 0,17 % atau lebih tetapi
+tidak lebih dari 0,46 % dan mangan 1,2 % atau lebih
+tetapi kurang dari 1,65 % menurut beratnya
+
+165. | 7214.91.21 - - - - Mengandung mangan kurang darii 1,15 %
+menurut beratnya
+
+166. | 7214.91.29 ---- Lain-lain
+
+167. | 7214.99.11 - - - - Mengandung mangan kurang dari 1,15 %
+menurut beratnya
+
+168. | 7214.99.19 - - - - Lain-lain
+
+169. | 7214.99.91 - - - - Mengandung karbon kurang dari 0,38 %, fosfor
+tidak lebih dari 0,05 % dan sulfur tidak lebih dari 0,05
+% menurut beratnya
+
+170. | 7214.99.92 - - - - Mengandung karbon 0,38 % atau lebih dan
+mangan kurang darii 1,15 % menurut beratnya
+
+171. | 7214.99.93 - - - - Mengandung karbon 0,17 % atau lebih tetapi
+kurang dari 0,46 % dan mangan 1,2 % atau lebih tetapi
+kurang dari 1,65 % menurut beratnya
+
+172. | 7214.99.99 - - - - Lain-lain
+

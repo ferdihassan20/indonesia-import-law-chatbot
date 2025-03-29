@@ -1,0 +1,403 @@
+2017, No.176
+
+-408-
+
+8203
+
+8204
+
+8205
+8206
+
+8207
+8208
+
+8209
+8210
+
+8211
+a212
+8215
+
+8214
+8215
+
+8216
+8217
+
+8218
+8219
+
+8220
+8221
+
+8222
+
+8223
+8224
+
+8225
+
+8226
+
+8227
+
+8228
+8229
+
+8230
+
+8231
+8232
+
+8233
+8234
+
+8235
+8236
+
+8237
+8238
+8239
+
+8481.90.21
+8481.90.22
+
+[8481.90.23
+8481.90.29
+
+8481.90.49
+8481.90.90
+184.82
+
+8482.10.00
+8482.20.00
+
+8482.30.00
+8482.40.00
+
+8482.50.00
+18482,80,00
+
+8482.91.00
+8482.99.00
+54.83
+
+8483.10
+
+8483.10.10
+
+8483.10.24
+[8483.10.25
+
+8483.10.26
+
+8483.10.27
+
+8483.10.31
+
+8483.10.99
+8483.10.90
+1483.20
+
+8483.20.20
+
+8483.20.30
+8483.20.90
+8483.30
+
+8483.30.30
+8483.30.90
+8483.40
+
+8483.40.20
+8483.40.30
+
+8483.40.40
+
+pos 87.02, 87.03 atau 87.04
+Lain-lain
+- Bagian :
+
+~~ Rumah untuk katup pinto air atau katup pintu dengan
+diameter bagian dalam pemasukan atau pengeluaran
+
+metcbihi 50 mm tetapi tidak melebihi 400 mm.
+
+kurang :
+~ Bod, untuk keran air
+
+Pa)
+Bodi, lain-tain
+Lain-lain
+
+tubeless ;
+Dari tembaga atau paduan tembaga
+Lain-lain
+
+Dari tembaga atau paduan tembaga
+Lain-lain
+
+Lain-lain
+
+/Bantalan peluru atau bantalan gulung.
+|. Bantalan peluro
+
+- Bantalan gulung tapered, termasuk cone dan rakitan
+
+juniversal).
+
+- Poros transmis
+lengkol) dan engkol -
+-- Untuk mesin lari pos 84.29 atau 84.30
+
+- - Poros berputar dan poros engkol untuk mesin
+kendaraan dari Bab 87
+
+--- Untuk kendaraan dari pos 87.11
+
+~ Lain-lain +
+
+---- Untuk kendaraan dengan kapasitas silinder tidak
+
+imelebihi 2,000 ¢¢
+
+-- - - Untuk kendaraan dengan kapasitas silinder melebibi |-
+
+2.000 c¢ tetapi tidak melebihi 3,000 cc
+
+~~ = Unttik kendaraan dengan kapasitas silinder tidak
+
+melebihi 3.000 ec
+Untuk mesin penggerak kendaraan air
+~ Dengan keluaran tidak melebihi 22,38 kW
+
++ - Lain-lain
+
+- Rumah bantalan, digabung dengan bantalan peluru atau
+
+Jgulung :
+~ Untuk mesin dari pos 84.29 atau 84.30
+
+~~ Untuk mesin kendaraan dari Bab 87
+-~ Lain-lain
+
+- Rumah bantalan, tidak digabung dengan bantalan peluru
+
+atau gulung, bantalan poros polos
+
+~ > Untule mesin kendaraan dari Bab 87
+Lain-tain
+
+}- Gir dan gearing, sclain roda bergigi, chain sprocket dan
+Jclemen transmisi lainnya diajukan secara terpisaby; ball
+screw atau roller serew: gear box dan pengubah kecepatien
+
+tainnya, termasuk torak konverter
+
+-- Untuk kendaraan laut
+- Untuk mesin dari pos 84.29 atau 84.30
+
+Untuk kendaraan dari Bab 87
+Lain-lain
+- Roda gaya dan pull, termasuk blok pul
+
+kalup pemulus bahan bakar untuk kendaraan dari
+
+|. - Untuk keran, klep, katup (tidak termasuk katup ban
+dalam dan katup untuk ban tubeless) dan perslatan
+Jsemacam itu dengan diameter bagian dalam 25 mm atau
+
+Bodi, untuk katup silinder Liquefied Petroleum Gas
+
+Bodi atau tangkni katup dari katup ban dalam atau ban
+
+kotup dari katup ban dalam atau ban tubeless :
+
+igulungan tapered tapered roller assemblies
+
+- Bantalan gulung bundar - Sphezical roller bearings
+
+- Bantalan gulung jarum - Needle roller bearings
+
+- Bantalan gulung silindris lainnya - Other cylindrical roller bearings
+
+- Lain-lain, termasuk kombinasi bantalan peluru/gulung |. Other, including combined ball/rolier
+bearings:
+
+- Bagian » + Parts =
+
+|- - Peluru, jarum dan gulung + - Balls, needles and rollers
+
+|. - Lain-lain - - Other
+
+Poros transmisi (termasuk poros berputar dan poros
+jengkol) dan engkol; rumah bantalan dan bantalan poros
+polos; gir dan gearing; ball screw atau roller screw; gear
+|box dan pongubah kecepatan lainnya, termasuk torak
+konverter; roda gaya dan pull, termasuk blok puli;
+kopling dan poros penyambung (termasuk sambungan
+
+{termasuk poros berputar dan poros
+
+7 Fuel cut-off valves for vehicles of
+beading 87.02, 87.03 or 87.04
+
+- Other
+
+L Pants:
+
+- - Housings for sluice or gate valves with
+{niet or outlet of an internal diameter
+lexceeding 50 mm but not exceeding 400 mm
+
+-- Por taps, cocks, valves (excluding inner
+tube valves and valves for tubeless tyres)
+‘and similar appliances of 25 mm or less in
+internal diameter =
+
+- - - Bodies, for water taps
+
+Bodies, for liquefied petroleum gas (LPG)
+leylinder valves
+
+Bodies, other
+
+Other
+
+-- Valve bodies or stems of inner tube oF
+tubeless tyre valves :
+
+Of copper oF copper alloys
+
+-- - Other
+
+-- Valve cores of inner tube or tubeless tyre
+valves :
+- = = Of copper oF copper alloys
++++ Other
+
++ - Other
+
+[Ball or roller bearings.
+
+- Get bearings
+
+- Tapered roller bearings, including cone and
+
+(Transmission shafts (including cam shafts
+land crank shafts) and cranks; bearing
+fhousings and plain shaft bearings; gears
+jand gearing; ball or roller screws; gear
+and other speed changers, includis
+
+- Transmission shafts (including cam shafts
+land crank shafts) and eranks >
+- - Kor machinery of heading 84.29 or 84.20
+
+-- Cam shafts and crank shafts for engines
+lof vehicles of Chapter 87 :
+
+- = - Por vehicles of heading 87.11
+
+Other
+
+- - - - For vehicles of a cylinder capacity not
+Jexceeding 2,000 oc
+
+- For vehicles of a cylinder capacity
+lexceeding 2,000 ce but not exceeding 3,000
+lee
+
+- = Por vehictes of a eylinder capacity
+lexceeding 3,000 ce
+
+- - For marine propulsion engines :
+
+| - - Of an output not exceeding 22.38 kW
+
++ - Other
+
+- Bearing housings, incorporating ball or
+roller bearings :
+
++ = Por machinery of heading 84.29 or 84.30
+
+- « For engines of vehicles of Chapter 87
+
+- - Other
+
+- Bearing housings, not incorporating ball or
+roller bearings; plain shaft bearings :
+
++ - For engines of vehicles of Chapter 87
+
+- - Other
+
+- Gears and gearing, other than toothed
+wheels, chain sprockets and other
+transmission elements presented separately;
+bail or roller screws; gear boxes and other
+speed changers, including torque converters
+~ For marine vessels
+
+- = For machinery of heading 84.29 or 84.30
+
++» For vehicles of Chapter 87
+
+= Other
+
+- Flywheels and pulleys, including pulley
+blocks.
+
+5,0%
+20,0%
+5,0%
+20,0%
+
+5,0%
+5,0%
+
+5.0%
+5.0%
+0,0%
+
+5.0%
+5.0%
+
+5,0%
+5,0%
+
+5,0%
+5,0%
+
+0,0%
+5.0%
+
+5.0%
+
+5,0%
+50%
+
+5,0%
+5,0%
+
+5,0%
+5.0%
+5.0%
+50%
+
+5,0%
+0,0%
+
+5.0%
+5.0%
+
+5,0%
+5,0%
+
+5.0%
+5.0%
+5.0%
+
+www.peraturan.go.id

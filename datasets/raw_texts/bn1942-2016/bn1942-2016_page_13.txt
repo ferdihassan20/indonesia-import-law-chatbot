@@ -1,0 +1,41 @@
+13. 2016, No. 1942
+
+PETUNJUK PENGISIAN
+
+Angka (1) : Diisi nama Direktorat yang tugas dan fungsinya di bidang
+identifikasi dan klasifikasi barang.
+Angka (2) : Diisi nama perusahaan yang mengajukan permohonan
+
+penetapan klasifikasi atau nama perusahaan yang tercantum
+
+dalam nomor identitas untuk dapat melakukan kegiatan
+
+kepabeanan.
+Angka (3) : Diisi alamat perusahaan.
+Angka (4) : Diisi nomor surat dari perusahaan yang mengajukan
+
+permohonan penetapan klasifikasi.
+
+Angka (5) : Diisi nama jenis barang.
+Angka (6) : Diisi kekurangan data/informasi.
+Angka (7) : Diisi tempat diterbitkannya surat permintaan data tambahan,
+
+contoh barang, dan/atau informasi lainnya.
+
+Angka (8) : Diisi tanggal, bulan, dan tahun diterbitkannya surat permintaan
+
+data tambahan, contoh barang, dan/atau informasi lainnya.
+
+Angka (9) : Diisi Direktur yang tugas dan fungsinya di bidang identifikasi
+
+dan klasifikasi barang.
+
+Angka (10) : Diisi Kasubdit yang diberikan wewenang untuk menandatangani
+surat permintaan data tambahan, contoh barang, dan/atau
+
+informasi lainnya.
+Angka (11) : Diisi nama Kasubdit.
+
+Angka (12) : Diisi Nomor Identitas Pegawai (NIP) Kasubdit.
+
+www.peraturan.go.id

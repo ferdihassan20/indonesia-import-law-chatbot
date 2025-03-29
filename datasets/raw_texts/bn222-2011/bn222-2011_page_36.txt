@@ -1,0 +1,66 @@
+2011, No.222 36
+
+POS/SUB POS % BEA
+HEADING/ DESCRIPTION OF MASUK/ %
+NO. SUB URAIAN BARANG GOODS IMPORT
+HEADING DUTY
+(1) (2) GB) (4) (5)
+8477.90 -Bagian : -Parts :
+--Dari mesin yang dioperasikan secara --Of electrically operated
+146 8477.90.10.00 elektrik machines for 0
+untuk mengerjakan karet atau untuk working rubber or for the
+pembuatan manufacture of
+produk dari karet products from rubber
+--Dari mesin yang dioperasikan secara --Of electrically machines
+elektrik for working
+untuk mengerjakan plastik atau untuk plastics or for the
+pembua- manufacture of
+tan produk dari bahan plastik : products from plastics
+materials :
+8477.90.32.00 ---Bagian dari pengepres laminasi untuk ---Parts of lamination
+147 pembu- presses for the manufacture 0
+atan printed circuit board atau printed of printed circuit boards or
+wiring board printed wiring boards
+148 | 8477.90.39.00 | ---Lain-lain ---Other 0
+
+Electrical transformers,
+static converters
+
+(for example, rectifiers) and
+inductors.
+
+85.04 Transformator elektrik, konverter statis
+
+(misalnya, rectifier) dan induktor.
+
+8504.10 -Ballast, untuk lampu tabung Ballasts for discharge lamps
+
+or tubes
+-Transformator dielektrik cair : -Liquid dielectric transformers :
+-Transformator lainnya : -Other transformers :
+8504.31 --Mempunyai kapasitas pengaturan --Having a power handling
+. daya capacity not
+tidak melebihi 1 kVA: exceeding 1 kVA:
+149 | 8504.31.30.00 | ---Transformator flyback ---Flyback transformers 0
+1450 | 8504.31.40.00 | ---Transformator frekuensi menengah ~—Intermediate frequency
+transformers 0
+85.05 Elektro magnet; magnet permanen Electro-magnets;
+. dan barang permanent magnets and
+untuk dijadikan magnet permanen articles intended to become
+setelah diberi permanent magnets
+gaya magnet; chuck, klem dan after magnetisation;
+peralatan peme- electro-magnetic or
+gang semacam itu yang bekerja secara | permanent magnet chucks,
+elektro clamps and similar
+magnetis atau bermagnet permanen; holding devices; electro-
+kopling, magnetic couplings,
+clutch dan rem elektro magnetis; clutches and brakes;
+kepala peng- electro-magnetic lifting
+angkat elektro magnetis. heads.
+-Magnet permanen dan barang untuk -Permanent magnets and
+dijadikan articles intended to
+magnet permanen setelah diberi gaya become permanent magnets
+magnet : after magnetisation:
+151 | 8505.11.00.00 | --Dari logam --Of metal 0
+
+www.djpp.kemenkumham.go.id

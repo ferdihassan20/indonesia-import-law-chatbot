@@ -1,0 +1,43 @@
+2016, No.1375
+
+-ll-
+
+POS/SUB POS
+
+BEA MASUK / IMPORT DUTY
+
+NO. HEADING/ URAIAN BARANG DESCRIPTION OF GOODS TAHUN
+HEADING 2017 | 2018 | 2019 | 2020 | 2021
+(1) 2) (3) 4) ) (6) 7) (8) (9)
+8479.82 Mesin pencam pur, pengadon, penghancur, = - Mixing, kneading, crushing, grinding, screening,
+penpperinda, penyaring, pengubah, penghomogen, sifling, homogenising, emulsifying or stirring
+pengemulsi atau pengaduk: machines:
+8479.89 Lain-lain: - - Other:
+8479.89.20.00 - Mesin untuk merakit daughter board unit pengolah - - - Machinery for assembling central processing unit
+pusat (CPU) dalam wadah atau rumah plastic ; (CPU) daughter boards in plastic cases or housings;
+aparatus untuk regenerasi larutan kimia yang apparatus for the regeneration of chemical solutions
+digunakan dalam pembuatan printed circuit board used in the manufacture of printed circuit boards or
+atau printed wiring board ; perlengkapan untuk printed wiring boards; equipment for mechanically
+membersihkan secara mekanis permukaan printed cleaning the surfaces of printed circuit boards or
+circuit board atau printed wiring board selama printed wiring boards during manufacturing;
+pembnatan; mesin otomatis nntik penempatan atan antomated machines for the placement or the
+penghilangan komponen atau elemen kontak di atas removal of components or contact elements on
+printed circuit board atau printed wiring board atau printed circuit boards or printed wiring boards or
+lapisan dasar lainnya ; perlengkapan registrasi untuk other substrates; registration equipment for the
+penyelaras printed circuit board atau printed wiring alignment of printed circuit boards or printed wiring
+board atau printed circuit assembly dalam proses boards or printed circuit assemblies in the
+pembuatan manufacturing process
+7752 8479.89 30.00 - Lain-lain, dioperasikan secara elektrik - - - Other, electrically operated 9% B% T% 6% 5%
+85.01 Motor dan generator listrik (tidak termasuk perangkat Electric motors and generators (excluding generating
+pembangkit tenaga listrik). sets).
+Generator AC (alternator): - AC generators (alternators):
+7936 850 1.64.00.00 Dengan keluaran melebihi 750 kVA - - Of an output exceeding 750 kVA 9% 8% T% 6% S%
+85.02 Perangkat pembangkit tenaga listrik dan konverter Electrie generating sets and rotary converters.
+berputar.
+- Perangkat pembangkit tenaga listrik dengan mesin - Generating sets with compression-ignition internal
+piston pembakaran dalam nyala kompresi (mesin diesel combustion piston engines (diesel or semi-diesel
+atau mesin semi diesel): engines):
+8502.20 Perangkat pembangkit tenaga listrik dengan mesin - Generating sets with spark-ignition internal combustion
+piston pembakaran dalam cetus api: piston engines:
+
+www.peraturan.go.id

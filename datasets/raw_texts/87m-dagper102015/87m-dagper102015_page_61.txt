@@ -1,0 +1,86 @@
+-48-
+
+Pos Tarif/HS
+
+8413.70.41.10 masukan (input) kurang dari 1000 W)
+
+- Pompa lainnya; elevator cairan:
+
+8413.81 -- Pompa:
+
+--- Pompa air lainnya, dengan flow rate tidak
+8413.81.11
+melebihi 8.000 m3/jam:
+
+---- Dioperasikan secara elektrik (Pompa air
+
+Uraian Barang
+
+ex.
+
+8413.81.11.10
+kipas, dilengkapi dengan saringan maupun
+
+84.14
+tidak.
+
+a
+
+-- Kipas meja, lantai, dinding, jendela, langit-
+
+untuk keperluan rumah tangga dan sejenisnya
+
+dengan daya masukan (input) kurang dari 1000
+
+watt)
+
+Pompa udara atau pompa vakum, kompresor
+
+udara atau kompresor gas lainnya dan kipas
+
+angin atau kipas gas lainnya; hood ventilasi
+
+atau hood daur ulang yang digabung dengan
+
+langit atau atap, dengan motor listrik terpasang
+
+8414.51
+
+didalamnya dengan keluaran tidak melebihi 125
+
+W:
+a
+
+|
+|
+=
+a
+
+--- Dengan kapasitas tidak melebihi 125 kW:
+
+|
+
+:
+
+:
+
+|
+
+a ee ee
+Pinta
+----- Dengan layar pelindung
+
+|
+
+8414.59.49.00 =| ----- Lain-lain
+
+- Hood yang memiliki sisi horisontal maksimum
+8414.60
+tidak melebihi 120 cm;
+
+| -- Dilengkapi dengan saringan:
+8414.60.19.00 --- Lain-lain
+
+$4.18 Lemari pendingin, lemari pembeku dan
+, perlengkapan pendingin atau pembeku
+

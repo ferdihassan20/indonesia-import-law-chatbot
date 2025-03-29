@@ -1,0 +1,94 @@
+2017, No.176
+
+-230-
+
+Pos Tarif]
+Mes: | “eres Urajan Barang Description of Goods
+5 (3 14)
+22.03 [Air, termasuk air mineral dan alr soda, mengandung  |Waters, including mineral waters and
+ltambahan gula atan bahan pemanis lainnya atau aerated waters, containing added sugar or
+|pemberi rasa, dan minuman yang tidak mengandung _|other sweetening matter or flavoured, and
+‘alkohol Jainnya, tidak termasuk jus buah atau sayuran other non-alcoholic beverages, not
+\dari pos 20.09, including fruit or vegetable juices of
+heading 20.09.
+2202.10 - Air, termasuk air mineral dan air soda, mengandung | Waters, including mineral waters and
+tambahan gula atau bahan pemanis lainnya atau pemberi aerated waters, containing added sugar or
+rasa : Jother sweetening matter or flavoured =
+1580 |2202.10.10 _|-- Air mineral pancar atnu air soda, diberi rasa |- - Sparkling mineral waters or aerated 10,0%
+waters, flavoured
+1590 [2202.10.90 |-- Lain-tain -- Other 10.0%
+- Laain-tain = + Other :
+1591 }2202.91.00 |. - Bir tanpa alkohol ~- Non-alcoholic beer 20.0%
+2202.99 Lain-tain : -- Other :
+1592 }2202.99.10 Minuman dengan bahan dasar susu UHT diberi rasa |- ~~ Flavoured UFIT milk based drinks 10,0%
+1593 |2202.99.20 Minuman susu kedelai |. - - Soya mitk drinks 10,0%
+1594 |2202,99.40 Minuman dengan bahan dasar kopi atau diberi rasa |-- - Coffee based drinks or coffee flavoured 20,0%
+Kopi drinks
+1595 [2202.99.50 |--- Minuman tidak mengandung soda yang siap untuk —_|- - - Other non-aerated beverages ready for 20,0%
+|dikonsumsi langsung tanpa diencerkan immediate consumption without dilution
+1596 }2202.99.00 |. - - Lain-lain - - - Other 20,0%
+122.03 Bir terbuat dari malt. [Beer made from malt.
+- Bir hitam atau porter : | Stout or porter :
+1507 [2203.00.11 }-- Dengan kadar alkohol tidak melebihi 5,8.% menurut |. - Of an alcoholic strength by volume not | Rp. 14.000,-/titer
+volumenva exceeding 5.8 % vol.
+1598 |2203.00.19 |-- Lain-lain |. - Other Rp. 14.000,-/liter
+- Lain-lain, termasuk ale - Other, including ale :
+1599 [2203.00.91 _--_ Dengan kadar alkohol tidak melebihi 5,8 % menurut —_|-- Of an alcoholic strength by volume not | Rp. 14.000,-/liter
+lvolumenya lexceeding 5.8 % vol
+1600 }2203.00.99 + - Lain-lain + = Other Rp. 14.000,-/liter
+122.04 /Minuman fermentasi (wine) dari bush anggur segar, e of fresh grapes, including fortified
+itermasuk minuman fermentasi (wine) yang diperkuat; |wines; grape must other than that of
+jexape must selain dari pos 20.09. Ineading 20.09.
+1601 }2204.10.00 _|- Minuman fermentasi (wine) panear - Sparkling wine 90,0%
+- Minuman fermentasi (wine) lainnya; grape must yang —_|- Other wine; grape must with fermentation
+crmentasinya dicegnh atau dihentikan dengan prevented or arrested buy the addition of
+penambahan alkohol : Jalcohol :
+2204.21 -- Dalam kemasan 2 | atau kurang : += In containers holding 2 | or less :
++ Minuman fermentasi {wine} > =~ Wine ;
+1602 }2204.21.11 + - Dengan kadar alkohol tidak melebihi 15% menurut  |- - - - Of an alcoholic strength by volume not 90,0%
+Jvolumenya lexceeding 15 % vol.
+1603 ]2203,21,13 _|---- Dengan kadar alkehol melebihi 15 % tetapi tidak —_|-- - - Of an alcoholic strength by volume 90,0%
+metebihi 23 % menurut volumenya exceeding 15 % vol. but not exceeding 23 %
+vol
+1604 }2204.21.14  |---- Dengan kadar alkohol melebihi 23 % menurut += ++ Of an alcoholic strength by volume 90,0%
+volumenya lexceeding 23 % vol
++ = « Grape must yang fermentasinva dicegah atau --~ Grape must with fermentation prevented|
+dihentikan dengan penambahan alkohol lor arrested by the addition of alcohol :
+1605 |2204.21.21 - Dengan kadar alkohol tidak melebibi 15% menurat  |- - - - Of an alcoholic strength by volume not 90.0%
+volumenya, exceeding 15 % vol,
+1606 [2204.21.22 |---- Dengan kadar alkohol melebihi 15 % menurut ---- Of an alcoholic strength by volume 90,0%
+volumenya exceeding 15 % vol,
+1204.22 - - Dalam kemasan lebih dari 2 | tetapi tidak lebih dari 10 1 |-- In containers holding more than 21 but
+: not more than 101:
+- Minuman fermentasi (wine} : Wine :
+1607 }2204.22.11|--- - Dengan kadar allzohol tidak melebihi 15 % menurat - Of an alcoholic strength by volume not 90,0%
+volumenya exceeding 15 % vol
+1608 | 2204.22.12 + - Dengan kadar alkohol melebihi 15 % tetapi tidak —_|-- - - Of an alcoholic strength by volume 90,0%
+Jmelebihi 23 % menurut volumenya lexceeding 15 % vol. but not exceeding 23 %
+vol,
+1609 |2204.22.13 _|--- - Dengan kadar alkohol melebihi 23 % volume = - - Of an alcoholic strength by volume 90,0%
+exceeding 23 % vol.
+- - - Grape must yang fermentasinya dicegah atau -- - Grape must with fermentation prevented
+ihentikan dengan penambahan alkohol : lor arrested by the addition of alcohol =
+1610 }2204.22.21 |. - - - Dengan kadar alkohol tidak melebihi 15 % menurat |--- - Of.an alcoholic strength by volume not 90,0%
+volumenya lexceeding 15 % vol.
+tort [2204.22.22 _|---- Dengan kadar alkohol melebihi 15 % menurut ---- Of an alcoholic strength by volume 90,0%
+volumenya lexceeding 15 % vol.
+2204.29 » = Lain-tain = Other :
++++ Minuman fermentasi (wine) : Wine +
+1612 }2204.20.11 | --- Dengan kadar alkohol tidak melebihi 15 % menurut - Of an alcoholic strength by volume not 90,0%
+volumenya lexceeding 15 % vol.
+1613 |2204.29.13 |---- Dengan kadar alkohol melebihi 15 % tetapi tidak - Of an alcoholic strength by voluine 90,0%
+meiebihi 23 % menurut volumenya lexceeding 15 % vol. but not exceeding 23 %
+vol.
+1614 2204.29.14 |--- - Dengan kadar alkohol melebihi 23 % volume ---- Of an alcoholic strength by volume 90,0%
+exceeding 23 % vol.
+- =~ Grape must yang fermentasinya dicegah atau Grape must with fermentation prevented,
+dihentikan dengan penambahen alkohol lor arrested by the addition of alcohol ;
+1615 [2204.29.21 |-- -- Dengan kadar alkohol tidak melebihi 15% menurut |-- - - Of an aleobolie strength by volume not 90,0%
+volumenya lexceeding 15% vol.
+1616 }2208.29.22 |. - - - Dengan kadar alkohol melebihi 15 % menurut - =~. Of an alcoholic strength by volume 90,0%
+volumenya lexceeding 15 % vol.
+[2204.30 + Grape must iainnya : - Other must :
+
+www.peraturan.go.id

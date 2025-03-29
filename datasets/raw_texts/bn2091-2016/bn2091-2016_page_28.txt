@@ -1,0 +1,48 @@
+2016, No. 2091
+
+-28-
+260 | 7306.69.00.90 - - - Lain-lain
+7306.90 - Lain-lain:
+7306.90.10 - - Pipa dan tabung dipatri dengan tembaga:
+261 | 7306.90.10.10 - - - Dengan diameter luar kurang dari 12,5 mm
+262 | 7306.90.10.90 - - - Lain-lain
+7306.90.90 - - Lain-lain:
+263 | 7306.90.90.10 - - - Dengan diameter luar kurang dari 12,5 mm
+264 | 7306.90.90.90 - - - Lain-lain
+73.07 Alat kelengkapan pembuluh atau pipa (misalnya,
+sambungan, siku-siku, selongsong) dari besi atau
+baja.
+- Alat kelengkapan besi tuangan:
+7307.1 - - Dari besi tuang yang tidak dapat ditempa:
+265 | 7307.11.10.00 - - - Alat kelengkapan tabung atau pipa tanpa
+sambungan
+266 | 7307.11.90.00 - - - Lain-lain
+267 | 7307.19.00.00 - - Lain-lain
+- Lain-lain, dari baja stainless:
+7307.2 - - Flensa:
+268 | 7307.21.10.00 - - - Mempunyai diameter dalam kurang dari 15 cm
+269 | 7307.21.90.00 - - - Lain-lain
+7307.22 - - Siku-siku berulir, lengkungan dan selongsong:
+270 | 7307.22.10.00 - - - Mempunyai diameter dalam kurang dari 15 cm
+271 | 7307.22.90.00 - - - Lain-lain
+7307.23 - - Alat kelengkapan butt welding:
+272 | 7307.23.10.00 - - - Mempunyai diameter dalam kurang dari 15 cm
+273 | 7307.23.90.00 - - - Lain-lain
+7307.29 - - Lain-lain:
+274 | 7307.29.10.00 - - - Mempunyai diameter dalam kurang dari 15 cm
+275 | 7307.29.90.00 - - - Lain-lain
+- Lain-lain:
+7307.91 - - Flensa:
+276 | 7307.91.10.00 - - - Mempunyai diameter dalam kurang dari 15 cm
+277 | 7307.91.90.00 - - - Lain-lain
+7307.92 - - Siku-siku berulir, lengkungan dan selongsong:
+278 | 7307.92.10.00 - - - Mempunyai diameter dalam kurang dari 15 cm
+279 | 7307.92.90.00 - - - Lain-lain
+7307.93 - - Alat kelengkapan butt welding:
+280 | 7307.93.10.00 - - - Mempunyai diameter dalam kurang dari 15 cm
+281 | 7307.93.90.00 - - - Lain-lain
+7307.99 - - Lain-lain:
+282 | 7307.99.10.00 - - - Mempunyai diameter dalam kurang dari 15 cm
+283 | 7307.99.90.00 - - - Lain-lain
+
+www.peraturan.go.id

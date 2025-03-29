@@ -1,0 +1,95 @@
+-409-
+
+2017, No.176
+
+{3)
+| Kopling dan poros penyambung ((ermasuk sambungan
+luniversal)
+|- Roda bergigi, chain sprocket dan elemen transmisi |- Toothed wheels, chain sprockets and other
+lainnya diajukan secara terpisah; bagian : transmission elements presented separately;
+parts :
+-~ Bagian dari barang pads sulpos 8483.10 : - - Parts of gootls of subheading 8483.10 :
+8241 |8483.90.11 |. -= Dari traktor pada subpos 8701.10 atau 8701.91 }- - - For tractors of subheading 8701.10 or 5,0%
+jsampai 8701.95 18701.91 to 8701.95
+8242 [8483.90.13 Untuk traktor tainnya dari pos 87.01 ~-- For other tractors of heading 87.01 0,0%
+8243 [8483.90.14 Untuk barang dari pos 87.11 - -- For goods of heading 87.11 0,0%
+8244 8483.90.15 Untuk barang lainnya dari Bab 87 - - - For other goorls of Chapter 87 0,0%
+8245 [8483.90.19 Lain-tain |--- Other 5.0%
+Lain-lain : -- Other =
+8246 [8483.90.91 Dari barang pada subpos 8701.10 atau 8701.91 |-- - For goods of subheading 8701.10 or 5,0%
+[sampai 8701.95 18701.91 to 8701.95
+8247 [8483.90.93 Untuk traktor lainnya dari pos 87.01 ~~ For other tractors of heading 87.01 0,0%
+8248 [8483.90.95 Untuk barang dari pos 87.11 --- For goods of heading 87.11 0.0%
+8249 [8483.90.95 ‘Untuk barang lainnya dari Bab 87 ~~~ For other goods of Chapter 87 0,0%
+8250 [8483.90.99 Lain-tain -~- Other 5.0%
+4.84 Gasket dan sambungan semacam itu dari lembaran Gaskets and similar joints of metal
+llogam yang dikombinasi dengan bahan lain atau dari —_|shecting combined with other material or
+dua atau lebih Iapisan logam; set atau ancka gasket dan jof two or more layers of metal; sets or
+|sambungan semacam itu, tidak sama komposisinya, _jassortments of gaskets and similar joints,
+disiapkan dalam kantong, amplop atau kemasan dissimilar in composition, put up in
+|semacam itu; sil mekanis. pouches, envelopes or similar packings;
+mechanical seals.
+8251 [8484.10.00 _|- Gasket dan sambungan semacam itu dari lembaran + Gaskets and similar joints of metal 5.0%
+logam yang dikombinasi dengan bahan lainnya atau dari |shecting combined with other material or of
+\dua atau lebih lapisan logam two or more layers of metal
+8252 [8484.20.00 _|- Sil mekanis + Mechanical seals 5.0%
+8253 [8484.00.00 _|- Lain-lain - Other 5,0%
+184.86 ‘Mesin dan aparatus dari jenis yang semata-mata atau |Machines and apparatus of a kind used
+terutama untuk pembuatan boule atau wafer |solely or principally for the manufacture
+semikonduktor, peralatan semikonduktor, sirkuit lof semiconductor boules or wafers,
+elektronik terpadu atan pancl layar datar; mosin dan —_|semiconduetor devices, electronic
+japaratus yang dirinci pada Catatan 9 (C) Bab ini; bagian |integrated circuits or flat panel displays;
+dan aksesori. machines and apparatus specified in Note
+|9 (C) to this Chapter; parts and
+laccessories.
+8486.10 - Mesin (lan aparatus untuk pembuatan boule atau wafer: |+ Machines and apparatus for the
+manufacture of boules or wafers :
+8254 |8486,10.10 _ |- - Aparatus untuk pemanasan cepat waler semikonduktor |-- Apparatus for rapid heating of 5.0%
+[semiconductor wafers
+8255 [8486.10.20 |. - Pengering putar untuk proses wafer semikonduktor —_|- - Spin «Iryers for semiconductor wafer 5.0%
+8256 |8486,10.30 |. - Mesin untuk mengerjakan berbagai bahan dengan » > Machines for working any material by 5,0%
+Jpenghilangan baban, metalui proses penyinaran laser atau: [removal of material, by Inser or other light or
+sinar lain atau sinar foton dalam produksi wafer [photon beam in the production of
+semikonduktor semiconductor wafers
+6257 8486.10.40 | - Mesin dan aparatus untuk menggergaji boule - - Machines and apparatus for sawing 5,0%
+semikonduktor monokristal menjadi irisan, atau wafer _ | monucrysta! semiconductor boules into
+menjadi keping slices, or wafers into chips
+8258 |8486.10.50_|-- Mesin penggerinda, pemoles dan pengasah untuk - - Grinding, polishing and lapping machines| 5.0%
+memproses wafer semikonduktor for processing of semiconductor wafers
+8259 |8486.1060 |. - Aparatus untuk menumbubkan atau menarik boule —_|-- Apparatus for growing or pulling 5,0%
+/semikonduktor monokristal monocrystal semiconductor boules
+8260 |8486.10.90 _|-- Lain-lain }- - Other 5,0%
+8486.20 - Mesin dan aparatus untuk pembuatan peratatan }- Machines and apparatus for the
+jsemikonduktor atau sirkuit elekironik terpade manufacture of semiconductor devices or of
+electronic integrated circuits :
+~~ Peralatan pembuatan film = - - Film formation equipment :
+8261 |8486.20.11 _ |-- - Aparatus deposisi uap kimia untuk produksi |. - - Chemical vapour deposition apparatus 50%
+Jsemikonduktor for semicontuctor production
+8262 |8486.20.12 |. - Mesin deposisi cpitaxial untuk wafer semikonduktor; |- - - Epitaxial deposition machines for 5.0%
+Jpemintal untuk melapist emutsi fotografi pada wafer [semiconductor waters; spinners for coating
+jsemikonduktor [photographic emulsions on seariconductor
+waters
+8263 [8486.20.13 _|--- Aparatus untuk deposisi fisik dengan pemercikan -- - Apparatus for physical deposition by 0.0%
+pada wafer semikondukior; aparatus deposisi untuk sputtering on semiconductor walers;
+produksi semikonduktor [physical deposition apparatus for
+semiconductor production
+8264 [8486.20.19 = Lain-lain Other 5,0%
+Perlengkapan doping Doping equipment =
+8265 [8486.20.21 = Ion implanter untuk memperkaya bahan - lon implanters for doping semiconductor! 0,0%
+semikonduktor materials
+8266 |8486,20,29 = Lain-lain Other 5.0%
+Peralatan untuk mengetsa dan mengupas : ~ Etching and stripping equipment :
+8267 |8486.20.31 ~ Mesin deflash untuk membersihican dan Deflash machines for cleaning and 5.0%
+Imenghilangkan kotoran dari timbal pada paket removing contaminants from the metal leads
+[semikonduktor sebelum proses electroplating; peralatan of semiconductor packages prior to the
+penyemprot untuk mengetsa, mengupas atar electroplating process; spraying appliances
+membersihian wafer semikonduktor for etching, stripping or cleaning,
+semiconductor wafers
+8268 [8486.20.32 _|- - - Peralatan untuk pola etsn kering padu bahan - - - Equipment for dry-etching patterns on 5.0%
+[semikonduktor semiconductor materials
+6269 |8486,20.33 |. - - Aparatus untuk mengetsa basah, mencuci, mengupas |--- Apparatus for wet etching, developing, 5.0%
+jatau nembersihkan wafer scmikonduktor stripping or cleaning semiconductor waters
+8270 [8486.20.39 |--- Lain-tnin Other 5.0%
+Peralatan lithography : - Lithography equipment
+
+www.peraturan.go.id

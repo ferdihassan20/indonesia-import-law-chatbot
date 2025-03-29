@@ -1,0 +1,168 @@
+2017, No.176
+
+5409
+
+5412
+
+-332-
+
+[6211.33.30 |--- Pakalan yang digunakan untuk pelindung dari bahan
+
+kimia atau radiasi
+
+J6211.33.90 |--- Lain-tain
+
+Jo211.39 - - Dari bahan tekstif lainnya :
+
+Jo211.39,10  |--- Pakaian untuk olahraga anggar atau gulat
+}6211,39.20 Pakaian yang digunakan untuk pelindung dari api
+
+J6211.39.90
+
+- - - Pakaian yang digunakan untuk pelindung dari bahan
+kienia atau radiasi
+
+~~~ Lain-lain
+
+}- Garmen lainnya, untuk wanita atau anak perempuan >
+
+Jo211.39.90
+
+<=> Garments used for protection from
+chemical substances or radiation
+
+--- Other
+
+Of other teatile materials :
+
+- Garments for fencing or wrestling
+- Garments used for protection from fire
+
+--- Garments used for protection from
+chemical substances or racliation
+
+- Other
+
+- Other garments, women’s or girls’
+
+6211.42 + ~ Dari kapas : Of cotton =
+5413 |6211.42.10 _|--- Pakaian untuk olahraga anggar atau gulat ~~ Garments for fencing or wrestling
+5414 [6211.92.20 Pakaian sembahyang, (mukena) ~~ - Prayer cloaks
+5415 [6211.92.90 |--- Lain-tain - Other
+Jo211.43 ~~ Dari serat buatan : Of man-made fibres :
+5416 [6211.43.10 |--- Pakaian bedah + Surgical gowns
+5417 [6211.43.20 Pakaian sembahyang (mukena) - Prayer cloaks
+5418 [6211.43.30 |--- Pakaian pelindung anti ledakan |. - - Anti-explosive protective suits
+5419 [6211.43.40 _|--- Pakaian untuk olahraga anggar atau gulat - Garments for fencing or wrestling
+5420 [6211.43.50 _|-- - Pakaian yang digunakan untuk pelindung dari bahan_ |--- Garments used for protection from
+kimia, radiasi atau api chemical substances, radiation or fire
+5421 |6211.43.60__|-- - Pakaian penerbang ~ + « Flyers’ coveralls
+5422 [6211.43.90 |--- Lain-tain > => Other
+6211.49 ++ Dari bahan teksti lainnya : - - Of other textile materials :
+5423 [6211.99.10 |--- Pakalan untuk olahraga anggar atau gulat ~ Garments for fencing or wrestling
+5424 [0211.49.20 _|-- - Pakaian yang digunakan untuk pelindung dari bahan  |--- Garments used for protection from
+kimia, radiasi atau api [chemical substances, radiation of fire
+~~~ Pakaian sembahyang (mukena) : - Prayer cloaks +
+$425 [6211.49.31 Dari wot atau: bul hewan halus = Of woo! or of fine animal hair
+5426 [6211.49.99 Lain-Lain - Other
+5427 [6211.49.30 |-- - Lain-lain, dari wol atau bulu hewan halus = Other, of wool or fine animal hair
+5428 [6211.49.90 |.» Lain-lain - Other
+62.12 Kutang, girdle, korset, brace, suspender, garter dan _| Brassieres, girdles, corsets, braces,
+‘barang semacam itu sorta bagiannya, rajutan atau suspenders, garters and similar articles
+‘eaitan maupun tidak. ‘and parts thereof, whether or not knitted
+jor crocheted.
+6212.10 Kurang : Brassieres :
++ Dari kapas = - - Of cotton :
+5420 [6212.10.11 |--- Bra mastektomi (bra setelah operasi payudara) = Mastectomy bra (post breast surgery
+bra)
+5430 [6212.10.19 |--- Lain-tain ~ Other
+~~ Daci bahan tekstil lainnya : Of other textile materials :
+5431 |6212.10.91 _ |--- fira mastektomi (bra setelah operasi payudara) - = = Mastectomy bra (post breast surgery
+bra)
+5432 [6212.10.00 |. - Lain-tain - Other
+6212.20 - Girelle dan panty girdle : - Girdles and panty-girdles :
+5433 [6212.20.10 |-- Dari kapas. f cotton
+5434 [6212.20.90 |- - Dari bahan tekstit lainnya + - OF other textile materials
+6212.30 - Corselette : - Corsetettes :
+5495 [6212.30.10 _|-- Dari kapas Of cotton
+5436 6212.30.90 _|- - Dari bahan tekstit iainnya Of other textile materials,
+6212.90 + Lain-lain : - Other :
+-- Dari kapas : Of cotton
+5497 [6212.90.11 |-- - Garmen dikempa dari jenis yang digunakan untuk - Compression garments of « kind used
+perawatan luka jaringan dan cangkok kulit for the treaiment of seur tissue and skin
+raltss
+5438 |6212.90.12 |. -- Perlengkapan atletike - Athletic supporters
+5439 [6212.90.19 |- ~~ Lain-lain - Other
+|. - Dari bahan tekstil lainnya : Of other textile materials :
+$430 [6212.90.91 ]--- Garmen dikempa dari jenis yang digunakan untuk + Compression garment of a kind used for
+perawatan luka jaringan dan cangkok kulit the treatment of scar tissue and skin gralts
+5441 [6212.90.92]. - - Perlengkapan atletike + Athletic supporters
+5442 [6212.90.99 ]--- Lain-tain » Other
+62.13 ISaputangan. Handkerchiefs.
+6213.20 + Dari kapas - OF cotton :
+8443 [6213.20.10 | - Dicetak dengan proses batik (radisional -- Printed by the traditional batik process
+5444 [6213.20.90 |-- Lain-lain - - Other
+6213.90 - Dari bahan tekstil lainnya : - Of other textile material
+- - Dari sutra atau sisa sutra : Of silk or silk waste =
+5445 |6213.90.11 |. - - Dicetak dengan proses batik tradisional - Printed by the traditional batik process
+5446 [6213.90.19 ]--- Lain-lain -- - Other
+- = Lain-tain : Other :
+5447 [6213.90.91 _|- - - Dicetak dengan proses batik tadisional ~ Printed by the traditional batik process
+5448 - - - Lain-tain - Other
+[Syal, scarf, muffler, mantilla, veil dan sejenisnya. |Shawls, scarves, mufflers, mantillas, veils
+jand the like.
+6214.10 - Dari sutra atau sisa sutra : - OF sille or silk waste :
+5449 ]6214.10,.10 |. - Dicetak dengan proses batik tradisional + ~ Printed by the traditional batile process
+5450 |6214.10.90 |. - Lain-tain + - Other
+5451 [6214.20.00 _|- Dari wo! atau bulu hewan halus - Of woo! or fine animal hair
+6214.30 - Daci serat sintetik - OF synthetic fibres
+5452 |6214.30.10 | - Dicetak dengan proses batik tradisional - - Printed by the traditional batik process
+5453 |o214.30.90 |. - Lain-lain + - Other
+6214.40 | Dari serat artifisial : - Of artificial bres :
+
+22,5%
+25,0%
+25,0%
+15,0%
+25,0%
+15,0%
+22,5%
+17,5%
+
+15,0%
+25,0%
+
+22,5%
+17,5%
+
+25,0%
+25,0%
+20,0%
+
+25,0%
+
+25,0%
+25,0%
+25,0%
+25.0%
+
+25,0%
+25,0%
+
+25,0%
+25.0%
+15,0%
+22,5%
+25,0%
+15,0%
+
+22,5%
+25,0%
+
+22,5%
+
+25,0%
+
+22,5%
+
+www.peraturan.go.id

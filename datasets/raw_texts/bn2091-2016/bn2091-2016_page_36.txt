@@ -1,0 +1,67 @@
+2016, No. 2091
+
+-36-
+
+73.15 Rantai dan bagiannya, dari besi atau baja.
+- Rantai penghubung bersambung dan bagiannya:
+7315.11 - - Rantai pemutar:
+17 | 7315.11.10.00 - - - Rantai sepeda roda dua atau sepeda motor
+- - - Lain-lain:
+18 | 7315.11.91.00 ----Jenis transmisi, dengan panjang jarak antar
+gigi tidak kurang dari 6 mm tetapi tidak lebih dari 32
+mm
+
+19 7315.11.99.00 - -- - Lain-lain
+7315.12 - - Rantai lainnya:
+
+20 | 7315.12.10.00 - - - Rantai sepeda roda dua atau sepeda motor
+
+21 7315.12.90.00 - - - Lain-lain
+7315.19 - - Bagian:
+
+22 7315.19. 10.00 - - - Dari sepeda roda dua atau sepeda motor
+
+23 | 7315.19.90.00 - - - Lain-lain
+
+24 | 7315.20.00.00 - Rantai penyangga
+
+- Rantai lainnya:
+
+25 | 7315.81.00.00 - - Penghubung tanam/paku penghubung
+
+26 | 7315.82.00.00 - - Lain-lain, penghubung di las
+7315.89 - - Lain-lain:
+
+27 | 7315.89.10.00 - - - Rantai sepeda roda dua atau sepeda motor
+
+28 7315.89.90.00 - - - Lain-lain
+7315.90 - Bagian lainnya:
+
+29 7315.90. 20.00 - - Dari rantai sepeda roda dua atau sepeda motor
+73.20 Pegas dan daun untuk pegas, dari besi atau baja.
+7320.10 - Pegas daun dan lembarannya:
+
+- - Cocok digunakan untuk kendaraan bermotor atau
+mesin dari pos 84.29 atau 84.30:
+
+30 | 7320.10.11.00 - - - Cocok digunakan untuk kendaraan bermotor
+dari pos 87.02, 87.03 atau 87.04
+
+31 7320.10.19.00 - - - Lain-lain
+
+32 | 7320.10.90.00 - - Lain-lain
+7320.20 - Pegas spiral:
+
+33 | 7320.20.10.00 - - Cocok digunakan untuk kendaraan bermotor atau
+
+mesin dari pos 84.29 atau 84.30
+
+34 7320.20.90.00 - - Lain-lain
+7320.90 - Lain-lain:
+
+35. | 7320.90.10.00 - - Cocok digunakan untuk kendaraan bermotor
+
+36 | 7320.90.90.00 - - Lain-lain
+
+www.peraturan.go.id
+

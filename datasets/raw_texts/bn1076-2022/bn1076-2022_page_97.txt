@@ -1,0 +1,43 @@
+2022, No.1076
+
+97-
+PETUNJUK PENGISIAN
+Nomor (1) : diisi nomor surat perusahaan.
+Nomor (2) : diisi tanggal surat perusahaan.
+Nomor (3) : diisi jamlah lampiran dokumen pendukung.
+Nomor (4) : diisi nama Kantor Wilayah Direktorat Jenderal Bea dan
+
+Cukai/Kantor Pelayanan Utama Bea dan Cukai yang
+menerbitkan Keputusan Menteri mengenai penetapan sebagai
+Perusahaan KITE Pengembalian.
+
+Nomor (5) : diisi alamat Kantor Wilayah Direktorat Jenderal Bea dan
+Cukai/Kantor Pelayanan Utama Bea dan Cukai yang
+menerbitkan Keputusan Menteri mengenai penetapan sebagai
+Perusahaan KITE Pengembalian.
+
+Nomor (6) : diisi nama perusahaan.
+
+Nomor (7) : diisi NPWP perusahaan.
+
+Nomor (8) : diisi nomor Keputusan Menteri Keuangan mengenai
+penetapan sebagai Perusahaan KITE Pengembalian.
+
+Nomor (9) : diisi alamat kantor perusahaan.
+
+Nomor (10) =: diisi nomor telepon/fax perusahaan.
+
+Nomor(11)  ; diisi nomor rekening bank perusahaan yang akan menjadi
+tujuan transfer pengembalian Bea Masuk.
+
+Nomor (12) : diisi nama bank perusahaan yang akan menjadi tujuan
+transfer pengembalian Bea Masuk
+
+Nomor (13) ; diisi kode bank perusahaan yang akan menjadi tujuan
+transfer pengembalian Bea Masuk
+
+Nomor (14) : diisi nama lengkap yang menandatangani surat
+
+Nomor (15) =: diisi jabatan yang menandatangani surat.
+
+www.peraturan.go.id

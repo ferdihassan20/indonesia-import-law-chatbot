@@ -1,0 +1,58 @@
+a 2016, No. 1942
+
+PETUNJUK PENGISIAN
+
+Angka (1) : Diisi nama Direktur yang tugas dan fungsinya di bidang
+
+identifikasi dan klasifikasi barang.
+
+Angka (2) : Diisi oleh Pejabat Bea dan Cukai.
+
+Angka (3) : Diisi tanggal pengajuan.
+
+Angka (4) : Diisi nama perusahaan.
+
+Angka (5) : Diisi alamat perusahaan.
+
+Angka (6) : Diisi nomor telp, fax dan/atau email perusahaan atau pihak
+
+perusahaan yang menangani permohonan.
+
+Angka (7) : Diisi Nomor Pokok Wajib Pajak perusahaan.
+
+Angka (8) : Diisi nomor identitas untuk dapat melakukan  kegiatan
+kepabeanan.
+
+Angka (9) : Diisi dengan uraian/nama/jenis barang secara detil.
+
+Angka (10) : Diisi dengan lengkap dan jelas merk, tipe, atau model.
+
+Angka (11) : Diisi nama data pendukung yang _ dilampirkan pada
+
+permohonan.
+Angka (12) : Diisi sesuai dengan pengajuan contoh barang.
+Angka (13) : Diisi Kantor Pabean pelabuhan pemasukan tempat penyerahan
+
+pemberitahuan pabean.
+
+Angka (14) : Diisi dengan lengkap dan jelas seluruh elemen barang yang
+diajukan permohonan.
+Tuliskan juga spesifikasi/identitas lainnya, misalnya: part
+number, isi kemasan, uraian barang atau hal-hal lain yang dapat
+membantu proses identifikasi barang, misalnya keterangan
+tentang proses pengolahan atau pembuatan barang.
+
+Angka (15) : Diisi perkiraan/pendapat pos tarif menurut pemohon.
+
+Angka (16) : Diisi apakah barang yang diajukan permohonan sedang
+diajukan pemberitahuan pabean impornya.
+
+Angka (17) : Diisi apakah barang yang diajukan permohonan sedang dalam
+proses keberatan dan atau banding.
+
+Angka (18) : Diisi nama, tanda tangan, dan stempel dari pimpinan
+perusahaan pemohon atau yang namanya tercantum dalam
+
+nomor identitas untuk dapat melakukan kegiatan kepabeanan.
+
+www.peraturan.go.id

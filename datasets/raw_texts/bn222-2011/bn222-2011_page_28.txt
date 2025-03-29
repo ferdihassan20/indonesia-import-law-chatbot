@@ -1,0 +1,56 @@
+2011, No.222
+
+28
+
+POS/SUB POS % BEA
+HEADING/ DESCRIPTION OF MASUK/ %
+NO. SUB URAIAN BARANG GOODS IMPORT
+HEADING DUTY
+() (2) (3) (4) (6)
+8443.11.00.00 | --Mesin cetak offset, reel-fed ~Offset printing machinery,
+77 reel-fed 0
+Mesin untuk mengekstrusi, menarik, Machines for extruding,
+84.44
+mentekstur drawing, texturing or
+memotong bahan tekstil buatan. cutting man-made textile
+materials.
+78 | 8444.10.00.00 | -Dioperasikan secara elektrik -Electrically operated 0
+Mesin untuk pengolahan serat tekstil; | Machines for preparing
+84.45 - - - .
+mesin textile fibres;
+pemintal, penggandaan atau pemilinan | spinning, doubling or
+dan mesin twisting machines and
+lainnya untuk memproduksi benang other machinery for
+tekstil; producing textile yarns;
+mesin pengikal atau penggulung textile reeling or winding
+tekstil (including
+(termasuk penggulung benang pakan) | weft-winding ) machines
+dan mesin and machines for
+untuk menyiapkan benang tekstil preparing textile yarns for
+untuk diguna- use on the
+kan pada mesin yang dimaksud pada machines of heading 84.46
+pos 84.46 or 84.47.
+atau 84.47.
+-Mesin untuk pengolahan serat tekstil : “Machines lor preparing textile
+fibres :
+8445.11 --Mesin penggaruk : --Carding machines :
+79 | 8445.11.10.00 | ---Dioperasikan secara elektrik ---Electrically operated 0
+8445.12 --Mesin penyisir : --Combing machines :
+80 | 8445.12.10.00 | ---Dioperasikan secara elektrik ---Electrically operated 0
+8445.13 --Mesin penarik atau mesin roving : --Drawing or roving machines :
+81 8445.13.10.00 | ---Dioperasikan secara elektrik ---Electrically operated 0
+8445.19 --Lain-lain : --Other :
+82 | 8445.19.10.00 | ---Dioperasikan secara elektrik ---Electrically operated 0
+8445.20 -Mesin pemintal benang tekstil : -Textile spinning machines :
+83 | 8445.20.10.00 | --Dioperasikan secara elektrik --Electrically operated 0
+-Mesin pengganda atau pemintal benang -Textile doubling or twisting
+8445.30 sy : :
+tekstil: machines :
+84 | 8445.30.10.00 | --Dioperasikan secara elektrik --Electrically operated 0
+-Mesin penggulung (termasuk penggulung | -Textile winding (including
+8445.40 an
+benang weft-winding)
+ann) atau mesin pengikal benang or reeling machines :
+85 | 8445.40.10.00 | --Dioperasikan secara elektrik --Electrically operated 0
+
+www.djpp.kemenkumham.go.id

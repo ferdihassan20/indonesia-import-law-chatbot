@@ -1,0 +1,74 @@
+-49-
+
+PETUNJUK PENGISIAN
+
+Nomor (1) : diisi nomor surat permohonan pengembalian Jaminan.
+
+Nomor (2) : diisi nama kota tempat surat permohonan pengembalian
+Jaminan dibuat.
+
+Nomor (3) : diisi tanggal, bulan, dan tahun surat permohonan
+pengembalian Jaminan.
+
+Nomor (4) : diisi jumlah lampiran surat permohonan permohonan
+pengembalian Jaminan.
+
+Nomor (5) : diisi jenis Jaminan yang diajukan pengembalian, misalnya
+Jaminan Tunai, Customs Bond, Excise Bond, dll.
+
+Nomor (6) : diisi Nama Kantor Bea dan Cukai yang ditunjuk.
+
+Nomor (7) : diisi nama kota tempat Kantor Bea dan Cukai yang ditunjuk
+sebagaimana dimaksud pada Nomor (6).
+
+Nomor (8) : diisi nama pengguna jasa/importir/pengusaha yang
+menandatangani permohonan pengembalian Jaminan.
+
+Nomor (9) : diisi nama jabatan pengguna jasa/importir/pengusaha yang
+
+menandatangani permohonan pengembalian Jaminan.
+Nomor (10) : diisi nama kota tempat pengguna jasa/importir/pengusaha
+
+berdomisili.
+
+Nomor (11) : diisi Nomor Pokok Wajib Pajak (NPWP) pengguna jasa/
+importir/perusahaan.
+
+Nomor (12) : diisi nama perusahaan yang mengajukan permohonan
+pengembalian Jaminan.
+
+Nomor (13) : diisi alamat lengkap pengguna jasa/importir/perusahaan yang
+
+mengajukan permohonan pengembalian Jaminan
+
+Nomor (14) : diisi nomor telepon pengguna jasa/ importir/perusahaan yang
+mengajukan permohonan pengembalian Jaminan
+
+Nomor (15) : diisi alamat email importir/perusahaan yang melakukan
+
+importasi
+
+Nomor (16) : diisi nilai Jaminan yang diajukan pengembalian (dengan
+angka).
+
+Nomor (17) : diisi nilai Jaminan yang diajukan pengembalian (dengan
+huruf).
+
+Nomor (18) : diisi kegiatan kepabeanan dan/atau cukai yang dijamin.
+
+Nomor (19) : diisi jenis, nomor, tanggal, bulan, dan tahun dokumen sumber
+sebagai dasar diserahkannya Jaminan.
+
+Nomor (20) : diisi nomor bukti penerimaan Jaminan.
+
+Nomor (21) : diisi tanggal bukti penerimaan Jaminan.
+
+Nomor (22) : diisi nomor rekening untuk pengembalian Jaminan tunai.
+
+Nomor (23) : diisinama bank tempat rekening untuk pengembalian Jaminan
+tunai.
+
+Nomor (24) : diisi nama pemilik rekening untuk pengembalian Jaminan
+tunai.
+
+at vebonouge'

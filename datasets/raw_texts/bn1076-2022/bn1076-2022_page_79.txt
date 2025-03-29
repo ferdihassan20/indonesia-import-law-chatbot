@@ -1,0 +1,48 @@
+2022, No.1076
+
+79-
+PETUNJUK PENGISIAN
+Nomor (1) : diisi penomoran surat perusahaan.
+Nomor (2) : diisi tanggal surat perusahaan.
+Nomor (3) : diisi jamlah lampiran dokumen pendukung.
+Nomor (4) : diisi nama Kantor Wilayah Direktorat Jenderal Bea dan
+
+Cukai/Kantor Pelayanan Utama Bea dan Cukai yang
+menerbitkan Keputusan Menteri mengenai penetapan sebagai
+Perusahaan KITE Pengembalian.
+
+Nomor (5) : diisi alamat Kantor Wilayah Direktorat Jenderal Bea dan
+Cukai/Kantor Pelayanan Utama Bea dan Cukai yang
+menerbitkan Keputusan Menteri mengenai penetapan sebagai
+Perusahaan KITE Pengembalian.,
+
+Nomor (6) : diisi nama perusahaan.
+
+Nomor (7) : diisi Nomor Pokok Wajib Pajak perusahaan.
+
+Nomor (8) : diisi nomor Keputusan Menteri mengenai penetapan sebagai
+Perusahaan KITE Pengembalian.
+
+Nomor (9) : diisi alamat perusahaan.
+
+Nomor (10) =: diisi nomor telepon dan faksimil perusahaan.
+Nomor(11) ; diisi lamanya perpanjangan jangka waktu realisasi ekspor
+
+KITE Pengembalian.
+
+Nomor (12) : pilih salah satu jenis pemberitahuan pabean impor yang
+diajukan perpanjangan jangka waktu realisasi ekspor KITE
+Pengembalian.
+
+Nomor (13) : diisi nomor pemberitahuan pabean impor.
+
+Nomor (14) : diisi tanggal pemberitahuan pabean impor.
+
+Nomor (15) =: diisi alasan perpanjangan jangka waktu realisasi ekspor KITE
+Pengembalian.
+
+Nomor (16) ; diisi bukti pendukung.
+Nomor (17) : diisi nama lengkap yang menandatangani surat
+Nomor (18) : diisi jabatan yang menandatangani surat.
+
+www.peraturan.go.id

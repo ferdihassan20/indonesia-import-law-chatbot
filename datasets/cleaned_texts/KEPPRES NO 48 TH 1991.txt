@@ -1,0 +1,96 @@
+Instruksi Pemrosesan Dokumen Peraturan/Undang-Undang Terkait Impor di Indonesia
+
+Di bawah ini merupakan hasil ekstraksi teks dari dokumen peraturan dan/atau undang-undang terkait impor di Indonesia. Hasil ekstraksi ini mungkin mengandung: 
+1. Simbol atau karakter asing seperti tanda bold, italic, underline, atau karakter lainnya yang tidak relevan dan perlu dihapus. 
+2. Kesalahan ejaan yang perlu diperbaiki agar sesuai dengan ejaan yang benar dalam bahasa Indonesia. 
+3. Susunan kata atau kalimat yang tidak sesuai urutan, sehingga perlu disusun kembali agar mudah dipahami dan sesuai dengan struktur aslinya. 
+4. Tabel yang harus diubah menjadi teks deskriptif tanpa menghilangkan informasi penting.
+
+Tugas Anda: 
+1. Membersihkan dan merapikan teks agar dapat dipahami dengan baik serta mengikuti sistematika baku dalam peraturan perundang-undangan Indonesia. 
+2. Menjaga struktur asli dokumen agar tetap utuh dan berurutan, yaitu: 
+   - Pembukaan: "Dengan Rahmat Tuhan Yang Maha Esa" harus selalu berada di bagian awal dokumen. 
+   - "Menimbang" harus berada setelah pembukaan, tanpa berpindah posisi atau bergabung dengan bagian lain. 
+   - "Mengingat" harus berada setelah bagian "Menimbang" dan wajib memiliki indeks a, b, c, dan seterusnya. Jangan menghilangkan atau menggabungkan poin-poin di dalamnya. 
+   - "Memutuskan" harus selalu diawali dengan kata "Menetapkan" yang tidak boleh dihapus atau diubah. 
+   - Isi pasal-pasal harus tetap terstruktur sesuai format aslinya. 
+   - Penutup harus tetap utuh, mencakup tanggal penetapan, nama pejabat, serta berita negara (jika ada). 
+3. Jika Anda menemukan bagian yang menyerupai tabel (ditandai dengan "| | |" atau "---------"), ubah menjadi teks deskriptif dengan format berikut: 
+   - Setiap baris tabel harus dikonversi menjadi kalimat yang jelas dan mengikuti hierarki informasi yang logis. 
+   - Jika tabel memiliki kategori utama dan subkategori, gunakan format daftar bullet points untuk menunjukkan hubungan antar kategori. 
+   - Nama kolom harus dijadikan referensi dalam penyusunan kalimat. 
+   - Tarif bea masuk harus disebutkan secara eksplisit di akhir setiap poin.
+
+Contoh konversi dari tabel ke teks deskriptif:
+
+Tabel Input (OCR): 
+| POS/SUB POS NO. | HEADING/URAIAN BARANG | DESKRIPSI BARANG | TARIF BEA MASUK | 
+|-----------------|----------------------|------------------|----------------| 
+| 09.01          | Kopi, digongseng atau dihilangkan kafeinnya maupun tidak | Coffee, whether or not roasted or decaffeinated |   | 
+| - Kopi, digongseng: | - Coffee, roasted: | |  | 
+| 0901.21 | Tidak dihilangkan kafeinnya: | - Not decaffeinated: | 20% | 
+| 0901.21.10.00 | Tidak ditumbuk | Unground | 20% | 
+| 0901.21.20.00 | Ditumbuk | Ground | 20% | 
+
+Output Deskriptif yang Benar: 
+- Kopi (HS Code: 09.01) termasuk kopi yang digongseng atau dihilangkan kafeinnya. 
+- Kopi yang digongseng dan tidak dihilangkan kafeinnya dikenakan tarif bea masuk sebesar 20%, dengan rincian: 
+  - Kopi yang tidak ditumbuk dikenakan tarif 20%. 
+  - Kopi yang ditumbuk dikenakan tarif 20%. 
+- Kopi yang digongseng dan telah dihilangkan kafeinnya juga dikenakan tarif bea masuk sebesar 20%, dengan rincian: 
+  - Kopi yang tidak ditumbuk dikenakan tarif 20%. 
+  - Kopi yang ditumbuk dikenakan tarif 20%.
+
+Penting: 
+- Jangan mengubah urutan atau struktur bagian dalam dokumen. Jika bagian "Menimbang" dan "Mengingat" ditemukan dalam posisi yang salah, pindahkan ke posisi yang benar. 
+- Pastikan semua poin dalam "Mengingat" lengkap dan memiliki indeks a, b, c, dst. Jangan menggabungkan atau menghapus poin. 
+- Jangan menghapus atau mengubah kata "Menetapkan" pada bagian "Memutuskan". 
+- Pastikan format tetap jelas dan tidak ada informasi yang terbuang. 
+- Gabungkan hasil cleaning ke dalam satu file, tidak perlu pemisahan antara teks biasa dan tabel. 
+- Selesaikan sampai akhir dokumen, tidak perlu memotong atau membuang bagian mana pun dari dokumen maupun memberi output seperti "(dan seterusnya untuk item lainnya)". 
+- Jangan memberikan keterangan bahwa dokumen telah dibersihkan. 
+- Pastikan tidak ada format teks yang berantakan terutama jika mengandung barisan karakter seperti '--' atau '|'
+
+Hasil yang Diharapkan: 
+Dokumen yang telah diperbaiki harus memiliki struktur yang lengkap, rapi, tidak ada bagian yang hilang, serta tabel yang dikonversi ke dalam teks deskriptif tanpa kehilangan informasi.
+
+KEPUTUSAN PRESIDEN REPUBLIK INDONESIA
+NOMOR 48 TAHUN 1991
+TENTANG
+
+PENGESAHAN CONVENTION ON WETLANDS OF INTERNATIONAL IMPORTANCE
+
+Dengan Rahmat Tuhan Yang Maha Esa, 
+
+Menimbang:
+1. Bahwa di Ramsar, Iran, pada tanggal 2 Pebruari 1971 telah diterima Convention on Wetlands of International Importance, terutama sebagai Habitat Burung Air, sebagai hasil Konferensi United Nations Educational, Scientific and Cultural Organization (UNESCO) mengenai Lahan Basah Dipandang dari Kepentingan Internasional, Khususnya sebagai Habitat Burung Air;
+2. Bahwa konvensi tersebut bertujuan melestarikan lahan basah berikut flora dan faunanya yang pelaksanaannya memerlukan keterpaduan antar kebijakan internasional;
+3. Bahwa sehubungan dengan itu, dan sesuai dengan Amanat Presiden Republik Indonesia kepada Ketua Dewan Perwakilan Rakyat Gotong Royong Nomor 2826/HK/1960 tanggal 22 Agustus 1960 tentang Pembuatan Perjanjian dengan Negara-negara Lain, dipandang perlu untuk mengesahkan konvensi tersebut dengan Keputusan Presiden;
+
+Mengingat:
+a. Pasal 4 ayat (1) dan Pasal 11 Undang-Undang Dasar 1945;
+
+MEMUTUSKAN:
+
+Menetapkan:
+KEPUTUSAN PRESIDEN REPUBLIK INDONESIA TENTANG PENGESAHAN CONVENTION ON WETLANDS OF INTERNATIONAL IMPORTANCE, terutama sebagai Habitat Burung Air.
+
+Pasal 1
+Mengesahkan Convention on Wetlands of International Importance, terutama sebagai Habitat Burung Air, yang diterima di Ramsar, Iran, pada tanggal 2 Pebruari 1971 sebagai hasil Konferensi United Nations Educational, Scientific and Cultural Organization (UNESCO) mengenai Lahan Basah Dipandang dari Kepentingan Internasional, Khususnya sebagai Habitat Burung Air, yang salinan naskah aslinya dalam bahasa Inggris sebagaimana terlampir pada Keputusan Presiden ini.
+
+Pasal 2
+Keputusan Presiden ini mulai berlaku pada tanggal ditetapkan.
+
+Agar setiap orang mengetahuinya, memerintahkan pengundangan Keputusan Presiden ini dengan penempatannya dalam Lembaran Negara Republik Indonesia.
+
+Ditetapkan di Jakarta pada tanggal 19 Oktober 1991
+
+PRESIDEN REPUBLIK INDONESIA
+ttd
+SOEHARTO
+
+Diundangkan di Jakarta pada tanggal 19 Oktober 1991
+
+MENTERI/SEKRETARIS NEGARA REPUBLIK INDONESIA
+ttd
+MOERDIONO

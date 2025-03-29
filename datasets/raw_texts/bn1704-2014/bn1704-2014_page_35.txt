@@ -1,0 +1,50 @@
+2014, No.1704
+
+35
+NO POS TARIF / HS URAIAN BARANG
+1 2 3
+- - - Lain-lain:
+4810.14.91 - - -- Dengan sisi tidak melebihi 360 mm:
+246. | 4810.14.91.10  |----- Kertas uang
+247. | 4810.14.91.90 ‘| ----- Lain-lain
+4810.14.99 - --- Lain-lain:
+248. | 4810.14.99.10 | ----- Kertas uang
+249. | 4810.14.99.90 | ----- Lain-lain
+4810.19 - - Lain-lain:
+- - - Dicetak, dari jenis yang digunakan untuk
+aparatus yang merekam sendiri, dengan sisi
+tidak melebihi 360 mm dalam keadaan tidak
+dilipat:
+
+250. | 4810.19.11.00 - - - - Kertas elektrokardiografi, ultrasonografi,
+spirometer, elektro-ensepalografi dan pemantau
+janin
+
+4810.19.19 - --- Lain-lain:
+
+251. 4810.19.19.10 =| ----- Kertas uang
+
+252. | 4810.19.19.90 | ----- Lain-lain
+- - - Lain-lain:
+
+4810.19.91 - - -- Dengan sisi tidak melebihi 360 mm:
+
+253. /4810.19.91.10 | ----- Kertas uang
+
+254. | 4810.19.91.90 | ----- Lain-lain
+
+4810.19.99 - --- Lain-lain:
+255. /4810.19.99.10 | ----- Kertas uang
+256.
+
+4810.19.99.90
+
+sore Lain-lain
+
+- Kertas dan kertas karton dari jenis yang
+digunakan untuk menulis, mencetak atau
+keperluan grafik lainnya, mengandung serat
+yang diperoleh melalui proses mekanik atau
+kimia mekanik lebih dari 10% menurut berat
+keseluruhan kandungan seratnya:
+

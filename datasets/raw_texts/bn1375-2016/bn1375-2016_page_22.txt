@@ -1,0 +1,46 @@
+-22-
+
+2016, No.1375
+
+POS/SUB POS.
+
+NO. HEADING/ URAIAN BARANG DESCRIPTION OF GOODS
+SUB HEADING
+(1) (2) (3) (4)
+9548 | 9026.10.10.00 |- - Pengukur tinggi permukaan untuk kendaraan bermotor, dioperasikan Level gauges for motor vehicles, electrically operated
+secara elektrik
+9549 | 9026.10.20.00 |- - Pengukur tinggi permukaan untuk kendaraan bermotor, tidak Level gauges for motor vehicles, not electrically operated
+dioperasikan secara elektrik
+9550 | 9026.10.30.00 |- - Lain-lain, dioperasikan secara elektrik Other, electrically operated
+9551 | 9026.10.90.00 |- - Lain-lain, tidak dioperasikan secara elektrik - Other, not electrically operated
+9026.20 - Untuk mengukur atau memeriksa tekanan: For measuring or checking pressure:
+9552 | 9026.20.10.00 |- - Pengukur tekanan untuk kendaraan bermotor, dioperasikan secara Pressure gauges for motor vehicles, electrically operated
+elektrik
+9553 | 9026.20.20.00 |- - Pengukur tekanan untuk kendaraan bermotor, tidak dioperasikan Pressure gauges for motor vehicles, not electrically operated
+secara elektrik
+9554 | 9026.20.30.00 |- - Lain-lain, dioperasikan secara elektrik Other, electrically operated
+9555 | 9026.20.40.00 Lain-lain, tidak dioperasikan secara elektrik Other, not electrically operated
+9026.80 - Instrumen atau aparatus lainnya: Other instruments or apparatus:
+9556 | 9026.80.10.00 |- - Dioperasikan secara elektrik Electrically operated
+9557. | 9026.80.20.00 |- - Tidak dioperasikan secara elektrik Not electrically operated
+9026.90 Bagian dan aksesori: Parts and accessories:
+9558 | 9026.90.10.00 |- - Untuk instrumen dan aparatus yang dioperasikan secara elektrik For electrically operated instruments and apparatus
+9559 | 9026.90.20.00 |- - Untuk instrumen dan aparatus yang tidak dioperasikan secara elektrik For non-electrically operated instruments and apparatus
+90.27 Instrumen dan aparatus untuk analisa sifat fisika atau kimia (misalnya | Instruments and apparatus for physical or chemical analysis (for example,
+polarimeter, refraktometer, spektrometer, aparatus analisa gas atau | polarimeters, refractometers, spectrometers, gas or smoke analysis
+asap); instrumen dan aparatus untuk mengukur atau memeriksa | apparatus); instruments and apparatus for measuring or checking viscosity,
+viskositas, porositas, daya muai, tegangan permukaan atau sejenisnya; | porosity, expansion, surface tension or the like; instruments and apparatus
+instrumen dan aparatus untuk mengukur atau memeriksa kuantitas | for measuring or checking quantities of heat, sound or light {including
+panas, suara atau cahaya (termasuk pengukur cahaya); mikrotom. exposure meters}; microtomes.
+9027.10 - Aparatus analisa gas atau asap: Gas or smoke analysis apparatus:
+9560 | 9027.10.10.00 |- - Dioperasikan secura elektik Electrically operated
+9561 | 9027.10.20.00 Tidak dioperasikan secara elektrik Not electrically operated
+9027.20 - Instrumen kromatograf dan elektroforesis: Chrom atographs and electrophoresis instruments:
+9562 | 9027.20.10.00 |- - Dioperasikan secara elektrik Electrically operated
+9563 | 9027.20.20.00 Tidak dioperasikan sccara clektrik Not cloctrically operated
+9027.30 Spektrometer, spektrofotometer dan spektrograf menggunakan radiasi Spectrometers, spectrophotometers and spectrographs using optical radiations
+optik (UV, visibel, IR): (UV, visible, IR):
+9564 | 9027.30.10.00 |- - Dioperasikan secara elektrik Electrically operated
+9565 | 9027.30.20.00 Tidak dioperasikan secara elektrik Not electrically operated
+
+www.peraturan.go.id

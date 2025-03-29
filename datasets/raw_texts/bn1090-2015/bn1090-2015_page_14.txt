@@ -1,0 +1,41 @@
+2015, No.1090 14
+
+No Pos Tarif/HS Uraian Barang
+80 5212.13.00.00 - - Dicelup
+81 5212,14.00.00 - - Dari benang aneka warna
+
+5212.15 - - Dicetak:
+82 5212.15.10.00 - - - Dicetak dengan proses batik tradisional
+83 5212.15.90.00 - -- Lain-lain
+
+- Beratnya lebih dari 200 g/m?:
+
+84 5212.21.00.00 - - Tidak dikelantang
+85 5212.22.00.00 - - Dikelantang
+86 5212.23.00.00 - - Dicelup
+87 5212.24.00.00 - - Dari benang aneka warna
+5212.25 - - Dicetak:
+No Pos Tarif/HS Uraian Barang
+
+- - - Kain tenunan nilon mesh dari benang filamen tidak dipilin cocok
+
+oS SAC ALLO.OG digunakan sebagai bahan penguat terpal
+
+100 5407.41.90.00 --- Lain-lain
+
+101 5407.42.00.00 - - Dicelup
+
+102 5407.43.00.00 - - Dari benang aneka warna
+103 5407.44.00.00 - - Dicetak
+
+- Kain tenunan lainnya, mengandung filamen poliester tekstur 85% atau
+lebih menurut beratnya:
+
+104 5407.51.00.00 - - Tidak dikelantang atau dikelantang
+105 5407.52.00.00 - - Dicelup
+
+106 5407.53.00.00 - - Dari benang aneka warna
+
+107 5407.54.00.00 - - Dicetak
+
+www.peraturan.go.id

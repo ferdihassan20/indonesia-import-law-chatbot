@@ -1,0 +1,47 @@
+2009, No.228 14
+
+No. URAIAN BARANG POS TARIF
+(1) (2) (3)
+53. | ---Bergelombang 7211.29.10.00
+54 | ---Simpai dan strip, dengan lebar tidak 7211.29.20.00
+melebihi 400 mm
+---Lain-lain, dengan ketebalan 0,17 mm atau
+55 | kurang 7211.29.30.00
+56 | ---Lain-lain, simpai dan strip, dengan lebar 7211.29.90.00
+tidak melebihi 400 mm
+-Lain-lain : 7211.90
+57 | --Simpai dan strip, dengan lebar tidak 7211.90.10.00
+melebihi 400 mm
+58 | --Bergelombang, mengandung karbon kurang 7211.90.20.00
+dari 0,6% menurut beratnya
+--Lain-lain, dengan ketebalan 0,17 mm atau
+59 | kurang 7211.90.30.00
+60 | --Lain-lain 7211.90.90.00
+Produk canai lantaian dari besi atau baja 72.12
+bukan paduan, dengan lebar kurang dari 600
+mm,
+dipalut, disepuh atau dilapisi.
+-Disepuh atau dilapisi dengan timah : 7212.10
+61. | --Simpai dan strip,dengan lebar tidak melebihi 7212.10.10.00
+400 mm
+-Dicat, dipernis atau dilapisi dengan plastik: 7212.40
+62 | --Simpai dan strip,dengan lebar tidak melebihi 7212.40.10.00
+400 mm
+Batang dan batang kecil, dicanai panas, dalam | 72.13
+gulungan yang putarannya tidak beraturan,
+dari
+besi atau baja bukan paduan.
+-Mengandung lekukan, rusuk, alur atau de- 7213.10.00
+formasi lainnya yang dihasilkan selama proses
+pencanaian :
+63 | --Dengan ukuran penampang silang lingkarannya | 7213.10.00.10
+tidak melebihi 50 mm?
+64 | --Dengan penampang silang persegi panjang 7213.10.00.20
+(termasuk bujur sangkar), dengan lebar
+tidak melebihi 20 mm
+65 | --Lain-lain 7213.10.00.90
+-Lain lain :
+-- Dengan ukuran diameter penampang silang 7213.91.00
+lingkarannya kurang dari 14 mm:
+--- Cold Heading 7213.91.00.10
+

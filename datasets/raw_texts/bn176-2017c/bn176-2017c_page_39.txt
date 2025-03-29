@@ -1,0 +1,326 @@
+-359-
+
+6385
+
+6386
+
+6387
+
+6391
+
+6392
+6393,
+
+6397
+6398
+
+6399
+
+os01
+
+6403
+
+6405
+6406
+
+6407
+
+6408
+
+6409
+
+6410
+64il
+
+O42
+6413
+
+6414
+
+041s
+
+6416
+
+7304.90.10
+
+7304.90.30
+
+7303.90.90
+\73.05
+
+7305.11.00
+
+7305.12
+7305.12.10
+7305.12.90
+7305.19
+7305.19.10
+
+7305.19.90
+7305.20.00
+
+7305.31
+7305.31.10
+7305.31.90
+7305.39
+7305.39.10
+
+7305.39.90
+7305.90.00
+73.06
+
+7306.11
+7306.11.10
+
+7306.11.20
+7306.11.90
+7306.19
+
+7306.19.10
+7306.19.20
+7306.19.90
+7306.21.00
+7306.29.00
+7306.30
+
+7306.30.11
+
+7306.30.19
+
+7306.30.21
+
+7306.30.20
+7306.30.30
+
+7300.30.41
+7306.30.49
+
+7306.30.91
+
+7306.30.92
+
+7300.30.99
+7306.40
+
+> ~~ Lain-lain
+| Lain-lain ;
+- - Pipa tekanan tinggi mampu menahan tekanan tidak
+kurang dari 42,000 psi
+
+- High-pressure pipe capable of
+withstanding a pressure of not less than
+142,000 psi
+
+- - Other, having an external diameter of less
+than 140 mm and containing less than 0.45
+1% by weight of carbon
+
+~ + Other
+
+lOther tubes and pipes (for example,
+
+led, riveted or similarly closed),
+Ihaving circular cross-sections, the
+external diameter of which exceeds 406.4
+mm, of iron or steel.
+
+- Line pipe of a kind used for oll or gas
+
+- - Longitudinally submerged are welded
+
+|. - Laindain, mempunyai diameter luar kurang dari 140
+mm dan mengandung karvon kurang dari 0,45 % menurut
+
+jsilang lingkaran, diameter Iuarnya melebihi 406.4 mm,
+dari besi atau baja.
+
+- Pipa salur dari jenis yang digunaken untuk penyaluran
+iminyak atau gas :
+
+- Dilas secara longitudinal dengan metode submerged are
+welded
+-- Lain-lain, dilas secara longitudinal :
+- Electric resistance welded (ERW)
+
+~ Lain-lain
+
+Lain-lain :
+
+~~ Spiral atau helical submerged are welded
+
+|. - Other, longtiudinally welded :
+- «+ Blectric resistance welded (ERW}
+- » = Other
+~ Other +
+Spiral or helical submerged are welded
+
++ ~~ Lain-lain
+|- Casing dari jenis yang digunakan dalam pengeboran
+minyak alau gas
+
+- Lainy-lain, dias <
+
+|. - Ditas secara longitudinal :
+
+- Pipa dan pembultah dari baja stainless
+
+~ Lale-lain
+
+Lain-lain =
+
+|. - - Pipa tekanan tinggi mampu menahan tekanan tidak
+icurang dart 42.000 psi
+
+- ~~ Other
+- Casing of a kind used in drilling for oit or
+leas
+
+- Other, welded =
+
+> Langitudinalty welded :
+
+- - - Stainless steel pipes and tubes
+
+| - - High-pressure pipe capable of
+jwithstanding a pressure of not less than
+142,000 psi
+= Other
+
+|} - = Lain-lain
+
+}- Lain-lain
+
+'Pembuluh, pipa dan profil beronggs Iainnya (misalnya,
+kampuh atau dilas terbuka, dikeling atau sambungan
+‘semacam itu), dari besi atau baja,
+
+}- Other
+
+JOther tubes, pipes and hollow profiles (for
+lexample, open seam or welded, riveted or
+milarly closed), of iron or steel.
+
+- Pipa salur dari jenis yang digunakan untuk pipa
+penyaluran minyak atau gas =
+
+- - Dilas, dari baja stainless -
+
+- - - Longitudinally clectrie resistance welded {ERW)
+
+- Line pipe of a kind used for oil or gas
+pipelines =
+
+- - Welded, of stainless steel :
+
+- - - Longitudinally electric resistance welded
+eRW)
+
+|- - - Spiral or helical submerged are welded
+
+~~ Spinal or helical submerged are welded
+
+++ Lain-tain - - - Other
+Lain-lain + Other ;
+- - - Longitudinally electric resistance welded (ERW) ~ - - Longitudinally electric resistance wekled
+(ERW)
+~~ Spiral or helical submerged are welded - - - Spiral or helical submerged are welded
++ Lairi-tain |. -- Other
+- Casing dan tubing dari jenis yang digunakan dalam }- Casing and tubing of a kind used in drilling|
+[pengeboran minyak atau gas : for oil oF gs :
+-- Dilas, dari baja stainless + = Welded, of stainless steet
++ Lain-lain . - Other
+- Lain-lain, dilas, dengan penampang silang lingkaran, —_|- Other, welded, of circular cross-section, of
+Jdari best atau baja bulean pactunn : iron or non-alloy steel :
+Pembululs ketel : + = Boller tubes :
++ Dengan diameter luar kurang dari 12,5 mm |. -- With an external diameter less than
+12.5 mm
++= Lain-tain Other
+
+~~ Pembuluh baja dengan diameter luar tidak melebihi 15 |- - Copper-plated, fluororesin-coated or zine-
+mm disepuh tembaga, dilapisi Nuororesin atau zinc- [chromated steel tubes with an external
+chromated : diameter not exceeding 15 mm :
+~~ Dengan diameter luar kurang dart 12,5 mm With an external diameter less than
+RS mm
+- = Lain-tain Other
+Pipa dari jenis yang digunakan untuk pipa pelindung —_|- - Pipe of a kind used to make sheath pipe
+
+(pipa pemanas} untuk memanaskan elemen setrika atau | {heater pipe} for heating elements of electric
+rice cooker listrik, dengan diameter luar tidak melebihi 12. |Mlat irons or rice cookers, with an external
+
+mm ‘diameter not exceeding 12 mm
+
+| - Pipa tekanan tinggi mampu menahan tekanan tidak ——_|- - High-pressure pipe capable of
+
+kurang dari 42.000 psi : [withstanding a pressure of not less than
+42,000 psi:
+
+- - - Dengan diameter luar kurang dart 12,5 mm, - <= With an external diameter less than
+12.5 mm
+
+~ Dengan cliameter dalam 12,5 mm atau lebih, diameter
+uar kurang dari 140 mm dan mengandung karbon kurang |more, an external diameter less (han 140
+
+dari 0,45 % menurut beratnya. mm and containing by weight less than 0.45
+% of carbon
+
+| - - Dengan diameter dalam kurang dari 12,5 mm - -- With an internal diameter less than 12.5)
+mm
+
+- ~~ Lain-lain ~ =~ Other
+
+- Lain-lain, ditas, dengan penampang sitang fingkaran, —_|- Other, welded, of circular cross-section, of
+
+dari baja stainicss : stainless steel :
+
+2017, No.176
+
+5.0%
+
+5,0%
+
+15,0%
+15,0%
+15,0%
+15,0%
+
+15,0%
+15,0%
+
+15,0%
+18,0%
+
+15,0%
+
+15,0%
+15,0%
+
+15,0%
+
+15,0%
+15,0%
+15,0%
+15,0%
+15,0%
+
+15,0%
+15,0%
+
+50%
+
+125%
+
+5.0%
+
+12,5%
+5,0%
+
+5.0%
+12,5%
+
+12,5%
+
+5.0%
+
+12,5%
+
+www.peraturan.go.id

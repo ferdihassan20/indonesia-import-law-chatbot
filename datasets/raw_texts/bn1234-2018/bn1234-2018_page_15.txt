@@ -1,0 +1,113 @@
+415 2018, No.1234
+
+8703.70.53 ---- Dengan kapasitas silinder melebihi 1.500 cc tetapi tidak
+
+504
+melebihi 1.800 cc
+
+505 8703.70.54 - --- Dengan kapasitas silinder melebihi 1.800 cc tetapi tidak
+melebihi 2.500 cc
+
+506 8703.70.55 - --- Dengan kapasitas silinder melebihi 2.500 cc
+
+507 8703.70.56 - Dengan kapasitas silinder tidak melebihi 1.500 cc
+
+508 8703.70.57 - --- Dengan kapasitas silinder melebihi 1.500 cc tetapi tidak
+melebihi 2.000 cc
+
+509 8703.70.58 - --- Dengan kapasitas silinder melebihi 2.000 cc
+
+510 8703.70.61 - Dengan kapasitas silinder tidak melebihi 1.000 cc
+
+511 8703.70.62 - --- Dengan kapasitas silinder melebihi 1.000 cc tetapi tidak
+melebihi 1.500 cc
+
+512 8703.70.63 - --- Dengan kapasitas silinder melebihi 1.500 cc tetapi tidak
+melebihi 1.800 cc
+
+513 8703.70.64 - --- Dengan kapasitas silinder melebihi 1.800 cc tetapi tidak
+melebihi 2.000 cc
+
+514 8703.70.65 - --- Dengan kapasitas silinder melebihi 2.000 cc tetapi tidak
+melebihi 2.500 cc
+
+515 8703.70.66 - --- Dengan kapasitas silinder melebihi 2.500 cc tetapi tidak
+melebihi 3.000 cc
+
+516 8703.70.67 - --- Dengan kapasitas silinder melebihi 3.000 cc
+
+517 8703.70.71 - Dengan kapasitas silinder tidak melebihi 1.000 cc
+
+518 8703.70.72 - --- Dengan kapasitas silinder melebihi 1.000 cc tetapi tidak
+melebihi 1.500 cc
+
+519 8703.70.73 - --- Dengan kapasitas silinder melebihi 1.500 cc tetapi tidak
+melebihi 1.800 cc
+
+520 8703.70.74 - --- Dengan kapasitas silinder melebihi 1.800 cc tetapi tidak
+melebihi 2.000 cc
+
+521 8703.70.75 - --- Dengan kapasitas silinder melebihi 2.000 cc tetapi tidak
+melebihi 2.500 cc
+
+522 8703.70.76 - --- Dengan kapasitas silinder melebihi 2.500 cc tetapi tidak
+melebihi 3.000 cc
+
+523 8703.70.77 - --- Dengan kapasitas silinder melebihi 3.000 cc
+
+524 8703.70.81 - Dengan kapasitas silinder tidak melebihi 1.000 cc
+
+525 8703.70.82 - --- Dengan kapasitas silinder melebihi 1.000 cc tetapi tidak
+melebihi 1.500 cc
+
+526 8703.70.83 - --- Dengan kapasitas silinder melebihi 1.500 cc tetapi tidak
+melebihi 1.800 cc
+
+527 8703.70.84 - --- Dengan kapasitas silinder melebihi 1.800 cc tetapi tidak
+melebihi 2.000 cc
+
+528 8703.70.85 - -- - Dengan kapasitas silinder melebihi 2.000 cc tetapi tidak
+melebihi 2.500 cc
+
+529 8703.70.86 - --- Dengan kapasitas silinder melebihi 2.500 cc tetapi tidak
+melebihi 3.000 cc
+
+530 8703.70.87 - --- Dengan kapasitas silinder melebihi 3.000 cc
+
+531 8703.70.91 - Dengan kapasitas silinder tidak melebihi 1.000 cc
+
+532 8703.70.92 - -- - Dengan kapasitas silinder melebihi 1.000 cc tetapi tidak
+melebihi 1.500 cc
+
+533 8703.70.93 - -- - Dengan kapasitas silinder melebihi 1.500 cc tetapi tidak
+melebihi 1.800 cc
+
+534 8703.70.94 - -- - Dengan kapasitas silinder melebihi 1.800 cc tetapi tidak
+melebihi 2.000 cc
+
+535 8703.70.95 - --- Dengan kapasitas silinder melebihi 2.000 cc tetapi tidak
+melebihi 2.500 cc
+
+536 8703.70.96 - --- Dengan kapasitas silinder melebihi 2.500 cc tetapi tidak
+
+537 8703.70.97 -
+
+- Dengan kapasitas silinder melebihi 3.000 cc
+
+538 8703.80.91 - -- Gokart
+
+539 8703.80.92 - - - All-Terrain Vehicles (ATV)
+
+540 8703.80.93 ---Ambulan
+
+341 8703.80.94 - -- Mobil jenazah
+
+542 8703.80.95 --- Van tahanan
+
+543 8703.80.96 --- Karavan
+
+544 8703.80.97 --- Sedan
+
+5345 8703.80.98 - -- Mobil lainnya (termasuk station wagon dan mobil balap,
+
+www.peraturan.go.id

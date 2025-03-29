@@ -1,0 +1,84 @@
+13. 2022, No. 341
+
+~ Kipas :
+
+- - Kipas meja, lantai, dinding, jendela, langit-langit atau atap,
+dengan motor listrik terpasang didalamnya dengan keluaran tidak
+melebihi 125 W :
+
+8414.51.10 ---Kipas meja dan kipas angin kotak
+
+8414.60 ~ Hood yang memiliki sisi horizontal maksimum tidak melebihi 120
+em :
+- - Dilengkapi dengan saringan :
+
+8414.60.11 - - - Kabinet laminar airflow
+
+8414.60.19 --- Lain-lain
+~ - Tidak dilengkapi dengan saringan :
+
+8414.60.91 ~--Cocok untuk keperluan industri
+
+8414.60.99 - -- Lain-lain
+
+8414.70 - Kabinet pengaman biologis kedap gas :
+~ - Dilengkapi dengan saringan :
+
+8414.70.11 ~-- Memiliki hood dengan sisi horizontal maksimum tidak melebihi
+120 cm
+~ - Tidak dilengkapi dengan saringan :
+
+8414.70.21 - ~- Memiliki hood dengan sisi horizontal maksimum tidak melebihi
+120. cm
+
+84.15 Mesin pengatur suhu udara, terdiri dari kipas yang digerakkan
+dengan motor dan elemen untuk mengubah suhu dan
+kelembaban udara, termasuk mesin tersebut yang tidak dapat
+mengatur kelembaban udara secara terpisah.
+
+8415.10 - Tipe yang dirancang untuk dipasang pada jendela, dinding, langit-
+langit atau lantai, menyatu atau "sistem terpisah" :
+
+8415.10.20 - - Dengsn kapasitas pendinginan tidak melebihi 21,10 kW
+8415.10.30 - - Dengan kapasitas pendinginan melebihi 21,10 kW tetapi tidak
+
+melebihi 26,38 kW
+
+8415.20 - Dari jenis yang digunakan untuk orang, di dalam kendaraan
+bermotor :
+
+8415.20.10 - - Dengan kapasitas pendinginan tidak melebihi 26,38 kW
+
+8415.20.90 - - Lain-lain
+
+84.18 Lemari pendingin, lemari pembeku dan perlengkapan pendingin
+atau pembeku lainnya, listrik atau lainnya; pompa panas selain
+mesin pengatur suhu udara dari pos 84.15.
+- Kombinasi lemari pendingin-pembeku, dilengkapi dengan pintu
+luar terpisah atau laci, atau kombinasinya :
+- - Dilengkapi dengan hanya pintu luar terpisah -
+
+8418.10.31 --- Tipe rumah tangga, dengan kapasitas tidak melebihi 230 1
+
+8418.10.32 --- Tipe rumah tangga, dengan kapasitas melebihi 2301
+~ - Lain-lain :
+
+8418.10.91 ~ -- Konter display, peti pajang dan sejenisnya, dilengkapi dengan
+periengkapan pendingin, dengan kapasitas melebihi 2001
+
+8418.10.99 --- Lain-lain
+~ Lemari pendingin, tipe rumah tangga :
+
+8418.21 ~ - Tipe kompresi :
+
+8418.21.10 ~-- Dengan kapasitas tidak melebihi 230 1
+
+8418.21.90 - -- Lain-lain
+
+8418.50 - Perabotan lIsinnya (peti, kabinet, ctalase, peti pajang dan
+sejenisnya) untuk menyimpan dan display, dilengkapi dengan
+periengkapan pendingin atau pembeku :
+- - Konter display, peti pajang dan scjenisnya, dilengkapi dengan
+Periengkapan pendingin, dengan kapasitas meiebihi 200 1:
+
+www.peraturan.go.id

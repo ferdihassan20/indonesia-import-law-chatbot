@@ -1,0 +1,123 @@
+301. 2017, No.176
+
+‘Pos Tarif
+HS Code
+42)
+8432.39.00
+
+2)
+7617
+
+-TTain >= Other
+~ Mesin penyebar pupuk {manure} dan pendistribusi Manure spreaders and fertiliser
+pupuk : distributors =
+
+-- Mesin penyebar pupuk (manure} -- Manure spreaders
+
+Mesin pendistribusi pupuk - - Fertiliser distributors
+
+- Mesin lainnya > - Other machinery :
+
+Pertanian atau perkebunan | - Agricultural or horticultural
+
+- - Mesin giling lapangan rumput atau lapangan olah raga |-- Lawn oF sports-ground rollers
+
+7618 |8432.41.00
+7619 |8432.42.00
+8432.80
+7620 |8432.80.10
+7621 |8432.80,.20
+
+7622 |8432.80.90
+[5432.90
+
+Lain-tain |-- Other 5,0%
+- Bagian : - Parts :
+
+7623 |8432.90.10 _|- - Dari mesin pada subpos 8432.80.90 ~ - Of machinery of subheading 8432.80.90 5,0%
+
+7624 8432.90.20 _ |- - Dari mesin giling lapangan rumput atau lapangan lah |- - Of lawn or sports-ground rollers 5.0%
+rage
+
+7625 |8432.90.90 |-- Lain-lain - - Other 5,0%
+
+184.33 Harvesting or threshing machinery,
+including straw or fodder balers; grass or
+|hay mowers; machines for cleaning,
+lsorting or grading oggs, fruit or other
+Jagricultural produce, other than
+|machinery of heading 84.37.
+}- Mesin pemotong untuk kapangan rumput, taman atau - Mowers for lawns, parks or sports-grounds
+lapangan olah raga = J
+7626 18433,11.00 _|-- Bertcnaga, dengan alat potong berputar pada bidang —_|- - Powered, with the cutting device rotating 15,0%
+horizontal in a horizontal plane
+8433.19 -- Latn-lain > ~ Other
+7627 |8433.19.10 » Tidak bertenaga > = = Not powered: 15,0%
+7628 [8433.19.90 > Lainelain: } ~~ Other 15,0%
+7629 |8433.20.00 _|- Mesin pemotong lainnya, termasuk batang pemotong |. Other mowers, including cutter bars for 5,0%
+luntuk dipasang pada traktor tractor mounting
+7630 |8433.30.00 |. Mesin pengolah rumput kering lainnya - Other haymaking machinery 15,0%
+7631 |8433.40.00 _|- Mesin pengepak jerami atau nimput makanan ternak, —_|- Straw or fodder balers, including pick-up 5,0%
+jtermasuk pengangkat bal balers
+- Mesin tual lainnya; mesin tebah > - Other harvesting machinery; threshing
+Jmachinery =
+7632 |8433.51.00 _|-- Kombinasi penuai-penebah - - Combine harvester-threshers 15,0%
+7633 [8433.52.00 ~ Mesin tebah lainnya |- - Other threshing machinery 15,0%
+7034 [8433.53.00 - Mesin tuai akar atau umbi |- - Root or tuber harvesting machines 5,0%
+8439.59 + Other : ‘
+7635 [8433.59.20 ~» Cotton picker Cotton pickers 5,0%
+7626 |8433.59,90 + Lain-lain Other 5.0%
+8433.60 | Mesin untuk membersihkan, menyortir atau memilih - Machines for cleaning, sorting or grading
+mutu telur, bual atau produk pertanian lainnya : leags, fruit or other agricultural produce :
+
+7637 |8433.60.10 _|-- Dioperasilean secara efektrike
+7638 [8433.60.20 _ |- - Tidak dioperasikan secara elekirik
+
+-- Blectrically operated 15,0%
+- Not electrically operated 15,0%
+
+8433.90 - Bagian = + Parts :
+7639 |8433.90.10 | }- - Roda castor, dengan diameter (termasuk ban) melebihi_ |. - Casiors wheels, of a diameter jincluding 5,0%
+100 mm.tetapi tidak melebihi 250 mm, asalkan Iebar tyres) exceeding 100 mm but not exceeding
+
+setiap roda atau ban yang dipasangkan meicbihi 30mm —|250 mm, provided that the width of any
+wheel or tyre fitted thereto exceeds 30 mm
+
+7640 |8433.90.20 _|- - Lain-lain, dari barang pada subpos 8433.11 atau + Other, of goods of subheading 8433.11 or 5.0%
+8433.19.90 8433.19.90
+7641 [8433.90.30 |- - Lain-lain, dari barang paca subpos 8433.19.10 - - Other, of goods of subheading 8433.19.10 5,0%
+7642 {8433.90.90 |-- Lain-lnin ~~ Other 5.0%
+34.34 Mesin perah susu dan mesin produk susu. ‘Milling machines and dairy machinery.
+(8434.10 + Mesin perah susu = - Milking machines :
+7643 |8434.10.10 |. » Dioperasikan secara elektrik - Electrically operated 5,0%
+7644 |8434.10.20 _|- - Tidak dioperasikan secara elektrik = Not electrically operated 5.0%
+
+8434.20 » Mesin produk susu : - Dairy machinery >
+7645 [8434.20.10 _|- - Dioperasikan secara elektrik Electrically operated 5.0%
+
+7646 |8434.20.20 _|- - Tidak dioperasikan sccara clektrike Not electrically operated 5.0%
+[8434.90 - Lain-tain : + Parts =
+7647 |8434.90.10 |. - Cocok untuk digunakan semata-mata atau terutama —_|- - Suitable for use solely or principally with 50%
+dengan mesin yang dioperasikan secara elektrik electrically operated machines
+7648 |8434.90.90_|-- Lain-tain - - Other 5.0%
+84.35 /Pengepres, penghancur dan mesin semacam itu yang _|Prosses, crushers and similar machinery
+/digunakan dalam pembuatan wine, cider, jus buah atau jused in the manufacture of wine, cider,
+minuman semacam itu. fruit juices or similar beverages.
+|3435.10 - Mesin : - Machinery:
+7649 |8435.10.10 _ |- - Dioperasikan secara elektrike Electrically operated 5,0%
+7650 |8435.10.20 _ |- - Tidak dioperasikan secam elcktrik Not electrically operated 5,0%
+[8495.90 - Bagian : - Parts :
+7651 |8435,90.10 _|-- Dari mesin yang dioperasikan secara elektrik Of clectricaity operated machines 5.0%
+7652 |8425.90.20 _|-- Dari mesin yang tidak dioperasikan secara clektrik - - Of non-clectrically operated machines 5.0%
+84.36 |Mesin pertanian, perkebunan, kehutanan, mesin Other agricultural, horticultural, forestry,
+pemeliharaan unggas atau lebah lainnya, termasuk ‘poultry-keeping or bec-keoping
+mesin tunas dilengkapi dengan perlengkapan mekanis |machinery, including germination plant
+‘atau termal; inkubator dan penetas untuk unggas. fitted with mechanical or thermal
+equipment; poultry incubators and
+|brooders.
+8436.10 - Mesin untuk menyiapkan bahan makanan binalang: —_|- Machinery for preparing animal feeding
+stuf :
+7653 [8430.10.10 _|- - Dionerasikan secara clektrik - - Electrically operated 5.0%
+7654 |8496.10.20 __|- - Tidak dioperasikan secara eleKtrik | - Not electrically operated 5.0%,
+
+www.peraturan.go.id

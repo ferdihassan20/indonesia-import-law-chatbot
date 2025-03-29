@@ -1,0 +1,86 @@
+2018, No.1234 “14.
+
+465 8703.60.67 - --- Dengan kapasitas silinder melebihi 3.000 cc,
+
+berpenggerak empat roda
+466 8703.60.68 - --- Dengan kapasitas silinder melebihi 3.000 cc, bukan
+berpenggcrak empat roda
+467 8703.60.71 ---- Dengan kapasitas silinder tidak melebihi 1.000 cc
+468 8703.60.72 - --- Dengan kapasitas silinder melebihi 1.000 cc tetapi tidak
+melebihi 1.500 cc
+469 8703.60.73 - --- Dengan kapasitas silinder melebihi 1.500 cc tetapi tidak
+melebihi 1.800 cc
+470 8703.60.74 - --- Dengan kapasitas silinder melebihi 1.800 cc tetapi tidak
+melebihi 2.000 cc
+471 8703.60.75 - --- Dengan kapasitas silinder melebihi 2.000 cc tetapi tidak
+melebihi 2.500 cc
+472 8703.60.76 - --- Dengan kapasitas silinder melebihi 2.500 cc tetapi tidak
+melebihi 3.000 cc
+473 8703.60.77 - --- Dengan kapasitas silinder melebihi 3.000 cc
+474 8703.60.81 - Dengan kapasitas silinder tidak melebihi 1.000 cc
+475 8703.60.82 - --- Dengan kapasitas silinder melebihi 1.000 cc tetapi tidak
+melebihi 1.500 cc
+476 8703.60.83 - --- Dengan kapasitas silinder melebihi 1.500 cc tetapi tidak
+melebihi 1.800 cc
+477 8703.60.84 - --- Dengan kapasitas silinder melebihi 1.800 cc tetapi tidak
+melebihi 2.000 cc
+478 8703.60.85 - --- Dengan kapasitas silinder melebihi 2.000 cc tetapi tidak
+melebihi 2.500 cc
+8703.60.86 - --- Dengan kapasitas silinder melebihi 2.500 cc tetapi tidak
+melebihi 3.000 cc
+8703.60.87 - --- Dengan kapasitas silinder melebihi 3.000 cc
+8703.60.91 - Dengan kapasitas silinder tidak melebihi 1.000 cc
+8703.60.92 - --- Dengan kapasitas silinder melebihi 1.000 cc tetapi tidak
+melebihi 1.500 cc
+8703.60.93 - --- Dengan kapasitas silinder melebihi 1.500 cc tetapi tidak
+melebihi 1.800 cc
+8703.60.94 - --- Dengan kapasitas silinder melebihi 1.800 cc tetapi tidak
+melebihi 2.000 cc
+8703.60.95 - --- Dengan kapasitas silinder melebihi 2.000 cc tetapi tidak
+melebihi 2.500 cc
+8703.60.96 - --- Dengan kapasitas silinder melebihi 2.500 cc tetapi tidak
+melebihi 3.000 cc
+8703.60.97 - --- Dengan kapasitas silinder melebihi 3.000 cc,
+
+berpenggcrak empat roda
+
+8703.60.98 - --- Dengan kapasitas silinder melebihi 3.000 cc, bukan
+berpenggcrak empat roda
+
+8703.70.31 - -- Gokart
+
+8703.70.32 - --- Dengan kapasitas silinder tidak melebihi 1.000 cc
+
+B82 8 § § § 888 88288 8 8 § FF B BEE 3
+
+8703.70.33 - Dengan kapasitas silinder melebihi 1.000 cc
+
+8703.70.34 - Dengan kapasitas silinder tidak melebihi 1.500 cc
+
+8703.70.35 - --- Dengan kapasitas silinder melebihi 1.500 cc tetapi tidak
+melebihi 2.500 cc
+
+8703.70.36 - --- Dengan kapasitas silinder melebihi 2.500 cc
+
+8703.70.41 - Dengan kapasitas silinder tidak melebihi 1.000 cc
+
+8703.70.42 - --- Dengan kapasitas silinder melebihi 1.000 cc tetapi tidak
+melebihi 1.500 cc
+
+8703.70.43 - --- Dengan kapasitas silinder melebihi 1.500 cc tetapi tidak
+melebihi 1.800 cc
+
+8703.70.44 - --- Dengan kapasitas silinder melebihi 1.800 cc tetapi tidak
+
+8703.70.45 - --- Dengan kapasitas silinder melebihi 2.000 cc tetapi tidak
+melebihi 2.500 cc
+
+8703.70.46 - --- Dengan kapasitas silinder melebihi 2.500 cc tetapi tidak
+
+8703.70.47 - ~~ - Dengan kapasitas silinder melebihi 3.000 cc
+
+8703.70.51 - Dengan kapasitas silinder tidak melebihi 1.000 cc
+
+8703.70.52 - --- Dengan kapasitas silinder melebihi 1.000 cc tetapi tidak
+
+www.peraturan.go.id

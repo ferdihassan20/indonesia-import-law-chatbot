@@ -1,0 +1,114 @@
+2018, No.1234
+
+-37-
+
+1000 9102.12.00 - - Hanya dengan display opto-elektronik
+
+1001 9102.19.00 - - Lain-lain
+
+1002 9102.21.00 - - Dengan putaran otomatis
+
+1003 | 9102.29.00 - - Lain-lain
+
+1004 9102.91.00 - - Dioperasikan secara elektrik
+
+1005 | 9102.99.00 - - Lain-lain
+
+1006 9202.90.00 - Lain-lain
+
+1007 9205.10.00 - Instrumen brass-wind
+
+1008 9205.90.10 - - Organ keyboard berpipa; harmonium dan instrumen
+keyboard semacam itu dengan strip logam getar
+
+1009 | 9205.90.90 - - Lain-lain
+
+1010 9206.00.00 Instrumen musik perkusi (misalnya, drum, xylophone, simbal,
+kastanyct, marakas).
+
+1011 9208.10.00 - Kotak musik
+
+1012 9208.90.10 - - Suling pemikat, peluit, terompet panggil dan instrumen
+isyarat suara dengan tiupan mulut lainnya
+
+1013 | 9208.90.90 - - Lain-lain
+
+1014 9503.00.10 - Sepeda roda tiga, skuter, mobil berpedal dan mainan beroda
+semacam itu; kereta boncka
+
+1015 | 9503.00.21 - - Boneka, dikenakan pakaian atau tidak
+
+1016 9503.00.22 - -- Garment dan aksesorinya; alas kaki dan tutup kepala
+
+1017 | 9503.00.29 - -- Lain-lain
+
+1018 9503.00.30 - Kereta elektrik, termasuk rel, tanda dan aksesori lainnya
+
+1019 | 9503.00.40 - Perabot rakitan model yang diperkecil ("skala") dan model
+rekreasi semacam itu, dapat digerakkan atau tidak
+selain plastik
+
+1021 9503.00.60 - Stuffed toy menyerupai binatang atau sclain manusia
+
+1023 9503.00.91 - - Blok atau potongan angka, huruf atau binatang; set
+
+penyusun kata; set penyusun dan pengucap kata; set toy
+mesin ketik mainan
+
+1024 9503.00.92 - - Tali lompat
+1025 9503.00.93 --
+
+- - Dari jenis yang digunakan dengan pencrima televisi
+1029 9504.50.90 - - Lain-lain
+
+1030 9506.11.00 - - Ski
+
+1031 9506.12.00 - - Pengencang ski (pengikat ski)
+
+1032 9506.19.00 - - Lain-lain
+
+1033 9506.40.10 --Meja
+
+1034 9506.40.90 - - Lain-lain
+
+1035 9506.51.00 - - Raket tenis lapangan, berscnar maupun tidak
+
+1036 9506.59.00 - - Lain-lain
+
+1037 9506.61.00 - - Bola tenis lapangan
+
+1038 9506.62.00 - - Dapat digembungkan
+
+1039 9506.69.00 - - Lain-lain
+
+1040 9506.70.00 - Sepatu luncur es dan sepatu roda, termasuk skating boots
+dipasang dengan peluncurnya
+
+1041 9506.91.00 - - Barang dan periengkapan untuk latihan fisik umum,
+gimnastik atau atictik
+
+1042 9507.20.00 - Mata kail, snelled maupun tidak
+
+1043 9507.90.00 - Lain-lain
+
+1044 9608.10.10 - - Dari plastik
+
+1045 9609.10.10 - - Pensil hitam
+
+1046 9609.10.90 - - Lain-lain
+
+1047 9615.11.20 - -- Dari karet keras
+
+1048 9615.11.30 - - - Dari plastik
+
+1049 9615.19.00 - - Lain-lain
+
+1050 9615.90.11 - -- Dari alumunium
+
+1051 9615.90.12 - -- Dari besi atau baja
+
+1052 9615.90.13 - -- Dari plastik
+
+1053 9615.90.19 - -- Lain-lain
+
+www.peraturan.go.id

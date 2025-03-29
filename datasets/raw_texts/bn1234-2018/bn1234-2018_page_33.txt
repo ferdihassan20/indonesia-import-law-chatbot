@@ -1,0 +1,123 @@
+2018, No.1234
+
+-33-
+
+783 7117.19.10 - -- Bangle
+
+784 7117.19.20 - -- Perhiasan imitasi lainnya
+
+785 7117.19.90 - -- Bagian
+
+786 7312.10.91 - - - Kawat baja dipilin untuk beton pra-tekan
+
+787 7312.10.99 - -- Lain-lain
+
+788 7321.12.00 - - Dengan bahan bakar cair
+
+739 7321.82.00 - - Dengan bahan bakar cair
+
+790 7323.10.00 - Wol besi atau wol baja; penggosok pot dan bantalan gosok
+atau pemoles, sarung tangan dan sejenisnya
+
+791 7323.91.10 - -- Perangkat dapur
+
+792 7323.91.20 --- Asbak
+
+793 7323.91.90 - -- Lain-lain
+
+795 7323.93.10 - -- Perangkat dapur
+
+796 7323.93.20 --- Asbak
+
+797 7323.93.90 - -- Lain-lain
+
+798 7323.94.00 - - Dari besi (sclain besi tuang) atau baja, dienamel
+
+799 7323.99.10 - ~~ Perangkat dapur
+
+800 7323.99.20 --- Asbak
+
+801 7323.99.90 - -- Lain-lain
+
+802 7615.10.10 - - Penggosok pot dan bantalan penggosok atau pemoles,
+sarung tangan dan yang sejenisnya
+
+803 7615.10.90 - - Lain-lain
+
+804 7615.20.20 - - Bejana sorong, urinal dan chamber-pot
+
+805 7615.20.90 - - Lain-lain
+
+806 8215.10.00 - Set dari barang berbeda terdiri dari paling tidak salah
+satunya disepuh dengan logam mulia
+
+807 8215.20.00 - Set dari barang berbeda lainnya
+
+808 8215.91.00 - - Disepuh dengan logam mulia
+
+809 8215.99.00 - - Lain-lain
+
+810 8415.10.90 - - Lain-lain
+
+811 8418.10.20 - - Lain-lain, dengan kapasitas tidak melebihi 350 1
+
+812 8418.10.90 - - Lain-lain
+
+813 8418.30.10 - - Dengan kapasitas tidak melebihi 200 1
+
+814 8418.30.90 - - Lain-lain
+
+815 8418.40.10 - - Dengan kapasitas tidak melebihi 200 1
+
+816 8418.40.90 - - Lain-lain
+
+817 8433.11.00 - - Bertenaga, dengan alat potong berputar pada bidang
+horizontal
+
+818 8433.19.10 - -- Tidak bertenaga
+
+819 8433.19.90 - -- Lain-lain
+
+820 8450.11.10 - -- Mempunyai kapasitas linen kering tidak melebihi 6 kg
+
+821 8450.11.90 --- Lain-lain
+
+822 8450.12.10 - -- Mempunyai kapasitas linen kering tidak melebihi 6 kg
+
+823 8450.12.90 - -- Lain-lain
+
+824 8450.19.11 -
+825 8450.19.19 -
+826 8450.19.91 -
+
+- - Mempunyai kapasitas linen kering tidak melebihi 6 kg
+Lain-lain
+Mempunyai kapasitas linen kering tidak melebihi 6 kg
+
+827 8450.19.99 ----Lain-lain
+
+828 8452.10.00
+
+829 8481.80.72
+
+830 8481.80.73 ----Mempunyai diameter bagian dalam pemasukan dan
+
+831 8481.80.74 ----Mempunyai diameter bagian dalam pemasukan dan
+pengeluaran lebih dari 40 cm
+
+832 8481.80.77 ----Mempunyai diameter bagian dalam pemasukan dan
+pengeluaran tidak lebih dari 5 cm
+
+833 8481.80.79 ----Lain-lain
+
+834 8508.11.00 - - Dengan kekuatan tidak melebihi 1.500 W dan memiliki
+kantung debu atau penampung lainnya dengan kapasitas
+tidak melebihi 201
+
+835 8508.19.10 - -- Dari jenis yang cocok untuk penggunaan rumah tangga
+
+836 8508.19.90 - -- Lain-lain
+
+837 8508.60.00 - Vacuum cleaner lainnya
+
+www.peraturan.go.id

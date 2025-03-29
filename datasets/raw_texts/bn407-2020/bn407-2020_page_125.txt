@@ -1,0 +1,62 @@
+(9)
+(10
+
+-195- 2020, No.407
+
+Rupiah yang telah dikonversi berdasarkan kurs yang
+ditetapkan oleh Menteri Keuangan pada saat SKTD
+diterbitkan dan dalam satuan mata uang asing
+tersebut.
+
+Contoh:
+
+Nilai Impor USD2.000,00
+
+Kurs Menteri Keuangan pada saat diterbitkan SKTD
+USD1 = Rp10.000,00
+
+Nilai Impor menjadi sebesar Rp20.000.000,00
+Penulisan pada kolom (4) menjadi:
+
+Rp20.000.000,00 (USD2.000,00).
+
+KolomS : Diisi dengan nilai PPN yang terutang dalam satuan
+Rupiah.
+
+Dalam hal transaksi dalam valuta asing, diisi dengan
+nilai PPN yang telah dikonversi berdasarkan kurs yang
+ditetapkan oleh Menteri Keuangan pada saat SKTD
+diterbitkan dan dalam satuan mata uang asing
+tersebut. Contoh:
+
+Nilai Impor USD2.000,00
+
+Kurs Menteri Keuangan pada saat diterbitkan SKTD
+USD1 = Rp10.000,00
+
+Nilai Impor menjadi sebesar Rp20.000.000,00
+
+PPN terutang yang tidak dipungut  sebesar
+Rp2.000.000,00
+
+Penulisan pada kolom (5) menjadi Rp2.000.000,00
+(USD200,00).
+
+Kolom6 : Diisi dengan keterangan nomor dan tanggal dokumen
+pendukung seperti commercial invoice, Bill of Lading,
+atau dokumen lain yang dipersamakan.
+
+Dalam hal rincian nama dan jenis alat angkutan tertentu tidak dapat
+
+ditampung dalam satu lembar, maka dapat dibuat dalam beberapa
+
+halaman lampiran yang merupakan bagian yang tidak terpisahkan
+dari SKTD dan setiap lampiran ditandatangani oleh Kepala Kantor
+
+Pelayanan Pajak serta dibubuhi cap Kantor Pelayanan Pajak.
+
+Asal alat angkutan tertentu diperoleh.
+
+Dibubuhi tanda pilih (tanda cek) di salah satu kotak, dan hanya diisi
+
+dalam hal yang mengajukan permohonan SKTD adalah pihak lain

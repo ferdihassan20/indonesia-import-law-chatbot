@@ -1,0 +1,57 @@
+ZAS
+
+10
+
+11
+
+12
+13
+14
+15
+
+-107-
+
+PETUNJUK PENGISIAN FORMAT PERMOHONAN SKTD
+
+Nomor, diisi sesuai dengan tata cara penomoran korespondensi
+pemohon SKTD.
+
+Lampiran, diisi dengan banyaknya lampiran permohonan SKTD.
+contoh: Satu Lembar, Dua Lembar.
+
+Diisi dengan nama dan alamat Kantor Pelayanan Pajak tempat
+pemohon SKTD terdaftar.
+
+Diisi dengan nomor Peraturan Menteri ini.
+
+Identitas pemohon SKTD.
+
+nama : diisi dengan nama pemohon SKTD.
+
+alamat : diisi dengan alamat pemohon SKTD.
+
+NPWP : diisi dengan Nomor Pokok Wajib Pajak pemohon
+SKTD.
+
+jenis usaha : diisi berdasarkan jenis usahanya sesuai dengan
+
+Klasifikasi Lapangan Usaha.
+Dipilih pada salah satu kotak.
+Diisi dengan nomor izin usaha, penyelenggaraan, atau kegiatan.
+Diisi dengan nomor dckumen perjanjian atau kontrak pemberian jasa
+perawatan dan perbaikan pesawat udara, dalam hal impor pemohon
+SKTD merupakan pihak yang ditunjuk oleh Badan Usaha Angkutan
+Udara Niaga Nasional.
+Diisi dengan NPWP Badan Usaha Angkutan Udara Niaga Nasional
+yang melakukan penunjukan.
+Diisi dengan nama Badan Usaha Angkutan Udara Niaga Nasional
+yang melakukan penunjukan.
+Dibubuhi tanda pilih (tanda cek) pada kotak, sesuai dengan fasilitas
+PPN yang dikehendaki.
+Diisi dengan tahun yang diajukan permohonan SKTD.
+Diisi dengan kota dan tanggal permohonan.
+Diisi dengan tanda tangan, nama dan jabatan pemohon.
+
+Diisi dengan lampiran sesuai persyaratan.
+
+2020, No.407

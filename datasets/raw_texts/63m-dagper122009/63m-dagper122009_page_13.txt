@@ -1,0 +1,56 @@
+LAMPIRAN | PERATURAN MENTERI PERDAGANGAN R.I
+NOMOR :
+TANGGAL :
+
+BARANG MODAL BUKAN BARU YANG BOLEH DIIMPOR
+
+POS TARIF/
+
+NO. HS URAIAN BARANG KETERANGAN
+(1) (2) (3) (4)
+73,15 Rantai dan bagiannya, dari besi atau baja.
+7315,90 -Bagian lainnya :
+1 |7315.90.90.00 |--Lain-Lain Hanya untuk industri remanufakturing
+84.05 Generator producer gas atau generator gas air,
+dengan atau tanpa alat pemurnian; generator
+gas asetilena dan generator gas dengan proses
+air semacam itu, dengan atau tanpa alat
+pemurnian.
+2 |8405.10.00.00 |-Generator producer gas atau generator gas
+
+air, dengan atau tanpa alat pemurnian;
+
+generator gas asetilena dan generator gas
+
+dengan proses air semacam itu, dengan atau
+
+tanpa alat pemurnian :
+
+84.07 Mesin-piston pembakaran dalam cetus api bolak-
+balik atau berputar.
+-Mesin penggerak kendaraan air :
+8407.29 --Lain-lain :
+3 |8407.29.10.00 |---Dengan keluaran tidak melebihi 750 kW
+4 18407.29.90.00 |---Dengan keluaran melebihi 750 kW
+84.08 Mesin piston pembakaran dalam nyala kompresi
+(mesin diesel atau semi diesel).
+8408.10 -Mesin penggerak kendaraan air :
+5 |8408.10.40.00 |--Dengan tenaga tidak melebihi 750 kW hanya untuk motor diesel diatas 100
+HP
+6 |8408.10.90.00 |--Dengan tenaga melebihi 750 kW
+8408.20 -Mesin dari jenis yang digunakan untuk
+
+penggerak kendaraan dari Bab 87 :
+
+--Keluaran tidak melebihi 60 kW :
+
+7 18408.20.12.00 |---Lain-lain, dirakit secara lengkap hanya untuk motor diesel diatas 25 kW
+8408,90 -Mesin lainnya :
+8408.90.50 --Keluaran melebihi 100 kW :
+8 |8408.90.50.90 |---Lain-lain Hanya untuk industri remanufakturing
+84,09 Bagian yang cocok untuk digunakan semata-mata
+atau terutama dengan mesin dari pos 84.07
+atau 84.08.
+-Lain-lain :
+8409,91 --Cocok Untuk digunakan semata-mata atau
+

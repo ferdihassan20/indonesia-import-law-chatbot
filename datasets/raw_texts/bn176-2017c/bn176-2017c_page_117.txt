@@ -1,0 +1,371 @@
+-437-
+
+Uraian Barang
+
+Description of Goods
+
+2017, No.176
+
+Bea Masuk /
+
+(3)
+
+9160
+9161
+
+9162
+
+9163
+o164
+9165
+
+9166
+
+9167
+9168
+
+9169
+9170
+
+9171
+9172
+
+9173
+9174
+
+9175
+9176
+
+9177
+9178
+
+9179
+9130
+
+9181
+9182
+
+9183
+9184
+
+9185
+9186
+
+9187
+9188
+
+9189
+9190
+
+9191
+9192
+
+9193
+
+9194
+9195
+9196
+9107
+
+9198
+
+1.
+1606.30.00 _|- Gerbong tertutup dan wagon berdaya bongkar sendin,
+jselain yang dimaksud dari subpos 8606.10
+
+|. Lain-tain ¢
+- - Reratap dan tertutup
+
+- - Terbuka, dengan sisi yang tidak dapat dilepas dengan
+tinggi melebihi 60 em
+
+Lain-tain
+
+‘Bagian dari lokomotif atau kendaraan rel kereta api
+‘atau trem atau gerbong.
+
+- Bogie, bissel-bogie, as dan roda serta bagiannya :
+
+Bogie dan bissel-bogie penggerak
+Bogie dan bissel-bogie lainnya.
+
+Lain-lain, termasuk bagian
+
+|- Rem dan baginnnya =
+
+Rem angin dan bagiannya
+
+Lain-lain
+
+- Kait dan peralatan penyambung lainnya, buffer dan
+bagiannva,
+
+|) Lain-lain =
+
+Dari lokomotit
+
+-- Lain-lain
+
+[Track fixture dan alat kelengkapan rel kerots api atau
+|trem; perlengkapan pemberi isyarat, pengontrol
+keselamatan atau lalu Hntas mekanis (termasuk elektro
+mekanis) untuk rel kereta api, rel trem, jalan, lalu
+lintas perairan darat, fasilitas parkir, instalasi
+pelabuhan atau lapangan udara; bagiannya.
+
+- Perlengkapan elektromekanis
+
+| Lain-lain
+
+[Poti kemas (termasuk peti kemas untuk pengangkutan
+jbarang cair) dirancang dan dilengkapi secara khusus
+untuk dibawa dengan satu jenis atau lebih moda
+pengangkut.
+
+- Dari logai tidak mulia
+
+- Lain-tain
+
+‘Traktor (celain traktor dari pos 87.09).
+
+- Traktor berporos,.tunggal :
+- = Dengan tenaga tidak melebihi 22,5 kW, dioperasikan
+Isecara elektrik maupun tidak :
+‘Untuk keperiuan pertanian
+Lain-iain
+Lain-lain :
+
+‘Untuk keperluan pertanian
+
+Lain-lain
+
+or jalan untuk semi trailer =
+
+‘ompletely Knocked Down
+
+fain-lain =
+
+Baru
+
+Lain-tain
++ Traktor rantal kelabang,
+- Lain-tain, dengan tenage mesin >
+Tidak melebihi 18 kW :
+Traktor pertanian
+~~ Lain-lain
+-- Mclebihi 18 kW (ctapi dak melebihi 37 kW :
+
+8701.91.10
+8701.91.90
+8701.92
+
+8701.92.10
+8701.92.90
+8701.93
+
+‘Traktor pertanian
+Lain-lain
+Melebihi 37 kW (etapi tidak melebihi 75 kW +
+
+8701.93.10
+8701.93.90
+
+‘Traktor pertanian
+Lain-lain
+Melebihi 75 kW tetapi tidak melebihi 130 KW >
+
+‘Traktor pertanian
+Lain-lain
+Melebihi 130 kW :
+
+|Kendaraan bermotor untuk pengangkutan sepuluh
+jorang atau lebih, termasuk pengemudi.
+8702.10 - Hanya dengan mesin piston pembakaran dalam nyaln
+komprest (diese! atau semi diesel) :
+Completely Knocked Down :
+8702.10.10 ‘Mobil (termasuk limousin panjang tetapi tidak
+hermasuk coach, bus, minibus atau van)
+= Coach, bus atau minibus bermotor :
+8702.10.41 |. - - - Dengan gv.w, setidaknya 6 t tetapi tidak melebihi 18 |. - -
+t
+8702.10.42 ~ Dengan g.v.w. melebihi 24 ¢
+8702.10.49 + Lain-lain
+1702.10.50 Lain-tain
+Lain-lain
+18702.10,60 _|- - - Mobil {termasuk limousin panjang tetapi tidak
+
+termasuk coach, bus, minibus alau van}
+
+"Belrdischarging vans and wagons, other
+than those of subheading 8606.10
+
+- Other :
+-- Covered and closed
+
+-- Open, with non-removable sides of a
+height exceeding 60 cm
+
+-- Other
+
+IParts of railway or tramway locomotives
+jor tock.
+
+~ Bogies, bissel-bogies, axles and wheels,
+land parts thereof
+
+- = Driving bogies and bissel-bogies
+
+- « Other bogies and bissel-bogies
+
+- + Other, inchiding parts
+
+- Brakes and parts thereof :
+
+- - Air brakes anc! parts thereof
+
++ - Other
+
+|- Hooks and other coupling devices, buffers,
+land parts thereof
+
+}- Other :
+
+-- Of locomotives
+
+- = Other
+
+Railway or tramway track fixtures and
+fittings; mechanical (including electro-
+mechanical) signalling, safety or traffic
+control equipment for railways, tramways,
+roads, inland waterways, parking
+facilities, port installations or airfields;
+parts of the foregoing.
+
++ Electro-mechanical equipment
+
+- Other
+
+Containers (including containers for the
+itransport of fluids) specially designed and
+lequipped for carriage by one or more
+modes of transport.
+
+- Of base metal
+
+- Other
+
+ITractors (other than tractors of heading
+187.09).
+
+ingle axle tractors =
+
+}-- Of a power not exceeding 22.5 kW,
+whether or not electrically operated :
+
+For agricultural use
+
+Other
+
+-- Other :
+
+For agricultural use
+
+~~ - Other
+
+- Road tractors for semi-trailers =
+
+- - Completely Knocked Down
+
+-- Other :
+
+-- - New
+
+~~ - Other
+
+- Track-laying tractors
+
+- Other, of an engine power :
+
+- = Not exceeciing 18 kW :
+
+Agricultural tractors
+
+Other
+
+Exceeding 16 kW but not exceeding 37
+
+Agricultural tractors
+}- + = Other
+| - Exceeding 37 kW but not exceeding 75
+
+Agricultural tractors
+Other
+Exceeding 75 kW but not exceeding 130
+
+Agricultural tractors
+
+- + - Other
+
+~ + Exceeding, 130 kW :
+
+}- ~ - Agricultural tractors:
+
+‘Other
+
+Motor vehicles for the transport of ten or
+|more persons, including the driver.
+
+- With only compression-ignition internal
+|combustion piston engine (diesel or semi-
+tieset)
+
+-- Completely Knocked! Down :
+
++ + + Motor cars {including stretch limousines
+
+but not including coaches, buses, minibuses |
+jor vans)
+ » = Motor coaches, buses or minibuses
+
+- Of a g.vww. of at least 6 t but not
+jexceeding 18 t
+
+Of a gvaw. exceeding 24 t
+Other
+
+~~~ Other
+
+- - - Motor cars (including stretch limousines
+but not including coaches, buses, minibuses
+
+Import Duty
+
+0.0%
+0,0%
+
+0,0%
+
+5.0%
+0,0%
+
+5,0%
+0,0%
+
+35.0%
+10.0%
+
+15,0%
+10,0%
+
+10,0%
+
+10,0%
+5.0%
+
+10,0%
+10,0%
+
+50,0%
+
+www.peraturan.go.id

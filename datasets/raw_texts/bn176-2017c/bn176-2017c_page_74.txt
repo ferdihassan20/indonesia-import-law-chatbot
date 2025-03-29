@@ -1,0 +1,206 @@
+2017, No.176
+
+7729
+7730
+7731
+7732
+
+7733
+
+7734
+7135
+
+7736
+7737
+
+7738
+7139
+
+7740
+7741
+
+7142
+7743
+
+7744
+7745
+
+7746
+a7
+
+7748
+
+7749
+
+7780
+7751
+
+7752
+7783
+
+7754
+7755
+
+116
+
+Tit
+T7158
+
+7759
+7760
+
+7761
+
+7762
+
+-394-
+
+8442.40.10
+|8442.40.20
+
+8442.50.00
+
+84.43
+
+8443.11.00
+[8443.12.00
+
+[8443.13.00
+8443.14.00
+
+8443.15.00
+3443.16.00
+
+8443.17.00
+3443.19.00
+
+8443.31
+
+8443.31.11
+8443.31.19
+
+8443.31.21
+8443.31.29
+
+8443.31.31
+8443.31.30
+
+8443.31.91
+
+8443.31.99
+8443.32
+
+8993,32.11
+8443.32.19
+
+8443.92.21
+8443.32.29
+
+8443.32.31
+8443.32.39
+
+8443.32.41
+8443.32.49.
+8443.32.50
+
+8443.32.60
+8443.32.90
+8443.39
+
+8443.39.10
+
+8443.39.20
+
+Bea Masuk /
+Description of Goods Import Duty
+(4) (5)
+> Mesin, aparatus dan perlengkapan = "Machinery, apparatus and equipment =
+- - Dioperasikan secara elektrik |. - Itectrically operated 0,0%
++ Tidak dioperasikan secara clektrik - - Not electrically operated 5.0%
+- Bagian dari mesin, aparatus atau perlengkapan yang —_|- Parts of the foregoing machinery,
+tersebut di atas : |apparatus or equipment :
+|; - Dari mesin, aparatus atau perlengkapan yang > « Of electrically operated machines, 0,0%
+joperasikan secara elektrik japparatus or equipment
+Dari mesin, aparatus atau perlengkapan yang tidak —_|- - Of non-clecirically operated machines, 5.0%
+Idioperasikan secara elektrik Japparatus or equipment
+- Relat, silinder cetak dan komponen cetak iainnya; pelat, |- Plates, cylinders and other printing 0,0%
+silinder dan batu litograf, disiapkan untuk keperluan components; plates, cylinders and
+[percetakan (misalnya, diratakan, dibuat tidak licin atau lithographic stones, prepared for printing
+dipotes) purposes (for example, planed, grained or
+polished)
+Mesin detak digunakan untuk mencetak dengan Printing machinery used for printing by
+|memakai pelat, silinder dan komponen cetak lainnya ‘means of plates, cylinders and other
+|dari pos $4.42; mesin cetak, mesin fotocopy dan mesin |printing components of heading 84.42;
+/faksimili lainnya, dikombinasi atau tidak; bagian dan other printers, copying machines and
+laksesori lainnya, facsimile machines, whether or not
+combined; parts and accessories thereof,
+- Mesin cetak digunakan untuk mencetak dengan - Printing machinery used for printing by
+memakai pelat, silincer dan komponen cctak lainnya dari {means of plates, cylinder and other printing
+pos 84.42 » components of heading 84.42 :
++ - Mesin cetak offset, reel-fed - - Offset printing machinery, reel-fed 0,0%.
+|. - Mesin cetak offset, sheet-fed, tipe kantor (menggunakan |-- Offset printing machinery, sheet-ed, 5.0%
+lembaran dengan satu sisinya tidak melebihi 22 cm dan office type (using sheets with one sice not
+isisi lninnya tidak melebihi 36 em dalam keadaan tidak exceeding 22 cm and the other side not
+‘dilipat) Jexceeding 36 cm in the unfolded state}
+- = Mesin cetak offsct lainnya + « Other offset printing machinery 0.0%
+|. - Mesin cetak letterpress, recl-led, tidak termasuk cetak — |- - Letterpress printing machinery, reel-fed, 5,0%
+Nexographic Jexcluding flexographic printing
+- - Mesin cetak letterpress, selain reel-fed, tidak termasuk |-- Letterpress printing machinery, other 5.0%
+icetak Nexographic than reel-fed, excluding Nexographic printing]
+|. - Mesin cetak flexographic |. - Flexographic printing machinery 50%
+- - Mesin cetiak grafir |- - Gravure printing machinery 5,0%
+- - Lain-lain + - Other 5.0%
++ Printer, mesin fotocopy dan mesin faksimili Ininnya, tsaik |- Other printers, copying machines and
+Jdikombinasi maupun tidak : facsimile machines, whether or not
+jcombined
+-~ Mesin yang menjalankan dua fungsi atau lebih untuk — |-- Machines which perform two or more of
+mencetak, mengeandakan atau transmisi faksimill, the functions of printing, copying or
+memiliki kemampuan sintuk berhubungan dengan mesin {facsimile transmission, capable of
+pengolah data otomatis atau jaringan : necting to an automatic data processing
+machine or to a network
+~ - Printer-copier, mencetak dengan proses ink-jet > - - Printer-copiers, printing by the ink-jet
+[process :
+= -- Berwarna - - -- Colour 5,0%
+++ Lain-lain |. ~ - - Other 50%
+- - - Printer-copicr, mencctak dengan proses laser = - - - Printer-copiers, printing by the laser
+process :
+-- ~~ Berwarna ~ Colour 0,0%
+: ain + Other 0,0%
++ Kombinasi mesin printer-copier-falcsimili : - - - Combination printer-copier-facsimtle
+machines :
+~~ Berwarna - Colour 0,0%
+~~ Lain-lain - Other 0.0%
+~ Lain-lain ‘Other <
+- ~~~ Kembinasi mesin printer-copier-seanner-faksimili ~ Combination printer-copier-scanner- 5,0%
+facsimile machines:
++> Lain-lain - + == Other 50%
+Lainnya, memiliki kemampuan berhubungan dengan }. - Other, capable of connecting to an
+mesin pengolah data otomatis atau jaringan automatic data processing machine or toa
+network :
+~ Printer dot matriks Dot matrix printers :
+~ Gerwarne ~ Colour 0,0%
+Laine lai ~ Other 0,0%
++ Printer ink-jet : Inkcjet printers
+- - Berwarna ~ Colour 5.0%
+~~ Lain-lain ~ Other 5.0%
+- Printer laser : Laser printers ;
+~ Herwarna, ~ Colour 0,0%
+= Lain-lain - Other 0,0%
+~ Mesin faksimili : Faesimile machines
+~ Berwarna, - Colour 0,0%
++ Lain-lain - Other 0,0%
++ Mesin screen printing untuk pembuatan printed Seren printing machinery for the 5.0%
+circuit board atau printed wiring board manufacture of printed circuit beards or
+printed wiring boards
+- Plotter Plotiers 0,0%
+>> Lain-lain ‘Other 5,0%
+Lain-lain : = Other :
+-~ Aparatus fotocopy elcktrostatik beroperasi dengan Electrostatic photocopying apparatus 0.0%
+Imereprodiksi gambar asli secara langsung di alas copy {operating by reproducing the original image
+{proses tangsung) directly onto the copy (direct process)
+- - - Aparatus fotocopy elektrostutik, beroperasi dengan _- - - Blectrostatie photocopying apparatus, 5,0%
+imereproduks) gambar asii melalui perantara di atas copy —|operating by reproducing the original image
+(proses tidak langsung) via an intermediate onto the copy (indirect
+[process)
+
+www.peraturan.go.id

@@ -1,0 +1,69 @@
+37. 2019, No. 1292
+
+Pos Tarif/HS Uraian Barang BTKI 2017
+BTKI 2017
+ex. 4810.14.91 ---- Yang sisinya tidak ada yang Berasal dari kayu
+melebihi 360 mm
+
+S810 ae ai ard
+ex. 4810.19.10 - - - Dicetak, dari jenis yang Berasal dari kayu
+digunakan untuk aparatus yang
+merekam sendiri, dengan sisi tidak
+melebihi 360 mm dalam keadaan
+tidak dilipat:
+
+Po ~~ Lain-Lain:
+ex. 4810.19.91 ---- Yang sisinya tidak ada yang Berasal dari kayu
+melebihi 360 mm
+
+| 306] e
+-
+ex. 4810.19.99
+
+- Kertas dan kertas karton dari jenis yang digunakan
+untuk menulis, mencetak atau keperluan grafik lainnya,
+
+-
+
+| 312] ex. 4810.22.99 |
+
+'
+
+ee
+
+| |4810.92 |
+
+mengandung serat yang diperoleh melalui proses mekanik
+atau kimia mekanik lebih dari 10% menurut berat
+
+22 - Kertas dengan lapisan tipis:
+
+ex. 4810.22.10 - - - Dicetak, dari jenis yang
+digunakan untuk aparatus yang
+merekam sendiri, dalam gulungan
+dengan lebar 150 mm atau kurang,
+atau dalam lembaran dengan setiap
+sisi tidak melebihi 360 mm dalam
+keadaan tidak dilipat
+J
+
+Po ainelains
+ex. 4810.22.91 - - - - Dalam gulungan dengan lebar Berasal dari kayu
+150 mm atau kurang, atau dalam
+lembaran dengan setiap sisi tidak
+melebihi 360 mm dalam keadaan
+tidak dilipat
+ex. 4810.22.99
+}4810.290 0 [--Laimdains
+ex. 4810.29.10 - - - Dicetak, dari jenis yang Berasal dari kayu
+digunakan untuk aparatus yang
+merekam sendiri, dalam gulungan
+dengan lebar 150 mm atau kurang,
+atau dalam lembaran dengan setiap
+sisi tidak melebihi 360 mm dalam
+keadaan tidak dilipat:
+
+- Kertas dan kertas karton lainnya: | i
+PY
+
+www.peraturan.go.id

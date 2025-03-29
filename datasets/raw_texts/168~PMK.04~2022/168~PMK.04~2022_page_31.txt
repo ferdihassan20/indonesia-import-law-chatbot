@@ -1,0 +1,78 @@
+-31-
+
+PETUNJUK PENGISIAN
+
+Nomor (1) : diisi nomor Jaminan Tertulis.
+
+Nomor (2) : diisi nama pejabat yang menandatangani Jaminan Tertulis.
+
+Nomor (3) : diisi nama jabatan pejabat yang menandatangani Jaminan
+Tertulis.
+
+Nomor (4) : diisi alamat lengkap pejabat yang menandatangani Jaminan
+Tertulis.
+
+Nomor (5) : diisi nama instansi/importir/perusahaan yang menerbitkan
+Jaminan Tertulis.
+
+Nomor (6) : diisi nama kota tempat instansi/importir/perusahaan yang
+
+menerbitkan Jaminan Tertulis berdomisili.
+Nomor (7) : diisi Nomor Pokok Wajib Pajak (NPWP) instansi/importir/
+perusahaan yang menerbitkan Jaminan Tertulis.
+
+Nomor (8) : diisi alamat iengkap instansi/importir/perusahaan yang
+menerbitkan Jaminan Tertulis.
+
+Nomor (9) : diisi nomor telepon instansi/importir/perusahaan yang
+menerbitkan Jaminan Tertulis.
+
+Nomor (10) : diisi alamat email instansi/importir/perusahaan yang
+menerbitkan Jaminan Tertulis.
+
+Nomor (11) : diisi besaran nilai penjaminan Jaminan Tertulis (dengan
+angka).
+
+Nomor (12) : diisi besaran nilai penjaminan Jaminan Tertulis (dengan
+huruf).
+
+Nomor (13) : diisi nama lengkap Kantor Bea dan Cukai tempat pemenuhan
+kewajiban pabean.
+
+Nomor (14) : diisi kegiatan kepabeanan yang dilakukan oleh instansi/
+importir/perusahaan yang menerbitkan Jaminan Tertulis,
+misalnya impor sementara.
+
+Nomor (15) : diisijenis, nomor, tanggal, bulan, dan tahun dokumen sumber
+sebagai dasar diserahkannya Jaminan.
+
+Contoh: dalam hal instansi/importir/perusahaan yang
+menerbitkan Jaminan Tertulis melakukan kegiatan
+impor sementara, dokumen sumber: Izin impor
+sementara nomor 1812/KM.4/2022 tanggal 18
+Januari 2022 Nomor pengajuan PIB: 070100-
+00000 1-20101226-000105
+
+Nomor (16) : diisi tanggal, bulan, dan tahun mulai berlakunya Jaminan
+Tertulis.
+
+Nomor (17) : diisi tanggal, bulan, dan tahun berakhirnya Jaminan Tertulis.
+
+Nomor (18) : diisi nama kota tempat ditandatanganinya Jaminan Tertulis.
+
+Nomor (19) : diisi tanggal, bulan, dan tahun ditandatanganinya Jaminan
+Tertulis.
+
+Nomor (20) : diisi nomor registrasi karyawan atau nomor yang sejenis
+dari pejabat sebagaimana dimaksud pada Nomor (2) yang
+menandatangani Jaminan Tertulis. (Hanya diisi bila ada)
+
+Nomor (21) : diisi nama pejabat Kuasa Pengguna Anggaran pada instansi
+pemerintah.
+
+Nomor (22) : diisi jabatan pejabat Kuasa Pengguna Anggaran pada instansi
+pemerintah.
+
+At
+
+jdih.kemenkeu.go.id

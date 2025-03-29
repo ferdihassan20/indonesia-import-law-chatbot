@@ -1,0 +1,50 @@
+51 2019, No.1718
+
+Nomor (16) : diisi Nomor Pokok Wajib Pajak (NPWP) KKOB/Badan Usaha jika
+diimpor langsung oleh KKOB/Badan Usaha, atau Penyedia
+Barang (Vendor) jika tidak diimpor langsung oleh KKOB/ Badan
+Usaha.
+
+Nomor (17) : diisi alamat lengkap KKOB/Badan Usaha jika diimpor langsung
+oleh KKOB/Badan Usaha, atau Penyedia Barang (Vendor) jika
+tidak diimpor langsung oleh KKOB/Badan Usaha.
+
+Nomor (18) : diisi Kantor Pelayanan Utama Bea dan Cukai/Kantor
+Pengawasan dan Pelayanan Bea dan Cukai yang mengawasi
+pelabuhan pemasukan.
+
+Nomor (19) : diisi direktur pada Direktorat Jenderal Bea dan Cukai yang
+melaksanakan tugas dan fungsi di bidang fasilitas kepabeanan.
+
+Nomor (20) : diisi tempat ditetapkan Keputusan Menteri Keuangan mengenai
+pembebasan bea masuk dan/atau tidak dipungut pajak dalam
+rangka impor atas impor barang untuk  kegiatan
+penyelenggaraan panas bumi.
+
+Nomor (21) : diisi tanggal, bulan, dan tahun ditetapkan Keputusan Menteri
+Keuangan mengenai pembebasan bea masuk dan/atau tidak
+dipungut pajak dalam rangka impor atas impor barang untuk
+kegiatan penyelenggaraan panas bumi.
+
+Nomor (22) : diisi Kantor Wilayah Direktorat Jenderal Bea dan Cukai/ Kantor
+Pelayanan Utama Bea dan Cukai yang menerbitkan Keputusan
+Menteri Keuangan mengenai pembebasan bea masuk dan/atau
+tidak dipungut pajak dalam rangka impor atas impor barang
+untuk kegiatan penyelenggaraan panas bumi.
+
+Nomor (23) : diisi nama Kepala Kantor Wilayah Direktorat Jenderal Bea dan
+Cukai/ Kantor Pelayanan Utama Bea dan Cukai yang
+menandatangani Keputusan Menteri Keuangan mengenai
+pembebasan bea masuk dan/atau tidak dipungut pajak dalam
+rangka impor atas impor barang untuk  kegiatan
+penyelenggaraan panas bumi.
+
+Huruf (a): diisi nomor urut.
+
+Huruf(b) : diisi uraian barang secara lengkap, meliputi jenis, merek, tipe,
+ukuran, dan spesifikasi lainnya.
+
+Huruf(c) =: diisi jumlah dan jenis satuan barang yang dipergunakan dalam
+nilai satuan barang.
+
+www.peraturan.go.id

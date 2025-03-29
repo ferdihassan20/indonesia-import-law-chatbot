@@ -1,0 +1,300 @@
+-377-
+
+Pos Tarif Tal
+Ne | “Hs Code booruid
+2), a) a
+7073 [8407.34.72 |----- Dengan kapasitas silinder melebihi 2.000 ce tctapt |-- - ~~ Of # cylinder capacity execeding
+tidak melebihi 3.000 ce 12,000 cc but not exceeding 3,000 ec
+7074 |8407.24.73 |--.-- Dengan kapasitas silinder melebihi 3.000ce |= -- -- Of a cylinder capacity exceeding
+13,000 ce
+Lain-lain : }- - - Other ;
+7075 |3a07.34.91 Untuk traktor yang dikendalikan dengan berjalan —_|- -- - For pedestrian controlled tractors, of a
+kaki, dengan kapasitas silinder tidak melebihi 1.100 ce _leylinder capacity not exceeding 1,100 cc
+7076 8407.34.92 |---- Untuk kendaraan lninnya dari pos 87.01 For other vehicles of heading 87.01
+7O7T |8407 34.93 ~ Untuk kendaraan dari pos 87.11 For vehicles of heading 87.11
++ Lai ‘in = Other :
+7078 [8407.34.94 ~ Dengan kapasitas silinder tidak melebihi 2.000 cc ~ Of a cylinder capacity not exceeding
+| 2,000 ce
+7079 |8107.34.95 - Dengan kapasitas silinder melebihi 2.000 ce tetapi_ |-- - -- Of a cylinder capacity exceeding
+tidak melebibi 3.000 ce 2,000 c¢ but not exceeding 3,000 cc
+7080 |8407.34.99  |----- Dengan kapasitas silinder melebihi 3.000ce —|-» = = Of a cylinder capacity excecding
+3,000 ce
+8407.90 | Mesin lainnya: ~ Other engines :
+
+7081 }8407.90.10 _|- - Dengan tenaga tidak melebihi 18,65 kW -- Of a power not exceeding 18.65 kW
+7082 |8407.90.20 |. - Dengan tenaga melebihi 18,65 kW tetapi tidak melebihi_|- - Of » power exceeding 18,65 kW but not
+22,38 kW exceeding 22.38 KW
+
+7083 }8407.90.90 |. -'Lain-lain -- Other
+84.08 ‘Mesin piston pembakaran dalam nyala kompresi (mesin |Compression-ignition internal combustion
+diesel atau semi diesel). piston engines (diesel or semi-diesel
+engines).
+[408.10 |. Mesin penggerak kendaraan air : }- Marine propulsion engines :
+
+7084 |8408.10.10
+7085 |8408.10.20
+
+7086 |8408.10.30
+7087 |8408.10.90
+8408.20
+7088 8408.20.10
+7089 |8408,20.21
+7090 |8408.20.22
+
+7091 |8408.20.23
+
+7092 |8408.20.93
+
+7093 |8408,20.94
+
+7094 |8408.20.95
+
+7095 |8408.20.96
+8408.90
+8408.90.10
+
+7097 |8408.90.51
+
+7098 [8408.90.52
+
+7099 |8403.90.59
+
+7100 |8408.90.91
+
+7101 |8408.90.92
+
+7102 |8408.90,99
+
+84.09
+
+7103 |8409.10,00
+
+8409.91
+
+7104 [8409.91.11
+7105 {8409.91.12
+7106 {8409.91.13
+
+‘7107 |8409.91.14
+7108 |8409.91.15
+7109 |8409.91.16
+
+7110 [8409.91.17
+7111 |8409.91.18
+7112 |8409.91.19
+
+7113
+7s
+
+8409.91.21
+9400.91.22
+
+Dengan tenaga tidak melebihi 22,38 KW
+
+Dengan tenaga melebihi 22,38 kW tetapi tidak melebihi
+100 KW
+
+| - Dengan tenaga melebihi 100 kW tetapi tidak melebibi
+1750 kW
+
++ Lain-iain
+
+- Mesin cari jenis yang digunakan untuk penggerak
+kendaraan dari Bab 87 :
+
+- - Dirakit secara lengkap :
+
+~ Untuk kendaraan dart subpos 8701.10
+
++ Lain-lain :
+
+---- Dengan kapasitas silinder tidak melebihi 2,000 ce
+
+- - - - Dengan kapasitas silincer melebihi 2.000 ce tetapi
+tidak melebihi 3.500 ce
+- Dengan kapasitas silinder melebihi 3,500 ce
+
+- - Lain-lain :
+Untuk kendaraan dari subpos 8701.10
+~ = Dengan kapasitas silinder tidak melebihi 2.000 ce
+
+~~ Dengan kapasitas silinder melebihi 2,000 cc tetapi
+tidak melebihi 3.500 cc
+~~ Dengan kapasitas silinder melebihi 3.500 cc
+
+|. Mesin lainnya :
+- - Dengan tenaga tidak melebihi 18,65 kW
+
+Dengan tenaga melebihi 100 kW =
+
+~ Dari jenis yang digunakan untuk mesin pada pos
+84,29 atau 84.30
+
++ + + Untuk lokomotif kereta api atau trem
+
+- Lain-lain
+Lain-lain
+~ Untuk mesin dari pos 84.29 atau 84.30
+
+- Untuk lokomotif kereta api atau trem
+
+~~~ Lain-tain
+/Bagian yang cocok untuk digunakan semata-mata atau
+terutama dengan mesin dari pos $4.07 atau 84.08,
+
+- Untuk mesin kendaraan udara
+
+- Lain-lain :
+
++ - Cocok untuk digunakan semata-mata atau terutama
+dengan mesin piston pembakaran dalam cetus api
+
+~ >> Untuk mesin dari pos 84.29 atau 84,30 ;
+
+Karburator dan bagiannya
+
+Blok silinder; crank case
+
+~~ ~~ Silinder liner, dengan ukuran diameter dalam 50 mm
+jatau lebih, tetapi tidak melebihi 155 mm.
+
+Silinder liner tainnya
+Silinder head dan head cover
+Piston, dengan ukuran diameter Luar $0 mm atau
+lebih, tetapi tidak melebihi 155 mm
+
+Piston lainnya
+Ring piston dan gudgeon pin
+
+- += Laln-lain
+
++ ~ - Untuk kendarnan dari pos 87.01 :
+}-- +» Karburator dan bagiannya
+
+Blok: silinder; crank case
+
+}- - Of a power not exceeding 22.38 kW
+-- Of a power exceeding 22.38 kW but not
+lexceeding 100 kW
++ - Of a power exceeding 100 kW but not
+jexceeding 750 kW
++ - Other
+- Engines of a kind used for the propulsion
+lof vehicles of Chapter 87 :
+- - Fully assembled :
+For vehicles of subheading 8701.10
+Other :
+Of cylinder capacity not exceeding
+}2,.000 cc
+. - - - Of a cylinder capacity exceeding 2,000
+icc but not exceeding 3,500 ce
+- - - - Of a cylinder capacity exceeding 3,500
+ee
+For vehicles of subheading 8701.10
+Other :
+- Of a cylinder capacity not exceeding
+2,000 ec
+- Of a cylinder capacity exceeding 2,000
+
+Jec but not execeding 3,500 ce
+
+~ = - Of a cylinder capacity exceeding 3,500
+ec
+|- Other engines :
+- Of a power not exceeding 18,65 kW
+- Of a power exceeding 100 kW :
+Of a kind used for machinery of heading
+184.29 or 84.30
+~- - Of a kind used for railway locomotives o*|
+tramway vehicles
+Other
+* Other
+For machinery of heading 84.29 or
+84.30
+~~~ Of a kind used for railway locomotives or}
+tramway vehicles
+-- - Other
+Parts suitable for use solely or principally
+|with the engines of heading 84.07 or
+84.08.
+- For aircraft engines
+|- Other :
+- - Suitable for use solely or principally with
+'spark-ignition internal combustion piston
+lengines :
+- - - For machinery of heading 84.29 or
+84.30:
+~ Carburetors and parts thereof
+- Cylinder blocks; crank cases
+- Cylinder liners, with an internal
+diameter of 50 mm or more, but not
+exceeding 155 mm
++ Other cylinder liners
+- Cylinder heads and head covers:
+~ Pistons, with an external diameter of
+50 mm or more, but not exceeding 155 mm
+
++ Other pistons
+- Piston rings and gudgeon pins
++ Other
+
+For vehicles of heading 87.01:
+
+~ Carburetors and parts thereof
+
+~ Cylinder blocks; crank cases
+
+2017, No.176
+
+10,0%
+
+10,0%
+
+10,0%
+10,0%
+10,0%
+10,0%
+10.0%
+7.5%
+
+7.5%
+
+5,0%
+
+5,0%
+5,0%
+
+5.0%
+0,0%
+
+15,0%
+10,0%
+10,0%
+
+10,0%
+
+10,0%
+10,0%
+10,0%
+
+10,0%
+
+10,0%
+0,0%
+50%
+
+10,0%
+
+0.0%
+
+5.0%
+
+10,0%
+
+0,0%
+
+5.0%
+5.0%
+5.0%
+
+www.peraturan.go.id

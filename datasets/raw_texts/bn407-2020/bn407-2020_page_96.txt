@@ -1,0 +1,82 @@
+2020, No.407
+
+Peralatan Di Balai
+Yasa
+
+-96-
+System
+7. Sentral Telepon Otomat Kereta
+Api (Toka)
+8. Jaringan Telex Kereta Api
+9. Saluran Fisik
+10. GSM-R System
+11. Clock System
+12. Suku Cadang Peralatan di
+Workshop
+13. Jaringan IP telekomunikasi
+14. Peralatan Perawatan.
+Telekomunikasi
+15. Sistem Proteksi dan Grounding
+16. Tools/Measurement
+telekomunikasi
+No. KELOMPOK NAMA BARANG
+17. Suku cadang pendukung
+traindispatching system
+18. Saluran Fiber Optik
+19. Suku cadang
+pendukung/interface saluran
+fiber optik
+20. Suku cadang
+pendukung/saluran kabel
+tembaga
+Oo Suku Cadang
+
+Radio Link Equipment Spare
+Unit
+
+2. Power Supply Equipment
+Spare Unit
+
+3. Pem Multiplex Spare Unit
+
+4. Train Dispatching Spare Unit
+
+5. Supervisory System Spare
+Unit
+
+6. Test Equipment
+
+7. System Spare Unit
+
+8. Training Equipment
+Workshop Facilities
+
+9. Digital Transmitter (TX)
+
+10. Transmission Analyzer (RX)
+
+11. Spectrum Analyzer
+
+12. Channel Set
+
+13. Radio Communication Tester
+
+14. Microwave Repeater Checker
+
+15. Microwave Frequency
+Counter
+
+16. Portable Oscilloscope
+
+17. Jiter Module
+
+18. Rtu Input Module Test Box
+
+19. Test Box
+
+20. Tool Kit
+
+21. V.S Tester
+
+Atenuator Set
+

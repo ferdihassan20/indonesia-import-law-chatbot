@@ -1,0 +1,257 @@
+Instruksi Pemrosesan Dokumen Peraturan/Undang-Undang Terkait Impor di Indonesia
+
+Di bawah ini merupakan hasil ekstraksi teks dari dokumen peraturan dan/atau undang-undang terkait impor di Indonesia. Hasil ekstraksi ini mungkin mengandung: 
+1. Simbol atau karakter asing yang tidak relevan dan perlu dihapus. 
+2. Kesalahan ejaan yang perlu diperbaiki agar sesuai dengan ejaan yang benar dalam bahasa Indonesia. 
+3. Susunan kata atau kalimat yang tidak sesuai urutan, sehingga perlu disusun kembali agar mudah dipahami dan sesuai dengan struktur aslinya. 
+4. Tabel yang harus diubah menjadi teks deskriptif tanpa menghilangkan informasi penting.
+
+Tugas Anda: 
+1. Membersihkan dan merapikan teks agar dapat dipahami dengan baik serta mengikuti sistematika baku dalam peraturan perundang-undangan Indonesia. 
+2. Menjaga struktur asli dokumen agar tetap utuh dan berurutan, yaitu: 
+   - Pembukaan: "Dengan Rahmat Tuhan Yang Maha Esa" harus selalu berada di bagian awal dokumen. 
+   - "Menimbang" harus berada setelah pembukaan, tanpa berpindah posisi atau bergabung dengan bagian lain. 
+   - "Mengingat" harus berada setelah bagian "Menimbang" dan wajib memiliki indeks a, b, c, dan seterusnya. Jangan menghilangkan atau menggabungkan poin-poin di dalamnya. 
+   - "Memutuskan" harus selalu diawali dengan kata "Menetapkan" yang tidak boleh dihapus atau diubah. 
+   - Isi pasal-pasal harus tetap terstruktur sesuai format aslinya. 
+   - Penutup harus tetap utuh, mencakup tanggal penetapan, nama pejabat, serta berita negara (jika ada). 
+3. Jika Anda menemukan bagian yang menyerupai tabel, ubah menjadi teks deskriptif dengan format berikut: 
+   - Setiap baris tabel harus dikonversi menjadi kalimat yang jelas dan mengikuti hierarki informasi yang logis. 
+   - Jika tabel memiliki kategori utama dan subkategori, gunakan format daftar bullet points untuk menunjukkan hubungan antar kategori. 
+   - Nama kolom harus dijadikan referensi dalam penyusunan kalimat. 
+   - Tarif bea masuk harus disebutkan secara eksplisit di akhir setiap poin.
+
+Contoh konversi dari tabel ke teks deskriptif:
+
+Tabel Input (OCR): 
+- POS/SUB POS NO.: 09.01 
+- HEADING/URAIAN BARANG: Kopi, digongseng atau dihilangkan kafeinnya maupun tidak 
+- DESKRIPSI BARANG: Coffee, whether or not roasted or decaffeinated 
+- TARIF BEA MASUK: 
+
+Output Deskriptif yang Benar: 
+- Kopi (HS Code: 09.01) termasuk kopi yang digongseng atau dihilangkan kafeinnya. 
+- Kopi yang digongseng dan tidak dihilangkan kafeinnya dikenakan tarif bea masuk sebesar 20%, dengan rincian: 
+  - Kopi yang tidak ditumbuk dikenakan tarif 20%. 
+  - Kopi yang ditumbuk dikenakan tarif 20%. 
+- Kopi yang digongseng dan telah dihilangkan kafeinnya juga dikenakan tarif bea masuk sebesar 20%, dengan rincian: 
+  - Kopi yang tidak ditumbuk dikenakan tarif 20%. 
+  - Kopi yang ditumbuk dikenakan tarif 20%. 
+
+Penting: 
+- Jangan mengubah urutan atau struktur bagian dalam dokumen. Jika bagian "Menimbang" dan "Mengingat" ditemukan dalam posisi yang salah, pindahkan ke posisi yang benar. 
+- Pastikan semua poin dalam "Mengingat" lengkap dan memiliki indeks a, b, c, dst. Jangan menggabungkan atau menghapus poin. 
+- Jangan menghapus atau mengubah kata "Menetapkan" pada bagian "Memutuskan". 
+- Pastikan format tetap jelas dan tidak ada informasi yang terbuang. 
+- Gabungkan hasil cleaning ke dalam satu file, tidak perlu pemisahan antara teks biasa dan tabel. 
+- Selesaikan sampai akhir dokumen, tidak perlu memotong atau membuang bagian mana pun dari dokumen maupun memberi output seperti "(dan seterusnya untuk item lainnya)". 
+- Jangan memberikan keterangan bahwa dokumen telah dibersihkan. 
+- Pastikan tidak ada format teks yang berantakan terutama jika mengandung barisan karakter seperti '--' atau '|'
+
+Hasil yang Diharapkan: 
+Dokumen yang telah diperbaiki harus memiliki struktur yang lengkap, rapi, tidak ada bagian yang hilang, serta tabel yang dikonversi ke dalam teks deskriptif tanpa kehilangan informasi.
+
+BERITA NEGARA
+
+REPUBLIK INDONESIA No.162, 2011 KEMENTERIAN KEUANGAN. Bea Masuk Tindakan Pengamanan. Impor Produk Kawat Bindrat.
+
+PERATURAN MENTERI KEUANGAN REPUBLIK INDONESIA NOMOR 57/PMK.01 1/2011 TENTANG
+
+PENGENAAN BEA MASUK TINDAKAN PENGAMANAN TERHADAP IMPOR PRODUK KAWAT BINDRAT
+
+DENGAN RAHMAT TUHAN YANG MAHA ESA MENTERI KEUANGAN REPUBLIK INDONESIA,
+
+Menimbang: a. bahwa berdasarkan hasil penyelidikan Komite Pengamanan Perdagangan Indonesia telah dibuktikan terjadi lonjakan volume impor produk kawat bindrat sehingga menyebabkan kerugian serius pada industri dalam negeri;
+
+b. bahwa dalam rangka menindaklanjuti hasil penyelidikan tersebut dalam huruf a, Menteri Perdagangan melalui Surat Nomor: 776/M-DAG/SD/6/2010 tanggal 14 Juni 2010, Nomor: 1670/M-DAG/SD/11/2010 tanggal 3 November 2010, dan Nomor: 1853/M-DAG/SD/12/2010 tanggal 20 Desember 2010, menyampaikan usulan pengenaan Bea Masuk Tindakan Pengamanan terhadap impor produk kawat bindrat;
+
+c. bahwa berdasarkan ketentuan Pasal 21 Keputusan Presiden Nomor 84 Tahun 2002 tentang Tindakan Pengamanan Industri Dalam Negeri dari Akibat Lonjakan Impor, tindakan pengamanan tetap dapat ditetapkan dalam bentuk Bea Masuk oleh Menteri Keuangan;
+
+d. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a, huruf b, dan huruf c, serta dalam rangka melaksanakan ketentuan Pasal 23D ayat (2) Undang-Undang Nomor 10 Tahun 1995 tentang Kepabeanan sebagaimana telah diubah dengan Undang-Undang Nomor 17 Tahun 2006, perlu menetapkan Peraturan Menteri Keuangan tentang Pengenaan Bea Masuk Tindakan Pengamanan Terhadap Impor Produk Kawat Bindrat;
+
+Mengingat: 1. Undang-Undang Nomor 7 Tahun 1994 tentang Pengesahan Agreement Establishing the World Trade Organization (Lembaran Negara Republik Indonesia Tahun 1994 Nomor 57, Tambahan Lembaran Negara Republik Indonesia Nomor 3564);
+
+2. Undang-Undang Nomor 10 Tahun 1995 tentang Kepabeanan (Lembaran Negara Republik Indonesia Tahun 1995 Nomor 75, Tambahan Lembaran Negara Republik Indonesia Nomor 3612) sebagaimana telah diubah dengan Undang-Undang Nomor 17 Tahun 2006 (Lembaran Negara Republik Indonesia Tahun 2006 Nomor 93, Tambahan Lembaran Negara Republik Indonesia Nomor 4661);
+
+3. Keputusan Presiden Nomor 84 Tahun 2002 tentang Tindakan Pengamanan Industri Dalam Negeri dari Akibat Lonjakan Impor (Lembaran Negara Republik Indonesia Tahun 2002 Nomor 133);
+
+4. Keputusan Presiden Nomor 56/P Tahun 2010;
+
+Memperhatikan: 1. Surat Menteri Perdagangan Nomor: 776/M-DAG/SD/6/2010 tanggal 14 Juni 2010 perihal Usulan Pengenaan Bea Masuk Tindakan Pengamanan Terhadap Produk Kawat Bindrat (HS 7217.10.10.00) dan Surat Sekretaris Jenderal Kementerian Perdagangan Nomor: 675-/SJ-DAG/SD/6/2010 tanggal 28 Juni 2010 perihal Usulan Pengenaan Bea Masuk Tindakan Pengamanan Terhadap Produk Kawat Bindrat (HS 7217.10.10.00);
+
+2. Surat Menteri Perdagangan Nomor: 1670/M-DAG/SD/11/2010 tanggal 3 November 2010 perihal Usulan Pengenaan Bea Masuk Tindakan Pengamanan Terhadap Produk Kawat Bindrat (HS 7217.10.10.00);
+
+3. Surat Menteri Perdagangan Nomor: 1853/M-DAG/SD/12/2010 tanggal 20 Desember 2010 perihal Usulan Pengenaan Bea Masuk Tindakan Pengamanan Terhadap Produk Kawat Bindrat (HS 7217.10.10.00) dan Surat Sekretaris Jenderal Kementerian Perdagangan Nomor: 51/M-DAG/SD/1/2011 tanggal 17 Januari 2011 perihal Daftar Negara-Negara Berkembang yang Dikecualikan dari Pengenaan Bea Masuk Tindakan Pengamanan (BMTP) Terhadap Produk Kain Tenunan dari Kapas, Dikelantang dan Tidak Dikelantang; Kawat Bindrat; Kawat Seng dan Tali Kawat Baja;
+
+4. Surat Ketua Komite Pengamanan Perdagangan Indonesia Nomor: 430/KPPI/VH/2010 tanggal 28 Juli 2010 tentang Pengecualian Terhadap Barang yang Berasal dari Negara-Negara Tertentu;
+
+5. Laporan Komite Pengamanan Perdagangan Indonesia tentang Hasil Penyelidikan Untuk Tindakan Pengamanan (Safeguard Measures) Atas Produk Kawat Bindrat;
+
+MEMUTUSKAN: 
+Menetapkan: PERATURAN MENTERI KEUANGAN TENTANG PENGENAAN BEA MASUK TINDAKAN PENGAMANAN TERHADAP IMPOR PRODUK KAWAT BINDRAT.
+
+Pasal 1
+
+Terhadap impor produk kawat bindrat, yaitu kawat besi atau baja bukan paduan, tidak disepuh atau dilapisi, dipoles maupun tidak yang mengandung karbon kurang dari 0,25% menurut beratnya (wire of iron non-alloy steel, not plated or coated, whether or not polished, containing by weight less than 0,25% of carbon), yang termasuk dalam pos tarif 7217.10.10.00, dikenakan Bea Masuk Tindakan Pengamanan.
+
+Pasal 2
+
+Bea Masuk Tindakan Pengamanan sebagaimana dimaksud dalam Pasal 1 dikenakan selama 3 (tiga) tahun dengan ketentuan sebagai berikut:
+
+- Tahun I, dengan periode satu tahun sejak tanggal diundangkannya Peraturan Menteri Keuangan ini dikenakan tarif Rp7.767/kg.
+- Tahun II, dengan periode satu tahun sejak tanggal berakhirnya periode tahun pertama dikenakan tarif Rp7.216/kg.
+- Tahun III, dengan periode satu tahun sejak tanggal berakhirnya periode tahun kedua dikenakan tarif Rp6.665/kg.
+
+Pasal 3
+
+Bea Masuk Tindakan Pengamanan sebagaimana dimaksud dalam Pasal 1 dikenakan terhadap importasi dari semua negara, kecuali terhadap produk kawat bindrat yang diproduksi dari negara-negara sebagaimana tercantum dalam Lampiran Peraturan Menteri Keuangan ini, yang merupakan bagian yang tidak terpisahkan dari Peraturan Menteri Keuangan ini.
+
+Pasal 4
+
+(1) Pengenaan Bea Masuk Tindakan Pengamanan sebagaimana dimaksud dalam Pasal 1 merupakan:
+
+a. tambahan bea masuk umum (Most Favored Nation); atau
+
+b. tambahan bea masuk preferensi berdasarkan skema-skema perjanjian perdagangan barang internasional yang berlaku dalam hal impor dilakukan dari negara-negara yang termasuk dalam skema-skema perjanjian perdagangan barang internasional dimaksud dan memenuhi ketentuan dalam skema-skema perjanjian perdagangan barang internasional.
+
+(2) Dalam hal ketentuan dalam skema-skema perjanjian perdagangan barang internasional tidak dipenuhi, pengenaan Bea Masuk Tindakan Pengamanan atas importasi dari negara-negara yang termasuk dalam skema-skema perjanjian perdagangan barang internasional sebagaimana dimaksud pada ayat (1) huruf b merupakan tambahan bea masuk umum (Most Favored Nation).
+
+Pasal 5
+
+Terhadap impor produk kawat bindrat yang berasal dari negara-negara yang dikecualikan dari pengenaan Bea Masuk Tindakan Pengamanan sebagaimana dimaksud dalam Pasal 3 dan yang berasal dari negara-negara yang memiliki perjanjian perdagangan dengan Indonesia sebagaimana dimaksud dalam Pasal 4 ayat (1) huruf b, importir wajib menyerahkan dokumen Surat Keterangan Asal (Certificate of Origin).
+
+Pasal 6
+
+Ketentuan mengenai pengenaan tarif Bea Masuk Tindakan Pengamanan sebagaimana dimaksud dalam Pasal 2 berlaku sepenuhnya terhadap impor barang yang dokumen pemberitahuan pabean impor dimaksud mendapat nomor pendaftaran dari Kantor Pabean pelabuhan pemasukan sejak tanggal berlakunya Peraturan Menteri Keuangan ini.
+
+Pasal 7
+
+1. Peraturan Menteri Keuangan ini mulai berlaku pada tanggal diundangkan.
+
+2. Peraturan Menteri Keuangan ini berlaku selama 3 (tiga) tahun terhitung sejak tanggal berlakunya Peraturan Menteri Keuangan ini.
+
+Agar setiap orang mengetahuinya, memerintahkan pengundangan Peraturan Menteri Keuangan ini dengan penempatannya dalam Berita Negara Republik Indonesia.
+
+Ditetapkan di Jakarta pada tanggal 23 Maret 2011
+
+MENTERI KEUANGAN REPUBLIK INDONESIA,
+
+AGUS D.W. MARTOWARDOJO
+
+Diundangkan di Jakarta pada tanggal 23 Maret 2011
+
+MENTERI HUKUM DAN HAK ASASI MANUSIA REPUBLIK INDONESIA,
+
+PATRIALIS AKBAR
+
+LAMPIRAN PERATURAN MENTERI KEUANGAN NOMOR /PMK.011/2011 TENTANG PENGENAAN BEA MASUK TINDAKAN PENGAMANAN TERHADAP IMPOR PRODUK KAIN TENUNAN DARI KAPAS DIKELANTANG DAN TIDAK DIKELANTANG (WOVEN FABRICS OF COTTON, BLEACHED AND UNBLEACHED)
+
+DAFTAR NEGARA-NEGARA YANG DIKECUALIKAN DARI PENGENAAN BEA MASUK TINDAKAN PENGAMANAN TERHADAP IMPOR PRODUK KAIN TENUNAN DARI KAPAS YANG DIKELANTANG DAN TIDAK DIKELANTANG (WOVEN FABRICS OF COTTON, BLEACHED AND UNBLEACHED)
+
+1. Albania
+2. Angola
+3. Antigua and Barbuda
+4. Argentina
+5. Armenia
+6. Bahrain, Kingdom of
+7. Bangladesh
+8. Barbados
+9. Belize
+10. Benin
+11. Bolivia
+12. Botswana
+13. Brazil
+14. Brunei Darussalam
+15. Burkina Faso
+16. Burundi
+17. Cambodia
+18. Cameroon
+19. Cape Verde
+20. Central African Republic
+21. Chad
+22. Chile
+23. Colombia
+24. Congo
+25. Costa Rica
+26. Cote d'Ivoire
+27. Croatia
+28. Cuba
+29. Democratic Republic of the Congo
+30. Djibouti
+31. Dominica
+32. Dominican Republic
+33. Ecuador
+34. Egypt
+35. El Salvador
+36. Fiji
+37. Former Yugoslav Republic of Macedonia
+38. Gabon
+39. Georgia
+40. Ghana
+41. Granada
+42. Guatemala
+43. Guinea
+44. Guinea Bissau
+45. Guyana
+46. Haiti
+47. Honduras
+48. India
+49. Jamaica
+50. Jordan
+51. Kenya
+52. Kuwait
+53. Kyrgyz Republic
+54. Lesotho
+55. Macao, China
+56. Madagascar
+57. Malawi
+58. Maldives
+59. Mali
+60. Mauritania
+61. Mauritius
+62. Mexico
+63. Moldova
+64. Mongolia
+65. Morocco
+66. Mozambique
+67. Myanmar
+68. Namibia
+69. Nepal
+70. Nicaragua
+71. Niger
+72. Nigeria
+73. Oman
+74. Pakistan
+75. Panama
+76. Papua New Guinea
+77. Paraguay
+78. Peru
+79. Philippines
+80. Qatar
+81. Rwanda
+82. Saint Kitts and Nevis
+83. Saint Lucia
+84. Saint Vincent and the Grenadines
+85. Saudi Arabia
+86. Senegal
+87. Sierra Leone
+88. Solomon Islands
+89. South Africa
+90. Sri Lanka
+91. Suriname
+92. Swaziland
+93. Tanzania
+94. Thailand
+95. The Gambia
+96. Togo
+97. Tonga
+98. Trinidad and Tobago
+99. Tunisia
+100. Uganda
+101. Ukraine
+102. United Arab Emirates
+103. Uruguay
+104. Venezuela (Bolivarian Republic of Venezuela)
+105. Vietnam
+106. Zambia
+107. Zimbabwe

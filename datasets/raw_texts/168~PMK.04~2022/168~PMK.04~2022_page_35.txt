@@ -1,0 +1,63 @@
+-35-
+
+PETUNJUK PENGISIAN
+
+Nomor (1) : diisi nomor surat pengajuan izin penggunaan Jaminan
+perusahaan (Corporate Guarantee).
+
+Nomor (2) : diisi nama kota tempat surat pengajuan izin penggunaan
+Jaminan perusahaan (Corporate Guarantee) dibuat.
+
+Nomor (3) : diisi tanggal, bulan, dan tahun surat pengajuan izin
+penggunaan Jaminan perusahaan (Corporate Guarantee).
+
+Nomor (4) : diisi jumlah lampiran surat pengajuan izin penggunaan
+Jaminan perusahaan (Corporate Guarantee).
+
+Nomor (5) : diisi nama perusahaan yang mengajukan permohonan izin
+menggunakan Jaminan perusahaan (Corporate Guarantee)
+
+Nomor (6) : diisidirektur yang mengelola penerimaan (Direktur Penerimaan
+dan Perencanaan Strategis) .
+
+Nomor (7) : diisi nama pengusaha yang menandatangani surat pengajuan
+izin penggunaan Jaminan perusahaan (Corporate Guarantee).
+
+Nomor (8) : diisi nama jabatan pengusaha yang menandatangani surat
+pengajuan izin penggunaan Jaminan perusahaan (Corporate
+Guarantee).
+
+Nomor (9) : diisi nama kota tempat pengusaha berdomisili.
+
+Nomor (10) : diisi alamat lengkap perusahaan yang mengajukan
+permohonan izin menggunakan Jaminan  perusahaan
+(Corporate Guarantee).
+
+Nomor (11) : diisi Nomor Pokok Wajib Pajak (NPWP) perusahaan yang
+mengajukan permohonan izin menggunakan Jaminan
+perusahaan (Corporate Guarantee).
+
+Nomor (12) : diisi Nomor Pokok Pengusaha Barang Kena Cukai (NPPBKC)
+perusahaan yang mengajukan permohonan izin menggunakan
+Jaminan perusahaan (Corporate Guarantee). Hanya diisi jika
+
+ada.
+Nomor (13) : diisi nomor telepon perusahaan yang mengajukan permohonan
+izin menggunakan Jaminan perusahaan (Corporate Guarantee).
+Nomor (14) : diisi alamat email perusahaan yang mengajukan permohonan
+
+izin menggunakan Corporate Guarantee.
+
+Nomor (15) : diisi fasilitas atau pelayanan khusus yang diberikan kepada
+perusahaan, misalnya KITE, KB, MITA, AEO, atau Penundaan
+Cukai.
+
+Nomor (16) : diisi nomor Jaminan perusahaan (Corporate Guarantee) yang
+telah dibuat.
+
+Nomor (17) : diisitanggal, bulan, dan tahun Jaminan perusahaan (Corporate
+Guarantee) yang telah dibuat.
+
+‘ti
+
+jdih.kemenkeu.go.id

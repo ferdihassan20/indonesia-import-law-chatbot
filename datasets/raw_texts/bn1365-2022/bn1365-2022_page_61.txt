@@ -1,0 +1,60 @@
+61- 2022, No.1365
+
+9) Saldo akhir
+Saldo akhir barang di tempat penyimpanan setelah saldo
+awal ditambah — barang masuk dan/atau dikurangi
+
+j
+10) Hasil pencacahan
+Jumlah barang hasil pencacahan di tempat penyimpanan.
+11) Jumlah selisih
+Hasil pengurangan antara saldo akhir dengan jumlah
+barang hasil pencacahan.
+12) Keterangan
+Informasi lain yang perlu ditambahkan.
+Laporan Posisi Barang dalam Proses (work in process}
+Laporan ini menampilkan pencatatan bahan baku dan/atau
+bahan penolong yang masih dalam proses produksi.
+Laporan ini minimal memuat elemen data dan/atau informasi
+terkait:
+1) Kode barang
+Kode barang yang dibuat oleh penerima fasilitas kawasan
+berikat (KB) untuk setiap jenis barang yang berbeda. Kode
+barang ini menjadi salah satu elemen data utama untuk
+menelusuri keterkaitan dalam setiap proses mutasi barang.
+2) Nama barang
+Nama setiap jenis barang yang berbeda sesuai dengan kode
+barang, dapat dipahami secara jelas dan bukan merupakan
+singkatan atau penamaan yang hanya dipahami oleh
+internal penerima fasilitas kawasan berikat (KB). Nama
+barang ini menjadi salah satu elemen data utama untuk
+menelusuri keterkaitan dalam setiap proses mutasi barang.
+3) Satuan Barang
+Satuan barang untuk setiap jenis barang yang sedang
+dalam proses (work in process} (contoh: kilogram, gram,
+dan/atau meter}.
+4) Jumlah barang
+Jumlah barang untuk setiap jenis barang dan satuan
+barang yang sedang dalam proses (work in process).
+5) Keterangan
+Informasi lain yang perlu ditambahkan.
+Laporan Mutasi Barang Jadi (Hasil Produksi)
+Laporan ini menampilkan pencatatan barang dalam proses (work
+in process) yang telah menjadi barang jadi (hasil produksi) dan
+dipindahkan ke tempat penyimpanan barang jadi (hasil
+produksi).
+Laporan ini minimal memuat data dan/atau informasi terkait:
+1) Kode barang
+Kode barang yang dibuat oleh penerima fasilitas kawasan
+berikat (KB) untuk setiap jenis barang yang berbeda. Kode
+barang ini menjadi salah satu elemen data utama untuk
+menelusuri keterkaitan dalam setiap proses mutasi barang.
+2) Nama barang
+Nama setiap jenis barang yang berbeda sesuai dengan kode
+barang, dapat dipahami secara jelas dan bukan merupakan
+singkatan atau penamaan yang hanya dipahami oleh
+internal penerima fasilitas kawasan berikat (KB). Nama
+barang ini menjadi salah satu elemen data utama untuk
+menelusuri keterkaitan dalam setiap proses mutasi barang.
+
+www.peraturan.go.id

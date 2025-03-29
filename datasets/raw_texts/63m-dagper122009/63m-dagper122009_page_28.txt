@@ -1,0 +1,163 @@
+NO.
+
+POS TARIF/
+HS
+
+URAIAN BARANG
+
+KETERANGAN
+
+(1)
+
+(2)
+
+(3)
+
+(4)
+
+183 |8480.71.00.00
+
+--Tipe injeksi atau kompresi
+
+84.83
+
+Poros transmisi (termasuk poros berputar dan
+
+poros engkol) dan engkol; rumah bantalan dan
+
+bantalan poros polos; gir dan gearing; ball
+
+screw atau roller screw; gear box dan pengubah
+
+kecepatan lainnya, termasuk torak konverter;
+
+roda gaya dan puli, termasuk blok puli;
+
+kopling dan poros_ perangkai (termasuk
+
+sambungan universal ).
+
+8483.30
+
+-Rumah bantalan, tidak digabung dengan bantal-
+
+an peluru atau gulung, bantalan poros polos :
+
+184
+
+8483.30.90.00
+
+--Lain-lain
+
+8483.40
+
+-Gir dan gearing, selain roda bergigi, chain
+
+sprocket dan elemen transmisi lainnya, diaju-
+
+kan secara terpisah; ball screw atau roller
+
+screw; gear box dan pengubah kecepatan lain-
+
+nya, termasuk torak konverter :
+
+--Untuk mesin dari kendaraan pada Bab 87 :
+
+185
+
+8483.40.29.00
+
+---Lain-lain
+
+186
+
+8483.40.30.00
+
+--Untuk Mesin pada Mesin pengolah tanah
+
+Hanya untuk industri remanufakturing
+
+187
+
+8483.40.90.00
+
+--Untuk mesin lainnya
+
+85.01
+
+Motor dan generator listrik (tidak termasuk
+
+perangkat pembangkit tenaga listrik).
+
+8501.10
+
+-Motor dengan keluaran tidak melebihi 37,5 W:
+
+--Motor DC
+
+188
+
+8501.10.19.00
+
+---Lain-lain
+
+Motor drive, power supply &
+
+bagiannya/parts
+
+8501.20
+
+-Motor universal AC/DC dengan keluaran
+
+melebihi 37,5 W :
+
+--Dengan keluaran tidak melebihi 1 kW :
+
+189
+
+8501.20.19.00
+
+---Lain-lain
+
+190
+
+8501.20.20.00
+
+--Dengan keluaran melebihi 1 kW
+
+-Motor AC lainnya, multi-phase :
+
+8501.52 --Dengan keluaran melebihi 750 W tetapi tidak
+melebihi 75 kW :
+191 |8501.52.30.00 |---Dengan keluaran melebihi 37,5 kW
+
+-Generator AC (alternator) :
+
+8501.62 --Dengan keluaran melebihi 75 kVA tetapi tidak
+melebihi 375 kVA :
+192 |8501.62.10.00 |---Dengan keluaran melebihi 75 kVA tetapi
+
+tidak melebihi_ 150 kVA
+
+193
+
+8501.63.00.00
+
+--Dengan keluaran melebihi 375 kVA tetapi tidak
+
+melebihi 750 kVA
+
+194
+
+8501.64.00.00
+
+--Dengan keluaran melebihi 750 kVA
+
+85.02
+
+Perangkat pembangkit tenaga listrik dan kon-
+
+verter berputar.
+
+16
+

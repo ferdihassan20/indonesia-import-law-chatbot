@@ -1,0 +1,77 @@
+2022, No.1365 62-
+
+3) Satuan Barang
+Satuan barang untuk setiap jenis barang jadi (hasil
+produksi) yang diterima dan/atau dimasukkan ke tempat
+penyimpanan hasil produksi (contoh: kilogram, gram,
+dan/atau meter}.
+
+4) Jumlah
+Jumlah barang jadi (hasil produksi) untuk setiap jenis
+barang dan satuan barang yang dimasukkan ke tempat
+penyimpanan di kawasan berikat (KB).
+
+5) Saldo awal
+Saldo awal barang di tempat penyimpanan barang jadi
+{hasil produksi) sebelum ditambah jumlah barang masuk
+dan/atau dikurangi jumlah barang keluar,
+
+6) Jumlah pemasukan barang
+Jumlah barang untuk setiap satuan barang
+dimasukkan ke tempat penyimpanan barang jadi hasil
+produksi).
+
+7) Jumlah pengeluaran barang
+Jumlah barang untuk setiap satuan barang
+dikeluarkan dari tempat penyimpanan barang jadi thasil
+produksi).
+
+8) Penyesuaian (adjustment)
+Perbaikan pencatatan atas selisih kurang dan/atau selisih
+lebih barang jadi (hasil produksi) dengan saldo fisik barang.
+
+9) Saldo akhir
+Saldo akhir barang di tempat penyimpanan barang jadi
+(hasil produksi) setelah saldo awal ditambah jumlah barang
+masuk dan/atau dikurangi jumlah barang keluar.
+
+10) Hasil pencacahan
+Jumlah barang hasil pencacahan di tempat penyimpanan
+barang jadi (hasil produksi).
+
+11) Jumlah selisih
+Hasil pengurangan antara saldo akhir dengan jumlah
+barang hasil pencacahan.
+
+12) Keterangan
+Informasi lain yang perlu ditambahkan.
+
+f, Laporan Mutasi Barang Modal dan Barang Lain
+
+Laporan ini menampilkan pencatatan barang modal dan barang
+
+lain dari suatu tempat penyimpanan ke tempat penyimpanan
+
+lain milik penerima fasilitas kawasan berikat (KB) dalam rangka
+
+produksi, perbaikan, dan/atau kegiatan lain.
+
+Laporan ini minimal memuat elemen data dan/atau informasi
+
+terkait:
+
+1) Kode barang
+Kode barang yang dibuat oleh penerima fasilitas kawasan
+berikat (KB) untuk setiap jenis barang yang berbeda. Kode
+barang ini menjadi salah satu elemen data utama untuk
+menelusuri keterkaitan dalam setiap proses mutasi barang.
+
+2) Nama barang
+Nama setiap jenis barang yang berbeda sesuai dengan kode
+barang, dapat dipahami secara jelas dan bukan merupakan
+singkatan atau penamaan yang hanya dipahami oleh
+internal penerima fasilitas kawasan berikat (KB). Nama
+barang ini menjadi salah satu elemen data utama untuk
+menelusuri keterkaitan dalam setiap proses mutasi barang.
+
+www.peraturan.go.id

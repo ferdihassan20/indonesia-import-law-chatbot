@@ -1,0 +1,296 @@
+Instruksi Pemrosesan Dokumen Peraturan/Undang-Undang Terkait Impor di Indonesia
+
+Di bawah ini merupakan hasil ekstraksi teks dari dokumen peraturan dan/atau undang-undang terkait impor di Indonesia. Hasil ekstraksi ini mungkin mengandung:
+1. Simbol atau karakter asing yang tidak relevan dan perlu dihapus.
+2. Kesalahan ejaan yang perlu diperbaiki agar sesuai dengan ejaan yang benar dalam bahasa Indonesia.
+3. Susunan kata atau kalimat yang tidak sesuai urutan, sehingga perlu disusun kembali agar mudah dipahami dan sesuai dengan struktur aslinya.
+4. Tabel yang harus diubah menjadi teks deskriptif tanpa menghilangkan informasi penting.
+
+Tugas Anda:
+1. Membersihkan dan merapikan teks agar dapat dipahami dengan baik serta mengikuti sistematika baku dalam peraturan perundang-undangan Indonesia.
+2. Menjaga struktur asli dokumen agar tetap utuh dan berurutan, yaitu:
+   - Pembukaan: "Dengan Rahmat Tuhan Yang Maha Esa" harus selalu berada di bagian awal dokumen.
+   - "Menimbang" harus berada setelah pembukaan, tanpa berpindah posisi atau bergabung dengan bagian lain.
+   - "Mengingat" harus berada setelah bagian "Menimbang" dan wajib memiliki indeks a, b, c, dan seterusnya. Jangan menghilangkan atau menggabungkan poin-poin di dalamnya.
+   - "Memutuskan" harus selalu diawali dengan kata "Menetapkan" yang tidak boleh dihapus atau diubah.
+   - Isi pasal-pasal harus tetap terstruktur sesuai format aslinya.
+   - Penutup harus tetap utuh, mencakup tanggal penetapan, nama pejabat, serta berita negara (jika ada).
+3. Jika Anda menemukan bagian yang menyerupai tabel, ubah menjadi teks deskriptif dengan format berikut:
+   - Setiap baris tabel harus dikonversi menjadi kalimat yang jelas dan mengikuti hierarki informasi yang logis.
+   - Jika tabel memiliki kategori utama dan subkategori, gunakan format daftar bullet points untuk menunjukkan hubungan antar kategori.
+   - Nama kolom harus dijadikan referensi dalam penyusunan kalimat.
+   - Tarif bea masuk harus disebutkan secara eksplisit di akhir setiap poin.
+
+Contoh konversi dari tabel ke teks deskriptif:
+
+Tabel Input (OCR):
+| POS/SUB POS NO. | HEADING/URAIAN BARANG | DESKRIPSI BARANG | TARIF BEA MASUK |
+|-----------------|----------------------|------------------|----------------|
+| 09.01          | Kopi, digongseng atau dihilangkan kafeinnya maupun tidak | Coffee, whether or not roasted or decaffeinated |   |
+| - Kopi, digongseng: | - Coffee, roasted: | |  |
+| 0901.21 | Tidak dihilangkan kafeinnya: | - Not decaffeinated: | 20% |
+| 0901.21.10.00 | Tidak ditumbuk | Unground | 20% |
+| 0901.21.20.00 | Ditumbuk | Ground | 20% |
+
+Output Deskriptif yang Benar:
+- Kopi (HS Code: 09.01) termasuk kopi yang digongseng atau dihilangkan kafeinnya.
+- Kopi yang digongseng dan tidak dihilangkan kafeinnya dikenakan tarif bea masuk sebesar 20%, dengan rincian:
+  - Kopi yang tidak ditumbuk dikenakan tarif 20%.
+  - Kopi yang ditumbuk dikenakan tarif 20%.
+- Kopi yang digongseng dan telah dihilangkan kafeinnya juga dikenakan tarif bea masuk sebesar 20%, dengan rincian:
+  - Kopi yang tidak ditumbuk dikenakan tarif 20%.
+  - Kopi yang ditumbuk dikenakan tarif 20%.
+
+Penting:
+- Jangan mengubah urutan atau struktur bagian dalam dokumen. Jika bagian "Menimbang" dan "Mengingat" ditemukan dalam posisi yang salah, pindahkan ke posisi yang benar.
+- Pastikan semua poin dalam "Mengingat" lengkap dan memiliki indeks a, b, c, dst. Jangan menggabungkan atau menghapus poin.
+- Jangan menghapus atau mengubah kata "Menetapkan" pada bagian "Memutuskan".
+- Pastikan format tetap jelas dan tidak ada informasi yang terbuang.
+- Gabungkan hasil cleaning ke dalam satu file, tidak perlu pemisahan antara teks biasa dan tabel.
+- Selesaikan sampai akhir dokumen, tidak perlu memotong atau membuang bagian mana pun dari dokumen maupun memberi output seperti "(dan seterusnya untuk item lainnya)".
+- Jangan memberikan keterangan bahwa dokumen telah dibersihkan.
+- Pastikan tidak ada format teks yang berantakan terutama jika mengandung barisan karakter seperti '--' atau '|'
+
+Hasil yang Diharapkan:
+Dokumen yang telah diperbaiki harus memiliki struktur yang lengkap, rapi, tidak ada bagian yang hilang, serta tabel yang dikonversi ke dalam teks deskriptif tanpa kehilangan informasi.
+
+No.3, 2020
+
+BERITA NEGARA
+
+REPUBLIK INDONESIA
+
+KEMENKEU. Bea Masuk. Tindakan Pengamanan.
+Impor Produk Evaporator. Pengenaan.
+
+PERATURAN MENTERI KEUANGAN REPUBLIK INDONESIA
+
+NOMOR 1/PMK.010/2020
+TENTANG
+
+PENGENAAN BEA MASUK TINDAKAN PENGAMANAN TERHADAP IMPOR
+PRODUK EVAPORATOR TIPE ROLL BOND DAN TIPE FIN
+
+Menimbang
+
+DENGAN RAHMAT TUHAN YANG MAHA ESA
+
+MENTERI KEUANGAN REPUBLIK INDONESIA,
+
+a. bahwa berdasarkan ketentuan Pasal 70 Peraturan Pemerintah Nomor 34 Tahun 2011 tentang Tindakan Antidumping, Tindakan Imbalan, dan Tindakan Pengamanan Perdagangan, terhadap barang impor selain dikenakan bea masuk dapat dikenakan Tindakan Pengamanan berupa pengenaan Bea Masuk Tindakan Pengamanan;
+
+b. bahwa sesuai dengan hasil penyelidikan Komite Pengamanan Perdagangan Indonesia terdapat ancaman kerugian serius yang dialami industri dalam negeri akibat dari lonjakan jumlah impor produk evaporator tipe roll bond dan tipe fin;
+
+c. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a dan huruf b, serta untuk melaksanakan ketentuan Pasal 23D ayat (2) Undang-Undang Nomor 17 Tahun 2006 tentang Perubahan atas Undang-Undang Nomor 10 Tahun 1995 tentang Kepabeanan, perlu menetapkan Peraturan Menteri Keuangan tentang Pengenaan Bea Masuk Tindakan Pengamanan terhadap Impor Produk Evaporator Tipe Roll Bond dan Tipe Fin;
+
+Mengingat
+
+a. Undang-Undang Nomor 7 Tahun 1994 tentang Pengesahan Agreement Establishing the World Trade Organization (Persetujuan Pembentukan Organisasi Perdagangan Dunia) (Lembaran Negara Republik Indonesia Tahun 1994 Nomor 57, Tambahan Lembaran Negara Republik Indonesia Nomor 3564);
+
+b. Undang-Undang Nomor 10 Tahun 1995 tentang Kepabeanan (Lembaran Negara Republik Indonesia Tahun 1995 Nomor 75, Tambahan Lembaran Negara Republik Indonesia Nomor 3612) sebagaimana telah diubah dengan Undang-Undang Nomor 17 Tahun 2006 tentang Perubahan atas Undang-Undang Nomor 10 Tahun 1995 tentang Kepabeanan (Lembaran Negara Republik Indonesia Tahun 2006 Nomor 93, Tambahan Lembaran Negara Republik Indonesia Nomor 4661);
+
+c. Peraturan Pemerintah Nomor 34 Tahun 2011 tentang Tindakan Antidumping, Tindakan Imbalan, dan Tindakan Pengamanan Perdagangan (Lembaran Negara Republik Indonesia Tahun 2011 Nomor 66, Tambahan Lembaran Negara Republik Indonesia Nomor 5225);
+
+MEMUTUSKAN:
+
+Menetapkan: PERATURAN MENTERI KEUANGAN TENTANG PENGENAAN BEA MASUK TINDAKAN PENGAMANAN TERHADAP IMPOR PRODUK EVAPORATOR TIPE ROLL BOND DAN TIPE FIN.
+
+Pasal 1
+
+Terhadap barang impor berupa evaporator:
+
+a. tipe roll bond; dan
+b. tipe fin,
+
+yang merupakan bagian dari lemari pendingin, lemari pembeku, dan perlengkapan pendingin atau pembeku lainnya, yang termasuk dalam pos tarif ex. 8418.99.10, dikenakan Bea Masuk Tindakan Pengamanan.
+
+Pasal 2
+
+Bea Masuk Tindakan Pengamanan sebagaimana dimaksud dalam Pasal 1 dikenakan selama 3 (tiga) tahun dengan ketentuan sebagai berikut:
+
+- Tahun Pertama, dengan periode 1 (satu) tahun terhitung sejak tanggal berlakunya Peraturan Menteri ini.
+- Tahun Kedua, dengan periode 1 (satu) tahun terhitung setelah tanggal berakhirnya Tahun Pertama, dikenakan tarif sebesar 15,5%.
+- Tahun Ketiga, dengan periode 1 (satu) tahun terhitung setelah tanggal berakhirnya Tahun Kedua.
+
+Pasal 3
+
+Bea Masuk Tindakan Pengamanan sebagaimana dimaksud dalam Pasal 1 dikenakan terhadap importasi dari semua negara, kecuali terhadap produk evaporator tipe roll bond dan tipe fin yang diproduksi dari negara yang tercantum dalam Lampiran yang merupakan bagian yang tidak terpisahkan dari Peraturan Menteri ini.
+
+Pasal 4
+
+(1) Pengenaan Bea Masuk Tindakan Pengamanan sebagaimana dimaksud dalam Pasal 1 merupakan:
+
+a. tambahan bea masuk umum (Most Favoured Nation); atau
+b. tambahan bea masuk preferensi berdasarkan skema perjanjian perdagangan barang internasional yang berlaku, dalam hal impor dilakukan dari negara yang termasuk dalam skema perjanjian perdagangan barang internasional dimaksud dan memenuhi ketentuan dalam skema perjanjian perdagangan barang internasional.
+
+(2) Dalam hal ketentuan dalam skema perjanjian perdagangan barang internasional tidak terpenuhi, pengenaan Bea Masuk Tindakan Pengamanan atas importasi dari negara yang termasuk dalam skema perjanjian perdagangan barang internasional sebagaimana dimaksud pada ayat (1) huruf b merupakan tambahan bea masuk umum (Most Favoured Nation).
+
+Pasal 5
+
+Terhadap impor produk evaporator tipe roll bond dan tipe fin yang berasal dari negara yang dikecualikan dari pengenaan Bea Masuk Tindakan Pengamanan sebagaimana dimaksud dalam Pasal 3 dan negara yang memiliki kerja sama perdagangan dengan Indonesia sebagaimana dimaksud dalam Pasal 4 ayat (1) huruf b, importir wajib menyerahkan dokumen Surat Keterangan Asal (Certificate of Origin).
+
+Pasal 6
+
+Besaran Bea Masuk Tindakan Pengamanan sebagaimana dimaksud dalam Pasal 2 berlaku sepenuhnya terhadap barang impor sebagaimana dimaksud dalam Pasal 1 yang dokumen pemberitahuan pabean impornya telah mendapat nomor pendaftaran dari Kantor Pabean tempat pemasukan atau Kantor Pabean yang mengawasi sejak tanggal berlakunya Peraturan Menteri ini.
+
+Pasal 7
+
+(1) Peraturan Menteri ini berlaku selama 3 (tiga) tahun terhitung sejak berlakunya Peraturan Menteri ini.
+(2) Peraturan Menteri ini mulai berlaku setelah 5 (lima) hari terhitung sejak tanggal diundangkan. Agar setiap orang mengetahuinya, memerintahkan pengundangan Peraturan Menteri ini dengan penempatannya dalam Berita Negara Republik Indonesia.
+
+Ditetapkan di Jakarta pada tanggal 3 Januari 2020
+
+MENTERI KEUANGAN REPUBLIK INDONESIA,
+
+ttd.
+
+SRI MULYANI INDRAWATI
+
+Diundangkan di Jakarta pada tanggal 6 Januari 2020
+
+DIREKTUR JENDERAL PERATURAN PERUNDANG-UNDANGAN KEMENTERIAN HUKUM DAN HAK ASASI MANUSIA REPUBLIK INDONESIA,
+
+ttd.
+
+WIDODO EKATJAHJANA
+
+LAMPIRAN
+
+PERATURAN MENTERI KEUANGAN REPUBLIK INDONESIA NOMOR 1/PMK.010/2020
+
+TENTANG
+
+PENGENAAN BEA MASUK TINDAKAN PENGAMANAN TERHADAP IMPOR PRODUK EVAPORATOR TIPE ROLL BOND DAN TIPE FIN
+
+DAFTAR NEGARA YANG DIKECUALIKAN DARI PENGENAAN BEA MASUK TINDAKAN PENGAMANAN TERHADAP IMPOR PRODUK EVAPORATOR TIPE ROLL BOND DAN TIPE FIN
+
+1. Afghanistan
+2. Albania
+3. Angola
+4. Antigua dan Barbuda
+5. Argentina
+6. Armenia
+7. Bahrain, Kerajaan
+8. Bangladesh
+9. Barbados
+10. Belize
+11. Benin
+12. Bolivia, Negara Plurinational
+13. Botswana
+14. Brasil
+15. Brunei Darussalam
+16. Burkina Faso
+17. Burundi
+18. Cabo Verde
+19. Kamboja
+20. Kamerun
+21. Republik Afrika Tengah
+22. Chad
+23. Chili
+24. Kolombia
+25. Kongo
+26. Kosta Rika
+27. Pantai Gading
+28. Kuba
+29. Republik Demokratik Kongo
+30. Djibouti
+31. Dominika
+32. Republik Dominika
+33. Ekuador
+34. Mesir
+35. El Salvador
+36. Fiji
+37. Gabon
+38. Gambia
+39. Georgia
+40. Ghana
+41. Grenada
+42. Guatemala
+43. Guinea
+44. Guinea-Bissau
+45. Guyana
+46. Haiti
+47. Honduras
+48. Hong Kong, China
+49. India
+50. Israel
+51. Jamaika
+52. Yordania
+53. Kazakstan
+54. Kenya
+55. Korea, Republik
+56. Kuwait, Negara
+57. Republik Kirgiz
+58. Republik Demokratik Rakyat Laos
+59. Lesotho
+60. Liberia
+61. Liechtenstein
+62. Makau, China
+63. Madagaskar
+64. Malawi
+65. Malaysia
+66. Maladewa
+67. Mali
+68. Mauritania
+69. Mauritius
+70. Meksiko
+71. Moldova, Republik
+72. Mongolia
+73. Montenegro
+74. Maroko
+75. Mozambik
+76. Myanmar
+77. Namibia
+78. Nepal
+79. Nikaragua
+80. Niger
+81. Nigeria
+82. Oman
+83. Pakistan
+84. Panama
+85. Papua Nugini
+86. Paraguay
+87. Peru
+88. Filipina
+89. Qatar
+90. Federasi Rusia
+91. Rwanda
+92. Saint Kitts dan Nevis
+93. Saint Lucia
+94. Saint Vincent dan Grenadines
+95. Liberia
+96. Arab Saudi, Kerajaan
+97. Senegal
+98. Seychelles
+99. Sierra Leone
+100. Singapura
+101. Kepulauan Solomon
+102. Afrika Selatan
+103. Sri Lanka
+104. Suriname
+105. Swaziland
+106. Taipei, Tiongkok
+107. Tajikistan
+108. Tanzania
+109. Republik Makedonia yang dulu Yugoslavia (FYROM)
+110. Togo
+111. Tonga
+112. Trinidad dan Tobago
+113. Tunisia
+114. Turki
+115. Uganda
+116. Ukraina
+117. Uni Emirat Arab
+118. Uruguay
+119. Vanuatu
+120. Venezuela, Republik Bolivarian
+121. Vietnam
+122. Yaman
+123. Zambia
+124. Zimbabwe
+
+MENTERI KEUANGAN REPUBLIK INDONESIA,
+
+ttd.
+
+SRI MULYANI INDRAWATI

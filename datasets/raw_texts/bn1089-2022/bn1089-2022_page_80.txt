@@ -1,0 +1,45 @@
+2022, No.1089 -80-
+
+PETUNJUK PENGISIAN
+
+Nomor (1) : diisi nomor surat perusahaan.
+
+Nomor (2) : diisi tanggal surat perusahaan,
+
+Nomor (3) : diisi jumlah lampiran dokumen pendukung.
+
+Nomor (4) : diisi nama Kantor Wilayah Direktorat Jenderal Bea dan Cukai/
+Kantor Pelayanan Utama Bea dan Cukai yang menerbitkan
+Keputusan Menteri mengenai penetapan sebagai Perusahaan
+KITE Pembebasan.
+
+Nomor (5) : diisi alamat Kantor Wilayah Direktorat Jenderal Bea dan Cukai/
+Kantor Pelayanan Utama Bea dan Cukai yang menerbitkan
+Keputusan Menteri mengenai penetapan sebagai Perusahaan
+KITE Pembebasan.
+
+Nomor (6) : diisi nama perusahaan
+
+Nomor (7) ; diisi nomor Keputusan Menteri mengenai penetapan sebagai
+Perusahaan KITE Pembebasan.
+
+Nomor (8) : diisi nama lokasi pembongkaran atau penyimpanan seperti
+nama perusahaan pergudangan, nama komplek pergudangan,
+atau nama tempat penyimpanan.
+
+Nomor (9) : diisi alamat lengkap tempat pembongkaran/penyimpanan.
+
+Nomor (10) : diisi jenis dan uraian lengkap barang yang akan dibongkar/
+disimpan.
+
+Nomor (11) : diisi jumlah barang yang akan dibongkar atau disimpan.
+
+Nomor (12): diisi nomor dan tanggal Dokumen Pabean serta Packing List.
+
+Nomor (13); diisi perkiraan tanggal pembongkaran atau penyimpanan.
+
+Nomor (14) : diisi nama lengkap yang menandatangani surat permohonan.
+
+Nomor (15) ; diisi jabatan yang menandatangani surat permohonan.
+
+www.peraturan.go.id

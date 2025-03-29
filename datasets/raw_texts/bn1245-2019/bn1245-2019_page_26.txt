@@ -1,0 +1,65 @@
+2019, No. 1245 26
+
+a a ———> oon
+
+flo
+
+i ni
+
+jex 8471.70.40 |- - Optical disk drive, termasuk CD-ROM drive, DVD drive
+
+~ Kelas A: Kapasitas kurang dari 70
+GB dan Putaran Kurang dari 5.000
+‘pm,
+
+- Kelas B: Kapasitas 70-500 GB dan
+Putaran Kurang dari 5000-10.000
+rpm,
+~ Kelas C: Kapasitas lebih dari 500 GB
+dan Putaran lebih dari 10.000 rpm.
+
+~ Kelas A kapasitas di bawah 100 GB,
+}Otomasi Manual,
+
+~ Kelas B kapasitas 100 - 500 GB,
+‘Otomasi autoloader,
+
+- Kelas C kapasitas di atas 500GB,
+
+- USB, System Storage
+~ High performance Storage, Dual
+active RAID controllers (4 to 8 Gbps)
+
+‘Mesin kantor lainnya (misalnys, hektograf atau mesin
+duplikasi stensil, mesin pencetak alamat, mesin
+penyedia uang kertas otomatis, mesin penyortir koin,
+mesin penghitung atau pembungkus koin, mesin
+peruncing pensil, mesin pembuat lubang stau mesin
+
+| 152 18472.90.10___|--Automatictellermachine 000
+
+| —[ea73.30 | Bagian dan aksenor dan menin pada pos@a7 SS
+
+- Kelas input voltage A: di bawah 0.5
+iV,
+
+ex 8473.30.10 ]- - Printed circuit board yang dirakit
+~ Kelas input voltage B: 0.5 V sampai
+
+dengan 3 V,
+~ Kelas input voltage C: di atas 3 V.
+(Comp Part Others, Part Printer Shaft,
+Heatsink, Sensing Device, Hinge,
+(Cover, Frame, Bracket, Hub, Shutter,
+Rack, Roller, Wheel Back Plan Rail,
+Enclosure, Bezel, Sock, Housing
+
+jex 8473.30.90
+- Kelas fungsional B: komponen
+~ Kelas fungsional C: komponen
+
+~ Kelas fungsional A: aksesori,
+penutup,
+penunjang operasi.
+
+www.peraturan.go.id

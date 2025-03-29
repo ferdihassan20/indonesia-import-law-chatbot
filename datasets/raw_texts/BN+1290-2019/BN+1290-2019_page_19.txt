@@ -1,0 +1,86 @@
+19- 2019, No. 1290
+
+Pos .
+rarity i
+
+- Mengandung wol atau bulu hewan halus 85 % atau
+lebih menurut beratnya :
+
+5112.11.00 | - - Dengan berat tidak melebihi 200 g/m?
+5112.19
+
+15
+
+5112.19.10 | - -- Dicetak dengan proses batik tradisional
+5112.19.90
+
+5112.20.00 |. Lain-Lain, dicampur terutama atau semata-mata dengan
+filamen buatan
+
+5112.30.00 - Lain-lain, dicampur terutama atau semata-mata dengan
+serat stapel buatan
+
+5112.90.00 - Lain-lain
+
+21  |5113.00.00 | Kain tenunan dari bulu hewan kasar atau bulu kuda.
+Kain tenunan dari kapas, mengandung kapas 85 %
+atau lebih menurut beratnya, beratnya tidak lebih 200
+g/m?.
+
+- Tidak dikelantang :
+
+22 |5208.11.00 | -- Tenunan polos, beratnya tidak lebih dari 100 g/m?
+
+23 | 5208.12.00 | --Tenunan polos, beratnya lebih dari 100 g/m?
+
+24 5208.13.00 ar 3-benang atau 4-benang, termasuk kepar silang
+25 5208.19.00
+
+17
+
+~
+=)
+
+28 | 5208.23.00 | -- Kepar 3-benang atau 4-benang, termasuk kepar silang
+5208.29.00
+
+29
+
+26 | 5208.21.00 | -- Tenunan polos, beratnya tidak lebih dari 100 g/m?
+27 | 5208.22.00 | --Tenunan polos, beratnya lebih dari 100 g/m?
+
+5208.31 - - Tenunan polos, beratnya tidak lebih dari 100 g/m?
+3208.31.10
+31 [5208.31.90
+
+32 |5208.32.00 | --Tenunan polos, beratnya lebih dari 100 g/m?
+5208.33.00 _| - - Kepar 3-benang - g, epar silang
+
+34 | 5208.39.00 | - - Kain lainnya
+
+pt} 5208.99 00 - Dari benang aneka warna :
+
+Le - - Tenunan polos, beratnya tidak lebih dari 100 g/m? :
+35 | 5208.41.10 | - -- Tenun ikat
+
+5208.41.90
+
+30
+
+20
+Lo
+=
+P24 |
+| 25 |
+|
+| 26 _ |
+| 27_|
+| 28 |
+| 29 |
+|
+||
+| 30 |
+zm
+| 32_|
+
+www.peraturan.go.id

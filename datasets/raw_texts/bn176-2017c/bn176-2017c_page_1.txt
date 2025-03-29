@@ -1,0 +1,385 @@
+4931
+4932
+4933,
+4934
+4935,
+4936
+4937
+4938
+
+4939
+
+4940
+4941
+4942
+4943
+4944
+4945
+
+4946
+
+4938
+
+4949
+
+4950
+
+4951
+4952
+
+4953
+
+4954
+4955
+
+4956
+4957
+
+4958
+4959
+
+4960
+4961
+
+4962
+4903
+4904
+4965
+
+4966
+
+4968
+4969
+4970
+
+9971
+
+-321-
+
+2017, No.176
+
+(2)
+S801-21.10
+
+5801.21.90
+$801.22
+5801.22.10
+
+5801.22.90
+3801.23
+5801.23.10
+
+5801.23.90
+5801.26
+5801.26.10
+
+5801.26.90
+5801.27
+5801.27.10
+
+15801.27.90
+
+5801.31
+5801.31.10
+
+5801.31.90
+[5801.32
+5801.32.10
+
+5801.32.90
+5801.33
+[5801.33.10
+
+5801.33.90
+5801.36
+5801.36.10
+
+5801.36.90
+5801.37
+1801.37.10
+
+5801.37.90
+5801.90
+
+[5801.90.11
+5801.90.19
+5801.90.91
+
+5801.90.99
+58,02
+
+5802.11.00
+5802.19.00
+5802.20
+
+5802.20.10
+5802.20.90
+5802.30
+
+5802.30.10
+5802.30.20
+
+$802.30.30
+$802.30.90
+58.03
+
+5803.00.10
+
+5803.00.20
+5803.00.30
+5803.00.90
+58.04
+
+5804.10
+
+5804.10.11
+5804.10.19
+5804.10.21
+5804.10.29
+5804.10.91
+|580+.
+
+9
+
+-~- Diresapi, dilapisi, ditutupi atay dilaminasi
+
+Lain-lain
+- Kain corduroy dipotong :
+}- ~~ Diresapi, dilapisi, ditutupi atau dilaminasi
+
+Lain-tain
+bulu pakan lainnya :
+Diresapi, dilapisi, ditutupi atau dilaminasi
+
+Lain-lain
+Kain chenille :
+Diresapi, dilapisi, ditutupi atau dilaminast
+
+Direspi, dilapisi, ditatupl atau diaminasi
+
+<= Lain-lain
+- Dari serai buatan :
+
+in bulu pakan tidak dipotong :
+Diresapi, dilapisi, ditutupi atau dilaminasi
+
+~ = Lain-lain
+Kain corduroy dipotong
+Diresapi, dilapisi, ditutupi atau ditaminast
+
+Lain-tain
+in bul pakan lainnya :
+~~ Diresmpi, dilapisi, ditutupi atau dilaminast
+
+>= Lain-lain
+Kain chenille ;
+- += Diresapi, dilapisi, ditatupi atau dilaminasi
+
+~~ - Lain-lain
+Kain bulu lusi
+> Diresapi, dilapisi, ditutup! atay dilaminast
+
+- Lain-lain
+- Dari bahan tekstil lainnya :
+-- Dari sutra
+
++ Direspi, dilapisi, ditutupl atau dilaminast
+
+- Lain-tain
+Lain-lain :
+- Diresapi, dilapisi, ditutupi atau dilaminasi
+
+-- - Lain-tain
+[Terzy toweling dan kain tenunan terry semacam itu,
+lselain kain pita dari pos 58.06; kain tekstil berumbai,
+jselain produk dari pos 57.03.
+
+- Terry toweling dan kain tenunan terry semacam itu, dari
+lkapas :
+
++» Tidak dikelantang
+
+Lain-lain
+
+- Terry towelling dan kain tenunan terry semacam itu, dari
+bahan tekstil lainnya :
+
+Dari wol atau bulu bewan halus
+
+Lain-lain
+
+ilapisi atau ditutup!
+Tenunan, dari kapas atau serat buatan
+
+--Tenunan, dari bahan lain
+- = Litiet-kain
+Kasa, selain kain pita dari pos 58.06.
+
+~ Dari kapas
+- Dari serat buatan
+- Dari wol atau bulu hewan balus
+
+Lain-lain
+Kain tule dan kain jaring Ininnya, tidak termasuk kain
+tenunan, rajutan atau kaitan; renda dalam lembaran,
+istrip atau motif, selain kain dari pos 60.02 sampai
+dengan 60.06,
+
+- Kain (ule dan kain jaring lainnya :
+Dari sutra :
+~~~ Diresapi, dilapisi, ditutup! atau dilaminasi
+
+--- Lain-lain
+- Diresapi, dilapisi, ditutupi atau dilaminasi
+
++ Lain-lain
+Lain-lain :
+~ Diresapi, dilapisi, ditutupi atau dilaminasi
+
+++ Lain-lain
+Renda dibuat secara mekanik :
+
+"~~ Impregnated, coated, covered oF
+laminated
+--= Other
+- - Cut corduroy =
++ impregnated, coated, covered or
+laminated
+= Other
+
++ - Other welt pile fabrics
+impregnated, coated, covered or
+aminated
+= Other
+-- Chenille fabries :
+|. - - impregnated, conted, covered or
+laminated
+--- Other
+~ = Warp pile fabrics :
+Impregnated, coated, covered or
+laminated
++= = Other
+- Of man-made fibres :
+-- Uncut weft pile fabrics =
+impregnated, conted, coverod or
+laminated
+
+Other
+|. - Cut corduroy +
+- « - Impregnated, coated, covered or
+laminated
++= - Other
++ - Other welt pile fabrics :
+
+Impregnated, coated, covered or
+laminated
+- - Chenille fabries
+impregnated, coated, covered or
+iaminated
+} - - Other
+|. - Warp pile fabrics =
+
+Impregnated, coated, covered or
+laminated
+| - - Other
++ Of other textile materials +
+~~ OF sili :
+
+impregnated, coated, covered or
+laininated
+|- - - Other
+impregnated, coated, covered or
+laminated
+~-- Other
+‘Terry towelling and similar woven terry
+fabrics, other than narrow fabrics of
+heading 58.06; tufted textile fabrics,
+other than products of heading 57.03.
+
+- Terry towelling and similar woven terry
+
+fabrics, of cotton ;
+
+* Unbleached
+
+- Other
+
+- Terry towelling and similar woven terry
+
+fabrics, of other textile materials :
+
+~~ Of wool or fine animal hair
+
++Other
+
++ Tulted textile fabri
++ Impregnateri, coated or covered
+
++ Woven, of cotton or of man-made fibres
+
+-- Woven, of other materiats
+~+ Other
+
+Gauze, other than narrow fabrics of
+heading 58.06,
+
+}- Of cotton
+
+}- Of man-made fibres
+
+- Of woo! oF fine animal hair
+
+| Other
+
+|than fabrics of headings 60.02 to 60.06.
+
+~ Tulles and other net fabrics =
+OF silk :
+|- - - Impregnated, coated, covered or
+fiaminated
+Other
+Of cotton :
+Impregnated, coated, covered or
+laminated
+
+Haminated
+- - - Other
+|: Mechanically made lace
+
+/Tulles and other net fabrics, not including
+woven, knitted or crocheted fabrics; lace
+iin the piece, in strips or in motifs, other
+
+10,0%
+
+10,0%
+10,0%
+
+10,0%
+
+10,0%
+15,0%
+
+15,0%
+15,0%
+
+10,0%
+10,0%
+
+10,0%
+10,0%
+
+10,0%
+10,0%
+10,0%
+10,0%
+
+10,0%
+10,0%
+10,0%
+10,0%
+10,0%
+
+10,0%
+
+www.peraturan.go.id

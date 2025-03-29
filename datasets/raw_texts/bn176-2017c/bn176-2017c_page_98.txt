@@ -1,0 +1,426 @@
+2017, No.176
+
+8532
+8533
+
+8534
+8535
+
+8536
+
+8537
+8538
+
+8539
+8540
+
+8541
+
+8592
+
+8543
+
+8544
+8545
+
+8546
+
+8547
+
+8548
+
+8549
+
+8550
+
+8551
+
+8552
+
+8553
+
+8554
+
+8561
+8562
+
+8563
+
+8504
+
+8565
+8506
+
+8507
+8508
+
+-418-
+
+[511.20
+
+8511.20.10
+
+8511.20.21
+8511.20.29
+
+9511.20.91
+8511.20.99
+
+8511.30
+8511.30.30
+
+8511.30.41
+8511.30.49
+
+8511.30.91
+8511.30.00
+8511.40
+
+18511,40.10
+
+8511.40.21
+
+8511.40.29
+
+8511.40.31
+8511.40.32
+
+[8511.40.33
+
+8511.40.91
+8511.40.99
+1851.50
+
+8511.50.10
+8511.50.21
+
+8511.50.29
+
+8511.50.31
+
+8511.50.52
+
+8511.50.33
+
+8511.50.91
+8511.50.99
+8511.80
+
+8511.80.10
+8511.80.20
+8511.80.90
+8511.90
+
+8511.90.10
+8511.90.20
+
+8511.90.90
+85.12
+
+8512.10.00
+
+8512.20
+
+8512.20.20
+
+8512.20.91
+8512.20.90
+8512.30
+
+8512.30.10
+8512.30.20
+
+(3)
+> Magnet penyala; magnet dinamo; roda gaya magnetis =
+
+- - Pari jenis yang cocok untuk mesin kendaraan udara
+- - Dari jenis yang cocok untuk mesin kendaraan bermotor
+
+- Tidak dirakit
+~ Lain-lain
+= = Lien:
++= Tidak dirakit
++ Lain-lain
+- Distributor; koil penyala :
+~~ Dari jenis yang cocok untuk mesin kendaraan udara
+
+- - Dari jenis yang cocok untuk mesin kendaraan bermotor
++ + = Tidak dirakit
+
+- Lain-lain
+
+Lain-lain ;
+
+- Tidak dirakit
+
+- Lain-lain
+
+- Starter motor dan starter-generator dua fungsi :
+
+- = Dari jenis yang digunakan untuk mesin kendaraan
+udara
+~ + Starter motor tidak dirakit lainnya
+
++ Untuk mesin kendaraan dari pos 87.02, 87.03, 87.04
+atau 87.05
+
+>=» Lain-tain
+
+- - Motor starter vang telah dirakit untuk mesin kendaraan
+[dari pos 87.01 sampai dengan 87.05 :
+
+- ~~ Untuk mesin kendaraan dari pos 87.01
+
+|. - Untuk mesin kendaraan dari pos 87.02, 87.03 atau
+187.04
+~ > Untuk mesin kendaraan dari pos 87.05
+- = Lain-tain ;
++ - Untuk mesin kendanaan dari pos 87.02, 87.03, 87.04
+atau 87.05
+==» Laienlain
+- Generator lainnya :
+~~ Dari jenis yang digunakan untuk mesin kendaraan
+judara
+- - Alternator tidak dirakit fainnya :
+
+-- Untuk mesin kendaraan dari pos 87.02, 87.03, 87.04
+1 87.05
+~ Lain-lain
+- - Alternator yang telah dirakit untuk mesin kendaraan
+[dari pos 87.01 sampai dengan 87.05:
+-- - Untuk mesin kendaraan dari pos 87.01
+
+|. - - Untuk mesin kendaraan dari pos 87.02, 87.03 atau
+187.04
+-+- Untuk mesin kendaraan dari pos 87.05
+
+Lain-lain :
+
+~ Untuk mesin kendaraan dari pos 87.
+jataw 87.05
+
+= Lain-tain,
+
++ Perlengkapan lainnya :
+
+. - Dari jenis yang digunakan untuk mesin kendaraan
+ludtara
+
+- - Dari jenis yang cocok untuk mesin kendaraan bermotor
+
+, 87.03, 87.04
+
+. - Lain-lain
++ Bagian :
+
+-- Dari jenis yang digunakan untuk mesin kendaraan
+ludaca
+
+- - Dari jenis yang cocok untuk mesin kendaraan bermotor
+
+- Perlengkapan pencrangan atau periengkapan pemberi
+yarat visual dari jenis yang digunakan untuk sepeda
+roda dua
+- Pertengkapan penerangan atau periengkapan pemberl
+isyarat visual lainnya ;
+
+- Perlengkapan penerangan atau perlengkapan pemberi
+isynrat visual, tidak dirakit
+
+~ Lain-fain :
+--- Untuk sepeda motor
+
+~~ Lain-lain
+- Periengkapan pemberi isyarat suara :
+~~ Klakson dan sirene, dirakit
+-- Perlengkapan pemberi isyarat suara tidak dirakit
+
+J+ Lain-tain :
+
+Tignition magnetos, magnelo-dvnamos,
+magnetic flywheels
+++ Of a kind suitable for aircraft engines
+
+~- Of a kind suitable for motor vehicle
+engines ;
+
+Unassembled
+
+Other
+
+- Other =
+
+Unassembled
+
+Other
+
+~ Distributors: ignition coils :
+
+-- Of a kind suitable for aircraft engines
+
+- + Of a kind suitable for motor vehicle
+jengines ;
+
+Unassembled
+
+Other
+
+- Other :
+
+Unassembled
+
+Other
+
+~ Starter motors and dual purpose starter-
+generators :
+
+~ + Of a kind used for aircraft engines
+
++ Othef unassembled starter motors
+For engines of vehicles of heading 87.02,
+187.03, 87.04 or 87.05
+
+- Other
+-- Assembled staster motors for engines of
+vehicles of headings 87.01 to 87.05 =
++ ++ Por engines of vehicles of heading 87.01
+
+For engines of vehicles of heading 87.02,
+187.03 or 87.04
+~~ For engines of vehicles of heading 87.05
+
++ Other ;
+
+For engines of vehicles of heading 87.02,
+187.03, 87.03 or 87.05
+
+- + = Other
+
+|- Other generators ;
+
+~- Of a kind used for aircraft engines
+
++ Other unassembled alternators :
+For engines of vehicles of heading 87.02,
+187.03, 87.04 or 87.05
+
+Other
+
+- - Assembled alternators for engines of
+vehicles of headings 87,01 to 87.05 =
+
+- - - For engines of vehicles of heading 87.01
+
+|. - - For engines of vehicles of heading 87-02]
+187.03 or 87.04
+-~- For engines of vehicles of heading 87.05
+
+~ Other;
+
+For engines of vehicles of heading 87.02,
+187.03, 87.04 or 87.05
+
+- - - Other
+
+- Other equipment :
+
+~~ Of a kind used for aireraft engines
+
+- - Of a kind suitable for motor vehicles
+jengines
+
+> - Other
+
+- Parts :
+
+- - Of a kind used for aircraft engines
+
+Of a kind suitable for motor vehicles
+Jengines
+~~ Other
+Electrical lighting or signalling equipment
+[excluding articles of heading $5.39),
+windscreen wipers, defrosters and
+|demisters, of a kind used for cycles or
+jmotor vehicles.
+
+- Lighting or visual signalling equipment of a
+kine! used on bicycles
+
+- Other lighting or visual signalling
+Jequipment =
+
++ - Unassembled lighting or visual signalling
+equipment
+
+» + Other =
+
+~~~ For motorcycles
+
++= + Other
+- Sound signalling equipment :
+
+Horns and sirens, assembled
++ - Unassembled sound signatiing equipment
+
+_| = Other:
+
+5,0%
+
+5,0%
+5,0%
+
+5.0%
+5.0%
+
+5,0%
+5.0%
+
+5,0%
+5,0%
+
+0,0%
+
+5,0%
+
+50%
+
+10,0%
+10,0%
+
+10,0%
+
+5,0%
+5,0%
+
+0,0%
+
+5,0%
+
+5.0%
+
+10,0%
+10,0%.
+
+10,0%
+
+5,0%
+5.0%
+0,0%
+5.0%
+5.0%
+0.0%
+0,0%
+0,0%.
+
+5.0%
+
+5.0%
+
+50%
+5,0%
+
+5,0%
+5.0%
+
+www.peraturan.go.id

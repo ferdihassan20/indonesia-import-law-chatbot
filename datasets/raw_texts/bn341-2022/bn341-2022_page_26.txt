@@ -1,0 +1,82 @@
+2022, No. 341 -26-
+
+8703.60.73 - - - - Dengan kapasitas silinder melcbihi 1.500 ce tetapi tidak
+melebihi 1.800 ce
+
+8703.60.74 - - - - Dengan kapasitas silinder melebihi 1.800 ce tetapi tidak
+melebihi 2.000 cc
+
+8703.60.75 - - - - Dengan kapasitas silinder melcbihi 2.000 cc tetapi tidak
+melebihi 2.500 ce
+
+8703.60.76 ~ - - - Dengan kapasitas silinder melebihi 2.500 cc tetapi tidak
+melebihi 3.000 cc
+
+8703.60.77 ~--- Dengan kapasitas silinder melebihi 3.000 cc
+~ - - Mobil lainnya (termasuk station wagon dan mobil sport, tetapi
+tidak termasuk van}, bukan berpenggerak empat roda :
+
+8703.60.81 ~ - -- Dengan kapasitas silinder tidak melebihi 1.000 ce
+
+8703.60.82 - - - - Dengan kapasitas silinder melebihi 1.000 ce tetapi tidak
+melebihi 1.500 ce
+
+8703.60.83 - - - - Dengan kapasitas silinder melebihi 1.500 cc tetapi tidak
+melebihi 1.800 cc
+
+8703.60.84 - - - - Dengan kapasitas silinder melebihi 1.800 ce tetapi tidak
+melebihi 2.000 ce
+
+8703.60.85 - - - - Dengan kapasitas silinder melebihi 2.000 ce tetapi tidak
+melebihi 2.500 ce
+
+8703.60.86 - - - - Dengan kapasitas silinder melebihi 2.500 ce tetapi
+melebihi 3.000 cc
+
+8703.60.87 ~- Dengan kapasitas silinder melebihi 3.000 cc
+
+Lain-lain ;
+
+8703,60.91 - Dengan kapasitas silinder tidak melebihi 1.000 cc
+
+8703.60.92 - - - Dengan kapasitas silinder meicbihi 1.000 ce tetapi
+melebihi 1.500 cc
+
+8703.60.93 ~ - - - Dengan kapasitas silinder melebihi 1.500 ce tetapi
+melebihi 1.800 cc
+
+8703.60.94 - - - - Dengan kapasitas silinder meiebihi 1.800 cc tetapi
+melebihi 2.000 ce
+
+8703.60.95 - - - - Dengan kapasitas silinder melebihi 2.000 ce tetapi tidak
+melebihi 2.500 ce
+
+8703.60.96 - - - - Dengan kapasitas silinder melebihi 2.500 ce tetapi tidak
+melebihi 3.000 ce
+
+8703.60.97 ~- -- Dengan kapasitas silinder melebihi 3.000 cc, berpenggerak
+empat roda
+
+8703.60.98 - - - - Dengan kapasitas silinder meicbihi 3.000 cc, bukan
+berpenggerak empat roda
+
+8703.70 - Kendaraan lainnya, dengan kedua mesin piston pembakaran
+dalam nyala kompresi (diese! atau semi-diesel} dan motor listrik
+sebagai motor untuk penggerak, dapat diisi tenaganya dengan
+menghubungkannya ke sumber tenaga listrik eksternal :
+
+8703.70.31
+
+~-- All-Terrain Vehicles (ATV) :
+
+8703.70.32 ---- Dengan kapasitas silinder tidak melebihi 1.000 ce
+8703.70.33 ~ - ~~ Dengan kapasitas silinder melebihi 1.000 cc
+---Ambulan ;
+8703.70.34 ---- Dengan kapasitas silinder tidak melebihi 1.500 cc
+8703.70.35 - - - ~ Dengan kapasitas silinder melebihi 1.500 ce tetapi tidak
+melebihi 2.500 cc
+8703.70.36 ~ - -- Dengan kapasitas silinder melebihi 2.500 cc
+- - - Mobil jenazah -
+8703.70.41 ~-~-- Dengan kapasitas silinder tidak melebihi 1.000 cc
+
+www.peraturan.go.id

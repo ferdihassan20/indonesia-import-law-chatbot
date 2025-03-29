@@ -1,0 +1,102 @@
+2017, No.176
+
+-368-
+
+gooeaisig Uraian Barang Description of Goods
+4 3} 4)
+6734 -=>> Omer
+6735 == - Other
+~ Lain-lain : - Otber
+6736 |7606.91.00 _|-- Dari nluminium, bukan paduan ++ Of aluminium, not alloyed
+6737 7606.92.00 |-- Dari paduan aluminium - - Of aluminium alloys
+76.07 [Aluminium foil (dicetal atau diberi alas kertas, kertas Aluminium foil (whether or not printed or
+karton, plastik atau alas semacam itu maupun tidak) backed with paper, paperboard, plastics or
+dengan ketebalan (tidak termasuk alasaya) ti similar backing materials) of a thickness
+Imelebihi 0,2 mm. {excluding any backing) not exceeding 0,2
+mm.
+- Tidak diberi alas : - Not backed :
+6738 |7607.11.00 _ |- - Diguiung tetapi tidak dikerjakan lebih lanjut - - Rolled but not further worked 20,0%
+6739 |7607.19.00 Lain-Lain -- Other 10,0%
+7607.20 - biberi alas - Backed
+6740 [7607.20.10 |-- Foil untuk isolasi panas -- Thermal insulation foll 10.0%
+6741 |7607.20.90 |-- Lain-lain + - Other 10,0%
+76,08 \Pembuluh dan pipa aluminium. Aluminium tubes and pipes.
+6742 |7608.10.00 _ |- Dari aluminium, bukan paduan - Of aluminium, not alloyed 5,0%
+6743 |7608.20,.00 _|- Dari paduan aluminiu - Of aluminium alloys 5,0%
+6744 |7609.00.00 |Alat kelengkapan pembuluh atau pipa aluminium [Aluminium tube or pipe fittings (for 5,0%
+|(misalnya, penyambung, siku-siku, selongsong). ‘example, couplings, elbows, sleeves),
+76.10 [Struktur aluminium (tidak termasuk bangunan |Aluminium structures (excluding
+Iprapabrikasi dari pos 94.06) dan bagian dari struktur _[ prefabricated buildings of heading 94.06)
+|(misalnya, jembatan dan bagian jembatan, menara, jand parts of structures (for example,
+tiang kisi-kisi, atap, rangka atap, pintudan jondola _| bridges and bridge-sections, towers,
+|serta rangkanya dan ambang untuk pintu, langkan, lattice masts, roofs, roofing frameworks,
+pilar dan tlang); pelat, batang keeil, profil, pembuluh —_|doors and windows and their frames and
+dan scjenisnya dari aluminium, disiapkan untuk [thresholds for doors, balustrades, pillars
+‘keperluan struktur, land colamns); aluminium plates, rods,
+profiles, tubes and the like, prepared for
+huse in structures.
+7610.10 - Pinta, jendela dan rangkanya serta ambang untuk pintu : |- Doors, windows and their frames and
+thresholts for doors :
+6745 |7610.10.10 _|- - Pintu dan rangkanya serta ambang untuk pintu - - Doors and their frames and thresholds for| 20,0%
+[doors
+6746 |7610.10.90 _|-- Lain-tain Other 20,0%
+7610.90 } Lain-tain - Other :
+6747 {7610.90.30 _|-- Atap terapung bagian dalam atau bagian luar untuk —_|- - Internal or external floating roofs for 20,0%
+tangki peayimpanan petroleum petroleum storage tanks
+Lain-tain - = Other :
+6748 |7610.90.91 ~ Jembatan dan bagian jembatan; menara atau thang, - - > Bridges and bridge-sections; towers or 20,0%
+Kisi-Keist lattice masts
+6749 |7610.90.99 ~ Lain-tain Other 20,0%
+6750 |7611,00.00 |Reservoir, tangki, tong dan tempat penyimpanan Aluminium reservoirs, tanks, vats and 10,0%
+macam itu, dari aluminium, untule berbagal jenis ‘similar containers, for any material (other
+bahan (selain gas di bawah tekanan atau gas oair), than compressed or liquefied gas), of a
+dengan kapasitas melebihi 300 |, dilapis atau dilsolasi |oapacity exceeding 300 1, whether or not
+panas maupun tidak, tetapi tidal dilengkapi dengan _|lined or heat-insulated, but not fitted with
+perlengkapan mekantk atau termal, mechanical or thermal equipment.
+76.12 Tahang, drum, kaleng, kotsk den tempat penyimpanan |Aluminium casks, drums, cans, boxes and
+lsemacam itu dari aluminium (termasuk tempat simpan |similar containers (including rigid or
+tbentuk tabung kaicu atau dapat dilipat), untuk collapsible tubular containers), for any
+berbagai jenis bahan (sclain gas dibawah tekanan atan | material (other than compressed or
+‘gas cair}, dengan kapasitas tidak melebihi 300 1, dilapis |liquefied gas), of a capacity not exceeding
+atau difsolas! panas maupun tidak, tetapi tidak 3001, whether or not lined or heat-
+dilengkapi dengan perlengkapan mekantk atau termal. | insulated, but not fitted with mechanical
+jor thermal equipment,
+6751 |7612.10.00 _|- Tempat penyimpanan berbentuk tabung dapat dilipat —_|- Collapsible tubular containers 10,0%
+7612.90 - Lain-tain = }- Other :
+6752 |7612.90.10 _|- - Tempat penyimpanan tanpa kampuh yang cocok - - Seamless containers of a kind suitable for 10,0%
+digunakan untuk susu segar rest mille
+6753 |7612.90.90 |- - Lain-lain + - Other 10,0%
+6754 |7613.00.00 |Tempat penyimpanan dari aluminium untuk gas Aluminium containers for compressed or 10,0%
+dibawah tekanan atau gas eair. iquefied gas.
+76.14 Kawat pilin, kabel, ban anyaman dan sejenisnya, dari | Stranded wire, cables, plaited bands and
+‘sluminium, tidak diisolasi elektril. ‘the like, of alaminium, not electrically
+insulated.
+7614.10 - Dengan inti baja : ~ With steel core :
+Kabel : ~ Cables :
+6755 |7614.10.11 ~ Dengan diameter tidak melebihi 25,3 mm -- = Of a diameter not exceeding 25.3 mm 10,0%
+6756 |7614,10.12 _|--- Dengan diameter melebihi 25,3 mm tetapi tidak ~~ - Of a diameter exceeding 25.3 mm but 10,0%
+/melebihi 28,28 mm not exceeding 28.28 mm
+6757 |7614.10.19 _|-- - Lain-ta Other 10,0%
+6758 7614.10.90 |-- Lain-lain > = Other 10,0%
+7614.90 + Lainslain - Other :
+-~ Kabet : Cables :
+6759 }7614.90.11 _|-- - Dengan diameter tidak melebthi 25,3 mm }- -- Of a diameter not exceeding 25.3 mm 10,0%
+6760 |7614.90,12 Dengan diameter melebihi 25,3 mm tetapi tidak }- - - Of a diameter exceccing 25.3 mm but 10.0%
+i not exceeding 28.28 mm
+6761 |7614.90.19 --- Other 10.0%
+6762 |7614.90.90 -- Other 10,0%
+76.15 Barang untuk penggunaan di atas meja, di dapur atau | Table, kitchen or other household articles
+
+jperalatan rumah tangga Iainaya dan bagionnya, dari
+jaluminium; penggosok pot dan bantalan gosok atau
+|pemoles, sarung tangan dan sejenisnya, dari
+jaluminium; perangkat saniter dan bagiannya, dari
+Jaluminium.
+
+land parts thereof, of aluminium; pot
+‘scourers and scouring or polishing pads,
+gloves and the like, of aluminium;
+sanitary ware and parts thereof, of
+‘aluminium.
+
+www.peraturan.go.id

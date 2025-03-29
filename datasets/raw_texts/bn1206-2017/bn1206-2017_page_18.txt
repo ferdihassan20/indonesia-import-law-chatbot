@@ -1,0 +1,35 @@
+2017, No. 1206 -1g-
+
+No | Pos Tarif/HS Uraian Barang
+5211.52 - - Kepar 3-benang atau 4-benang, termasuk kepar silang :
+79 | 9211.52.10 - - - Dicetak dengan proses batik tradisional
+76 | 5211.52.90 - - - Lain-lain
+9211.59 - - Kain lainnya :
+77 | 3211.59.10 - - - Dicetak dengan proses batik tradisional
+78 | 3211.59.90 - - - Lain-lain
+52.12 Kain tenunan lainnya dari kapas.
+
+- Beratnya tidak lebih dari 200 g/m? :
+
+79 | 5212.11.00 - - Tidak dikelantang
+80 | 5212.12.00 - - Dikelantang
+81 | 9212.13.00 - - Dicelup
+82 | 5212.14.00 - - Dari benang aneka warna
+9212.15 - - Dicetak :
+83 5212.15.10 - - - Dicetak dengan proses batik tradisional
+84 | $212.15.90 - - - Lain-lain
+
+- Beratnya lebih dari 200 g/m? :
+
+85 | 9212.21.00 - - Tidak dikelantang
+86 | 5212.22.00 - - Dikelantang
+87 | 5212.23.00 - - Dicelup
+88 | 9212.24.00 - - Dari benang aneka warna
+9212.25 - - Dicetak :
+89 | 9212.25.10 - - - Dicetak dengan proses batik tradisional
+90 | 5212.25.90 - - - Lain-lain
+54.02 Benang filamen sintetik (selain benang jahit), tidak
+
+disiapkan untuk penjualan eceran, termasuk
+monofilamen sintetik yang kurang dari 67 desiteks.
+

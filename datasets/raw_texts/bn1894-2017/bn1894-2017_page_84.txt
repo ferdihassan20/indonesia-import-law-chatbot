@@ -1,0 +1,45 @@
+2017, No.1894 _g4-
+
+No Pos Tarif/HS Uraian Barang
+8527.19 - - Lain-lain:
+821. 8527.19.20 - - - Portabel
+822. 8527.19.90 - - - Lain-lain
+
+- Penerima siaran radio tidak dapat dioperasikan
+tanpa sumber tenaga dari luar, dari jenis yang
+digunakan dalam kendaraan bermotor:
+
+823. 8527.21.00 = Dikombinasikan dengan aparatus perekam atau
+pereproduksi suara
+
+824. 8527.29.00 - - Lain-lain
+- Lain-lain:
+
+- - Dikombinasikan dengan aparatus perekam atau
+
+8527.91 :
+pereproduksi suara:
+
+825. 8527.91.10 - - - Portabel
+
+826. 8527.91.90 - - - Lain-lain
+
+- - Tidak dikombinasikan dengan aparatus perekam
+8527.92 atau pereproduksi suara tapi dikombinasikan
+dengan penunjuk waktu:
+
+827. 8527.92.20 - - - Portabel
+
+828. 8527.92.90 - - - Lain-lain
+
+Monitor dan proyektor, tidak digabung dengan
+aparatus penerima televisi; aparatus penerima
+85.28 untuk televisi, digabung dengan penerima siaran
+radio atau aparatus perekam atau pereproduksi
+suara atau video, maupun tidak.
+
+- Monitor lainnya:
+
+829. ex 8528.52.00 | - - - Lain-lain, berwarna
+
+www.peraturan.go.id

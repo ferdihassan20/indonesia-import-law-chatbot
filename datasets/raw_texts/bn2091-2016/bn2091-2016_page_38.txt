@@ -1,0 +1,54 @@
+2016, No. 2091
+
+-38-
+99 | 7323.93.20.00 - - - Asbak
+56 7323.93.90.00 - - - Lain-lain
+S97 | 7323.94,00.00 - - Dari besi (selain besi tuang) atau baja, dienamel
+7323.99 - - Lain-lain:
+98 7323.99. 10.00 - - - Perangkat dapur
+99 | 7323.99.20.00 - - - Asbak
+60 7323.99.90.00 - - - Lain-lain
+73.24 Perangkat saniter dan bagiannya, dari besi atau
+baja.
+7324.10 - Bak cuci dan wastafel, dari baja stainless:
+61 7324.10.10.00 - - Tempat cuci piring
+62 7324.10.90.00 - - Lain-lain
+- Bak mandi:
+7324.21 - - Dari besi tuang, dicnamel maupun tidak:
+63 | 7324.21.10.00 - - - Bak mandi berbentuk memanjang
+64 7324.21.90.00 - - - Lain-lain
+65 | 7324.29.00.00 - - Lain-lain
+7324.90 - Lain-lain, termasuk bagian:
+66 | 7324.90.10.00 - - Pembuang air kloset atau urinal (tipe tetap)
+67 7324.90. 30.00 - - Bejana sorong, urinal portabel
+- - Lain-lain:
+68 | 7324.90.91.00 - - - Bagian dari tempat cuci piring atau bak mandi
+69 | 7324.90.93.00 - - - Bagian dari pembuang air kloset atau urinal
+(tipe tetap)
+70 7324.90.99.00 - - - Lain-lain
+73.25 Barang tuangan lainnya dari besi atau baja.
+7325.10 -Dari besi tuang tidak dapat ditempa:
+71 7325. 10.20.00 - - Penutup lubang, grating dan framenya
+7325.10.90 - - Lain-lain:
+72 | 7325.10.90.10 - - - Cerek dan cawan untuk pengumpul lateks
+73° | 7325.10.90.90 - - - Lain-lain
+- Lain-lain:
+74 | '7325.91.00.00 - - Bola penggerinda dan barang semacam itu untuk
+menggiling
+7325.99 - - Lain-lain:
+735 | 7325.99.20.00 - - - Penutup lubang, grating dan framenya
+76 | 7325.99.90.00 - - - Lain-lain
+73.26 Barang lainnya dari besi atau baja.
+- Ditempa atau dicap, tetapi tidak dikerjakan lebih
+lanjut:
+77 | 7326.11.00.00 - - Bola penggerinda dan barang semacam itu untuk
+menggiling
+78 7326. 19.00.00 - - Lain-lain
+7326.20 - Barang dari kawat besi atau baja:
+79 | 7326.20.50.00 - - Kandang unggas dan sejenisnya
+80 7326.20.90.00 - - Lain-lain
+7326.90 - Lain-lain:
+81 7326.90. 10.00 - - Sirip kemudi kapal
+
+www.peraturan.go.id
+

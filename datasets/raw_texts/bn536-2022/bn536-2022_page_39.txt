@@ -1,0 +1,53 @@
+2)
+
+_30- 2022, No.536
+
+Jenis kriteria asal barang (origin criteria) dalam daftar
+
+PSR terdiri dari;
+
+a)  tunggal, yaitu subpos tarif hanya memiliki 1 (satu)
+kriteria asal barang (origin criteria).
+
+Contoh ; 2006.00 (QVC 40);
+
+b) alternatif, yaitu suatu subpos tarif yang memiliki
+lebih dari 1 (satu) kriteria asal barang (origin
+criteria) yang harus dipilih salah satu.
+
+Contoh +: 2008.93 (CC or QVC 40);
+
+ce) kombinasi, yaitu suatu subpos tarif yang memiliki
+lebih dari 1 (satu) kriteria asal barang (origin
+criteria) yang harus dipenuhi seluruhnya.
+
+Contoh ; 1517.10 (CC provided that it has
+QVC 40); atau
+
+d) alternatif dan kombinasi, yaitu subpos tarif yang
+memiliki lebih dari 1 (satu) kriteria asal barang
+(origin criteria), yang merupakan gabungan dari
+alternatif dan kombinasi.
+
+Contoh : 6101.20 (CC provided that the good
+is both cut and sewn in the territory
+of any Party; or QVC 40).
+ce. Akumulasi
+
+1)
+
+2)
+
+Barang Onginating dari Negara Anggota yang
+digunakan sebagai bahan baku untuk memproduksi
+barang jadi di Negara Anggota lain, dianggap sebagai
+Bahan Onginating Negara Anggota tempat dilakukan
+proses produksi, sepanjang memenuhi kriteria origin
+(origin criteria).
+
+Dalam hal barang impor menggunakan akumulasi
+sebagai mana dimaksud pada angka 1, tanda ( \ ) atau
+{ X ) harus dicantumkan pada kolom angka 13 SKA
+Form IM kotak “Accumulation”,
+
+www.peraturan.go.id

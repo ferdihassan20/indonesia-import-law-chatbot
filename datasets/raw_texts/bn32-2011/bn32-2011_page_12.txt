@@ -1,0 +1,54 @@
+2011, No.32
+
+POS/SUB POS . ae
+NO. HEADING/ URAIAN BARANG DESCRIPTION OF GOODS, Kedah hidipeaand 2
+SUB HEADING IMPORT DUTY
+(ly (2) (3) 4) (5)
+29.23 [Garam dan hidroksida amonium kuarterner, (Quarternary ammonium salts and hydroxides;
+lesitin dan fosfoaminolipid lainnya,mempunyai lecithins and other phosphoaminolipids,
+rumus kimia tertentu maupun tidak ‘whether or not chemically defined
+26 |2923.10.00.00 _|-Kolina dan garamnya |-Choline and its salts -]
+2923.20 -Lesitin dan fosfoaminolipid lainnya -Lecithins and other phosphoaminolipids
+27 |2923.20.10.00 _|--Lesitin, mempunyai rumus kimia tertentu --Lecithins, whether or not chemically 5
+maupun tidak defined
+28 |2923.20.90.00 — |--Lain-lain }--Other 1
+29.30 Senyawa organo-belerang |Organo-sulphur compounds.
+29 |2930.40.00.00 |-Metionin }-Methionine |
+29.33 Senyawa heterosiklik hanya dengan hetero atom Heterocyclic compounds with nitrogen
+nitrogen. hetero-atom(s) only.
+-Senyawa dalam strukturnya mengandung sistem- -Compounds containing in the structure a
+cincin kinolin atau isokinolin(dihidrogenasi quinoline or isoquinoline ring-system
+maupun tidak), tidak disatukan lebih lanjut (whether or not hydrogenated), not further
+fused
+2933.41,00.00 _|--Levorfanol (INN) dan garamnya |--Levorphanol (INN) and its salts
+30 |2933.49.00.00 — |--Lain-lain }--Other Mi
+31.01 Pupuk hewani atau nabati, dicampur bersama Animal or vegetable fertilisers, whether or
+fatau diolah secara kimia maupun tidak, pupuk not mixed together or chemically treated;
+yang dihasilkan dengan mencampur atau fertilisers produced by the mixing or
+mengolah secara kimia dari produk hewani atau chemical treatment of animal or vegetable
+nabati products.
+-Semata-mata berasal dari nabati -Of solely vegetable origin
+3101.00.11 --Pupuk suplemen dalam bentuk cair, tidak --Supplement fertilizers in liquid form, not
+diolah secara kimia chemically treated
+31 ]3101.00.19.00 — }--Lain-lain }--Other 5
+|-Lain-lain -Other
+3101.00.91 --Pupuk suplemen dalam bentuk cair, tidak --Supplement fertilizers in liquid form, not
+diolah secara kimia chemically treated
+32 13101.00.99.00 —_|--Lain-lain --Other ee
+31.02 Pupuk mineral atau pupuk kimia, mengandung Mineral or chemical fertilisers, nitrogenous.
+nitrogen.
+33 |3102.10.00.00 —_|-Urea, dalam larutan air maupun tidak |-Urea, whether or not in aqueous solution 5
+-Amonium sulfat; garam ganda dan campuran Ammonium sulphate; double salts and mixtures
+dari amonium sulfat dan amonium nitrat ‘of ammonium sulphate and ammonium nitrate
+34 |3102.21.00,00 _ |--Amonium sulfat --Ammonium sulphate 5
+35 |3102.29.00.00 — |--Lain-lain --Other 5
+36 {3102.30.00.00 |-Amonium nitrat, dalam larutan air maupun |-Ammonium nitrate, whether or not in aqueous 5
+tidak solution
+37 |3102.40.00.00 |-Campuran dari amonium nitrat dengan kalsium |-Mixtures of ammonium nitrate with calcium ie
+karbonat atau zat anorganik bukan penyubur carbonate or other inorganic non-fertilising
+lainnya substances
+38 |3102.50.00.00 _}-Natrium nitrat |-Sodium nitrate 5
+39 3102.60.00.00 —_|-Garam ganda dan campuran dari kalsium nitrat |-Double salts and mixtures of calcium nitrate 5
+dan amonium nitrat and ammonium nitrate
+
+www.djpp.kemenkumham.go.id

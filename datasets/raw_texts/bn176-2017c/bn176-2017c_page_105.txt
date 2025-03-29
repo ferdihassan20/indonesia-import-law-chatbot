@@ -1,0 +1,252 @@
+-425-
+
+8761
+8762
+8763
+
+8764
+
+8765
+
+8766
+
+8767
+
+8768
+
+8769
+8770
+
+8771
+
+8772
+
+8773
+8774
+
+8775
+
+8776
+
+8780
+8781
+8782
+
+8783
+
+8784
+
+8785
+
+{3)
+=== Lain-lain, dari jenis yang cocok untuk sinematograli
+
++ Lain-tain
+Lain-lain :
+
+- - - - Dari jenis yang digunakan untuk reproduksi
+fenomena selain suara atau gambar
+
+-- -- Dari jenis yang digunakan hanya untuk reproduksi
+suara
+
+|. - - - Lain-lain, dari jenis yang digunakan untuk
+inereproduksi representasi dari instruksi, data, suara dan
+lgambar, direkam datam bentuk biner yang dapat ditaca
+Joleh mesin, dan dapat dimanipulasi aiau memberikan
+interaktivitas terhadap pemakai, dengan menggunakan
+mesin pengolah data oromatis; media penyimpanan format
+proprietary (terekam)
+
+= Lain-lnin,
+
++ Media semikonduktor
+
+- - Peralatan penyimpanan non-volatile dalam bentuk
+[padat :
+
+‘Tidak terekam :
+
+- Dari jenis yang cocok untuk penggunaan komputer
+
++ Lain-lain
+
++ Lain-lain >
+~~~ Dari jenis yang digunakan untuk reproduksi
+fenomena selain suara atau gambar:
+
+Dari jenis yang cocok untuk penggunaan komputer
+
+Lain-tain
+
+- Lain-lain, dari jenis yang digunakan untuk
+Imereproduksi bentuk, data, suara dan gambar, direkam
+|dalam bentuk biner yang clibaca olch mesin, dan dapat
+|dimanipulasi atau memberikan inter-aktivitas terhadap
+pemakai, dengan menggunakan mesin pengolah data
+jotomatis; medin penyimpanan format proprietary (terekam)
+
+~~ Lininn-tain ;
+
+Lain-lain, berisi film sinematografi selain film
+berita, film perjalanan, film teknis, film ilmu pengetahuan,
+dan film dokumenter lainnya
+
+8523.51.91
+
+[8523.51.92
+
+Lain-lain, dari jenis yang cocok untuk
+'sinematograti
+
+8523.51.99 +++ Laindlain
+8523.52.00 “Smart card”
+
+3523.59 Lain-lain ;
+
+8523.59.10 ~ Proximity card dan tag
+
+~ Lain-lain, tidak terekam +
+
+8523.59.21 ~ Dari jenis yang cocok untuk penggunaan komputer
+
+8523.59.29 ~ Lain-lain
+
+ Lainslain :
+
+~ Dari jenis yang digunakan untuk reproduksi
+fenomena selain suara atau gambar
+
+8529.59.40 |- ~~ - Lain-lain, dari jenis vang digunakan untuk
+jmereproduksi bentuk, data, suara dan gamber, dirckam
+dalam bentuk biner yang dibaca otch mesin, dan dapat
+Jdimanipulasi atau memberikan interaktivitas terhadap
+pemakai, dengan menggunakan mesin pengolah data
+lotomatis; media penyimpanan format proprietary (terckam)
+
+18523.59,30
+
+- Lain-lain
+
+|. - Piringan hitam untuk gramofon
+
+- - Lain-lain, tidak terekain :
+
+- ~~ Darl jenis yang cocok untuk penggunaan komputer
+
+~- Lain-laia
+
++> Lain-lain
+
+- - - Dari jenis yang digunakan untuk reproduksi
+fenomena selain suara atau gambar
+
+- ~- Lain-lain, dari jenis yang digunakan untule
+mereproduksi hentuk, data, suara dan gambar, direkam
+dalam bentuk biner yang dibaca oleh mesin, dan dapat
+Jdimanipulasi atau memberikan interaktivitas terhadap
+pemakai, dengan menggunakan mesin pengolah date
+lotomatis; media penyimpanan format proprietary (terekam)
+
+2017, No.176
+
+=~ + Of a kind used for reproducing
+phenomena other than sound or image
+
+- --- Of a kind used for reproducing sound
+jonly
+
+Other, of a kind used for reproducing
+representations of instructions, data, sound
+fand image, recorded in a machine readable
+binary form, and capable of being
+manipulated or providing interactivity to a
+luser, by means of an automatic data
+processing machine; proprietary format
+storage (recorded) media
+
+- Semiconductor media ;
+~~ Solid-state non-volatile storage devices :
+
+Unrecorded :
+
+0,0%
+
+Of a kind suitable for computer use
+
+-- - - Other 0,0%
+Other :
+
+Of a kind used for reproducing,
+phenomena other than sound or image :
+
+-+ ++ Of a kind suitable for computer use 0,0%
+iP ~ Other 00%
++= -- Other, of kind used for reproducing 0,0%
+representations of instructions, data, sound
+
+and image, recorded in a machine readable
+
+binary form, and capable of being
+
+manipulated or providing interactivity toa
+
+Juser, by means of an automatic data
+
+processing machine; proprietary format
+
+storage (recorded) media
+
+-- - - Other ;
+
+- Other, containing cinematographic Rp. 21,450,-
+movies other than newsreels, travelogues, /menit
+technical, scientific movies, and other
+|documentary movies:
+hoot Other, of a kind suitable for 10,0%
+cinematography
+~~~ Other 10,0%
++ = "Smart cards” 0.0%
+|- ~ Other ;
+
+- - - Proximity cards and tags 00%
++ - - Other, unrecorded =
+--- Of a kind suitable for computer use 0.0%
+Other 0.0%
+Other :
+
+Of a kind used for reproducing 0.0%
+[phenomena other than sound or image
+-- = = Other, of a kind used for reproducing 0.0%
+representations of instructions, data, sound
+jand image, recorded in a machine readable
+[binary form, and capable of being
+manipulated or providing interactivity to a
+juser, by means of an automatic data
+processing machine; proprietary format
+storage (recorded) media
+
+~~ Other 10,0%
+> Other
+| - Gramophone records: 10,0%
+|; - Other, unrecorded :
+- += Ofa kind suitable for computer use 0,0%
+- - - Other 0.0%
+
+~ Other :
+
+-- - Of a kind used for reproducing 0.0%
+[phenomena other than sound or image
+- - - Other, of a kind used for reproducing 0,0%
+
+representations of instructions, data, sound
+land image, recorded in a machine readable
+binary form, and capable of being,
+manipulated or providing interactivity to A
+luser, by means of an automatic data
+[processing machine; proprietary format
+[storage (recorded) media
+
+» Other
+
+www.peraturan.go.id

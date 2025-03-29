@@ -1,0 +1,101 @@
+2016, No.302
+
+-14-
+
+Pos Tarif/ HS
+
+Uraian
+
+Kriteria Teknis
+
+memipihkan, menggunting, melubangi
+atau menakik; pengepres untuk
+mengerjakan logam atau karbida
+logam, tidak dirinci diatas.
+
+- Mesin pembengkok, pelipat, pelurus
+atau_pemipih (termasuk pengepres) :
+
+8462.29
+
+8462.29,10.00
+
+- - Lain-lain:
+- - - Dioperasikan secara elektrik
+
+Mesin Press plate
+dengan pneumatic
+system , supply listrik
+tiga phasa 380V, Duty
+Cycle 50%, Feed
+Stroke hingga 35 mm
+
+Mesin pengolah data otomatis dan
+unitnya; pembaca magnetik atau optik,
+mesin untuk menyalin data pada media
+data dalam bentuk kode dan mesin
+untuk mengolah data tersebut, tidak
+dirinci atau termasuk dalam pos
+lainnya.
+
+- Mesin pengolah data otomatis digital
+lainnya:
+
+8471.41
+
+- - Terdapat dalam wadah yang sama
+paling tidak satu unit pengolah pusat
+dan satu unit masukan serta keluaran,
+dikombinasikan maupun tidak:
+
+8471.41.90.00
+
+8471.70
+
+- - - Lain-lain
+
+- Unit penyimpan:
+
+server (Main Frame) :
+1-32 CPU Active,
+Memory option 8-
+3040 GB) (server
+Main Frame) : 1-32
+CPU Active, Memory
+option 8-3040 GB
+dan Power server
+‘Desktop / Tower and
+Rack Mount.) : 64bit
+Power7+ or Power6
+processors
+
+8471.70,20.00
+
+- - Hard disk drive
+
+HARD DISK DRIVE
+atau MAGNETIC DISK
+DRIVE :
+kelas A: Kapasitas
+kurang dari 70 GB
+dan Putaran Kurang
+dari 5000 rpm ,
+
+kelas B: Kapasitas 70-
+500 GB dan Putaran
+Kurang dari 5000-
+10000 rpm dan
+
+kelas C: Kapasitas
+Jebh dari 500 GB dan.
+Putaran lebih dari
+10000 rpm
+
+847 1.70.30.00
+
+- - Tape drive
+
+Kelas A kapasitas di
+bawah 100 GB,
+Otomasi Manual,
+

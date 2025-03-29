@@ -1,0 +1,32 @@
+“101 2019, No.1718
+
+Huruf (f}/ : diisi nomor urut barang pada Keputusan Menteri Keuangan
+mengenai pemberian fasilitas pembebasan bea masuk dan/atau
+tidak dipungut pajak dalam rangka impor atas impor barang
+untuk kegiatan penyelenggaraan panas bumi.
+
+Huruf(g) : diisi nama Kantor Pelayanan Utama Bea dan Cukai/Kantor
+Pengawasan dan Pelayanan Bea dan Cukai yang membawahi
+pelabuhan pemasukan.
+
+Huruf(h) : diisi nomor pemberitahuan pabean impor dari barang impor
+yang tercantum dalam Keputusan Menteri Keuangan mengenai
+pemberian fasilitas pembebasan bea masuk dan/atau tidak
+dipungut pajak dalam rangka impor.
+
+Huruf (i) : diisi tanggal, bulan, dan tahun pemberitahuan pabean impor
+dari barang impor yang tercantum dalam Keputusan Menteri
+Keuangan mengenai pemberian fasilitas pembebasan bea
+masuk dan/atau tidak dipungut pajak dalam rangka impor.
+
+Huruf (jj): + diisi cara melakukan Pemusnahan.
+
+Huruf(k) : diisi nomor faktur pajak bukti pungutan pajak yang melakukan
+penyerahan barang yang dimusnahkan (apabila barang masih
+mempunyai nilai ekonomis).
+
+Huruf(l) =: diisi tanggal, bulan, dan tahun faktur pajak bukti pungutan
+pajak yang melakukan penyerahan barang yang dimusnahkan
+(apabila barang masih mempunyai nilai ekonomis).
+
+www.peraturan.go.id

@@ -1,0 +1,377 @@
+-413-
+
+8353
+
+8354
+
+4958
+
+8356
+
+8357
+
+8358
+
+8359
+
+8361
+
+8367
+
+8368
+8269
+8370
+
+ao7t
+
+8372
+
+8373
+
+8374
+
+8375
+8376
+
+8377
+9378
+
+8386
+
+8387
+8388
+
+8501.40.11
+
+8501.40.19
+18501.40,21
+/8501.40.29
+8501.51
+
+8501.51.11
+
+18501.51.19
+[8501.52
+
+8501.52.11
+
+[8501.52.19
+
+8501.52.21
+
+8501.52.29
+
+8501.52.31
+
+8501.52.39
+
+8501.53.00
+
+8501.61
+[8501.61.10
+
+8501.61.20
+8501.62
+
+8501.62.10
+[8501.62.20
+8501.63.00
+
+8501.64.00
+185.02
+
+8502.11.00
+8502.12
+
+8502.12.10
+8502.12.20
+
+8502.13
+8502.13.20
+8502.13.90
+8502.20
+
+8502.20.10
+8302.20.20
+
+8502.20.30
+
+8502.20.42
+8502.20.49
+
+[8502.31
+8502.31.10
+
+8502.31.20
+1502.39
+
+8502.39.10
+8502.39.20
+
+8502.39.32
+
+8502.39.39
+8502.40.00
+85.03
+
+2017, No.176
+
+Dengan keluaran tidak melebihi 1 kW:
+Dari jenis yang digunakan untuk barang dari pos
+184.15, 84.18, 84.50, 85,09 atau 85.16
+
+Lain-lain
+Dengan keluaran melebihi 1 kW :
+
+Dari jenis yang digunakan untuk barang dari pos
+84,15, 84,18, 84.50, 85.09 atau 85.16.
+
+--- Lain-lain
+- Motor AC Ininnya, multi-phase :
+
+Dengan keluaran tidak melebihi 750 W :
+
+Dari jenis yang digunakan untuk barang dari pos
+|84.15, 84.18, 84.50, 85.09 atau 85.16
+
+Lain-tain
+
+Dengan keluaran melebihi 750 W tetapi tidak melebihi
+75 KW
+
+Dengan keluaran tidak melebihi 1 kW :
+
+~ Dari jenis yang digunakan untuk barang dari pos
+184.15, 84.18, 84.50, 85.09 atau 85.16
+
++ Lain-tain
+Dengan keluaran melebihi 1 kW tetapi tidak melebihi
+37.5 kW:
+
+~ Dari jenis yang digunakan untuk barang dari pos.
+184.15, 84.18, 84,50, 85.09 atau 85.16
+
+= =~ Lain-lnin
+- - = Dengan keluaran melebihi 37,5 kW tetapi tidak
+melebihi 75 kW >
+
+- - ~ - Dari jenis yang digunakan untuk barang dari pos
+184.15, 84.18, $4.50, 85.09 atau 85.16
+
+~~ ~~ Lain-tain
+
+- - Dengan keluaran melebihi 75 kW
+
+}- Generator AC (alternator) =
+
+- - Dengan keluaran tidak melebihi 75 kVA >
+> Dengan keluaran tidak melebihi 12,5 kVA
+
+--- Dengan keluaran melebitii 12,3 kVA
+- - Dengan keluaran melebihi 75 kVA tetapi tidak melebihi
+375 kVA:
+~~ Dengan keluaran melebihi 75 KVA tetapi tidak
+melebihi 150 kVA
+- - = Dengan kéluaran melebihi 150 KVA tetapi tidal
+melebihi 375 kVA
+- - Dengan keluaran ntelebihi 375 kVA tetapi tidak
+Imelebihi 750 kVA
++ - Dengan keluaran melebihi 750 kVA
+Perangkat pembangkit tenaga listrik dan konverter
+lberputar,
++ Perangkat pembangkit tenaga listrik dengan mesin piston
+pembalcaran dalam nyala kompresi (mesin diesel atau
+messin semi diesel)
+- - Dengan kelusran tidak melebihi 75 kVA
+-- Dengan keluaran melebihi 75 kVA tetapi tidak melebihi
+375 kVA :
+~~ » Dengan keluaran melebihi 75 kVA tetapi tidak
+Imelebihi 125 kVA
+- =~ Dengan keluaran melebihi 125 kVA tetapi tidak:
+Imicicbihi 375 kVA
+Dengan keluaran melebihi 375 kVA :
++ Dengan keluaran dari 12.500 kVA atau lebih
+Perangkat pembangkit tenaga listrik dengan mesin piston
+pembakaran dalam cetus api :
+-- Dengan keluaran tidak melebihi 75 kVA
+-- Dengan keluaran melebihi 75 kVA tetapi tidak melebihi
+100 kVA
+- - Dengan keluaran melebihi 100 kVA tetapi tidak
+metebihi 10,000 kVA
+Dengan keluaran melebihi 10.000 kVA :
+~ Dengan keluaran dari 12.500 kVA atau lebit
+- Lain-lain
++ Perangkat pembangkit tcnaga listrik lainnya :
+Tenaga angin:
+~ Dengan keluaran tidak melebihi 10.000 kVA
+
+- Dengan keluaran melebihi 10,000 kVA
+Lainslain =
+- Dengan keluaran tidak melebihi 10 kVA
+- Dengan keluaran melebibi 10 kVA tetapi tidak
+melebihi 10,000 kVA.
+
+~~ Dengan keluaran melebihi 10,000 kVA :
+
++ +>» Dengan keluaran dari 12.500 kVA atau lebih
+- += Lain-tain
+
++ Konverter fistrik berputar
+
+Bagian yang cocok untuk digunakan semata-mata atau
+terutama dengan mesin dari pos 85.01 atau 85.02.
+
+== Ofan output not exceeding 1 kW?
+-- - Of a kind used for the goods of heading
+84,15, 83.18, 84.50, 85,09 or 85.16
+
+--- Other
++ - Of an output exceeding | kW
+
+}-- - Of a kind used for the goods of heading
+|94.15, 84.18, 84.50, 85.09 or 85.16
+
+|- ~~ Other
+
+- Other AC motors, multi-phase :
+
+|. Of an output not exceeding 750 W :
+-- - Of a kine used for the goods of heading
+184.15, 84.18, 84.50, 85.09 or 85.16
+
+|- = = Other
+- - Of an output exceeding 750 W but not
+jexceeding 75 kW =
+
+‘Of an OULU Not exceeding 1 KW :
+Of a kind used for the goods of heacis
+184.15, 84.18, 84.50, 85,09 or 85.16
+
+-- -- Other
+- - - Of an output exceeding 1 kW bul not
+exceeding 37.5 kW :
+
+- «=~ Of a kind used for the goods of heading
+84.15, 84.18, 84.50, 85.09 or 85.16
+
+Other
+- - - Of an output exceeding 37.5 kW but not
+lexceeding 75 kW :
+
+---- Of a kind used for the goods of heading!
+84.15, 84,18, 84.50, 85.09 or 85.16
+
+- --- Other
+
+- - Of an output exceeding 75 kW
+
+- AC generators (alternators) :
+
+- - Of an output not exceeding 75 KVA :
+Of an output not exceeding 12.5 KVA
+
+- - - Of an output exceeding 12.5 kVA
+~ « Of an output exceeding 75 KVA but not
+jexcecding 375 kVA:
+-- - Of an output exceeding 75 kVA but not
+Jexceeding 150 kVA
+- - - Of an output exceeding 150 KVA but not
+lexceeding 375 kVA
+- - Of an output exceeding 375 kVA but not
+Jexceeding 750 KVA
+- - Of an output exceeding 750 kVA
+[Electric generating sets and rotary
+lconverters.
+- Generating sets with compression-ignition
+internal combustion piston engines (dicse! or|
+semi-diesel engines) :
+- - Of an output not exceeding 75 kVA.
+- - Of an output exceeding 75 kVA but not
+lexeeeding 375 kVA:
++ + - Of an ouput exceeding 75 kVA but not
+lexeeeding 125 kVA
+- -- Of an output exceeding 125 kVA but not
+lexceeding 375 kVA
+- - Of an output exceeding 375 KVA :
+Of an output of 12,500 kVA or more
+Other
+. Generating scts with spark-ignition internal
+combustion piston engines ;
+~~ Of an output not exceeding 75 kVA
+-- Of an output exceeding 75 kVA but not
+execeding 100 kVA
+~~ Of an output exceeding 100 kVA but not
+jexceeding 10,000 kVA
+~ = Of an output exceeding 10,000 kVA :
+Of an output of 12,500 KVA or more
+Other
+}- Other generating sets :
+
+- Wind-powered :
+Of an output not exceeding 10,000 kVA
+
+Of ani output exceeding 10,000 kVA
+
+~ Other :
+
+Of an output not execeding 10 kVA
+
+OF an output exceeding 10 kVA but not
+lexceedirig 10,000 kVA
+
+-- - Of an outprat exceeding 10,000 KVA =
+
+- - -- Of an output of 12,500 kVA or mare
+~~~ Other
+
+- Electric rotary converters
+
+Parts suitable for use solely or principally
+
+with the machines of heading 85.01 or
+85.02.
+
+10,0%
+
+10.0%
+
+10,0%
+
+10,0%
+
+10,0%
+
+10,0%
+
+10,0%
+10,0%
+10,0%
+
+9,0%
+
+10,0%
+
+10,0%
+10,0%
+
+5.0%
+50%
+
+10,0%
+10,0%
+10,0%
+10,0%
+10,0%
+9,0%
+
+5.0%
+
+9.0%
+9.0%
+
+5,0%
+
+5,0%
+5,0%
+
+www.peraturan.go.id

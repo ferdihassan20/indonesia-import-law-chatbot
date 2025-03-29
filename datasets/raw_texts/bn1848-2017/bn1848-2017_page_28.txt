@@ -1,0 +1,170 @@
+2017, No.1848 _98-
+
+[ no | Pos TARIF/HS URAIAN BARANG KETERANGAN
+
+107 Jex 8459.41.00 - - Dikontrol secara numerik IKecuali Mesin Bor dengan
+diameter mata bor maksimal 5
+inch
+
+108 Jex 8459.49.10 - - Dioperasikan secara elektrik [Kecuali Mesin Bor dengan
+diameter mata bor maksimal 5
+inch
+
+- Mesin penggiling, tipe knee
+459.59
+4159.59.10 =~ - Dioperasikan secara elektrik
+- Mesin penggiling lainnya:
+
+-- Dikontrol secara numerik
+
+il
+
+109
+
+Eq
+
+459.61.00
+459.69
+5459.69.10 ~~ Dioperasikan secara clektrik
+
+459.70 - Mesin pembuat ulir atau alur lainnya:
+
+459.70.10 ~~ Dioperasikan secara clektrik
+
+84.60 Mesin perkakas untuk menghaluskan, menajamkan,
+menggerinda, menggosok, mengasah, memoles atau
+merampungkan logam atau cermet secara lain dengan
+memakai batu gerinda, amplas atau produk pemoles,
+selain mesin pemotong gir, penggerinda gir atau
+mesin untuk merampungkan gir dari pos 84.61.
+
+| - Lain-lain:
+
+BED
+7
+B.
+:
+E
+
+Clo
+
+112
+
+> Mesin penggerinda permukaan datar:
+
+113 Jex 8460.19.00 - - Lain-lain Hanya yang dioperasikan
+-Mesin penggerinda lainnya:
+460.29
+114 Jex 8460.29.10 |. - - Dioperasikan secara elektrik Hanya untuk mesin
+penggerinda yang posisi setiap
+porosnya dapat diset dengan
+Jakurasi paling tidak 0,01 mm
+
+| - Lain-lain:
+
+z
+8
+E
+°
+ia
+&
+Es
+®
+
+- Mesin penajam (perkakas atau gerinda pemotong):
+460.39 > ~ Lain-lain:
+
+5460.39.10 =~ - Dioperasikan secara clektrik
+
+460.40 - Mesin penggosok atau pengasah:
+
+115
+
+Eq
+
+Eq
+
+116
+
+ca
+
+4660.40.10 - - Dioperasikan secara elektrik
+
+84.61 Mesin perkakas untuk mengetam, membentuk,
+menyerut, menggerek, memotong gir, menggerinda
+gir atau merampungkan gir, menggergaji, memotong
+dan mesin perkakas lainnya yang bekerja dengan
+menghilangkan logam atau sermet, tidak dirinci atau
+termasuk dalam pos lainnya.
+
+ca
+
+AG 1.20 = Mesin pembentuk atau penyerut:
+
+117
+
+rq
+
+AG1.20.10 =~ Dioperasikan secara clektrik
+461.30 - Mesin penggerek:
+
+461.30.10 ~~ Dioperasikan secara elektrik
+
+461.40 > Mesin pemotong gir, penggerinda gir atau perampung
+
+ca
+
+118
+
+cy
+
+cy
+
+119
+
+Eq
+
+46 1.40.10 ~~ Dioperasikan secara elektrik
+461.50 - Mesin penggergaji atau mesin pemotong:
+61.50.10
+461.90
+
+cy
+
+Dioperasikan secara elektrik
+> Lain-lain=
+
+> - Dioperasikan secara elektrik
+
+is)
+
+61.90.11 ~~~ Mesin pengetam
+61.90.19 > ~~ Lain-lain
+
+is
+iy
+Ed
+
+84.62 Mesin perkakas (termasuk pengepres) untuk
+mengerjakan logam dengan menempa, memalu atau
+menumbuk; mesin perkakas (termasuk pengepres)
+untuk mengerjakan logam dengan cara
+membengkokkan, melipat, meluruskan, memipihkan,
+menggunting, melubangi atau menakik; pengepres
+untuk mengerjakan logam atau karbida logam, tidak
+dirinci diatas.
+
+-Mesin penempa atau penumbuk (termasuk pengepres)
+dan mesin untuk memalu:
+
+hal PEEEEEEEEEEEEEEEEH
+
+EJ
+x
+a
+iS
+S|
+
+23 [8462.10.10 - - Dioperasikan secara elektrik
+
+www.peraturan.go.id

@@ -1,0 +1,49 @@
+19
+
+2009, No.228
+
+No. URAIAN BARANG POS TARIF
+(1) (2) (3)
+111 | -- Lain-lain 7229.90.00.90
+Sheet piling dari besi atau baja, dibor, 73.01
+dilobangi atau dibuat dari rakitan elemen
+maupun tidak; angle, shape dan section dilas,
+dari besi atau baja.
+112 | -Angle, shape dan section 7301.20.00.00
+Pembuluh, pipa dan profil berongga, tanpa
+kam- 73.04
+puh, dari besi (selain besi tuang) atau baja.
+-Casing, tubing dan pipa bor, dari jenis yang
+digunakan dalam pengeboran minyak atau gas :
+--Pipa bor dari baja stainless : 7304.22.00
+---Pipa bor belum jadi (green pipe) dengan 7304.22.00.10
+yield strength kurang dari 75.000 Psi dan
+ujungnya belum dikerjakan
+113 | ---Lain-Lain 7304.22.00.90
+--Pipa bor lainnya 7304.23.00
+---Pipa bor belum jadi (green pipe) dengan 7304.23.00.10
+yield strength kurang dari 75.000 PSi dan
+ujungnya belum dikerjakan
+114 | ---Lain-Lain 7304.23.00.90
+--Lain-lain, dari baja stainless : 7304.24.00
+---Casing dan tubing belum jadi (green pipe) 7304.24.00.10
+dengan yield strength kurang dari 75.000
+Psi dan ujungnya belum dikerjakan
+115 | ---Lain-lain 7304.24.00.90
+--Lain-Lain : 7304.29.00
+---Casing dan tubing belum jadi (green pipe) 7304.29.00.10
+dengan yield strength kurang dari 75.000
+Psi dan ujungnya belum dikerjakan
+116 | ---Lain-lain 7304.29.00.90
+Pembuluh dan pipa lainnya (misalnya, dilas, 73.05
+
+dikeling, atau disambung semacam itu),
+mempunyai penampang silang lingkaran,
+diameter
+
+luarnya melebihi 406,4 mm, dari besi atau
+baja.
+
+-Pipa saluran dari jenis yang digunakan untuk
+penyaluran minyak atau gas :
+

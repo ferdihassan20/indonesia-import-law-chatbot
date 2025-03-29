@@ -1,0 +1,60 @@
+2019, No.1709
+
+-59-
+
+Nomor (19) =: Diisi dengan nilai pabean dalam rupiah, yaitu hasil perkalian
+antara nilai pabean pada kolom 16 dengan NDPBM pada kolom
+18,
+
+Nomor (20) =: Diisi dengan tarif bea masuk.
+
+Nomor (21); Diisi dengan tarif cukai.
+
+Nomor (22): Diisi dengan tarif PPN.
+
+Nomor (23) : Diisi dengan tarif PPnBM.
+
+Nomor (24) =; Diisi dengan tarif PPh.
+
+Nomor (25) : Diisi dengan jumlah bea masuk yang wajib dilunasi
+
+Nomor (26) ; Diisi dengan jumlah bea masuk tambahan yang wajib dilunasi,
+apabila terdapat lebih dari 1 (satu) bea masuk tambahan diisi
+secara terpisah.
+
+Nomor (27) ; Diisi keterangan jenis bea masuk tambahan yang wajib
+dilunasi, apabila terdapat lebih dari 1 (satu) bea masuk
+
+tambahan diisi secara terpisah.
+
+Nomor (28) ; Diisi dengan jumlah cukai yang wajib dilunasi.
+
+Nomor (29) :; Diisi dengan total jumlah bea masuk dan cukai yang wajib
+dilunasi.
+
+Nomor (30) ; Diisi dengan jumlah PPN yang wajib dilunasi.
+
+Nomor (31) =: Diisi dengan jumlah PPnBM yang wajib dilunasi.
+
+Nomor (32) : Diisi dengan jumlah PPh yang wajib dilunasi.
+
+Nomor (33) : Diisi dengan total jumlah PPN, PPnBM, dan PPh yang wajib
+dilunasi.
+
+Nomor (34) ; Diisi dengan total jumlah bea masuk, cukai, dan pajak yang
+wajib dilunasi.
+
+Nomor (35) : Diisi tanda tangan dan nama Pejabat Bea dan Cukai yang
+menerbitkan SPPBMCP.
+
+Nomor (36) =: Diisi NIP Pejabat Bea dan Cukai yang menerbitkan SPPBMCP.
+
+Nomor (37) =: Diisi keterangan/informasi terkait pelaksanaan pembayaran
+bea masuk, cukai, dan pajak yang bunyinya ditetapkan
+berdasarkan keputusan Kepala Kantor Pabean.
+
+Nomor (38) =: Diisi nomor halaman.
+
+Nomor (39): Diisi total jumlah halaman.
+
+www.peraturan.go.id

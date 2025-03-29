@@ -1,0 +1,38 @@
+2011, No.419 18
+TERMASUK
+NO. URAIAN BARANG SPESIFIKASI DALAM POS
+TARIF
+
+Of an output exceeding 750 kVA
+
+8501.64.00.00
+
+& Control Monitoring System
+
+107. | Generator Diesel Engine Of an output not exceeding 125 kVA 8502.12.10.00
+Of an output exceeding 125 kVA 8502.12.90.00
+108. | Transformator for Marine | With power handling capacity not 8504.32.41.00
+Use/Standard exceeding 10kVA
+With power handling capacity not 8504.32.49.00
+exceeding 10kVA
+With power handling capacity 8504.32.51.00
+exceeding 10kVA
+With power handling capacity 8504.32.59.00
+exceeding 10kVA
+109. | Battery Storage Marine Lead Acid Battery 8507.20.90.00
+110. | Dust Collector for Cement Vessel 8508.19.00.00
+111. | Navigation Lighting for Marine Use 8512.20.20.00
+112. | Electric Cooking Range Marine Use, Electrical Source: Main 8516.60.90.00
+440V x 60Hz x 3 Phase & Control
+220V x 60Hz x 1 Phase
+113. | Water Boiler (Water Kettle), | Marine Use, Electrical Source: Main 8516.79.10.00
+Soup Boiler 440V x 60Hz x 3 Phase & Control
+220V x 60Hz x 1 Phase
+114. | Sound recording or reproducing | for Marine Use 8519.89.90.00
+apparatus
+115. | Radar for Marine Use 8526.10.10.00
+116. | Radio Communication/ | for Marine Use 8526.91.10.00
+Navigational Aid apparatus
+117. | Integrated Automation System | Main Control 8526.92.00.00
+
+www.djpp.kemenkumham.go.id

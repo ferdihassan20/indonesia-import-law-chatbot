@@ -1,0 +1,260 @@
+2
+
+-253-
+
+2929.90.10
+[2929.90.20
+2929.90.90
+
+29.30
+2930.20.00
+2930.30.00
+2930.40.00
+2930.60.00
+2930.70.00
+
+2930.80.00
+
+'2930.90
+2920.90.10
+2930.90.90
+29.31
+2931.10
+2931.10.10
+2931.10.20
+2931.20.00
+
+2031.31.00
+2931.32.00
+2931.33.00
+2931.34.00
+2931.35.00
+
+2931.36.00
+2931.37.00
+
+}2931.38.00
+2931.39.00
+}2931.90
+
+2931.90.21
+2931.90.22
+2991.90.30
+2931.90.41
+
+2931.90.49
+2931.90.50
+
+2931.90.90
+29.32
+
+~~ Natrium sikiamat
+
+- - Siklamat lainnya
+
+- - Lain-lain
+
+|SUB-BAB xX
+
+ISENYAWA ORGANO-ANORGANIK, SENYAWA
+HETEROSIKLIK, ASAM NUKLEAT DAN GARAMNYA,
+SERTA SULFONAMIDA
+
+Senyawa organo-belorang.
+- Tiokarbamat dan ditiokarhamat
+
+- Tiuram mono-, di- atau tetrasulfida
+
+- Metionin
+
+- 2-(N.N-Dictilamino}etanatiol
+
+- Bis(2-hidroksietil)sulfida (tiodigtikal (INN))
+
++ Aldikarb (SO), kaptafol (ISO) and metamidofes (180)
+
+/Senyawa organo-anorganik lainnya.
+
+- Timbal tetrametil dan timbal tetraetil :
+- - Timbal tetrametil
+
++ + Timbal tetractil
+
+- Senvawa tributittin
+
+- Turunan organo-fosfor tainnya :
+
+- - Dimetil metilfosfonat
+- - Dimetil propitfosfornt
+- = Dietil etilfosfonat
+- Sodium 3-(trihidroksili}} propil metilfosfonat
+
+- - 2.4,6-Tripropil-1,3,5,2,4,6-trioksatrifostinan 2,
+{rioksiia
+
+- - (S-Etil-2-metil-2-oksido-1,3,2-dioksafostinan-5-iijmetit
+metil metiifosfonat
+
+- - Bis|{5-etil-2-metil-2-oksido-1,3,2-dioksafosfinan-5-
+ymctit] metifosfonat
+
+|- - Garam dari asam metilfosfonat dan aminoiminometil)
+furea 1:1)
+- - Lavin-Hain
+
+Lain-lain =
+
+= N-(fosfonometit) glisin dan gnramnya :
+
+N-{fosfonometil) glisin
+Garam dari N-{fosfonometil) glisin
+
+= Btefon
+
++ Senyawa organo-arsenik :
+++» Balan bentuk cair
+.- - Lain
+
+- Dimetiltin diklorieta
+~~ Lain-lain
+\Senyawn heterosiklik hanya dengan hetero atom
+oksigen.
+- Senyawa mengandung cinein furan tidak menyatu
+(dihidrogenasi maupun tidak} dalam struktur >
+
+== Sodium eyelamaie
+
+++ Other cyclamates
+
+~~ Other
+
+SUB-CHAPTER X
+ORGANO-INORGANIC COMPOUNDS,
+HETEROCYCLIC COMPOUNDS, NUCLEIC
+ACIDS AND THEIR SALTS, AND
+|SULPHONAMIDES.
+
+JOrgano-sulphur compounds.
+
+- Thioearbamates and dithiocarbamates
+- Thitiram mono-, di- oF tetmsulphides
+
+» Methionine
+
++ 2-(N,N-Diethylaminolethanethiol
+
+- Bis(2-hydroxvethy!)sulfide (Uhiodigiycol
+(anny)
+
+- Aldicarb (180), captafol (ISO) and
+/methamidophos (ISO)
+
+- Other :
+
+- - Dithiocarbonates
+
++ Other
+
+Other organo-inorganic compounds.
+
+~ Tetramethy! lead and tetraethyl lead :
+~~ Tetramettiy! lead
+
+- - Tetraetiny! lead
+
+}- Tributyltin compounds
+
+- Other organo-phosphorous derivatives :
+
+- - Dimethyl methylphosphonate
+
+- - Dimethyl propyiphosphonate
+
+-- Diethyl ethylphosphor
+
+~~ Sodium 3-(trihydro:
+
+methylphosphonate
+
+- - 2,4,6-Tripropyt
+
+{trioxatriphosphinane
+methyl-2-oxido-1,3,2-
+
+dioxaphosphinan-5-yljmethyt methyl
+
+methylphosphonatc
+
++ Bis{(S-cthyl-2-methyl-2-oxido-1,3,2-
+
+‘dioxaphosphinan-S-yljmethyl]
+
+methylphosphonate
+
+~~ Salt of nicthylphosphonic acid and
+{aminoiminomethyljurca (1 ; 1)
+
+++ Other
+
+- Other :
+
+-- N-{phosphonomethy!) glycine and salts
+thereof =
+
+-- - N-{phosphonomethy)) giveine
+
+~+- Salts of N-(phosphonomethy} glycine
+
+- - Ethephone
+- - Organo-arsenic compounds :
+
+~~~ tn tiquid form
+
+-~- Other
+
+-- Dimethyltin dichloride
+
+=~ Other
+
+Heterocyclic compounds with oxygen
+Ihetero-atom(s) only.
+
+- Compounds containing an unfused furan
+sing {whether or not hyelrogenated) in the
+structure :
+
+2017, No.176
+
+2932.11.00 |-- Tetrahidrofuran - - Tetrahydrofuran
+2932.12.00 | - 2-Furaldehida (furfuraldehida) ~~ 2-Furaldchyde (furfuratdehyde}
+2932.13.00 |-- Furfuril alkohol dan tetrahidrofurfuril alkohol |- - Furfuryl alcohol and tetrahydrofurfury!
+jalcohol
+2932.14.00 |-- Sukratosa + Sueralose
+2932.19.00 }-~ Lain-lain - Other
+2932.20 - Lakton - Lactones :
+2932.20.10 |-- Kumarin N-(1,2-Benzopiron) metilkumarin dan -- Coumarin N-(1,2-Benzopyrone}
+etitkumarin methylcoumarins and ethyl-coumarin
+2932.20.90 |-~ Lainedain -- Other
++ Lain-lain ; + Other:
+2932.91.00 |-- Isosafrol - = Isosafrote
+2932.92.00 1,3-Benzodioksol-5-il) propan-2-on - - 1-(1,3-Benzodioxol-5-y!)propan-2-one
+'2932.93.00 iperonal |. - Piperonal
+}2932.94.00 ~ Safrol |- - Safrote
+[2932.95.00 |- - Tetrahidrokanabinol (semus isomernya} - - Tetrahyctrocannabinols (all isomers)
+2932.99 + Lainstait : += Other
+2932.99.10 Karbofuran ~~~ Carbofuran
+2932.99.90 Lain-lain ~~ Other
+29.33 ‘Senyawa heterosiklik hanya dengan hetero atom \Heterocyclic compounds with nitrogen
+nitrogen, ‘hetero-atom(s) only.
+~ Senyawa mengandung cincin pirazola tidak menyatu —_|- Compounds containing an unfused
+(dihidrogenasi maupun tidak) dalam struktur : ipyrazole ring {whether or not hydrogenated)
+jin the structure >
+2933.11.00 |- - Fenavon (antipirin) dan turunannya ~~ Phenazone {antipyrin) and its derivatives
+2528 |2033.19.00 | - Lain-ain -- Other 5,0%
+- Senvawa mengandung cincin imidazola tidak menyatu  — |- Compounds containing an unfused
+|(dihidrogenasi maupun tidak) dalam straktur ; enidazote ring (whether or not hydrogenated)
+in the structure
+2529 |2933.21.00 | - Hidantoin dan turunannya -- Hydantoin and its derivatives 0,0%
+2330_|2933.29.00 _|- - Lain-lain. [-- Other 50%
+
+www.peraturan.go.id

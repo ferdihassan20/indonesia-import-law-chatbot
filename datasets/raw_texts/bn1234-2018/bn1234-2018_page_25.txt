@@ -1,0 +1,88 @@
+2018, No.1234
+
+-25-
+
+297 5701.10.10
+298 5701.90.11
+299 5701.90.19 "1
+300 5701.90.91 --- it untuk sembahyang
+
+301 | 5702.20.00 - Penutup lantai dari serat kelapa (coir)
+302 | 5702.31.00 - - Dari wol atau bulu hewan halus
+
+303 5702.32.00
+304 5702.39.10
+305 5702.39.20
+306 5702.39.90
+307 5702.41.10
+308 5702.42.10
+309 5702.42.90
+310 5702.49.11
+311 5702.49.19
+312 5702.49.20
+313 5702.50.10
+314 5702.50.20
+315 5702.50.90
+316 5702.91.10
+317 5702.92.10
+318 5702.92.90
+319 5702.99.11
+320 5702.99.19
+321 5702.99.20
+322 5703.10.20
+323 5703.20.10
+324 5703.20.90
+325 5703.30.10
+326 5703.30.90
+
+327 5703.90.11 - -- Babut untuk sembahyang
+
+328 5703.90.19 - -- Lain-lain
+
+329 5703.90.21 - -- Keset lantai dari jenis yang digunakan untuk kendaraan
+bermotor dari pos 87.02, 87.03 atau 87.04
+
+330 5703.90.22 - -- Karpet penutup lantai dari jenis yang digunakan untuk
+kendaraan bermotor pada pos 87.02, 87.03 or 87.04
+
+331 5703.90.29 - -- Lain-lain
+
+332 5703.90.91 - -- Keset lantai dari jenis yang digunakan untuk kendaraan
+bermotor dari pos 87.02, 87.03 atau 87.04
+
+333 5704.10.00 - Ubin, mempunyai luas permukaan maksimum 0,3 m2
+
+334 5704.20.00 - Ubin, mempunyai luas permukaan maksimum lebih dari 0,3
+m2 tetapi tidak melebihi 1 m2
+
+335 5704.90.00 - Lain-lain
+
+336 5705.00.11 - - Babut untuk sembahyang
+
+337 5705.00.19 - - Lain-lain
+
+338 5705.00.29 - - Lain-lain
+
+339 5705.00.91 - - Babut untuk sembahyang
+
+340 5805.00.10 - Dari kapas
+
+341 5805.00.90 - Lain-lain
+
+342 5904.10.00 - Linoleum
+
+343 5904.90.00 - Lain-lain
+
+344 6101.20.00 - Dari kapas
+
+345 6101.30.00 - Dari serat buatan
+
+346 6101.90.00 - Dari bahan tekstil lainnya
+
+347 6102.10.00 - Dari wol atau bulu hewan halus
+
+348 6102.20.00 - Dari kapas
+
+349 6102.30.00 - Dari serat buatan
+
+www.peraturan.go.id

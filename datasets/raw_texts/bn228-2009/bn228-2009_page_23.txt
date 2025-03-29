@@ -1,0 +1,51 @@
+23
+
+2009, No.228
+
+No. URAIAN BARANG POS TARIF
+(1) (2) (3)
+-Kawat dipilin, tali dan kabel : 7312.10
+161 | --Locked coil, flattened strands dan non- 7312.10.10.00
+rotating wire ropes
+162 | --Disepuh atau dilapisi dengan kuningan, dan 7312.10.20.00
+dengan diameter nominal tidak melebihi 3 mm
+163 | --Kawat dipilin dengan diameter kurang dari 7312.10.40.00
+3mm
+164 | --Lain-lain 7312.10.90.00
+165 | -Lain-lain 7312.90.00.00
+Kain (termasuk ban tanpa ujung), anyaman 73.14
+kisi, jaring dan pagar, dari kawat besi atau
+baja; kasa logam dari besi atau baja.
+166 | -Anyaman kisi, jala dan pagar, dilas pada 7314.20.00.00
+bagian silangnya, dari kawat dengan ukuran
+penampang silang maksimum 3 mm atau lebih
+dan mempunyai ukuran mesh 100 cm’ atau lebih
+-Anyaman kisi, jaring dan pagar lainnya, dilas
+pada bagian silangnya :
+167 | --Disepuh atau dilapisi dengan seng 7314.31.00.00
+168 | --Lain-lain 7314.39.00.00
+-Kain, anyaman kisi, jaring dan pagar lainnya:
+169 | --Disepuh atau dilapisi dengan seng 7314.41.00.00
+170 | --Dilapisi dengan plastik 7314.42.00.00
+171 | --Lain-lain 7314.49.00.00
+172 | -Logam bentang 7314.50.00.00
+Paku, pasak, paku payung, corrugated
+nail, paku 73.17
+kokot (selain yang dimaksud pos 83.05)
+dan
+barang semacam itu, dari besi atau baja,
+dengan
+kepala dari bahan lain maupun tidak, tetapi
+tidak termasuk barang seperti itu dengan
+kepala dari tembaga.
+173 | -Paku kawat 7317.00.10.00
+
+Sekrup, baut, mur, sekrup rel, kait sekrup,
+paku keling, pasak, pasak kunci, cincin pipih
+(termasuk cincin pipih pegas) dan barang
+semacanmn itu, dari besi atau baja.
+
+-Barang berulir :
+
+73.18
+

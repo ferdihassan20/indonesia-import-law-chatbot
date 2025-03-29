@@ -1,0 +1,56 @@
+“17- 2018, No.1406
+
+Angka (3) Diisi tanggal surat permohonan perusahaan saat mengajukan
+permohonan Valuation Advice.
+
+Angka (4) Diisi nama perusahaan yang mengajukan permohonan Valuation
+Advice.
+
+Angka (5) Diisi alamat perusahaan.
+
+Angka (6) Diisi nama penanggung jawab/pimpinan perusahaan.
+
+Angka (7) Diisi nomor telepon perusahan yang dapat dihubungi.
+
+Angka (8) Diisi nomor faksimile perusahaan yang dapat dihubungi.
+
+Angka (9) Diisi email perusahaan atau pihak perusahaan yang menangani
+permohonan.
+
+Angka (10) : Diisi nomor Nomor Pokok Wajib Pajak (NPWP) perusahaan yang
+telah mendapatkan nomor identitas dalam rangka akses
+kepabeanan.
+
+Angka (11) : Diisi nama dan uraian jenis barang secara detail.
+
+Angka (12) : Diisi dengan lengkap dan jelas merek, tipe atau model.
+
+Angka (13) : Diisi negara asal barang akan diimpor.
+
+Angka (14) : Diisi pelabuhan muat barang akan diimpor.
+
+Angka (15) : Diisi rencana jumlah pengapalan atas barang yang akan
+diimpor.
+
+Angka (16) : Diisi nama identitas penjual/ supplier.
+
+Angka (17) : Diisi alamat penjual/ supplier.
+
+Angka (18) : Diisi nama rencana pelabuhan pemasukan tempat penyerahan
+pemberitahuan pabean.
+
+Angka (19) s.d. (20) : Diberi tanda check (V) sesuai dengan kondisi
+
+transaksi yang sebenarnya.
+
+Angka (21, 23, 25, dan 27) : Diisi sesuai dengan gambaran/fakta
+
+transaksi sebenarnya menurut Importir.
+
+Angka (22, 24, 26, dan 28) : Diisi sesuai dengan penjelasan gambaran/
+
+fakta transaksi sebenarnya menurut Importir.
+
+Angka (29) : Diisi sesuai dengan gambaran/fakta (flow chart dan narasi)
+
+mekanisme transaksi jual beli yang dilakukan Importir.

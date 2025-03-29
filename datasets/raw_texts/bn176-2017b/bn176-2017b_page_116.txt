@@ -1,0 +1,166 @@
+2017, No.176
+
+-276-
+
+Pos Tarif
+pentany Uraian Barang
+(2) {3) = ae
+3303 [3908.10.90 _|-- Lain-tain >= Other
+3304 |3908.90.00 |. Lain-Iain - Other
+139,09 |Amino-resin, resin fenolik dan polfuretan, dalam |Amino-resins, phenolic resins and
+bentuk asal. polyurethanes, in primary forms.
+3909.10 + Resin urea, resin tiourea ; - Urea resins; thiourea resins :
+3308 }3909,10.10 Kompon untuk dicetak |- - Moulding compounds
+3306 ]3909.10.90 Lain-lain - - Other
+/3909.20 - Resin melamin : - Melamine resins =
+3307 [3909.20.10 _|-- Kompon untuk dicetak - = Moulding compounds
+3308 |3909,20.90 |. - Lain-lain - « Other
+- Amino-resin lainnya : - Other amino-resins =
+3309 }3909.31.00 _|- - Poli(metilena fenil isosianat} (crude MDI, polymeric MD} |- - Poly(methylene phenyl isocyanate) (erude
+MDI, polymeric MDI}
+~~ Lain-lain = >= Other =
+3310 {3909.39.10 |- - - Kompon untuk dicctak - - - Moulding compounds
+- Lain-lain : Other
+3311 [3909.39.91 ~- Resin glioksal monourein Glyoxal monourein resin
+3312 [3909.39.99 - Lain-lain + - -- Other
+3909.40 - Resin fenalik : - Phenolic resins :
+3313 [3909.40.10 |-- Kompon untuk dicetak selain dari fenol formaldehida —_|- - Moulding corspounds ether than phenol
+formaldehyde
+3314 |3909.40.90 _|-- Lain-tain - - Other
+9915 |3909,50.00_|- Poliuretan - Polyurethanes
+139.10 [Silicon datam bentuk asal. [Silicones in primary forms.
+3316 {3910.00.20 _|- Dalam dispersi dan larutan + in dispersion and in solutions
+3317 [3910.00.90 |- Lain-ain - Other
+139.12 \Resin petroleum, resin kumaron-indena, politerpena, _| Petroleum resins, coumarone-indene
+ipolisulfida, polisulfon dan produk lain dirinci dalam _ resins, polyterpenes, polysulphides,
+[Catatan 3 pada Bab ini, tidak dirinci atau termasuk —_| polysulphones and other products
+jdalam pos manapun, dalam bentuk asal. lspecified in Note 3 to this Chapter, aot
+Jclsewhere specified or included, in
+[primary forms.
+3318 [3911.10.00 _ ]- Resin petrofeum, resin kumaron, resin indena atau resin |- Petroleum resins, coumarone, indene or
+kumaron-indena, dan politerpena lcoumarone-indene resins and polyterpenes
+3319 ]3911.90.00 ]- Lain-tain - Other
+39.22 [Selulose dan turunan kimianya, tidak dirinc! atau (Cellulose and its chemical derivatives, not|
+ltermasuk dalam pos manapun, dalam bentuk asal. lelsewhere specified or included, in
+primary forms.
+‘Sclulosa asctat : - Cellulose acetates ;
+3320 |3912.11.00 | - Tidak diplastisasi - - Non-plasticised
+3321 |3912.12.00 Diplastisasi - - Plasticised
+9912.20 - Selulosa nitrat (termasuk koledion) : - Cellulose nitrates (inciuding collodions) :
+- - Tidak diplastissi ~ Non-plasticised :
+3322 [3912.20.11 - Nitroselulosa berbahan dasar air setengah jadi Water-based semi-finished nitrocellulose
+3323 |3012.20.19 + Lain-tain Other
+3324 |3912.20.20 Diplastisasi - » Plasticised
++ Selulosa eter =
+3325 3912.31.00 |. - Karboksimetilselulosa dan garamnya
+$326 |3912.39.00 |. - Lain-lain
+3912.90 - Lain-lain :
+9327 |3012.90.20 |. - Dalam bentuk butiran ~- Inv the form of granules
+3328 |3912.90.90 |. - Lain-lain + Other
+139.13 Polimer alam (misalnya, asam alginat) dan polimer jatural polymers (for example, alginic
+Jalam yang dimodifikesi (misalnya protein dikeraskan, acid) and modified natural polymers (for
+turunan kimia dari learct alam), tidak dirinei atau
+termasuk dalam pos manapun, dalam bentuk asal.
+3329 |3919,10,00 __|- Asam alginal, garam dan estemya + Alginic acid, its salts and esters
+3913.90 - Lain-lain : - Other =
+3330 [3913.90.10 |- - Protein dikeraskan - Hardenedl proteins
+3331 ]2913.90.20  |-- Turunan kimia dari karet alam - - Chemical cerivatives of natural rubber
+3332 {3913.90.30 |- - Polimer dengan bahan dasar pati - - Starch-based polymers
+3333 |3013.90.90 |. - Lain-lain -- Other
+3334 |9914.00.00 | Penukar ion dibuat dari pollmer pos 39.01 sampai Ton-exchangers based on polymers of
+dengan 39.13, dalam bentuk asal. headings 39.01 to 39.13, in primary
+forms.
+‘SUB-BAB I |SUB-CHAPTER 11
+SISA, REJA DAN SKRAP; SEMI-MANUFAKTUR; BARANG |WASTE, PARINGS AND SCRAP; SEMI-
+MANUFACTURE; ARTICLES
+39.15 /Sisa, reja dan skrap, dari plastile. Waste, parings and serap, of plastics.
+3915.10 ~ Dari polimer etitena - Of polymers of ethylene =
+3335 [3915.10.10 |- - Dari produk seluler yang tidak kaku Of non-tigid cellular products
+3336 [3915.10.90 |-- Lain-lain Other
+3915.20 - Dari polimer stirena : - Of polymers of styrene :
+3937 [3915.20.10 _|- - Dari produk seluler yang tidak keku Of non-rigid cellular products
+3338 [3915.20.90 |-- Lain-lain Other
+- Dari polimer vinil klorida : - Of polymers of vinyl chloride :
+3339 Dari produk seluler yang tidak kitku ~~ Of non-rigid cetlular products
+3340 Lain-lain - + Other
+3341 - Dari plastik fainnya - Of other plastics
+
+3916.10
+3342 [3916.10.10
+3343 [3916.10.20
+
+/Monofilamen yang setiap penampang silangnya
+melebihi 1 mm, berbentuk batang keeil, stik dan profil,
+yang permukaannya dikerjakan maupun tidak tetapi
+tidak dikerjakan secara lain, dari plastik.
+
+~ Dari potimer etilena :
++» Monofilamen
+
+~~ Berbentuk batang kecil, tongkat dan profil
+
+Monofilament of which any cross-
+‘sectional dimension exceeds 1 mm, rods,
+isticks and profile shapes, whether or not
+surface-worked but not otherwise worked,
+of plastics.
+
+- OF polymers of ethylene :
+
+Monofilament
+
+- = Rods, sticks and profile shapes
+
+5.0%
+
+5,0%
+5,0%
+
+5.0%
+
+5,0%
+
+5.0%
+5.0%
+
+50%
+
+50%
+
+5.0%
+50%
+
+5.0%
+
+5.0%
+5,0%
+
+5.0%
+5,0%
+
+5,0%
+5,0%
+
+5,0%
+
+5,0%
+5.0%
+
+5,0%
+5.0%
+10,0%
+
+5,0%
+5,0%
+
+50%
+5.0%
+
+5.0%
+5,0%
+5,0%
+
+5.0%
+5.0%.
+
+www.peraturan.go.id

@@ -1,0 +1,67 @@
+2021, No.152
+
+-10-
+
+13. | 7208.40.00 - Tidak dalam gulungan, tidak dikerjakan lebih lanjut
+selain dicanai panas, dengan pola relief
+
+14. | 7208.51.00 - - Dengan ketebalan melebihi 10 mm
+
+15. | 7208.52.00 - - Dengan ketebalan 4,75 mm atau lebih tetapi tidak
+melebihi 10 mm
+
+16. | 7208.53.00 - - Dengan ketebalan 3 mm atau lebih tetapi kurang
+dari 4,75 mm
+
+17. | 7208.54.10 - - - Mengandung karbon kurang dari 0,6 % menurut
+beratnya dan dengan ketebalan 0,17 mm atau kurang
+
+18. | 7208.54.90 - - - Lain-lain
+
+19. | 7208.90.10 - - Bergelombang
+
+20. | 7208.90.20 - - Lain-lain, mengandung karbon kurang dari 0,6 %
+menurut beratnya dan dengan ketebalan 0,17 mm atau
+kurang
+
+21. | 7208.90.90 - - Lain-lain
+
+22. | 7209.15.00 - - Dengan ketebalan 3 mm atau lebih
+
+23. | 7209.16.10 - - - Dengan lebar tidak melebihi 1.250 mm
+
+24. | 7209.16.90 - - - Lain-lain
+
+25. | 7209.17.10 - - - Dengan lebar tidak melebihi 1.250 mm
+
+26. | 7209.17.90 - - - Lain-lain
+
+27. | 7209.18.91 - - - - Mengandung karbon kurang dari 0,6 % menurut
+beratnya dan dengan ketebalan 0,17 mm atau kurang
+
+28. | 7209.18.99 - - - Lain-lain
+
+29. | 7209.25.00 - - Dengan ketebalan 3 mm atau lebih
+
+30. | 7209.26.10 - - - Dengan lebar tidak melebihi 1.250 mm
+
+31. | 7209.26.90 - - - Lain-lain
+
+32. | 7209.27.10 - -- Dengan lebar tidak melebihi 1.250 mm
+
+33. | 7209.27.90 - - - Lain-lain
+
+34. | 7209.28.10 - - - Mengandung karbon kurang dari 0,6 % menurut
+beratnya dan dengan ketebalan 0,17 mm atau kurang
+
+35. | 7209.28.90 - - - Lain-lain
+
+36. | 7209.90.10 - - Bergelombang
+
+37. | 7209.90.90 - - Lain-lain
+
+38. | 7210.11.10 - - - Mengandung karbon 0,6 % atau lebih menurut
+beratnya
+
+39. | 7210.11.90 - - - Lain-lain
+

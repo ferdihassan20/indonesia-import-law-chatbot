@@ -1,0 +1,78 @@
+-41-
+
+PETUNJUK PENGISIAN
+
+Nomor (1) : diisi nama Kantor Wilayah Direktorat Jenderal Bea dan Cukai,
+dalam hal importasi melalui Kantor Pengawasan dan Pelayanan
+Bea dan Cukai.
+
+Nomor (2) : diisi nama dan tipe Kantor Pelayanan Utama Bea dan Cukai,
+dalam hal importasi melalui Kantor Pelayanan Utama Bea dan
+Cukai.
+
+Nomor (3) : diisi nama kantor dan tipe Kantor Pengawasan dan Pelayanan
+
+Bea dan Cukai. (Tidak perlu diisi dalam hal importasi melalui
+Kantor Pelayanan Utama).
+
+Nomor (4) : diisi nomor Keputusan Menteri mengenai pemberian izin
+penggunaan Jaminan tertulis.
+
+Nomor (5) : diisi nama instansi/importir/perusahaan yang diberikan izin
+menggunakan Jaminan tertulis.
+
+Nomor (6) : diisinomor surat pengajuan izin penggunaan Jaminan tertulis.
+
+Nomor (7) : diisi tanggal, bulan. dan tahun surat pengajuan izin
+penggunaan Jaminan tertulis.
+
+Nomor (8) : diisi nomor Peraturan Menteri mengenai Jaminan dalam
+rangka kegiatan kepabeanan dan cukai.
+
+Nomor (9) : diisi Nomor Pokok Wajib Pajak (NPWP)
+instansi/importir/perusahaan. Hanya diisi bila ada
+
+Nomor (10) : diisi alamat lengkap instansi/importir/perusahaan yang
+
+melakukan importasi.
+Nomor (11) : diisi kegiatan kepabeanan yang dilakukan oleh instansi/
+importir/perusahaan yang menerbitkan Jaminan Tertulis.
+
+Contoh: impor sementara, rush handling.
+Nomor (12) : diisijenis, nomor, tanggal, bulan, dan tahun dokumen sumber
+sebagai dasar diserahkannya Jaminan.
+Contoh: dalam hal instansi/importir/perusahaan
+melakukan kegiatan impor sementara dokumen
+sumber: Izin impor sementara nomor
+
+1812/KM.4/2021 tanggal 18 Desember 2021
+Nomor pengajuan PIB: 070100-000001-20101226-
+000105
+
+Nomor (13) : diisi tanggal, bulan, dan tahun mulai diberikannya izin
+penggunaan Jaminan tertulis.
+
+Nomor (14) : diisi tanggal, bulan, dan tahun berakhirnya izin penggunaan
+Jaminan tertulis.
+
+Nomor (15) : diisi pihak-pihak yang berhak menerima salinan Keputusan
+Menteri mengenai pemberian izin penggunaan Jaminan
+Tertulis.
+
+Nomor (16) : diisi tempat ditetapkannya Keputusan Menteri mengenai
+pemberian izin penggunaan Jaminan tertulis.
+
+Nomor (17) : diisi tanggal, bulan, dan tahun Keputusan Menteri mengenai
+pemberian izin penggunaan Jaminan tertulis.
+
+Nomor (18) : diisi nama jabatan Pejabat Bea dan Cukai yang
+menandatangani Keputusan Menteri mengenai pemberian izin
+penggunaan Jaminan tertulis.
+
+Nomor (19) : diisi nama Pejabat Bea dan Cukai yang menandatangani surat
+Keputusan Menteri mengenai pemberian izin penggunaan
+Jaminan tertulis.
+
+in
+
+jdih.kemenkeu.go.id

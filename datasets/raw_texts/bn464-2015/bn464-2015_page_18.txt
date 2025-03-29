@@ -1,0 +1,46 @@
+18
+
+2015, No.464
+
+Petunjuk Pengisian:
+
+1, Diisi dengan Nomor Surat Permohonan
+2. Diisi dengan Tanggal Surat Permohonan.
+
+3. dengan Nomor XMK yang ditetapkan untuk perusahaan terkait
+
+4. Diisi dengan Nomor RIB yang diubai dan telah mendapatkan KMK
+
+5. _Diisi dengan nama pernsahaan
+
+6, Diisi dengan Nomor Pokok Wajib Pajak (NPWP) perusahaan
+
+7.  Diisi dengan alamat perusahaan sesuai NIK
+
+8. dengan Kurs NDPBM yang berleku pada tanggal surat permobonan
+9. i uraian perubahan selain jumlah barang dan nilai impor
+
+10. Diisi sesnai dengan nomor urut RIB yang dilakukan perubahan
+i jumlah barang dalam satuan te-tenty
+
+12. Diisi dengan perkiraan Nilai Impor dalam mata uang asing dengan incoterm C&F atau CIF
+18. Diisi sesnai dengan RIB yang dilalcakan perubahan
+
+14. Diisi sesuai dengan RIB perubahan
+
+dengan hal-hal yang belum tercakup
+
+16. Diisi nomor persetujuan dan penandasahan oleh Direktur Jenderal Ketenagalistrikan, Kementerian Energi dan Sumber Daya Alam
+17. Diisi tanggal persetajuan dan penandasahan oleh Direktur Jenderal Ketenagalistrikan, Kementerian Energi dan Sumber Daya Alam
+
+18. Diisi nama Direktur Jenderal Ketenagalistrikan, Kementerian Energi dan Sumber Daya Alam yang memberikan persetujuan dan penandasahan
+19, Diisi NIP Direktur Jenderal Ketenagalistrikan, Kementerian Energi dan Sumber Daya Alam yang memberikan persetujuan dan penandasahan
+
+dengan nama direksi perusahacn yang tercantum, dalam API/APL-P/APE-T
+
+dengan nomor dan tanggal pengesahan dari Direktur Jenderal Ketenagalistrikan, Kementerian Energi dan Sumber Daya Alam
+
+MENTER] KEUANGAN REPUBLIK INDONESIA,
+
+BAMBANG P.S. BRODJONEGORO
+

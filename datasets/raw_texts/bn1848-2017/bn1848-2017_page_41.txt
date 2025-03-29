@@ -1,0 +1,104 @@
+“AL 2017, No.1848
+
+[No [POS TARIF/HS URAIAN BARANG KETERANGAN,
+
+[423.82 -- Mempunyai kapastitas timbang maksimum melebiht
+30 kg tetapi tidak melebihi 5.000 kg:
+pu] 8423.89.10 - - - Dioperasikan secara elektrik
+
+Katrol dan kerekan, selain kerekan skip; derek dan
+kapstan; dongkrak.
+
+- Katrol dan kerekan selain kerekan skip atau kerekan
+dari jenis yang digunakan untuk mengangkat
+Ikendaraan:
+
+-—Digerakkan dengan motor listrik
+
+F Derek; kapstan:
+[13 [8425.31.00 - - Digerakkan dengan motor listrik
+
+- Dongkrak; kerekan dari jenis yang digunakan untuk
+Imengangkat kendaraan:
+
+Ga > Lain-lain:
+
+- - - Dioperasikan secara elektrik
+
+Derek kapal; crane termasuk crane kabel; rangka
+pengangkat yang dapat berpindah, straddle carrier
+Jdan truk kerja yang dilengkapi crane.
+
+- Overhead traveling crane, transporter crane, gantry
+crane, bridge crane, rangka pengangkat yang dapat
+berpindah dan straddle carrier:
+
+15 - = Rangka pengangkat yang dapat berpindah dengan
+jroda dan straddle carrier
+
+| __ [8426.19 - - Lain-lain’
+16 [8426.19.30 - == Gantry crane
+17 [8426.19.90 > ~~ Tain-lain
+[38 | 8426.20.00 - Tower crane
+[| |- Mesin lainnya, berdaya gerak sendiri:
+8426.41.00 -- Dengan roda
+8426.91.00 -—Dirancang untuk dipasang pada kendaraan darat
+Truk forklift; truk kerja lainnya yang dilengkapi
+dengan perlengkapan pengangkat atau penanganan.
+> Truk bendaya gerak sendiri yang digerakkan dengan __ [Forklift digerakkan dengan
+motor listrik
+
+Ez
+5
+g
+iy
+
+- Truk berdaya gerak sendiri lainnya Tidak termasuk Forklift yang
+Jdigerakkan dengan engine
+motor listrik dengan operating
+
+5 Ton atau lebih tetapi
+elebihi 5 Ton
+
+Buldoser, angledoser, mesin perata, mesin pengikis,
+
+shovel mekanik, eskavator, shovel loader, mesin
+lpemadat dan mesin gilas jalan, berdaya gerak sendiri.
+
+- Buldoser dan angledoser:
+
+Track laying [Kecuali buldozer yang memiliki
+Jdaya 160-250 hp
+ain-lain Kecuali buldozer yang memiliki
+aya 160-250 hp
+- Grader dan mesin perata [Kecuali motor grader yang
+memiliki kapasitas 125-135 hp
+
+> Mesin pemadat dan mesin gilas jalan:
+
+-—Mesin pemadat [Kecuali Road roller yang
+memiliki berat 10-15 ton
+
+-— Vibratory smooth drum roller, dengan gaya sentrifugal|Kecuali Road roller yang
+drum tidak melebihi 20 t berdasarkan berat Imemiliki berat 10-15 ton
+
+Vibratory road roller lainnya [Kecuali Road roller yang
+memiliki berat 10-15 ton
+
+>= Tain-lain Kecuali Road roller yang
+memiliki berat 10-15 ton
+
+- Sekop mekanik, ekskavator dan shovel loader:
+
+>= Front-end shovel loader Kecuali excavator yang
+memiliki daya 70-325 hp
+
+-~ Mesin yang berputar 360° diatas dasarnya Kecuali excavator yang
+memiliki daya 70-325 hp
+
+IMesin pengolah, grading, perata, pengikis, penggali,
+pemadat, perapi, pengaduk atau pengebor lainnya,
+luntuk tanah, mineral atau bijih; pemancang tiang
+dan pemancang bor; bajak salju dan blower salju.
+
+www.peraturan.go.id

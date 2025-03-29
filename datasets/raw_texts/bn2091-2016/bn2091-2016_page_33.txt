@@ -1,0 +1,55 @@
+-33-
+
+18 | 7225.91.10.00 - - - Dari baja high specd
+19 7225.91.90.00 - - - Lain-lain
+7225.92 - - Disepuh atau dilapisi secara lain dengan seng:
+20 7225.92,10.00 - - - Dari baja high speed
+21 | 7225.92.90.00 - - - Lain-lain
+7225.99 - - Lain-lain:
+22 | 7225.99,10.00 - - - Dari baja high speed
+23 | 7225.99.90.00 - - - Lain-lain
+72.26 Produk canai lantaian dari baja paduan lain-nya,
+dengan lebar kurang dari 600 mm.
+- Dari baja silikon listrik:
+7226.11 - - Grain-oriented:
+24 | 7226.11.10.00 - - - Simpai dan strip, dengan lebar tidak melebihi
+400 mm
+25 7226.11.90.00 - - - Lain-lain
+7226.19 - - Lain-lain:
+26 | 7226.19.10.00 - - - Simpai dan strip, dengan lebar tidak melebihi
+400 mm
+27 7226.19.90.00 - - - Lain-lain
+72.26.20 - Dari baja high speed:
+28 | 7226.20.10.00 - - Simpai dan strip, dengan lebar tidak melebihi 400
+mm
+29 7226.20.90.00 - - Lain-lain
+- Lain-lain:
+7226.91 - - Tidak dikerjakan lebih lanjut selain dicanai
+panas:
+30 | 7226.91.10.00 - - - Simpai dan strip, dengan lebar tidak melebihi
+400 mm
+31 7226.91.90.00 - - - Lain-lain
+7226.92 - - Tidak dikerjakan lebih lanjut selain dicanai dingin
+(cold-reduced):
+32 7226.92.10.00 - - - Simpai dan strip, dengan lebar tidak melebihi
+400 mm
+33 | 7226.92.90.00 - - - Lain-lain
+7226.99 - - Lain-lain:
+- - - Simpai dan strip, dengan lebar tidak melebihi
+400 mm:
+34 | 7226.99.11.00 - - - - Disepuh atau dilapisi dengan seng
+35 | 7226.99.19.00 - - - - Lain-lain
+- - - Lain-lain:
+36 | 7226.99.91.00 - - - - Disepuh atau dilapisi dengan seng
+37 7226.99.99,00 - - - - Lain-lain
+72.27 Batang dan batang kecil, dicanai panas, dalam
+gulungan yang putarannya tidak beraturan, dari
+baja paduan lainnya.
+338 7227.10.00.00 - Dari baja high speed
+39 | 7227.20.00.00 - Dari baja silikon-mangan
+40 7227 .90.00.00 - Lain-lain
+
+www.peraturan.go.id
+
+2016, No. 2091
+

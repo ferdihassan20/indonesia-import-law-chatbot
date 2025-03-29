@@ -1,0 +1,333 @@
+2017, No.176
+
+7432
+
+7433
+7434
+
+7435
+7436
+
+7437
+7438
+
+7439
+
+7440
+
+7441
+7442
+THI
+aH
+7445
+
+7436
+
+a7
+7448
+
+7449
+7450
+
+7451
+7452
+
+7453
+7454
+7495
+7456
+
+7457
+7458
+
+7959
+
+7460
+7461
+
+7402
+7403
+
+7364
+7465
+7466
+
+7467
+
+7468
+7469
+
+-386-
+
+== Aparatus untuk aplikasi filmy kering atau foto resisi cai,
+Japisan peka cahaya, pasta sokier, bahan solder atau
+jadhesif pada printed circuit board atau printed wiring
+board atau komponennya
+
+8420.10.20 _|- - Untuk mestn penyetrika atau pemeras cocok untuk
+
+ikeperiuan rumah tangga
+8420.10.90 |- - Lain-tain
+Bagian :
+8420.91 Silinder :
+8420.91.10 ~ Hagian dari barang pada subpos 8420.10.10
+8420.91.90 + Lain-lain
+[3420.99 ~ Lain-lain :
+18420,99.10 _|-- - Bagian dari barang pada subpos 8420.10.10
+1420.99.90 |-- - Lain-lain
+[54.23 |Mesin sentrifugal, termasuk pengering sentrifugal;
+‘mesin dan aparatus penyaring atau pemurni, untuk
+icairan atau gas.
+- Mesin sentrifugal, termasuk pengering sentrifugal =
+8421.11.00 |-- Pemisan krim
+8421.12.00 | - Pengering pakaian
+8421.19 = Lain-lain :
+8421.19.10 }-~~ Dari jenis vang digunakan dalam pembuatan gula
+8421.19.90 |-- - Lain-tain
+}- Mesin dan aparatus penyaring atau pemurai untuk
+leairan :
+8421.21 >> Untuk penyaringan atau pemurnian alr :
++ « Dengan kapasitas tidak melebihi 500 liter/jam :
+8421.21.11 |-~. - Mesin dan aparatus penyaring untuk keperluan
+rumah tangga
+8421.21.19 - Lain-lain
+* Dengan kapasitas melebihi 500 liter/jam :
+8421.21.22 ~ Dioperasikan secara clektrik
+B421.21.23 - Tidak dioperasikan secara clektrik
+B421.22 -- Untuk penyaringan atau pemurian minuman selain air
+8421.22.30 _|-- - Dioperasikan secara elektrik, dengan kapasitas
+melebihi 500 liter/jam
+8421.22.00
+8421.23 |. - Penyaring oli atau bahan bakar minyal untuk mesin
+pembakaran dalam :
+--- Untuk mesin dari pos 84.29 atau 84.30 :
+8421.23.11
+1421.23.19
+1421.23.21
+8421.23.29
+8421.23.91 ~ Penyaring oli
+8421.23.90 ~ Lain-tain
+8421.29 Lain-tai
+8421.29.10 - Dari jenis yang cocok untuk kepertuan medis, bedah
+jatats Iaboratorium
+8421.29.20 |--- Dari jenis yang digunakan untuk pembuatan gula
+8421.29.30 |-- - Dari jenis yang digunakan untuk operasi pengeboran
+inyak
+8421.29.40 |- > - Lain-lain, penyaring bahan bakar minyak
+8421.29.50 + Lain-lain, penyaring oli
+8421.29.90 ~ Lain-lain
+- Mesin dan aparatus penyaring atau pemurnian untuk
+8421.31. F peieciag udara masuk untuk mesin pembakaran
+Jala :
+8421.31.10 |--- Untuk mesin dari pos 84.29 atau 84.30
+3421.31.20 » Untuk kendarian bermotor dari Bab 87
+8421.31.90 + Lain-lain
+8421.39 - = Lain-tain :
+18421.39.20 + Pemurni udara
+[8421.39.90 |--- Lain-lain
+- Bagian :
+421.91 - - Dart mesin sentrifugal, termasuk pengering sentrifugal :
+
+8421.91.10
+8421.91.20
+8421.91.90
+
+~ Dari barang pada subpos 8421,12.00
+~ Dari barang pada subpos 8421.19.10
+Dari barang pada subpos 8421.11.00 atau 8421.19.90
+
+- -- Cartridge penyaring untuk penyaring dari subpos
+8421.23:
+Untuk subpos 8421.23.11 atau 8421.23.21
+
+Lain-tain
+~ Dari barang pada subpos 8421.31
+= Lain-jnin =
+
+{ay
+== Apparatus for the application of dry fim
+
+solucring pastes, solder or adhesive
+materials on printed circuit boards or
+printed wiring boards or their components
+
+Ironing machines or wringers suitable for
+
+- - Cylinders ;
+Of goods of subheading 8420.10.10
++ - = Other
+- = Other :
+Of gonds of subheading 8420.10.10
+
+- Centrifuges, including centrifugal dryers :
+
+|. - Cream separators
+- - Clothes-dryers
+-- - Of a kind used for sugar manufacture
+
+|- ~~ Other
+
+- Filtering or purifying machinery and
+Japparatus for liquids ;
+
+- - For filtering or purifying water ;
+
+- - - Of a capacity not exceeding 500 I/h ;
+
+~~ + - Piltering machinery and apparatus for
+domestic use
+
+= Other
+
+Of a capacity exceeding 500 1/h ;
+
++ Electrically operated
+
+~ Not electrically operated
+
++ For filtering or purifying beverages other
+than water :
+
+- = = Electrically operated, of a capacity
+Jexceeding S00 I/h
+
+Other
+
++ Oil oF petrol-filters for internal
+combustion engines :
+
+|. - - For machinery of heading 84.29 or
+84.30 +
+
+- Oil filters
+
+- Other
+
+For motor vehicles of Chapter 87 :
+
+- Oil Gites:
+
+- Owner
+
+Other :
+
+> Oil filters
+
+«Other
+
+- Other :
+
+Of a kind suitable for medical, surgical
+lor laboratory use
+
+++ Of a kind used for sugar manufacture
+
+-- - Of a kind used (n oil drilling operations
+
+- - - Other, petrol filters:
+
+Other, oil filters
+
+Other
+
+» Filtering or purifying machinery and
+Japparatus for gases ;
+
+Intake air filters for internal combustion
+engines :
+
+~~ Por machinery of heading 84.29 or
+84,30
+
+For motor vehicles of Chapter 87
+Other
+
+~ Other:
+
+Air purifiers.
+
+Other
+
+~ Parts :
+
+Of centrifuges, including centrifugal
+dryers :
+
+‘Of goods of subheading 8421.12.00
+
+Of goods of subheading 8421.19.10
+Of goods of subheading 8421.11.00 or
+}#421.19,90
+
+Other :
+
+Filtering cartridges for filters of
+subheading 8421.23 :
+- - -- For subheading 8421.23.11 or
+8421.23.21
+
++ Other
+
+Of goods of subheading 8421.31
+Other:
+
+Jor liquid photo resist, photo-scnsitive layers,
+
+12,5%
+
+5,0%
+5.0%
+5,0%
+
+5,0%
+5,0%
+
+5,0%
+50%
+
+5.0%
+
+5,0%
+
+5,0%
+
+5.0%
+
+5.0%
+5,0%
+
+5,0%
+5,0%
+
+5.0%
+5,0%
+
+5.0%
+5.0%
+
+5.0%
+5.0%
+5.0%
+5.0%
+
+5,0%
+5,0%
+
+5,0%
+
+0.0%
+5.0%
+
+0,0%
+5,0%
+
+5.0%
+50%
+5.0%
+
+0.0%
+
+00%
+00%
+
+www.peraturan.go.id

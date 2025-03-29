@@ -1,0 +1,42 @@
+2011, No.420
+
+10
+
+TERMASUK
+NO. URAIAN BARANG SPESIFIKASI DALAM POS
+TARIF
+14. | Hot rolled steel plate 4,75 mm < Tebal < 10 mm, 7208.52.00.00
+Lebar = 600 mm
+15. | Hot rolled steel plate 3 mm Ss Tebal < 4,75 mm, 7208.53.00.00
+Lebar = 600 mm
+16. | Cold rolled steel sheet in coil 05 mm < Tebal < 1 mm,|_ 7209.17.00.10
+600 mm < Lebar < 1.250 mm
+17. | Cold rolled steel sheet in coil 017mm < Tebal < 0,5 mm, 7209.18.90.00
+600 mm < Lebar < 1.250 mm
+18. | Galvanized steel sheet Tebal < 1,5 mm 7210.49.20.00
+19. | Galvanized steel sheet Tebal > 1,5 mm 7210.49.90.00
+20. | PCM (Pre-coated Color Metal), | Tebal < 1,50 mm, Lebar = 600 7210.70.10.00
+VCM (Vinyl Coated Metal) mm
+21. | PCM (Pre-coated Color Metal), |0,15 mm < Tebal < 0,5 mm,| 7212.40.90.00
+VCM (Vinyl Coated Metal) Lebar < 600 mm
+22. | Cold rolled stainless steel sheet 400 mm < Lebar < 600 mm 7220.20.90.00
+23. | Copper nickel alloy wire Diameter 0,2 mm 7408.22.00.00
+24. | Tinned copper foil 0,003 mm < Tebal < 0,005 mm, | 7410.12.00.00
+0,05 mm < lebar < 0,25 mm
+25. | Copper tube 0,5 mm < Diameter < 1 mm,| _ 7411.10.00.00
+Tebal < 1,5 mm
+26. | Alumunium non alloy sheet 0,2 mm < Tebal < 1,5 mm 7606.91.20.00
+27. | Alumunium alloy sheet 0,2 mm < Tebal < 1,5 mm 7606.92.30.20
+28. | Alumunium foil Tebal < 0,2 mm, in rolled 7607.11.00.00
+29. | Aluminium non alloy pipe 0.2 mm s Tebal < 1,5 mm,| 7608.10.00.00
+2mm < Diameter < 15 mm
+30. | Aluminium alloy pipe 0,2 mm < Tebal < 1,5 mm,| 7608.20.00.00
+2mm < Diameter < 15 mm
+31. | Nikel Plated Steel (NPS) wire of | 04mm < Diameter < 0,6 mm 7806.00.20.00
+alloy steel
+32. | Tungsten wire - 8101.96.00.00
+33. | Oiless bearing Untuk kipas angin, kipas| 8482.80.00.00
+
+ventilasi
+
+www.djpp.kemenkumham.go.id

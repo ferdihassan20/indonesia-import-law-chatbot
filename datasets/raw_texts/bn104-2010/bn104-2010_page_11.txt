@@ -1,0 +1,33 @@
+11
+
+2010, No.104
+
+No. URAIAN BARANG SPESIFIKASI TERMASUK
+DALAM POS
+TARIF
+44. | Copper Pipes Refined Copper 7411.10.00.00
+Other than of brass, cupro-nickel & 7411.29.00.00
+nickel-silver
+45. | Pipe Fitting Of refined copper 7412.10.00.00
+Copper alloys of copper-zinc base 7412.20.10.00
+alloys (brass)
+Copper alloys other than of copper- 7412.20.90.00
+zinc base alloys (brass)
+46. | Bars & Rods of Aluminium | Extruded & not surface treated 7604.29.10.10
+Alloy
+47. | Aluminium & Aluminium Alloy | - 7606. 12.39.20
+Sheets
+48. | Aluminium & Aluminium Alloy | - 7606. 12.90.00
+Plates, Strips and Coiled
+49. | Pipes / Tubes Aluminium 7608.10.00.00
+Aluminium Alloys 7608.20.00.00
+Aluminium 7609.00.00.00
+50. | Doors, Windows, Frame & | Aluminium 7610.10.00.00
+accessories
+51. | Ladder Aluminium 7610.90.90.00
+52. | Hatch Deck & Side Scuttless Alummunium 7610.90.90.00
+53. | Joiner, Bulkhead and Lining Partition Connected of Aluminium 7616.99.90.90
+54. | Ship Ratchet Spanners Non-Adjustable 8204.11.00.00
+55. | Multi Core Tube Of Iron or steel 8307.10.00.00
+56. | Ships Boilers - 8403.10.00.00
+

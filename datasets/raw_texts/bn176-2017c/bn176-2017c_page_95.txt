@@ -1,0 +1,420 @@
+-415-
+
+B421
+B422
+8423
+
+B44
+
+8425
+8420
+
+8427
+8428
+
+8429
+8430
+
+8431
+8432
+
+8433
+8434
+
+8435
+
+8436
+8437
+
+8438
+
+8430
+8440
+
+8441
+
+8442
+8443
+
+8451
+
+8452
+8453
+
+8454
+
+8455,
+
+8456
+
+8457
+
+8458
+
+8459
+
+Pos Tarif)
+HS Code
+
+(8504.92.11
+8504.32.19
+8504.32.20
+
+18504,32.30
+
+18504,32,41
+[8504.32.49
+
+(8504.32.51
+8504.32.59
+8504.33
+
+8504.33.11
+8504.33.19
+
+8504.33.91
+8504.33.99
+8504.04
+
+8504.34.
+[8504.34.12
+
+8504.34.13
+
+8504.34.14
+(8504.34.15
+
+[8504.34.16
+
+[8504.34.22
+8504.34.23
+
+8504.34.24
+
+8504.34.25
+8504.34.26
+
+8504.34.29
+8504.40
+
+8504.40.11
+
+8504.40.19
+(8504.40.20
+
+18504.40.30
+8504.40.40
+8504.40.90
+
+8504.50
+8504.50.10
+
+8504.50.20
+8504.50.93
+
+8504.50.99
+
+8504.50.95
+
+18504.90
+
+8504.90.10
+
+8504.90.20
+
+8504.90.31
+
+8504.90.39
+
+2017, No.176
+
+Uraian Barang Description of Goods
+(3) ——(4)_
+> Matching transformer - === Matching transformers
+~ Lain-lain += +» Other
+
+Lain-Jain, dari jenis yang digunakan dengan mainan,
+model skala atau model rekreasi semacam itu
+
+}- - - Lain-lain, mempunyai frekuensi minimum 3 MHz
+
+- - - Lain-tain, dengan kapasitas pengatur daya tidak
+Imelebihi 10 kVA :
+
+- Matching transformer
+
+= Lain-tain
+
+Lain-lain, dengan kapasitas pengatur daya melebihi
+10 kVA:
+
+-- - ~ Matehing transformer
+
+- Lain-lain
+
+- Mempunyal kapasitas pengatur daya melebil
+tetapi tidak melebihi 500 kVA:
+
+16 kVA
+
+J-- - Dengan high side voltage 66 kV atau lebih,
+
+~ Matching transformer
+
+= LainJain
+
+Lain-tain,
+
+- Matching transformer
+
+* Lain-lain
+
+Mempunyai kapasitas pengutur daya melebihi 500 kVA
+
+- - - Mempunyal kapasitas pengatur daya tidak melebihi
+15.000 kVA:
+
+- Mempunyai kapasitas pengatur daya melebibi
+10,000 kVA dan dengan high side voltage 66 kV atau lebih
+
+Matching transformer
+‘Transformer tipe kering tahan ledakan
+
+Lain-lain
+
+= Lain-lain <
+
+Matching transformer
+
+Transformer tipe kering tahan ledakan
+
+Lainlain
+
+Mempunyai kapasitas pengatur daya melebthi 15,000
+VA:
+
+> ~~ = Dengan high side voltage 66 kV atau lebih ;
+
+Matching transformer
+‘Transformer tipe kering tahan ledakan
+
+Lain-lain
+
++ Lain-lain :
+
+Matching transformer
+
+‘Transformer tipe kering tahan ledakan
+
+- - Konverter statik untuk mesin pengolah data otomatis
+dan unitnya, dan aparatus telckomunikasi ;
+
+|.» - Uninterruptible power supplies (UPS)
+
+~~ Lain-lain
+
+- - Battery charger mempunyai kapasitas mlebihi 100
+kva,
+
+- - Rectifier lainnya
+
+- - Inverter
+
+- - Lain-lain
+
+- Induktor Iainnya :
+
+|. - Induktor untuk power supply untuk mesin pengolal
+data otomatis dan unitnya, dan aparatus telekomunikasi
+
+- - Induktor tetap tipe chip
+Lain-lain :
+
+. - - Mempunyai kapasitas pengatur daya tidak melebihi
+2.500 kVA
+
+| - - Mempunyai kapasitas pengaturan daya melebihi
+2.500 kVA tetapi tidak metebihi 10.000 kVA
+
+- - - Mempunyai kapasitas pengaturan daya melebihi
+10.000 kVA
+
+- Printed circuit assembly untuk barang dari subpos
+1504.40, 11, 8504.40.19 atau 8504.50.10
+
+| - Untuk transformator elektrik dengan kapasitas tidak
+Imetebiti 10,000 kVs
+
+Untuk transformator elektrik dengan kapasitas tidak
+imelebili 10.000 kVA :
+
+--- Other, of a kind used with toys, scale
+models or similar recreational models
+
+-~- Other, having a minimum frequency of 3)
+MHz
+- = - Other, of a power handling capacity not
+lexceeding 10 kVA :
+- + + » Matching transformers
+~ = Other
+
+= Other, of a power handling capacity
+lexceeding 10 kVA :
+Matching transformers:
+Other
+- - Having a power handling capacity
+lexceeding 16 kVA but not exceeding 500
+KVA:
+Of « high side voltage of 66 kV or more ;
+
+Maiching transformers
+Other
+
+- Other =
+
+Matching transformers
+
+Other
+
+- - Having a power handling capacity
+Jexceeding 500 kVA :
+
+~~~ Having a power handling capacity not
+lexeeecling 15,000 kVA :
+
+Having a power handling capacity
+lexceeding 10,000 kVA and of a high side
+woltage of 66 kV or more :
+
+~ Matehing transformers
+
+~ Explosion proof dry type transformers|
+
+- Other
+
+Other =
+
++ Matching transformers
+
+~ Explosion proof dry type transformers}
+
++ Other
+
+~~ Having a power handling capacity
+lexceeding 15,000 kVA ;
+
+Of a high side voltage of 66 kV or more.
+
++ Matching transformers
+- Explosion proof dry type transformers|
+
+- Other
+
+Other :
+
++ Matching transformers
+
+~ Explosion proof «iry type transformer:
+
+|- Static converters =
+- - For automatic data processing machines
+land units thereof, and tclecommunications
+lapparatus :
+
+~ = Uninterruptible power supplies {UPS}
+
++ = - Other
++ - Battery chargers having a rating
+jexcecding 100 kVA.
+~ Other rectifiers
+
+- - Inverters
+| - Other
+}- Other inductors :
+|. - Inductors for power supplies for
+automatic data processing machines and
+lunits thereof, and for telecommunications
+lapparatus
+|. - Chip type fixed inductors
+|- - Other :
+- - » Having a power handling capacity not
+jexeceding 2,500 kVA.
+|- - - Having a power handling capacity
+exceeding 2,500 kVA but not exceeding
+10,000 kVA
+
+Having a power handling capacity
+Jexeceding 10,000 kVA
+- Parts
+- - Of goods of subheading 8504.10
++ ~ Printed circuit assemblies for the goods of|
+subheading 8504.40.11, 8504.40.19 or
+8504.50.10
+~~ For electrical transformers of a capacity
+not exceeding 10,000 kVA ;
+- - - Radiator panels; flat tube radintor
+Jasscmblies of a kind used for distribution
+jand power transiormers:
+Other
+- For electrical transformers of a capacity
+
+Jexceeding 10,000 kVA +
+
+10,0%
+10,0%
+
+10,0%
+10,0%
+
+10,0%
+15,0%
+
+10,0%
+10,0%
+
+10,0%
+10,0%
+
+10,0%
+
+10,0%
+10,0%
+
+10,0%
+
+10,0%
+10,0%
+
+10,0%
+
+10,0%
+10,0%
+
+10,0%
+
+5,0%
+
+5.0%
+5.0%
+
+10,0%
+10,0%
+10,0%
+
+5,0%
+
+5.0%
+5.0%
+
+5.0%
+
+5.0%
+
+5.0%
+5.0%
+
+5.0%
+
+5,0%
+
+www.peraturan.go.id

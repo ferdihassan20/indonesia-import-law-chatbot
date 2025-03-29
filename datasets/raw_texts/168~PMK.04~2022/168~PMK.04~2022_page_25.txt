@@ -1,0 +1,63 @@
+-25-
+
+PETUNJUK PENGISIAN
+Nomor (1) : diisi bentuk Jaminan (Jaminan Bank/Bank Garansi, Customs
+Bond, Excise Bond, atau Jaminan Lembaga Pembiayaan Ekspor
+Indonesia).
+Nomor (2) : diisi nomor Jaminan.
+Nomor (3) : diisi nama pejabat yang menandatangani bentuk Jaminan.
+Nomor (4) : diisi nama jabatan pejabat yang menandatangani Jaminan.
+Nomor (5) : diisi nama Penjamin yang menerbitkan Jaminan.
+Nomor (6) : diisi nama kota tempat Penjamin yang menerbitkan Jaminan
+berdomisili.
+Nomor (7) : diisi Nomor Pokok Wajib Pajak (NPWP) Penjamin yang
+menerbitkan Jaminan.
+Nomor (8) : diisi alamat lengkap Penjamin yang menerbitkan Jaminan.
+Nomor (9) : diisi nomor telepon Penjamin yang menerbitkan Jaminan.
+Nomor (10) : diisi alamat email Penjamin yang menerbitkan Jaminan.
+Nomor (11) : diisi nama Terjamin yang dijamin oleh Penjamin.
+
+Nomor (12) : diisi Nomor Pokok Wajib Pajak (NPWP) Terjamin yang dijamin
+oleh Penjamin.
+
+Nomor (13) : diisi alamat Terjamin yang dijamin oleh Penjamin.
+
+Nomor (14) : diisi nomor telepon Terjamin yang dijamin oleh Penjamin.
+Nomor (15) : diisi alamat email Terjamin yang dijamin oleh Penjamin.
+Nomor (16) : diisinama Kantor Bea dan Cukai tempat pemenuhan kewajiban
+
+kepabeanan atau cukai.
+
+Nomor (17) : diisi besaran nilai Jaminan (dengan angka).
+
+Nomor (18) : diisi besaran nilai Jaminan (dengan huruf).
+
+Nomor (19) : diisi kegiatan kepabeanan dan/atau cukai yang dilakukan oleh
+Terjamin, misalnya penundaan pembayaran, pembebasan
+impor tujuan ekspor, impor sementara, atau keberatan.
+
+Nomor (20) : diisi jenis, nomor, tanggal, bulan, dan tahun dokumen sumber
+sebagai dasar diserahkannya Jaminan.
+
+Contoh: dalam hal Terjamin melakukan kegiatan impor
+sementara, dokumen sumber: Izin Impor Sementara
+Nomor 5002/KM.4/2021 tanggal 30 April 2021
+Nomor pengajuan PIB: 070100-000001-20170404-
+000100
+
+Nomor (21) : diisi tanggal, bulan, dan tahun mulai berlakunya produk
+Jaminan. .
+
+Nomor (22) : diisi tanggal, bulan, dan tahun berakhirnya produk Jaminan.
+
+Nomor (23) : diisi nama kota tempat ditandatanganinya produk Jaminan.
+
+Nomor (24) : diisi tanggal, bulan, dan tahun ditandatanganinya produk
+
+, Jaminan.
+
+Nomor (25) : diisi nomor registrasi karyawan atau nomor yang sejenis dari
+pejabat Penjamin sebagaimana dimaksud pada Nomor (3) yang
+menandatangani Jaminan. (Hanya diisi bila ada).
+
+UT nenkeu.go.d

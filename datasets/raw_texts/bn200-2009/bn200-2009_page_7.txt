@@ -1,0 +1,38 @@
+7 2009, No.200
+
+LAMPIRAN
+PERATURAN MENTERI PERDAGANGAN RI
+
+NOMOR —_ : 16/M-DAG/PER/5/2009
+TANGGAL : 1 Mei 2009
+
+DAFTAR HEWAN BABI DAN PRODUK TURUNANNYA
+YANG UNTUK SEMENTARA DILARANG IMPORNYA
+
+No Pos Tarif/HS Uraian Barang
+01.03 Babi, hidup.
+1 | 0103.10.00.00 -Bibit
+-Lain-lain :
+2 | 0103.91.00.00 --Berat kurang dari 50 kg
+0103.92.00.00 --Berat 50 kg atau lebih
+02.03 Daging babi, segar, dingin atau beku.
+-Segar atau dingin :
+4 | 0203.11.00.00 --Karkas dan setengah karkas
+0203.12.00.00 --Paha, bahu dan potongannya, bertulang
+6 | 0203.19.00.00 --Lain-lain
+-Beku :
+0203.21.00.00 --Karkas dan setengah karkas
+0203.22.00.00 --Paha, bahu dan potongannya, bertulang
+0203.29.00.00 --Lain-lain
+Sisa yang dapat dimakan dari binatang jenis lembu,
+02.06 babi, biri-biri, kambing, kuda, keledai, bagal atau hinnie,
+segar, dingin atau beku
+10 | 0206.30.00.00 -Dari babi, segar atau dingin
+-Dari babi, beku:
+11 | 0206.41.00.00 --Hati
+12 | 0206.49.00.00 --Lain-lain
+Bulu dan bulu kasar dari babi, babi ternak atau babi
+05.02 hutan; bulu berang-berang dan bulu binatang lainnya
+yang dapat dibuat sikat; sisa dari bulu dan bulu kasar
+semacam itu.
+

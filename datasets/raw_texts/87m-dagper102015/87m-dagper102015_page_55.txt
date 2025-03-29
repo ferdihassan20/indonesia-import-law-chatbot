@@ -1,0 +1,33 @@
+-42-
+
+ain,
+
+-- Bukan rajutan atau kaitan, dari bahan tekstil
+6304.99.00.00 .
+lainnya
+Kantong dan karung, dari jenis yang
+digunakan untuk membungkus barang.
+- Dari serat jute atau serat tekstil kulit pohon
+6305.10
+lainnya dari pos 53.03:
+
+Fass ti pantans
+-- Flexible intermediate bulk container:
+
+--- Dari bukan tenunan
+--- Rajutan atau kaitan
+
+-- Lain-lain, dari strip polietilen atau _poli-
+6305.33
+propilena atau sejenisnya:
+
+--- Rajutan atau kaitan
+--- Dari kain tenunan dari strip atau sejenisnya
+--- Dari bukan tenunan
+--- Rajutan atau kaitan
+
+664
+667
+668
+670
+671

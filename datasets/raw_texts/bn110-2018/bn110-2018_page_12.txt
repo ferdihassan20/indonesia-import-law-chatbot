@@ -1,0 +1,86 @@
+2018, No.110 -19-
+
+dengan alat ukur dan/atau tanda skala.
+
+Meter Parkir
+
+14.
+
+Meter Parkir
+
+Instrumen penghitung tarif parkir kendaraan
+
+bermotor berdasarkan perhitungan waktu.
+
+9106.90.10
+
+Timbangan Otomatis
+
+15.
+
+Timbangan Ban Berjalan elektrik
+
+Timbangan untuk menimbang barang secara
+berkesinambungan pada ban berjalan yang
+dioperasikan secara elektrik.
+
+8423.20.10
+
+16.
+
+Timbangan Ban Berjalan mekanik
+
+Timbangan untuk menimbang barang secara
+berkesinambungan pada ban berjalan yang tidak
+dioperasikan secara elektrik.
+
+8423.20.20
+
+17.
+
+Timbangan Pengecek dan Penyortir elektrik
+
+Timbangan untuk menimbang barang dalam
+kemasan secara berkesinambungan pada ban
+berjalan yang dioperasikan secara elektrik.
+
+8423.20.10
+
+18.
+
+Weighing in Motion (Timbangan Kendaraan
+Bergerak)
+
+Timbangan yang digunakan untuk menimbang
+mobil atau truk secara dinamis sebagai pengontrol
+keselamatan di jalan raya.
+
+ex 8530.80.00
+
+19.
+
+Railweight Bridge (Timbangan Kereta Api Bergerak)
+
+ex 8530.10.00
+
+Timbangan yang digunakan untuk menimbang
+kereta api bergerak sebagai pengontrol keselamatan
+transportasi.
+
+E.
+
+Timbangan Bukan Otomatis
+
+Timbangan Elektronik dengan nominal kepekaan timbangan lebih besar
+
+dari 5 cg
+
+20.
+
+Mesin penimbang yang dioperasikan secara elektrik
+
+untuk barang mempunyai kapasitas timbang
+
+8423.81.10
+
+www.peraturan.go.id

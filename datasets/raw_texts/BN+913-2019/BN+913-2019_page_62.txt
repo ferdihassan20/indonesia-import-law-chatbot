@@ -1,0 +1,30 @@
+2019, No.913 -62-
+
+Nomor (19) : Diisi tanggal, bulan, dan tahun nomor Pemberitahuan
+Pabean Impor.
+
+Nomor (20) : Diisi tempat dan alamat pelaksanaan
+pemindahtanganan.
+
+Nomor (21) : Diisi nomor urut barang.
+
+Nomor (22) : Diisi uraian jenis barang yang dipindahtangankan.
+
+Nomor (23) : Diisi spesifikasi barang, seperti merk, tipe, ukuran dan
+yang semacam itu.
+
+Nomor (24) : Diisi jumlah barang yang dipindahtangankan.
+
+Nomor (25) : Diisi catatan atau keterangan yang dibutuhkan.
+
+Nomor (26) : Diisi nama jabatan dari perwakilan Kontraktor yang
+melaksanakan Pemindahtangan.
+
+Nomor (27) : Diisi nama orang yang mewakili Kontraktor yang
+melaksanaan Pemindahtangan.
+
+Nomor (28) : Diisi nama jabatan dari penerima barang.
+
+Nomor (29) : Diisi nama dari penerima barang.
+
+www.peraturan.go.id

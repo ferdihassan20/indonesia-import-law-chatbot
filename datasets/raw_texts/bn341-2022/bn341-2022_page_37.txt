@@ -1,0 +1,151 @@
+1902.19.90
+1902.20
+1902.20.10
+1902.20.30
+1902.20.90
+1902.30
+1902.30.20
+1902.30.30
+1902.30.40
+1902.30.90
+1902.40.00
+19.04
+
+1904.10
+
+1904.10.10
+1904.10.90
+1904.20
+
+1904.20.10
+
+1904.20.90
+1904.30.00
+1904.90
+1904.90.10
+1904.90.90
+19.05
+
+1905.10.00
+1905.20.00
+
+1905.31
+1905.31.10
+1905.31.20
+1905.32
+1905.32.10
+1905.32.20
+1905.40
+1905.40.10
+
+1905.40.90
+1905.90
+
+1905.90.10
+1905.90.20
+1905.90.30
+1905.90.40
+1905.90.50
+
+-37-
+
+~-- Lain-lain
+
+- Pasta diisi, dimassk atau diolah secara lain maupun tidak :
+
+~ - Diisi dengan daging atau sisa daging
+
+- - Diisi dengan ikan, krustasea atau moluska
+
+~ - Lain-lain
+
+- Pasta Isinnya :
+
+~ - Rice vermicelli (termasuk bihun)
+
+-- Soun
+
+- - Mic instan lainnya
+
+~ - Lain-lain
+
+- Couscous
+
+Makanan olshan diperoleh dengan cara menggembungkan atau
+menggongseng serealia atau produk serealia (misalnya, keripik
+jagung); serealia (selain jagung), dalam bentuk butir atau serpih
+atau butir yang dikerjakan secara lain (kecuali tepung, menir dan
+tepung kasar), belum dimasak atau diolah secara lain, tidak
+dirinci atau termasuk pos lainnya.
+
+- Makanan olahan diperoleh dengan mengeembungkan atau
+menggongseng serealia atau produk sercalia =
+
+~ - Mengandung kakso
+
+- - Lain-lain
+
+- Makanan olahan yang diperoich dari keripik sercalia tidak
+digongseng atau campuran keripik serealia tidak digongseng dengan
+keripik serelia yang digongseng atau serealia yang digembungkan :
+
+- - Makanan olahan yang diambil dari keripik serealia yang tidak
+digongseng
+
+~~ Lain-lain
+
+- Gandum bulgur
+
+- Lain-lain ;
+
+- - Olahan nasi, termasuk nasi belum matang
+
+- - Lain-lain
+
+Roti, kue kering, kue, biskuit dan produk roti lainnya,
+mengandung kakao maupun tidak; wafer komuni, selongsong
+kosong dari jenis yang cocok untuk keperluan farmasi, sealing
+wafers, rice paper dan produk yang semacam itu.
+
+- Roti kering
+
+- Roti jahe dan sejenisnya
+
+- Biskuit manis; wafel dan wafer :
+
+- - Biskuit manis :
+
+--- Tidak mengandung kakao
+
+~ - - Mengandung kakao
+
+- - Wafel dan wafer :
+
+~-- Wafel
+
+~~~ Wafer
+
+- Rusk, roti panggang dan produk panggang semacami itu ;
+
+~ - Tidak mengandung tambahan gula, madu, telur, lemak, keju atau
+buah
+
+- - Lain-lain
+
+- Lain-lain :
+
+~ - Biskuit gigit tidak manis
+
+~ - Biskuit tidak manis lainnya
+
+-- Kue
+
+- - Kue kering
+
+~ - Produk roti tanpa tepung
+
+2022, No.
+
+341
+
+www.peraturan.go.id

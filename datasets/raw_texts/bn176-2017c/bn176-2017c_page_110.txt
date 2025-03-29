@@ -1,0 +1,329 @@
+2017, No.176
+
+-430-
+
+4931
+8932
+
+8933
+8934
+
+8935
+
+8936
+
+8937
+
+8938
+
+8939
+8940
+
+804)
+8942
+
+8950
+8951
+8952
+
+8953
+8954
+
+8955,
+8956
+
+8957
+8958,
+
+8959
+8960
+8961
+
+8962 |8537.10.11
+
+8963 8537.10.12
+
+isolasi); sakelar elektronik, termasuk sakel
+
+imelebihi dari 11 A:
+
+Untuk arus kurang dari 16 A
+Lain-lain
+
+jarus pengenal tidal melebihi 20 A :
+
+Untuk arus kurang dari 16.4
+= Lain-lain
+++ Lain-lain :
+
+lelektrik
+
+~~ Lain-lain
+- Gagang lampu, steker dan soket
+- - Gagang lampu =
+
+-- = Lainstain :
+++ Untuk arus kurang dari 16 A
+~~ Lain-tain
+
+Lain-lain :
+
+= Steker telepon :
+
+++ Untuk arus kurang dari 16 A
+> + Lain-lain
+
+Juntuk penerima televisi atau radio :
+
+- >>> Untuk arus tidak melebihi 1,5 4
+
+= == Lain-tain
+
+lercetak :
+~~ Untuk arus kurang dari 16 A
+= Lain-lain
++ Lain-lain :
+>> Untuk arus kurang dari 16 A
++ Lain-lain
+|. Konektor untuk serat optik, bundel serat
+abel :
+
+|. Aparatus lainnys :
+
+kabel; waler prober
+
+- Untuk arus kurang dari 16 A
+Lain-lain
+
+Kotak penyambung |
+
+~> Untuk arus kurang dari 16 A
+
++ Lain-lain
+
+jaksial; komutator >
+
+= Untuk arus kurang dari 16 A
+- Lain-lain
+
+Lain-lain :
+
+~ Untuk ars kurang dari 16 A:
+
+~ Panel patch telephone
+
+- Lain-tain,
+
++ Lain-lain
+
+‘Papan, panel, konsol, meja, kabinet dan
+
+pos 85.35 atau 85.36, untuk pengontrol
+
+85.17.
+
+- Untuk voltase tidak melebihi 1.000 volt :
+Papan sakelar dan panel kontrol :
+
+dalam sistem kendali distribusi
+
+diprogram
+
+= Sakelat AC elekironik terdiri dart pasangan sirkult
+masukan dan keluaran seeara optik (sakelar thyristor AC
+
+lar elektronik
+
+tahan temperntur, terdiri dari transistor dan logic chip
+ltcknologi chip-on-chip) untuk voltase tidak melebihi 1.000
+volt; sakelar snap-action elektromekanis untul arus tidale
+
+Lain-lain, sakelar penyambung dan pemutus dari jenis
+yang digunakan dala jaringan kabel listrik rumah tanga
+{tidak melebihi 500 V dan mempunyai kapasitas pembawa
+
+- ~~ Dari jenis yang cook untuk penggunaan dalam kipas
+
+|. - - Lain-lain, sakelar pemindah dari jenis yang digunakan
+Juntuk menghidupkan motor listrik; sakelar sekering
+
+-- - Dari jenis untuk Jampu compact atau lampu halogen
+
++ « Soket audio/video dan soket tabung sinar katoda
+
+~~~ Untuk arus melebihi 1,5 A tetapi kurang dari 16 A
+
+~~ Soket dan steker untuk kabel koaksial clan sirleuit
+
+optik atau
+
+. « lemen penghubung dan kontak untuk kawat dan
+
+Konektor kabel terdiri dari jack plug, terminal dengan
+jataus tanpa pin, konektor dan adaptor untuk kabel ko-
+
+Jandasan
+
+Iainnya, dilengkapi dengan dua atau lebih aparatus dari
+
+pendistribusi listrik, termasuk yang dilengkapi dengan
+instremen atau aparatus dari Bab 90, dan aparatus
+pengontrol numerik, selain aparatus sakelar dari pos
+
++ Panel kontrol dari jenis yang cocok untuk penggunaan
+
+- = Panel Kontrol dilengkapi dengan prosesor yang dapat
+
+= Electronic AC switches consisting of
+optically coupled input and output circuits
+{insulated thyristor AC switches); electronic
+‘switches, including temperature protected
+clectronic switches, consisting of a transistor
+jand @ logic chip (chip-on-chip technology) for
+a vollage nol exceeding 1,000 volts; electro-
+mechanical snap-action switches for
+current not exceeding 11 A:
+
+For a current of less than 16 A
+
+Other
+
+-- Other, make and break switches of a kind
+jused in domestic electrical wiring not
+lexceeding 500 V and having a rated current
+Jcarrying capacity not exceeding 20 A :
+
+For @ current of less than 16.4
+
+- - - Other
+
+- - Other :
+
++» Of a kind suitable for use in electric fans
+
++ - - Other, change-over switches of @ kind
+lused for starting electric motors; fuse
+switches
+
+* = Other
+- Lamp-holders, plugs and sockets :
+-- Lamp-hoklers
++ -- Of a kind used for compact lamps or
+halogen lamps
+Other :
+For a current of less than 16 A
+Other
+-- Other :
+- - - Telephone plugs :
+= For a current of li
++ Other
+}- -- Audio / video sockets and cathode ray
+tube sockets for television or radio receivers :
+
+- For a current not exceeding 1.5 A
+~ For a current exceeding 1.5 A tut less
+than 16 4
+~ - Other
+
+- = = Sockets and plugs for co-axial cables
+Jand printed cirewit:
++ == Por a current of less than 16 A
+~ Other
+‘Other :
+~ For a current of less than 16A
+- Other
+- Connectors for optical fibres, optical fibres
+bundies or cables =
++ = Of ceramics
+- - Of copper
+
+- Other
+- Other apparatus
+~~ Connection and contact elements for
+wires and cables; wafer probers >
+For a current of less than 16 A
+Other
+- Junction baxes :
+For a current of less than 16 A
+Other
+- - Cable connectors consisting of a jack
+plug, terminal with or without pin, connector’
+jand adaptor for co-axial cable; commutators
+
+- ++ Por a current of less than 16 A
+
+Other
+
+- Other :
+
+For a current of less than 16 A :
+
+~ Telephone patch panels
+
+~ Other
+
+Other
+
+and other bases, equipped with two or
+more apparatus of heading 85.35 or
+185.36, for electric control or the
+distribution of electricity, including those
+incorporating instruments or apparatus of|
+‘Chapter 90, and numerical control
+apparatus, other than switching apparatus|
+of heading 85.17,
+
+- For a voltage not exceeding 1,000 V :
+
+- Switchboards and control panels :
+Control panels of a kind suitable for use
+in distributed control systems
++++ Control panels fitted with a
+
+{programmable processor
+
+0,0%
+0.0%
+
+5,0%
+5.0%
+
+50%
+
+5,0%
+
+50%
+
+10,0%
+
+10,0%
+10,0%
+
+10,0%
+10,0%
+
+0.0%
+0,0%
+
+0,0%
+5,0%
+5,0%
+0.0%
+0.0%
+
+5,0%
+50%
+5.0%
+
+0,0%
+0,0%
+
+0,0%
+0,0%
+0,0%
+
+5,0%
+
+5.0%
+
+www.peraturan.go.id

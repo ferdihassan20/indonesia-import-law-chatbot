@@ -1,0 +1,130 @@
+2018, No.94
+
+10
+
+11
+
+12
+
+13
+
+14
+
+16
+
+17
+
+18
+
+19
+
+20:
+
+21
+
+23
+
+8415.81.21
+
+8415.81.29
+
+8415.81.31
+
+8415.81.39
+
+8415.81.91
+
+8415.81.93
+
+8415.81.94
+
+8415.81.99
+8415.82
+
+8415.82.11
+
+8415.82.19
+
+8415.82.21
+
+8415.82.29
+
+8415.82.31
+
+8415.82.39
+
+8415.82.91
+
+8415.82.99
+8415.83
+
+- -- - Dengan kapasitas pendinginan
+tidak melebilti 26,38 kW
+
+- --- Lain-lain
+
+- - - Dari jenis yang digunakan di
+kendaraan bermotor (selain dari yang
+dimaksud pada subpos 8415.20) :
+---- Dengan kapasitas pendinginan
+tidak melebihi 26,38 kW
+
+- +--+ Lain-lain
+
+- - - Lain-lain :
+
+---- Dengan kapasitas pendinginan
+melebihi 21,10 kW dengan kecepatan.
+aliran udara pada tiap unit
+evaporator lebih dari 67,96 m*/menit
+---- Lain-lain:
+
+cere Dengan kapasitas
+pendinginan tidak mielebihi 21,10 kW
+tree Dengan kapasitas
+pendinginan melebihi 21,10 kw
+tetapi dak melebihi 26,38 kw
+verte Lain-lain
+
+- - Lain-lain, digabung dengan unit
+refrigerating :
+
+- - - Dari jenis vang digunakan pada
+kendaraan udara :
+
+---- Dengan kapasitas pendinginan
+melebihi 21,10 kW dengan kecepatan
+aliran udara pada tiap unit
+evaporator lebil: dari 67,96 m*/menit
+--- - Lain-lain
+
+- - - Dari jenis yang digunakan pada
+kendaraan diatas rel ;
+
+- -- - Dengan kapasitas pendinginan
+tidak melebihi 26,38: kW
+
+---- Lain-lain
+
+-- - Dati jenis yang digunakan di
+kendaraan bermotor (selain dari yang
+dimaksud pada subpos 8415.20) :
+--- - Dengan kapasitas pendinginan
+tidak melebihi 26,38 kW
+
+- --- Lain-lain
+
+- - - Lain-lain :
+
+---- Dengan kapasitas pendinginan
+tidak melebihi 26,38 kw
+
+--- - Lain-lain
+
+- - Tidak digabung dengan unit
+refrigerating :
+
+- - - Dari jenis yang digunakan pada
+kendaraan udara ‘
+
+www.peraturan.go.id

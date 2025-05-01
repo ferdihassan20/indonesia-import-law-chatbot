@@ -1,0 +1,78 @@
+65. 2021, No. 987
+
+PETUNJUK PENGISIAN CONTOH FORMAT RKIP PERUBAHAN
+
+(1) _ Diisi dengan nomor RKIP perubahan.
+
+(2) Diisi dengan tanggal penerbitan RKIP perubahan.
+
+(3) Diisi dengan nomor RKIP semula.
+
+(4) Diisi dengan nomor SKB PPN.
+
+(5) Diisi dengan periode SKB PPN.
+
+(6) _ Diisi dengan nama PKP.
+
+(7) Diisi dengan Nomor Pokok Wajib Pajak PKP.
+
+(8) Diisi dengan alamat PKP.
+
+(9) Diisi dengan nomor kontrak lama (dalam hal PKP adalah Pemilik Proyek
+dan Penyedia Pekerjaan EPC, jika yang mengalami perubahan adalah
+kontrak).
+
+{10) Diisi dengan nomor kontrak baru (dalam hal PKP adalah Pemilik Proyek
+dan Penyedia Pekerjaan EPC, jika yang mengalami perubahan adalah
+kontrak).
+
+{11) Tabel Rencana Kebutuhan Impor Barang Kena Pajak Tertentu yang
+Bersifat Strategis Perubahan
+
+-1- _ Diisi dengan nomor urut.
+
+-2-  Diisi dengan nama Kantor Pabean semula.
+
+-3-  Diisi dengan nama Kantor Pabean sekarang.
+
+-4-_ Diisi dengan Pelabuhan kedatangan semula.
+
+-5- _ Diisi dengan Pelabuhan kedatangan sekarang.
+
+-6- _ Diisi dengan jenis Mesin dan Peralatan semula.
+
+-7- Diisi dengan jenis Mesin dan Peralatan sckarang.
+
+-8- Diisi dengan cara pengiriman Mesin dan Peralatan secara utuh
+atau secara terlepas.
+
+-9-  Diisi dengan jenis barang komponen Mesin dan Peralatan, jika
+diimpor/diperoleh secara terlepas.
+
+-10- Diisi dengan jumlah Mesin dan Peralatan, baik jika
+diimpor/diperoleh secara utuh maupun jika diimpor/diperoleh
+secara terlepas scmula.
+
+-ll- Diisi dengan jumlah Mesin dan Peralatan, baik jika
+diimpor/diperoleh secara utuh maupun jika diimpor/diperoleh
+secara terlepas sckarang.
+
+-12- Diisi dengan kode HS Mesin dan Peralatan, baik jika
+diimpor/diperoleh secara utuh maupun jika diimpor/diperoleh
+secara terlepas.
+
+-13- Diisi dengan spesifikasi teknis Mesin dan Peralatan, baik jika
+diimpor/diperoleh secara utuh maupun jika diimpor/diperoleh
+secara terlepas.
+
+-14- Diisi dengan perkiraan nilai impor per satuan Mesin dan
+Peralatan.
+
+-15- Diisi dengan perkiraan nilai impor total Mesin dan Peralatan.
+
+-16- Diisi dengan perkiraan PPN terutang.
+
+-17-_Diisi dengan lokasi proyck dimana Mesin dan Peralatan pabrik
+ditempatkan semula. h yi
+
+www.peraturan.go.id

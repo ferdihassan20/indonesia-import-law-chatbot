@@ -1,0 +1,62 @@
+2011, No.720
+
+POS/SUB POS
+% BEA MASUK,
+NO. |HEADING/ SUB. URATAN BARANG DESCRIPTION OF GOODS Heaton i
+HEADING % IMPORT DUTY
+wD @) GB) en el
+2933.99 }--Lain-lain --Other
+8 |2933.99.10.00  ]---Mebendazol dan parbendazol }---Mebendazole and parbendazole 0
+29.34 Asam nukleat dan garamnya. mempunyai_rumus Nucleic acids and their salts, whether or not
+kimia tertentu maupun tidak: senyawa hetero- chemically defined: other heterocyclic
+siklik lainnya. compounds,
+2934.10 -Senyawa mengandung cincin tiazol tidak disa- Compounds containing an unfused thiazole
+tukan ( dihidrogenasi maupun tidak ) dalam ring (whether or not hydrogenated ) in the
+struktur structure
+2934.20 nyawva dalam strukturnya mengandung sistem- Compounds containing in the structure a
+cincin benzotiavol ( dihidro i maupun benzothiazole ring-system ( whether or not
+tidak), tidak disatukan lebih lanjut hydrogenated ). not further fused
+2934.30 -Senyawa dalam strukturnya mengandung sistem- Compounds containing in the structure a
+cincin fenotiazin ( dihidrogenasi: maupun phenothiazine ring-system ( whether or not
+tidak), tidak disatukan lebih lanjut hydrogenated ). not further fused
+-Lain-lain -Other
+9 }2934.91.00.00  ]--Aminorex (INN), brotizolam (INN), klotiaze- --Aminorex (INN), brotizolam (INN), 0
+pam (INN), kloksazolam(INN). dekstromoramid clotiazepam (INN). cloxazolam (INN).
+(INN). haloksavolam (INN). ketazolam (INN). dextromoramide (INN). haloxazolam (INN).
+mesocarb (INN). oksazolam (INN). pemolin ketazolam (INN), mesocarb (INN). oxazolam
+(INN). fendimetrazin (INN). fenmetrazin( INN) (INN). pemoline(INN). phendimetrazine(INN).
+dan sufentanil (INN): garamnya phenmetrazine (INN) and sufentanil( INN }:
+salts thereof
+10 }2935.00.00.00 |Sulfonamida Sulphonamides. 0
+84.40 Mesin penjilid buku, termasuk mesin Book-binding machinery, including book-sewing
+buku. machi
+8440.10 -Mesin -Machinery
+11 |8440.10.10.00 |--Dioperasikan secara elektrik --Eleetrically operated 0
+8441 Mesin lainnya untuk membuat pulp kertas. (Other machinery for making up paper pulp.
+kertas atau kertas karton, termasuk mesin paper or paperboard. including cutting
+pemotong dari semua jenis machines of all kinds.
+8441.10 |-Mesin pemotong -Cutting machines
+42 |8441.10.10.00 |--Dioperasikan secara elektrik --Electrically operated 0
+8441.20 sin untuk membuat kantong. sak atau amplop -Machines for making bags. sacks or envelopes
+8441.30 sin untuk membuat kardus, Kotak. peti. ta- -Machines for making cartons. boxes. cases.
+bung, drum atau kemasan semacam itu, selain tubes, drums or similar containers. other
+dengan pencetakan than by moulding
+8441.40 -Mesin untuk mencetak barang dari pulp -Machines for moulding articles im paper
+kertas. kertas atau kertas karton pulp. paper or paperboard
+8441.80. -Mesin lainnya -Other machinery
+13 |8441.80.10.00  |--Dioperasikan secara elektrik --Electrically operated 0
+84.42 Mesin, aparatus dan perlengkapan (selain mesin Machinery, apparatus and equipment (other than
+perkakas yang dimaksud dalam pos 84.56 sampai the machine-tools of headings 84.56 to 84.65).
+dengan 84.65). untuk menyiapkan atau membuat for preparing or making plates, cylinders or
+pelat. silinder cetak atau Komponen  cetak other printing components: plates. cylinders:
+lainnya. pelat. silinder cetak dan komponen and other printing components: plates
+cetak lainnya: pelat. silinder dan batu lito- cylinders and lithographic. stones. prepared
+graf, disiapkan untuk keperluan pencetakan for printing purposes (for example, planed
+(misalnya, diratakan. dibuat tidak licin atau grained or polished).
+dipoles)
+8442.30 -Mesin. aparatus dan perlengkapan Machinery, apparatus and equipment
+14 |8442.30.10.00  |--Dioperasikan secara elektrik --Electrically operated
+
+0 /
+
+www.djpp.kemenkumham.go.id

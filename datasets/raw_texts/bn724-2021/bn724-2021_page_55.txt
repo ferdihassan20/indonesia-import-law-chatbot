@@ -1,0 +1,68 @@
+-55-
+
+Diisi dengan data berupa tanggal, bulan dan tahun SPPB Pelayanan
+Segera (Rush Handling) diterbitkan oleh masing-masing kantor
+pabean.
+
+Contoh:
+
+SPPB Pelayanan Segera (Rush Handling) urutan ke-25 pada tanggal 3
+Februari 2020 di KPU BC Tanjung Priok.
+
+Nomor : 000025 /RH-040300
+
+Tanggal : 03-02-2020
+
+Nomor dan Tanggal Pendaftaran Permohonan
+
+Wajib diisi oleh SKP atau Pejabat Bea dan Cukai pada kolom yang
+
+disediakan.
+
+Nomor Pendaftaran Permohonan
+
+Diisi dengan data berupa nomor urutan administrasi permohonan
+
+Pelayanan Segera (Rush Handling) dimasing-masing kantor pabean,
+
+yang terdiri dari 9 (sembilan) digit berupa:
+
+1) 6 (enam) digit pertama berupa angka urutan administrasi
+pendaftaran pada saat mengajukan permohonan Pelayanan
+Segera (Rush Handling); dan
+
+2) 3 (tiga) digit terakhir berupa identitas dokumen Pelayanan
+Segera (Rush Handling) dengan mencantumkan “/RH".
+
+Tanggal
+
+Diisi dengan data berupa tanggal, bulan dan tahun nomor
+
+pendaftaran permohonan diadministrasikan oleh masing-masing
+
+kantor pabean.
+
+Contoh:
+
+Permohonan didaftarkan di Kantor Pabean pada urutan ke-17 pada
+
+tanggal 1 Oktober 2020.
+
+Nomor Pendaftaran Permohonan : 000017/RH
+
+‘Tanggal : 01-10-2020
+
+Importir
+
+Diisi oleh SKP atau Pejabat Bea dan Cukai berupa data importir yaitu
+
+pihak yang bertindak sebagai penerima barang (consignee) dalam
+
+dokumen pengangkutan barang (bill of lading, airway bill, atau
+dokumen pengangkutan barang lainnya).
+
+1) NPWP
+
+2021, No.724
+
+www.peraturan.go.id

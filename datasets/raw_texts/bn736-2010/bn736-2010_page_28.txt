@@ -1,0 +1,97 @@
+2010, No.736
+
+28
+
+URAIAN BARANG KETERANGAN
+
+Perangkat spesifik yang didesain
+untuk operator di Indonesia
+
+POS TARIF/
+NO.
+HS
+86.27 atau 85.28.
+8517.61 ~Base station :
+193 |8517.61.00.20 = |---Untuk penyiaran radio
+
+Hanya digunakan untuk memenuhi
+
+puma jual dengan operator di lndonesia
+
+194 |8517.61.00.90
+
+dan tidak untuk dijual bebas
+
+---Lain-lain Hanya digunakan untuk memenuhi
+puma jual dengan operator di Indonesia
+
+dan tidak untuk djual bebas
+
+8517.62
+
+--Mesin untuk menerima, konversi dan transmisi Hanya digunakan untuk memenuhi
+
+atau regenerasi suara, gambar atau data
+lainnya, termasuk aparatus switching dan
+
+kontrak purna jual dengan operator
+di Indonesia dan tidak untuk dijual
+
+8517.62.10.00
+
+routing : bebas dan produk-praduk yang
+berbasis ramah lingkungan
+
+---Jenis radio transmitter dan radio penerima
+| _— digunakan untuk interpretasi simultan pada
+
+konferensi multibahasa
+
+--Unit dari mesin pengolah data otomatis
+
+selain dari pos 84.71 ;
+
+196 |8517.62.21.00 -—Unit kendali dan adaptor, termasuk
+gateway, bridge dan router
+
+197 |8517.62.29.00 ——-Lain-lain
+
+198 |8517.62,30,00 —Aparatus pemindah saluranteleponi atau
+telegrafi
+
+—-Aparatus untuk sistem saluran pembawa
+
+gelombang listrik atau saluran sistem digital:
+
+199 |8517.62.41.00 | —--Modem termasuk modem kabel dan kartu modem
+
+200 |8517.62.42.00 | —--Konsentrator atau multiplexer
+
+8517.62.49 ——Lain-lain :
+201 |8517.62.49.90 ~~ Lain-lain
+
+---Aparalus transmisi lainnya digabung dengan
+aparatus penerima :
+
+8517.62.51.00
+8517.62.52.00
+
+204 |8577.62.53.00
+
+8517.62.59.00
+
+telefoni atau radio-telegrafi
+
+--~LAN tanpa kabel
+----Aparatus transmisi dan penerima dari jenis
+yang digunakan untuk penerjemah simultan
+pada konferensi multi-bahasa
+
+----Aparatus transmisi  lainnya untuk
+
+radio-
+
+~---Lain-lain
+
+-Bagian: Hanya digunakan untuk memenuhi
+

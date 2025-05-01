@@ -1,0 +1,40 @@
+- 418 -
+
+No Pos Tarif/HS Uraian Barang Persyaratan Keterangan ET | PE| LS
+651. | ex 7110.11.10 Platinum, tidak ditempa atau dalam bentuk tidak habis Viv
+ex 7110.19.00 setengah jadi, dalam bongkah, ingot, batang terpakai ke
+tuangan atau dalam bentuk bubuk, dengan negara asal
+kadar < 99% Pt barang
+652. | ex 7110.21.10 Paladium, tidak ditempa atau dalam bentuk dikecualikan dari Viv
+ex 7110.29.00 setengah jadi, dalam bongkah, ingot, batang kewajiban
+tuangan atau dalam bentuk bubuk, dengan Verifikasi atau
+kadar < 99% Pd Penelusuran
+653. | ex 7201.10.00 Besi wantah (pig iron) bukan paduan dengan Teknis (LS) Vv [v
+ex 7201.20.00 kadar < 75% Fe
+654. | ex 7201.50.00 Nickel Pig Iron (NPI) paduan (besi pig paduan) PE Barang Viv
+dengan kadar < 2% Ni Pertambangan
+655. | ex 7201.50.00 Nickel Pig Iron (NPI) paduan (besi pig paduan) untuk keperluan Viv
+dengan kadar 2% < Ni < 4%, dan kadar < 75% ekspor produk
+Fe jasa di bidang
+656. ex 7202.11.00 Fero Mangan dengan kadar < 60% Mn iradiasi dan zat viv
+ex 7202.19.00 radioaktif yang
+657. | ex 7202.29.00 Logam paduan (alloy) fero silikon dengan kadar termasuk Viv
+< 75% Fe kategori produk
+658. _| ex 7202.30.00 Fero silikon mangan dengan kadar < 60% Mn pertambangan Vv {[v
+659. | ex 7202.41.00 Logam paduan (alloy) fero kromium dengan (khusus batuan) Vv fv
+ex 7202.49.00 kadar < 75% Fe yang seluruhnya
+660. | ex 7202.60.00 Luppen FeNi, Nugget FeNi, Spon FeNi (Sponge berasal dari impor Viv
+FeNi) dengan kadar < 2% Ni ke negara asal
+661. | ex 7202.60.00 __| Luppen FeNi, Nugget FeNi, Spon FeNi (Sponge eksportir barang Viv
+FeNi) dengan kadar 2% < Ni < 4%, dan kadar < dikecualikan dari
+75% Fe kewajiban
+662. | ex 7202.60.00 _| Fero Nikel (FeNi) dalam bentuk bongkahan Verifikasi atau TIN
+(lumps), dalam bentuk ingot, dengan kadar < Penelusuran
+3% Ni Teknis (LS)
+663. | ex 7202.70.00 Fero molibdenum dengan kadar < 75% Fe Viv
+664. | ex 7202.80.00 Logam paduan (alloy) fero-tungsten dan fero- Elemen data v |v
+
+silikon-tungsten dengan kadar < 75% Fe
+
+dan/atau
+

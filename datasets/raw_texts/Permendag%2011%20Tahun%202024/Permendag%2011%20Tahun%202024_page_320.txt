@@ -1,0 +1,57 @@
+- 315 -
+
+Pos Tarif/ HS
+
+Uraian Barang
+
+Persyaratan
+
+Keterangan
+
+ET
+
+PE
+
+LS
+
+extrude dan
+
+casting/can
+
+ai;
+
+a) Panjang
+maksimal
+: 330 mm
+dengan
+toleransi
++ 5mm;
+
+b) Lebar
+maksimal
+: 20 mm
+dengan
+toleransi
++ 5mm;
+
+c) Tebal
+maksimal
+> 10mm
+dengan
+toleransi
++ 5mm;
+dan
+
+d) Berat
+maksimal
+:1 Kg per
+unit;
+
+3) Segitiga
+sama sisi
+dengan
+panjang sisi
+paling tinggi
+
+20 mm
+

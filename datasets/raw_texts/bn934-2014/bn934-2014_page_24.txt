@@ -1,0 +1,53 @@
+2014, No.934
+
+24
+
+No Pos Tarif Uraian Barang
+363 6112.31.00.00 -- Dari serat sintetik
+364 =| 6112.39.00,00 -- Dari bahan tekstil lainnya
+- Pakaian renang wanita atau anak perempuan:
+305 6112.41,00,00 -- Dari serat sintetik
+366 | 6112.49.00.00 -- Dari bahan tekstil lainnya
+61.13 Garmen, dibuat dari kain rajutan atau kaitan dari pos 59.03,
+59.06 atau 59.07.
+367 | 6113.00,10.00 - Pakaian selam
+368 | 6113.00.30,00 - Pakaian digunakan untuk pelindung dari api
+369 | 6113.00.40,00 - Pakaian pelindung kerja lainnya
+370 | 6113.00.90,00 - Lain-lain
+61.14 Garmen lainnya, rajutan atau kaitan.
+371 6114.20,00,00 - Dari kapas
+6114.30 - Dari serat buatan:
+372 | 6114.30.20.00 -- Pakaian digunakan untuk pelindung dari api
+373 | 6114.30.90,00 -- Lain-lain
+374 | 6114.90.00.00 - Dari bahan tekstil lainnya
+Panty hose, tight, stocking, sock dan kaus kaki lainnya,
+61.15 termasuk kaus kaki dikempa bergradasi (misalnya, stocking
+untuk penderita varises) dan alas kaki tanpa sol, rajutan
+atau kaitan.
+6115.10 - Kaus kaki dikempa bergradasi (misalnya, stocking untuk
+penderita varises):
+375 | 6115.10.10.00 -- Stocking untuk penderita varises, dari serat sintetik
+376 6115.10.90,00 -- Lain-lain
+- Panty hose dan tight lainnya:
+377 | 6115.21.00.00 ee Scrat sintetik, ukuran tiap benang tunggal kurang dari
+378 | 6115.22.00.00 co oan Sorat sintetile ukuran tiap benang tunggal kurang dari
+6115.29 -- Dari bahan tekstil lainnya:
+379 6115.29.10.00 --- Dari kapas
+380 6115.29.90,00 --- Lain-lain
+6115.30 - Kaus kaki panjang atau sampai lutut lainnya untuk wanita,
+ukuran tiap benang tunggal kurang dari 67 desiteks:
+381 6115.30.10,00 -- Dari kapas
+382 6115.30.90.00 -- Lain-lain
+- Lain-lain:
+383 | 6115.94.00.00 -- Dari wol atau bulu hewan halus
+384 6115.95.00.00 -- Dari kapas
+385 | 6115.96.00.00 -- Dari serat sintetik
+386 | 6115.99.00.00 -- Dari bahan tekstil lainnya
+61.16 Sarung tangan, mitten dan mitt, rajutan atau kaitan.
+6116.10 - Diresapi, dilapisi atau ditutupi dengan plastik atau karet:
+387 | 6116.10.10.00 -- Sarung tangan selam
+388 | 6116.10.90,00 -- Lain-lain
+- Lain-lain:
+
+17
+

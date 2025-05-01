@@ -1,0 +1,36 @@
+- 370 -
+
+No Pos Tarif/HS Uraian Barang Persyaratan Keterangan ET | PE| LS
+ex 2836.50.90 98% CaCO3dan berat jenis < 0,7 g/cc
+24. | ex 2836.99.90 Hydroxide Nickel Carbonate (HNC) dengan V
+kadar = 40% Ni
+25. | ex 2836.99.90 Mangan karbonat olahan dengan kadar = 90% V
+MnCO3
+26. | ex 2836.99.90 Zirkonium Berbasis Karbonat (ZBC) dengan V
+kadar = 90% ZrOCO3.xH20
+427. | ex 2836.99.90 Nikel karbonat (NiCOs) dengan kadar = 40% Ni V
+28. | ex 2836.99.90 Kobalt karbonat (CoCO3) dengan kadar = 40% V
+Co
+29. | ex 2836.99.90 Kromium karbonat (Cr2(COs3)3) dengan kadar = V
+16% Cr
+30. | ex 2841.61.00 Kalium permanganat dengan kadar = 90% V
+KMnO,
+31. | ex 2841.69.00 Kromium permanganat (Cr(MnO,)) dengan V
+kadar = 12% Cr
+32. | ex 2842.90.90 Amonium Zirkonium Karbonat (AZC) dengan V
+kadar = 90% (NHa)3ZrOH(CO3)3.2H2O
+33. | ex 2842.90.90 Kalium Heksafloro Zirkonat (KFZ) dengan kadar = V
+90% KoZrFe
+34. | ex 2846.10.00 Logam hidroksida tanah jarang dengan kadar = V
+ex 2846.90.00 99% REOH
+35. | ex 2846.10.00 Logam oksida tanah jarang dengan kadar 2 V
+ex 2846.90.00 99% REO
+36. | ex 2915.29.90 Zirkonium Asetat (ZAC) dengan kadar = 90% V
+H2ZrO2(C2H302)2
+37. | ex 3802.90.20 Bentonit olahan dengan bleaching power = 70% V
+atau Specific Surface Area = 150 m?/g atau
+konduktivitas > 300 uS/cm
+38. | ex 7501.20.00 Mixed Sulfide Presipitate (MSP) dengan kadar = V
+45% Ni
+39. | ex 7001.00.00 Cullet (leburan kuarsa) dengan kadar = 80% SiO» V
+

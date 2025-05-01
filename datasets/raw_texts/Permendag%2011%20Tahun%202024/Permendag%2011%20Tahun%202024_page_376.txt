@@ -1,0 +1,37 @@
+- 371 -
+
+No Pos Tarif/HS Uraian Barang Persyaratan Keterangan ET | PE| LS
+40. ex 7106.10.00 Perak dalam bentuk bubuk, dalam bentuk V
+ex 7106.91.00 tidak ditempa, dalam bentuk setengah jadi,
+ex 7106.92.00 dengan kadar = 99% Ag
+41. ex 7108.11.00 Emas dalam bentuk bubuk, dalam bentuk V
+ex 7108.12.10 tidak ditempa, dalam bentuk setengah jadi
+ex 7108.12.90 lainnya, bukan mata uang, dengan kadar =
+ex 7108.13.00 99% Au
+42. | ex 7110.11.10 Platinum, tidak ditempa atau dalam bentuk V
+ex 7110.19.00 setengah jadi, dalam bongkah, ingot, batang
+tuangan atau dalam bentuk bubuk, dengan
+kadar = 99% Pt
+43. | ex 7110.21.10 Paladium, tidak ditempa atau dalam bentuk V
+ex 7110.29.00 setengah jadi, dalam bongkah, ingot, batang
+tuangan atau dalam bentuk bubuk, dengan
+kadar = 99% Pd
+44. | ex 7201.10.00 Besi wantah (pig iron) bukan paduan dengan V
+ex 7201.20.00 kadar = 75% Fe
+45. | ex 7202.11.00 Fero mangan dengan kadar = 60% Mn V
+ex 7202.19.00
+46. | ex 7202.29.00 Logam paduan (alloy) fero silikon dengan kadar V
+275% Fe
+47. | ex 7202.30.00 Fero silikon mangan dengan kadar = 60% Mn V
+48. | ex 7202.41.00 Logam paduan (alloy) fero kromium dengan V
+ex 7202.49.00 kadar = 75% Fe
+49. | ex 7201.50.00 Nickel Pig Iron (NPI) paduan (besi pig paduan) V
+dengan kadar = 4% Ni
+50. | ex 7201.50.00 Nickel Pig Iron (NPI) paduan (besi pig paduan) V
+dengan kadar 2% < Ni < 4%, dan kadar = 75%
+Fe
+51. | ex 7202.60.00 Fero Nikel (FeNi) dalam bentuk bongkahan V
+
+(lumps), dalam bentuk ingot, dengan kadar =
+8% Ni
+

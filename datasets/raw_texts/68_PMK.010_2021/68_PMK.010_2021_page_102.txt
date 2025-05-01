@@ -1,0 +1,53 @@
+- 102 -
+
+TERMASUK
+NO URAIAN BARANG SPESIFIKASI DALAM
+POS TARIF
+50. | Lithium Battery Mengandung sel Lithium 8506.50.00
+manganese Dioxide, tidak
+dapat di isi ulang
+51. Water Heater Lavatory Electric Storage Water 8516.10.19
+Heater
+52. | Light, Anti Collision, Light- Aparatus visual electric 8531.80.90
+Anticollision, Nav-Strobe berupa lampu yang
+Assembly, Module Assy digunakan di badan luar
+pesawat untuk persinyalan
+53. | Penangkal Petir 8535.40.00
+54. Wiring Harness Digunakan pada kendaraan 8544.30.91
+udara, diisolasi dengan
+karet atau plastik
+55. | Kabel listrik untuk voltase | Tidak dilengkapi dengan 8544.49.32
+tidak melebihi 1.000 V konektor dari jenis yang
+digunakan untuk
+telekomunikasi dengan
+Voltase melebihi 80 V tetapi
+tidak melebihi 1.000 V,
+diisolasi dengan plastik
+Tidak dilengkapi dengan 8544.49.41
+konektor dari jenis yang
+tidak digunakan untuk
+telekomunikasi dengan
+Voltase melebihi 80 V tetapi
+tidak melebihi 1.000 V,
+diisolasi dengan plastik
+56. Carbon Brush 8545.20.00
+57. Vertical Speed, Indicator, Instrument atau peralatan 9014.80.90
+Indicator Assy Cab. Rate of | navigasi pesawat udara
+Climb dengan indikator kecepatan
+58. Unit-Cont Display Multi instrument dan peralatan 9014.80.90
+Purpose-Flight Management | navigasi yang berfungsi
+Sys(MCDU) untuk menunjukan
+informasi atau data
+masukan pada
+pengoperasian FMS
+59. | Protective Breathing Dilengkapi generator 9020.00.00
+Equipment oksigen
+60. Probe-Pitot instrument navigasi 9026.80.10
+penerbangan untuk
+membantu pengukuran.
+(termperatur,kecepatan dan
+tekanan udara)
+
+af
+
+www. jdih.kemenkeutgo.id

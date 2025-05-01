@@ -1,0 +1,36 @@
+- 413 -
+
+No Pos Tarif/HS Uraian Barang Persyaratan Keterangan ET | PE| LS
+2620.60.00 ekspor produk jasa
+2620.91.00 di bidang iradiasi
+ex 2620.99.90 dan zat radioaktif
+580. | ex 2804.50.00 Telurium dengan kadar < 99% Te yang termasuk Viv
+581. | ex 2804.90.00 Selenium dengan kadar < 99% Se kategori produk Viv
+582. ex 2804.90.00 Selenium dari hasil pemurnian lanjut lumpur pertambangan Viv
+anoda dengan kadar < 90% Se (khusus batuan)
+583. Logam tanah jarang dengan total 17 unsur yang seluruhnya
+yang terkandung dalam tanah jarang < 99%, berasal dari impor
+yaitu: ke negara asal
+ex 2805.30.00 a. _Skandium dengan kadar < 99% eksportir barang Viv
+ex 2805.30.00 b. _Itrium dengan kadar < 99% berlaku untuk 1 Viv
+ex 2805.30.00 c. Lantanum dengan kadar < 99% (satu) kali atau Viv
+ex 2805.30.00 d. Serium dengan kadar < 99% lebih dari 1 (satu) Viv
+ex 2805.30.00 e. Praseodimium dengan kadar < 99% kali penyampaian Viv
+ex 2805.30.00 f. _Neodimium dengan kadar < 99% Pemberitahuan Viv
+ex 2805.30.00 g. Prometium dengan kadar < 99% Pabean Ekspor Viv
+ex 2805.30.00 h. Samarium dengan kadar < 99% (nom ional Vv iV
+ex 2805.30.00 i. Europium dengan kadar < 99% ransaksional). Viv
+ex 2805.30.00 j._ Gadolinium dengan kadar < 99% Masa berlaku PE Viv
+ex 2805.30.00 k. Terbium dengan kadar < 99% Barang Viv
+ex 2805.30.00 1. Disprosium dengan kadar < 99% Pertambangan Vv |v
+ex 2805.30.00 m. Holmium dengan kadar < 99% untuk keperluan V [Vv
+ex 2805.30.00 n. Erbium dengan kadar < 99% ekspor produk Vv |v
+ex 2805.30.00 o. Tulium dengan kadar < 99% jasa di bidang Viv
+ex 2805.30.00 p. Iterbium dengan kadar < 99% iradiasi dan zat Viv
+ex 2805.30.00 q. Lutesium dengan kadar < 99% radioaktif yang Viv
+584. ex 2811.29.90 Telurium dioksida dengan kadar < 98% TeO2 termasuk Viv
+585. ex 2812.19.00 Zirkonium oksiklorida (ZOC) dengan kadar < kategori produk Vv [v
+90% ZrOCl2.8H20 pertambangan
+586. | ex 2817.00.10 Seng oksida dengan kadar < 98% ZnO (khusus batuan) viv
+587. | ex 2817.00.20 Seng peroksida dengan kadar < 98% ZnO2 V [Vv
+

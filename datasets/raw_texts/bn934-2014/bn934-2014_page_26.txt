@@ -1,0 +1,53 @@
+2014, No.934
+
+26
+
+No Pos Tarif Uraian Barang
+415 | 6202.13.00.00 -- Dari serat buatan.
+6202.19.00 -- Dari bahan tekstil lainnya:
+416 6202.19.00.10 --- Dari sutra
+417 6202,19,00,20 --- Dari rami
+418 6202.19.00.90 --- Lain-lain
+- Lain-lain:
+419 | 6202.91,00.00 -- Dari wol atau bulu hewan halus
+420 6202.92.00.00 -- Dari kapas
+421 | 6202.93.00.00 -- Dari serat buatan.
+6202.99.00 -- Dari bahan tekstil lainnya:
+422 6202.99.00, 10 --- Dari sutra
+423 6202.99.00.20 --- Dari rami
+424 6202.99,00.90 --- Lain-lain
+Setelan, ensemble, jas, blazer, celana panjang, pakaian
+62.03 terusan berpenutup di depan dan bertali, celana panjang
+sampai lutut dan celana pendek (selain pakaian renang)
+untuk pria atau anak laki - laki.
+- Setelan:
+425 | 6203.11.00.00 -- Dari wol atau bulu hewan halus
+426 | 6203.12.00.00 -- Dari serat sintetik
+6203.19 -- Dari bahan tekstil lainnya:
+6203.19.10 --- Dari kapas:
+427 | 6203.19.10.10 ---- Dicetak dengan proses batik tradisional
+428 6203.19.10.90 ---- Lain-lain
+6203.19.90 --- Lain-lain:
+---- Dari sutra:
+429 | 6203.19.90.11 | ----- Dicetak dengan proses batik tradisional
+430 6203.19,90,19 | ----- Lain-lain
+431 6203.19.90.90 ---- Lain-lain
+- Ensemble:
+6203.22.00 -- Dari kapas:
+432 | 6203.22.00.10 --- Dicetak dengan proses batik tradisional
+433 6203,22,00,90 --- Lain-lain
+434 6203.23.00.00 -- Dari serat sintetik
+6203.29 -- Dari bahan tekstil lainnya:
+435 | 6203.29,.10.00 --- Dari wol atau bulu hewan halus
+436 6203,29,90,00 --- Lain-lain
+- Jas dan blazer:
+6203.32.00 -- Dari kapas:
+437 | 6203.32.00.10 --- Dicetak dengan proses batik tradisional
+438 6203.32.00.90 --- Lain-lain
+439 6203,.33.00.00 -- Dari serat sintetik
+440 | 6203.39.00.00 -- Dari bahan tekstil lainnya
+- Celana panjang, pakaian terusan berpenutup di depan dan
+bertali, celana panjang sampai lutut dan celana pendek:
+
+19
+

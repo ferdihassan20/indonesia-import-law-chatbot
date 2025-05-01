@@ -1,0 +1,709 @@
+PERATURAN MENTERI LINGKUNGAN HIDUP DAN KEHUTANAN  
+NOMOR 7 TAHUN 2024  
+TENTANG  
+TATA CARA PENERBITAN REKOMENDASI PERSETUJUAN IMPOR BAHAN PERUSAK LAPISAN OZON DAN HIDROFLUOROKARBON  
+
+DENGAN RAHMAT TUHAN YANG MAHA ESA,  
+MENTERI LINGKUNGAN HIDUP DAN KEHUTANAN REPUBLIK INDONESIA,  
+
+Menimbang:  
+a. bahwa salah satu upaya pemerintah dalam mengurangi dampak pemanasan global adalah dengan melakukan pengendalian konsumsi bahan perusak lapisan ozon dan hidrofluorokarbon yang memiliki nilai potensi pemanasan global yang tinggi;  
+b. bahwa Indonesia sebagai negara pihak Protokol Montreal yang telah mengesahkan Amendemen Kigali berkewajiban untuk mengendalikan konsumsi bahan perusak lapisan ozon dan hidrofluorokarbon;  
+c. bahwa untuk memberikan kepastian hukum bagi importir bahan perusak lapisan ozon dan hidrofluorokarbon, perlu menyusun tata cara penerbitan rekomendasi persetujuan impor bahan perusak lapisan ozon dan hidrofluorokarbon;  
+d. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a, huruf b, dan huruf c, perlu menetapkan Peraturan Menteri Lingkungan Hidup dan Kehutanan tentang Tata Cara Penerbitan Rekomendasi Persetujuan Impor Bahan Perusak Lapisan Ozon dan Hidrofluorokarbon;  
+
+Mengingat:  
+1. Pasal 17 ayat (3) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945;  
+2. Undang-Undang Nomor 39 Tahun 2008 tentang Kementerian Negara (Lembaran Negara Republik Indonesia Tahun 2008 Nomor 166, Tambahan Lembaran Negara Republik Indonesia Nomor 4916);  
+3. Undang-Undang Nomor 32 Tahun 2009 tentang Perlindungan dan Pengelolaan Lingkungan Hidup (Lembaran Negara Republik Indonesia Tahun 2009 Nomor 140, Tambahan Lembaran Negara Republik Indonesia Nomor 5059) sebagaimana telah beberapa kali diubah terakhir dengan Undang-Undang Nomor 6 Tahun 2023 tentang Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2022 tentang Cipta Kerja Menjadi Undang-Undang (Lembaran Negara Republik Indonesia Tahun 2023 Nomor 41, Tambahan Lembaran Negara Republik Indonesia Nomor 6856);  
+4. Peraturan Pemerintah Nomor 74 Tahun 2001 tentang Pengelolaan Bahan Berbahaya dan Beracun (Lembaran Negara Republik Indonesia Tahun 2001 Nomor 138, Tambahan Lembaran Negara Republik Indonesia Nomor 4153);  
+5. Peraturan Pemerintah Nomor 5 Tahun 2021 tentang Penyelenggaraan Perizinan Berusaha Berbasis Risiko (Lembaran Negara Republik Indonesia Tahun 2021 Nomor 15, Tambahan Lembaran Negara Republik Indonesia Nomor 6617);  
+6. Peraturan Presiden Nomor 33 Tahun 2005 tentang Pengesahan Amendment Beijing to Montreal Protocol on Substances that Deplete the Ozone Layer (Amendment Beijing) atas Protokol Montreal tentang Bahan-Bahan yang Merusak Ozon (Lembaran Negara Republik Indonesia Tahun 2005 Nomor 37);  
+7. Peraturan Presiden Nomor 46 Tahun 2005 tentang Pengesahan Montreal Amendment to Montreal Protocol on Substances that Deplete the Ozone Layer (Amendment Montreal) atas Protokol Montreal tentang Bahan-Bahan yang Merusak Ozon (Lembaran Negara Republik Indonesia Tahun 2005 Nomor 59);  
+8. Peraturan Presiden Nomor 92 Tahun 2020 tentang Kementerian Lingkungan Hidup dan Kehutanan (Lembaran Negara Republik Indonesia Tahun 2020 Nomor 209);  
+9. Peraturan Presiden Nomor 129 Tahun 2022 tentang Pengesahan Amendment to the Montreal Protocol on Substances that Deplete the Ozone Layer, Kigali, 2016 (Amendemen atas Protokol Montreal tentang Bahan-Bahan yang Merusak Lapisan Ozon, Kigali, 2016) (Lembaran Negara Republik Indonesia Tahun 2022 Nomor 213);  
+10. Peraturan Menteri Lingkungan Hidup dan Kehutanan Nomor 15 Tahun 2021 tentang Organisasi dan Tata Kerja Kementerian Lingkungan Hidup dan Kehutanan (Berita Negara Republik Indonesia Tahun 2021 Nomor 756) sebagaimana telah diubah dengan Peraturan Menteri Lingkungan Hidup dan Kehutanan Nomor 5 Tahun 2024 tentang Perubahan atas Peraturan Menteri Lingkungan Hidup dan Kehutanan Nomor 15 Tahun 2021 tentang Organisasi dan Tata Kerja Kementerian Lingkungan Hidup dan Kehutanan (Berita Negara Republik Indonesia Tahun 2024 Nomor 193);  
+11. Peraturan Menteri Perdagangan Nomor 36 Tahun 2023 tentang Kebijakan dan Pengaturan Impor (Berita Negara Republik Indonesia Tahun 2023 Nomor 981) sebagaimana telah diubah dengan Peraturan Menteri Perdagangan Nomor 3 Tahun 2024 tentang Perubahan atas Peraturan Menteri Perdagangan Nomor 36 Tahun 2023 tentang Kebijakan dan Pengaturan Impor (Berita Negara Republik Indonesia Tahun 2024 Nomor 155);  
+
+Menetapkan:  
+MEMUTUSKAN:  
+PERATURAN MENTERI LINGKUNGAN HIDUP DAN KEHUTANAN TENTANG TATA CARA PENERBITAN REKOMENDASI PERSETUJUAN IMPOR BAHAN PERUSAK LAPISAN OZON DAN HIDROFLUOROKARBON.  
+
+BAB I  
+KETENTUAN UMUM  
+
+Pasal 1  
+Dalam Peraturan ini yang dimaksud dengan:  
+1. Bahan Perusak Lapisan Ozon yang selanjutnya disebut BPO adalah senyawa kimia yang berpotensi dapat bereaksi dengan molekul ozon di lapisan stratosfer.  
+2. Hidrofluorokarbon yang selanjutnya disebut HFC adalah senyawa yang tersusun atas atom hidrogen, fluor, dan karbon, yang dapat dipergunakan sebagai pengganti BPO, dan berpotensi menyebabkan pemanasan global.  
+3. Alokasi Impor Nasional adalah data dan informasi yang memuat situasi konsumsi dan produksi BPO atau HFC untuk kebutuhan penduduk dan keperluan industri dalam kurun waktu tertentu yang ditetapkan dan berlaku secara nasional.  
+4. Impor adalah kegiatan memasukkan barang ke dalam daerah pabean.  
+5. Importir adalah orang perseorangan atau lembaga atau badan usaha baik yang berbentuk badan hukum maupun bukan badan hukum, yang melakukan impor.  
+6. Nomor Induk Berusaha yang selanjutnya disingkat NIB adalah bukti registrasi/pendaftaran pelaku usaha untuk melakukan kegiatan usaha dan sebagai identitas bagi pelaku usaha dalam pelaksanaan kegiatan usahanya.  
+7. Angka Pengenal Importir Umum yang selanjutnya disebut API-U adalah tanda pengenal sebagai importir yang hanya diberikan kepada badan usaha yang melakukan impor barang tertentu untuk tujuan diperdagangkan atau dipindahtangankan.  
+8. Angka Pengenal Importir Produsen yang selanjutnya disebut API-P adalah tanda pengenal sebagai importir yang hanya diberikan kepada badan usaha yang melakukan impor barang tertentu untuk dipergunakan sendiri sebagai barang modal, bahan baku, bahan penolong, dan/atau bahan untuk mendukung proses produksi.  
+9. Persetujuan Impor adalah perizinan berusaha di bidang impor berupa persetujuan dari menteri yang menyelenggarakan urusan pemerintahan di bidang perdagangan untuk melakukan impor.  
+10. Rekomendasi Persetujuan Impor adalah surat yang memuat keterangan teknis untuk memberikan pertimbangan penerbitan persetujuan impor BPO atau HFC yang diterbitkan oleh menteri yang menyelenggarakan urusan pemerintahan di bidang lingkungan hidup dan kehutanan.  
+11. Sistem Indonesia National Single Window yang selanjutnya disingkat SINSW adalah sistem elektronik yang mengintegrasikan sistem dan/atau informasi berkaitan dengan proses penanganan dokumen kepabeanan, dokumen kekarantinaan, dokumen perizinan, dokumen kepelabuhanan/kebandarudaraan, dan dokumen lain, yang terkait dengan ekspor dan/atau impor, yang menjamin keamanan data dan informasi serta memadukan alur dan proses informasi antar sistem internal secara otomatis.  
+12. Sistem Rekomendasi Bahan Perusak Lapisan Ozon yang selanjutnya disebut REKOMBPO adalah sistem pelayanan terpadu penerbitan rekomendasi persetujuan impor BPO atau HFC pada Kementerian Lingkungan Hidup dan Kehutanan yang dilakukan secara online melalui portal resmi.  
+13. Kawasan Perdagangan Bebas dan Pelabuhan Bebas yang selanjutnya disingkat KPBPB adalah suatu kawasan yang berada dalam wilayah hukum Negara Kesatuan Republik Indonesia yang terpisah dari Daerah Pabean sehingga bebas dari pengenaan bea masuk, pajak pertambahan nilai, pajak penjualan atas barang mewah, dan cukai.  
+14. Kawasan Ekonomi Khusus yang selanjutnya disingkat KEK adalah kawasan dengan batas tertentu dalam wilayah hukum Negara Kesatuan Republik Indonesia yang ditetapkan untuk menyelenggarakan fungsi perekonomian dan memperoleh fasilitas tertentu.  
+15. Tempat Penimbunan Berikat yang selanjutnya disingkat TPB adalah bangunan, tempat, atau kawasan yang memenuhi persyaratan tertentu yang digunakan untuk menimbun barang dengan tujuan tertentu dengan mendapatkan penangguhan bea masuk.  
+16. Menteri adalah menteri yang menyelenggarakan urusan pemerintahan di bidang perlindungan dan pengelolaan lingkungan hidup.  
+17. Direktur Jenderal adalah pimpinan tinggi madya yang bertugas menyelenggarakan perumusan dan pelaksanaan kebijakan di bidang pengendalian perubahan iklim.  
+
+Pasal 2  
+(1) Importir dapat mengimpor BPO atau HFC setelah memperoleh persetujuan impor.  
+(2) Persetujuan impor BPO atau HFC sebagaimana dimaksud pada ayat (1) diterbitkan setelah importir memperoleh rekomendasi persetujuan impor.  
+(3) Menteri memiliki kewenangan untuk penetapan alokasi impor nasional BPO atau HFC dan menerbitkan rekomendasi persetujuan impor BPO atau HFC.  
+(4) Menteri mendelegasikan kewenangan penetapan alokasi impor nasional BPO atau HFC dan penerbitan rekomendasi persetujuan impor BPO atau HFC kepada Direktur Jenderal.  
+
+BAB II  
+REKOMENDASI PERSETUJUAN IMPOR BPO  
+
+Pasal 3  
+(1) BPO terdiri atas:  
+a. metil bromida; dan  
+b. non metil bromida.  
+(2) BPO sebagaimana dimaksud pada ayat (1) sebagaimana tercantum dalam Lampiran I yang merupakan bagian tidak terpisahkan dari Peraturan Menteri ini.  
+
+Pasal 4  
+(1) Pengendalian konsumsi BPO sebagaimana dimaksud dalam Pasal 3 ayat (2) dilakukan melalui:  
+a. pembatasan impor; dan  
+b. larangan impor.  
+(2) Pembatasan impor BPO sebagaimana dimaksud pada ayat (1) huruf a dilakukan hanya untuk memenuhi kebutuhan BPO di dalam negeri.  
+(3) Pembatasan impor untuk metil bromida sebagaimana dimaksud dalam Pasal 3 ayat (1) huruf a dilakukan untuk kegiatan karantina dan pra pengapalan.  
+(4) Pembatasan impor untuk non metil bromida sebagaimana dimaksud dalam Pasal 3 ayat (1) huruf b dilakukan untuk kegiatan:  
+a. pemeliharaan peralatan pendingin; dan  
+b. pemeliharaan peralatan pemadam api.  
+(5) Larangan impor sebagaimana dimaksud pada ayat (1) huruf b dilaksanakan sesuai dengan ketentuan peraturan perundang-undangan yang mengatur mengenai barang dilarang impor.  
+
+Pasal 5  
+(1) BPO sebagaimana dimaksud dalam Pasal 3 ayat (1) huruf b dilakukan penghapusan konsumsi secara bertahap sesuai target sebagaimana tercantum dalam Lampiran II yang merupakan bagian tidak terpisahkan dari Peraturan Menteri ini.  
+(2) Untuk mencapai target penghapusan sebagaimana dimaksud pada ayat (1) dilakukan pengendalian konsumsi BPO.  
+(3) Dalam hal terdapat kepentingan nasional dapat dilakukan perubahan terhadap target penghapusan sebagaimana dimaksud pada ayat (1).  
+
+Pasal 6  
+(1) Impor BPO sebagaimana dimaksud dalam Pasal 3 ayat (1) hanya dilakukan melalui 6 (enam) pelabuhan laut, yaitu:  
+a. Belawan di Medan;  
+b. Tanjung Priok di Jakarta;  
+c. Merak di Cilegon;  
+d. Tanjung Emas di Semarang;  
+e. Tanjung Perak di Surabaya; dan/atau  
+f. Soekarno Hatta di Makassar.  
+(2) Impor BPO sebagaimana dimaksud pada ayat (1) yang berasal dari luar daerah pabean ke KPBPB, KEK, dan TPB dilaksanakan sesuai dengan ketentuan peraturan perundang-undangan yang mengatur mengenai kebijakan dan pengaturan impor.  
+(3) Impor BPO dilakukan oleh importir yang telah terdaftar di aplikasi SINSW sebagai importir BPO.  
+
+Pasal 7  
+(1) Importir BPO pemilik NIB yang berlaku sebagai API-U menyampaikan permohonan rekomendasi persetujuan impor BPO dengan mengunggah hasil pindai dokumen asli melalui SINSW meliputi:  
+a. data barang yang akan diimpor;  
+b. rencana distribusi dari barang yang akan diimpor;  
+c. realisasi impor dan distribusi barang tahun sebelumnya;  
+d. persetujuan impor BPO tahun sebelumnya;  
+e. keputusan Menteri Pertanian tentang pemberian nomor pendaftaran dan izin tetap pestisida untuk importir metil bromida;  
+f. lembar data keselamatan (LDK) atau safety data sheet (SDS);  
+g. certificate of analysis (CoA); dan  
+h. surat registrasi B3.  
+(2) Importir BPO pemilik NIB yang berlaku sebagai API-P menyampaikan permohonan rekomendasi persetujuan impor BPO dengan mengunggah hasil pindai dokumen asli melalui SINSW meliputi:  
+a. data barang yang akan diimpor;  
+b. rencana penggunaan dari barang yang akan diimpor;  
+c. realisasi impor dan penggunaan barang tahun sebelumnya;  
+d. persetujuan impor BPO tahun sebelumnya;  
+e. keputusan Menteri Pertanian tentang pemberian nomor pendaftaran dan izin tetap pestisida untuk importir metil bromida;  
+f. lembar data keselamatan (LDK) atau safety data sheet (SDS);  
+g. certificate of analysis (CoA); dan  
+h. surat registrasi B3.  
+(3) Jangka waktu penyampaian permohonan rekomendasi persetujuan impor BPO dilakukan paling lama minggu pertama bulan Desember pada tahun sebelum masa berlaku alokasi impor nasional BPO.  
+
+Pasal 8  
+(1) Penetapan alokasi impor nasional BPO dilakukan melalui rapat teknis yang diselenggarakan oleh Direktur Jenderal.  
+(2) Rapat teknis sebagaimana dimaksud pada ayat (1) melibatkan kementerian/lembaga yang menyelenggarakan urusan pemerintahan di bidang:  
+a. perdagangan;  
+b. perindustrian;  
+c. pertanian;  
+d. perkarantinaan; dan  
+e. keuangan.  
+(3) Hasil rapat teknis sebagaimana dimaksud pada ayat (2) dituangkan dalam berita acara sebagai dasar penetapan alokasi impor nasional BPO.  
+(4) Penetapan alokasi impor nasional BPO sebagaimana dimaksud pada ayat (3) disampaikan kepada kementerian/lembaga sebagaimana dimaksud pada ayat (2).  
+(5) Jangka waktu penetapan alokasi impor nasional BPO sebagaimana dimaksud pada ayat (3) dilakukan paling lama minggu kedua bulan Desember pada tahun sebelum masa berlaku alokasi impor nasional BPO.  
+
+Pasal 9  
+(1) Permohonan rekomendasi persetujuan impor BPO yang diajukan oleh importir BPO melalui SINSW sebagaimana dimaksud dalam Pasal 7 ayat (1) dan ayat (2) terintegrasi ke REKOMBPO.  
+(2) Permohonan rekomendasi persetujuan impor BPO yang masuk ke dalam SINSW diverifikasi oleh Direktur Jenderal.  
+(3) Verifikasi permohonan rekomendasi persetujuan impor BPO sebagaimana dimaksud pada ayat (2) dilakukan dengan mempertimbangkan:  
+a. persyaratan permohonan rekomendasi persetujuan impor.  
+**PERATURAN MENTERI**
+
+**DENGAN RAHMAT TUHAN YANG MAHA ESA**
+
+**MENTERI PERDAGANGAN REPUBLIK INDONESIA**
+
+**NOMOR ... TAHUN ...**
+
+**TENTANG**
+
+**REKOMENDASI PERSETUJUAN IMPOR BAHAN PENDINGIN OLAHAN (BPO) DAN HFC**
+
+**MENIMBANG:**
+
+a. bahwa untuk melaksanakan ketentuan dalam peraturan perundang-undangan yang mengatur tentang impor BPO dan HFC, perlu menetapkan rekomendasi persetujuan impor;
+
+b. bahwa untuk itu, perlu dilakukan verifikasi permohonan rekomendasi persetujuan impor BPO dan HFC;
+
+c. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a dan huruf b, perlu menetapkan Peraturan Menteri tentang Rekomendasi Persetujuan Impor Bahan Pendingin Olahan (BPO) dan HFC.
+
+**MENGINGAT:**
+
+1. Undang-Undang Nomor 7 Tahun 2014 tentang Perdagangan;
+
+2. Undang-Undang Nomor 39 Tahun 2014 tentang Perkebunan;
+
+3. Peraturan Presiden Nomor 44 Tahun 2016 tentang Daftar Investasi Negatif;
+
+4. Peraturan Menteri Perdagangan Nomor ... Tahun ... tentang Ketentuan Umum di Bidang Perdagangan.
+
+**MEMUTUSKAN:**
+
+**Menetapkan: PERATURAN MENTERI TENTANG REKOMENDASI PERSETUJUAN IMPOR BAHAN PENDINGIN OLAHAN (BPO) DAN HFC.**
+
+**BAB I**
+
+**KETENTUAN UMUM**
+
+Pasal 1
+
+Dalam Peraturan Menteri ini yang dimaksud dengan:
+
+1. BPO adalah Bahan Pendingin Olahan.
+2. HFC adalah Hidrofluorokarbon.
+3. Importir adalah pihak yang melakukan kegiatan impor.
+4. Rekomendasi Persetujuan Impor adalah dokumen yang diterbitkan oleh Direktur Jenderal sebagai persetujuan untuk melakukan impor BPO dan HFC.
+
+**BAB II**
+
+**REKOMENDASI PERSETUJUAN IMPOR BPO**
+
+Pasal 10
+
+Importir BPO dapat mengajukan permohonan perubahan Rekomendasi Persetujuan Impor BPO yang telah diterbitkan selama dalam tahun takwim melalui SINSW.
+
+Permohonan perubahan Rekomendasi Persetujuan Impor BPO sebagaimana dimaksud pada ayat (1) terbatas pada perubahan:
+
+a. negara asal;
+
+b. pelabuhan muat; dan/atau
+
+c. pelabuhan tujuan.
+
+Permohonan perubahan Rekomendasi Persetujuan Impor BPO sebagaimana dimaksud pada ayat (1) dilakukan verifikasi oleh Direktur Jenderal.
+
+Dalam hal permohonan perubahan Rekomendasi Persetujuan Impor BPO sebagaimana dimaksud pada ayat (1) dinyatakan diterima, Direktur Jenderal menerbitkan perubahan Rekomendasi Persetujuan Impor BPO melalui REKOMBPO yang terintegrasi dengan SINSW.
+
+Dalam hal permohonan perubahan Rekomendasi Persetujuan Impor BPO sebagaimana dimaksud pada ayat (1) dinyatakan ditolak, pemberitahuan penolakan disampaikan secara elektronik melalui SINSW.
+
+Pasal 11
+
+Importir BPO harus melaporkan:
+
+a. realisasi impor dan distribusi BPO yang terealisasi dan tidak terealisasi, bagi Importir pemilik NIB yang berlaku sebagai API-U; atau
+
+b. realisasi impor dan penggunaan BPO untuk pemeliharaan peralatan pendingin sesuai batas penggunaan sebagaimana dimaksud dalam Pasal 4 ayat (4) yang terealisasi dan tidak terealisasi, bagi Importir pemilik NIB yang berlaku sebagai API-P.
+
+Laporan sebagaimana dimaksud pada ayat (1) dilakukan melalui SINSW.
+
+**BAB III**
+
+**REKOMENDASI PERSETUJUAN IMPOR HFC**
+
+Pasal 12
+
+HFC yang diatur dalam Peraturan Menteri ini sebagaimana tercantum dalam Lampiran III yang merupakan bagian tidak terpisahkan dari Peraturan Menteri ini.
+
+HFC sebagaimana dimaksud pada ayat (1) dilakukan pengurangan konsumsi secara bertahap sesuai target sebagaimana tercantum dalam Lampiran IV yang merupakan bagian tidak terpisahkan dari Peraturan Menteri ini.
+
+Untuk mencapai target pengurangan sebagaimana dimaksud pada ayat (2) dilakukan pengendalian konsumsi HFC.
+
+Dalam hal terdapat kepentingan nasional dapat dilakukan perubahan terhadap target pengurangan sebagaimana dimaksud pada ayat (2).
+
+Pasal 13
+
+Pengendalian konsumsi HFC sebagaimana dimaksud dalam Pasal 12 ayat (3) dilakukan melalui pembatasan impor.
+
+Pembatasan impor HFC sebagaimana dimaksud pada ayat (1) dilakukan untuk memenuhi kebutuhan HFC di dalam negeri.
+
+Pembatasan impor HFC sebagaimana dimaksud pada ayat (2) dilakukan untuk kegiatan:
+
+a. manufaktur peralatan pengondisi udara;
+
+b. manufaktur refrigerasi;
+
+c. pemeliharaan peralatan pendingin;
+
+d. manufaktur busa (foam);
+
+e. pengisian peralatan pemadam api;
+
+f. aerosol (propellant);
+
+g. bahan pelarut (solvent)/ pelapis (coating); dan
+
+h. kegiatan lain sesuai dengan perkembangan ilmu pengetahuan dan teknologi.
+
+Pasal 14
+
+Impor HFC sebagaimana dimaksud dalam Pasal 13 ayat (1) hanya dilakukan melalui 7 (tujuh) pelabuhan laut, yaitu:
+
+a. Belawan di Medan;
+
+b. Batu Ampar di Batam;
+
+c. Tanjung Priok di Jakarta;
+
+d. Merak di Cilegon;
+
+e. Tanjung Emas di Semarang;
+
+f. Tanjung Perak di Surabaya; dan/atau
+
+g. Soekarno Hatta di Makassar.
+
+Impor HFC sebagaimana dimaksud pada ayat (1) yang berasal dari luar daerah pabean ke KPBPB, KEK, dan TPB dilaksanakan sesuai dengan ketentuan peraturan perundang-undangan yang mengatur mengenai kebijakan dan pengaturan impor.
+
+Impor HFC sebagaimana dimaksud pada ayat (2) dapat dilakukan oleh:
+
+a. Importir yang sudah memiliki hak akses sebagai Importir HFC dengan melakukan registrasi melalui aplikasi REKOMBPO;
+
+b. Importir pemilik NIB yang berlaku sebagai API-U yang memiliki riwayat impor HFC antara tahun 2020 sampai dengan tahun 2022;
+
+c. Importir pemilik NIB yang berlaku sebagai API-P yang sudah memiliki fasilitas produksi di Indonesia; dan/atau
+
+d. Importir pemilik NIB yang berlaku sebagai API-U atau API-P yang memiliki riwayat impor BPO.
+
+Pasal 15
+
+Importir HFC pemilik NIB yang berlaku sebagai API-U sebagaimana dimaksud dalam Pasal 14 ayat (3) huruf b menyampaikan permohonan Rekomendasi Persetujuan Impor HFC dengan mengunggah hasil pindai dokumen asli melalui SINSW meliputi:
+
+a. data barang yang akan diimpor;
+
+b. rencana distribusi dari barang yang akan diimpor;
+
+c. realisasi impor dan distribusi tahun sebelumnya;
+
+d. Persetujuan Impor HFC tahun sebelumnya;
+
+e. lembar data keselamatan (LDK) atau Safety Data Sheet (SDS); dan
+
+f. certificate of analysis (CoA).
+
+Dalam hal Importir pemilik NIB yang berlaku sebagai API-U mengajukan permohonan Rekomendasi Persetujuan Impor HFC untuk tahun takwim 2024 namun belum memiliki Persetujuan Impor HFC sebagaimana dimaksud pada ayat (1) huruf d, Importir pemegang API-U harus melampirkan dokumen Pemberitahuan Impor Barang (PIB) dan Surat Persetujuan Pengeluaran Barang (SPPB) HFC tahun sebelumnya.
+
+Jangka waktu penyampaian permohonan Rekomendasi Persetujuan Impor HFC sebagaimana dimaksud pada ayat (1) dilakukan paling lama minggu pertama bulan Desember pada tahun sebelum masa berlaku Alokasi Impor Nasional HFC.
+
+Pasal 16
+
+Importir HFC pemilik NIB yang berlaku sebagai API-P menyampaikan permohonan Rekomendasi Persetujuan Impor HFC sebagaimana dimaksud dalam Pasal 14 ayat (3) huruf c dengan mengunggah hasil pindai dokumen asli melalui SINSW meliputi:
+
+a. data barang yang akan diimpor;
+
+b. data produksi barang menggunakan HFC selama 1 (satu) tahun sebelum dilakukan impor;
+
+c. data rencana produksi barang menggunakan HFC selama 1 (satu) tahun ke depan;
+
+d. data fasilitas produksi;
+
+e. lembar data keselamatan (LDK) atau Safety Data Sheet (SDS); dan
+
+f. certificate of analysis (CoA).
+
+Jangka waktu penyampaian permohonan Rekomendasi Persetujuan Impor HFC sebagaimana dimaksud pada ayat (1) dilakukan paling lama minggu pertama bulan Desember pada tahun sebelum masa berlaku Alokasi Impor Nasional HFC.
+
+Pasal 17
+
+Penetapan Alokasi Impor Nasional HFC dilakukan setiap tahun melalui rapat teknis yang diselenggarakan oleh Direktur Jenderal.
+
+Rapat teknis sebagaimana dimaksud pada ayat (1) melibatkan kementerian/lembaga yang menyelenggarakan urusan pemerintahan di bidang:
+
+a. perdagangan;
+
+b. perindustrian;
+
+c. keuangan;
+
+d. kelautan dan perikanan; dan
+
+e. pengelolaan KPBPB Batam.
+
+Hasil rapat teknis sebagaimana dimaksud pada ayat (2) dituangkan dalam Berita Acara sebagai dasar Penetapan Alokasi Impor Nasional HFC.
+
+Penetapan Alokasi Impor Nasional HFC sebagaimana dimaksud pada ayat (3) disampaikan kepada kementerian/lembaga sebagaimana dimaksud pada ayat (2).
+
+Jangka waktu Penetapan Alokasi Impor Nasional HFC sebagaimana dimaksud pada ayat (3) dilakukan paling lama minggu kedua bulan Desember pada tahun sebelum masa berlaku Alokasi Impor Nasional HFC.
+
+Pasal 18
+
+Permohonan Rekomendasi Persetujuan Impor HFC yang diajukan oleh Importir HFC melalui SINSW sebagaimana dimaksud dalam Pasal 15 ayat (1) dan Pasal 16 ayat (1), terintegrasi ke REKOMBPO.
+
+Permohonan Rekomendasi Persetujuan Impor HFC sebagaimana dimaksud pada ayat (1) diverifikasi oleh Direktur Jenderal.
+
+Verifikasi permohonan Rekomendasi Persetujuan Impor HFC sebagaimana dimaksud pada ayat (2) dilakukan dengan mempertimbangkan:
+
+a. persyaratan permohonan Rekomendasi Persetujuan Impor HFC sebagaimana dimaksud dalam Pasal 15 ayat (1) dan Pasal 16 ayat (1);
+
+b. Alokasi Impor Nasional HFC; dan
+
+c. data historis Impor HFC.
+
+Jangka waktu verifikasi permohonan Rekomendasi Persetujuan Impor HFC dilakukan paling lama 5 (lima) hari kerja setelah Penetapan Alokasi Impor Nasional HFC.
+
+Dalam hal permohonan Rekomendasi Persetujuan Impor HFC dinyatakan diterima secara lengkap dan benar, Direktur Jenderal menerbitkan Rekomendasi Persetujuan Impor HFC.
+
+Rekomendasi Persetujuan Impor HFC sebagaimana dimaksud pada ayat (5) diterbitkan melalui REKOMBPO yang terintegrasi dengan SINSW.
+
+Rekomendasi Persetujuan Impor HFC sebagaimana dimaksud pada ayat (6) berlaku selama 1 (satu) tahun takwim.
+
+Dalam hal permohonan Rekomendasi Persetujuan Impor HFC dinyatakan ditolak, pemberitahuan penolakan disampaikan secara elektronik melalui SINSW kepada Importir.
+
+Importir sebagaimana dimaksud pada ayat (8) dapat mengajukan kembali permohonan Rekomendasi Persetujuan Impor HFC setelah memperbaiki semua persyaratan sebagaimana dimaksud pada ayat (3) huruf a melalui SINSW.
+
+Pasal 19
+
+Importir HFC dapat mengajukan permohonan perubahan Rekomendasi Persetujuan Impor HFC yang telah diterbitkan selama dalam tahun takwim melalui SINSW.
+
+Permohonan perubahan Rekomendasi Persetujuan Impor HFC sebagaimana dimaksud pada ayat (1) dapat dilakukan dalam hal terjadi perubahan:
+
+a. jenis HFC, pos tarif/harmonized system, uraian barang, dan jumlah barang; dan/atau
+
+b. negara asal, pelabuhan muat, dan/atau pelabuhan tujuan.
+
+Pasal 20
+
+Dalam hal Rekomendasi Persetujuan Impor HFC dilakukan perubahan sebagaimana dimaksud dalam Pasal 19 ayat (2) huruf a hanya untuk ke jenis HFC dengan nilai potensi pemanasan global lebih rendah sebagaimana tercantum dalam Lampiran II yang merupakan bagian tidak terpisahkan dari Peraturan Menteri ini.
+
+Permohonan perubahan Rekomendasi Persetujuan Impor HFC sebagaimana dimaksud pada ayat (1) memperhatikan sisa alokasi yang dimiliki dan waktu yang tersedia untuk merealisasikan perubahan.
+
+Permohonan perubahan Rekomendasi Persetujuan Impor HFC sebagaimana dimaksud pada ayat (1) hanya dapat dilakukan 1 (satu) kali dalam satu tahun takwim paling lambat minggu kedua bulan Juni.
+
+Perubahan Rekomendasi Persetujuan Impor HFC sebagaimana dimaksud pada ayat (1) dilakukan melalui mekanisme rapat teknis yang diselenggarakan oleh Direktur Jenderal.
+
+Dalam hal permohonan perubahan Rekomendasi Persetujuan Impor HFC sebagaimana dimaksud pada ayat (1) dinyatakan diterima, Direktur Jenderal menerbitkan perubahan Rekomendasi Persetujuan Impor HFC melalui REKOMBPO yang terintegrasi dengan SINSW.
+
+Dalam hal permohonan perubahan Rekomendasi Persetujuan Impor HFC sebagaimana dimaksud pada ayat (1) dinyatakan ditolak, pemberitahuan penolakan disampaikan secara elektronik melalui SINSW.
+
+Pasal 21
+
+Permohonan perubahan Rekomendasi Persetujuan Impor HFC sebagaimana dimaksud dalam Pasal 19 ayat (2) huruf b dilakukan selama tahun takwim.
+
+Dalam hal Rekomendasi Persetujuan Impor HFC dilakukan perubahan sebagaimana dimaksud pada ayat (1) dilakukan verifikasi oleh Direktur Jenderal.
+
+Dalam hal permohonan perubahan Rekomendasi Persetujuan Impor HFC sebagaimana dimaksud pada ayat (1) dinyatakan diterima, Direktur Jenderal menerbitkan perubahan Rekomendasi Persetujuan Impor HFC melalui REKOMBPO yang terintegrasi dengan SINSW.
+
+Dalam hal permohonan perubahan Rekomendasi Persetujuan Impor HFC sebagaimana dimaksud pada ayat (1) dinyatakan ditolak, pemberitahuan penolakan disampaikan secara elektronik melalui SINSW.
+
+Pasal 22
+
+Importir HFC harus melaporkan:
+
+a. realisasi impor dan distribusi HFC yang terealisasi dan tidak terealisasi, bagi Importir pemilik NIB yang berlaku sebagai API-U; atau
+
+b. realisasi impor dan penggunaan HFC sebagai bahan penolong produksi yang terealisasi dan tidak terealisasi, bagi Importir pemilik NIB yang berlaku sebagai API-P.
+
+Laporan sebagaimana dimaksud pada ayat (1) dilakukan melalui SINSW.
+
+**BAB IV**
+
+**PEMANTAUAN DAN EVALUASI**
+
+Pasal 23
+
+Dalam rangka menjamin:
+
+a. realisasi impor dan distribusi BPO dan/atau HFC bagi Importir pemilik NIB yang berlaku sebagai API-U;
+
+b. realisasi impor dan penggunaan BPO untuk pemeliharaan peralatan pendingin bagi Importir pemilik NIB yang berlaku sebagai API-P; dan/atau
+
+c. realisasi impor dan penggunaan HFC sebagai bahan penolong produksi bagi Importir pemilik NIB yang berlaku sebagai API-P,
+
+tepat sasaran, Direktur Jenderal melakukan pemantauan lapangan dan/atau pertemuan daring dengan metode uji petik.
+
+Pasal 24
+
+Evaluasi realisasi impor BPO diselenggarakan setiap kuartal oleh Direktur Jenderal dengan melibatkan kementerian/lembaga yang menyelenggarakan urusan pemerintahan di bidang:
+
+a. perdagangan;
+
+b. perindustrian;
+
+c. pertanian;
+
+d. perkarantinaan; dan
+
+e. keuangan.
+
+Evaluasi realisasi impor HFC diselenggarakan setiap kuartal oleh Direktur Jenderal dengan melibatkan kementerian/lembaga yang menyelenggarakan urusan pemerintahan di bidang:
+
+a. perdagangan;
+
+b. perindustrian;
+
+c. keuangan;
+
+d. kelautan dan perikanan; dan
+
+e. pengelolaan KPBPB Batam.
+
+Pasal 25
+
+Direktur Jenderal menyampaikan laporan atas hasil pemantauan dan evaluasi sebagaimana dimaksud dalam Pasal 23 dan Pasal 24 kepada Menteri.
+
+**Pasal Penutup**
+
+Peraturan Menteri ini mulai berlaku pada tanggal ditetapkan. 
+
+Ditetapkan di Jakarta pada tanggal ... 
+
+MENTERI PERDAGANGAN REPUBLIK INDONESIA
+
+[Nama Pejabat]
+
+**NIP. [Nomor Induk Pegawai]**
+**PERATURAN MENTERI LINGKUNGAN HIDUP DAN KEHUTANAN REPUBLIK INDONESIA NOMOR 7 TAHUN 2024 TENTANG TATA CARA PENERBITAN REKOMENDASI PERSETUJUAN IMPOR BAHAN PERUSAK LAPISAN OZON DAN HIDROFLUOROKARBON**
+
+DENGAN RAHMAT TUHAN YANG MAHA ESA
+
+MENTERI LINGKUNGAN HIDUP DAN KEHUTANAN REPUBLIK INDONESIA,
+
+Menimbang:
+a. bahwa untuk melaksanakan ketentuan dalam Pasal 23 dan Pasal 24, perlu menetapkan Peraturan Menteri tentang Tata Cara Penerbitan Rekomendasi Persetujuan Impor Bahan Perusak Lapis Ozon dan Hidrofluorokarbon;
+b. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a, perlu menetapkan Peraturan Menteri Lingkungan Hidup dan Kehutanan;
+
+Mengingat:
+1. Undang-Undang Nomor 32 Tahun 2009 tentang Perlindungan dan Pengelolaan Lingkungan Hidup;
+2. Undang-Undang Nomor 36 Tahun 2009 tentang Kesehatan;
+3. Peraturan Pemerintah Nomor 70 Tahun 2001 tentang Pengendalian Pencemaran Udara;
+4. Peraturan Menteri Lingkungan Hidup dan Kehutanan Nomor 20 Tahun 2017 tentang Pengendalian Bahan Perusak Lapis Ozon;
+
+MEMUTUSKAN:
+Menetapkan: PERATURAN MENTERI LINGKUNGAN HIDUP DAN KEHUTANAN TENTANG TATA CARA PENERBITAN REKOMENDASI PERSETUJUAN IMPOR BAHAN PERUSAK LAPISAN OZON DAN HIDROFLUOROKARBON.
+
+**BAB I**
+KETENTUAN UMUM
+
+Pasal 1
+Dalam Peraturan Menteri ini yang dimaksud dengan:
+1. Bahan Perusak Lapis Ozon yang selanjutnya disingkat BPO adalah bahan yang dapat merusak lapisan ozon di atmosfer.
+2. Hidrofluorokarbon yang selanjutnya disingkat HFC adalah senyawa organik yang mengandung karbon, hidrogen, fluor, dan klorin.
+
+**BAB II**
+TATA CARA PENERBITAN REKOMENDASI
+
+Pasal 2
+(1) Setiap permohonan rekomendasi persetujuan impor BPO dan HFC harus diajukan kepada Menteri.
+(2) Permohonan sebagaimana dimaksud pada ayat (1) dilengkapi dengan dokumen sebagai berikut:
+a. surat permohonan;
+b. dokumen identitas pemohon;
+c. dokumen teknis mengenai BPO dan HFC yang akan diimpor.
+
+Pasal 3
+(1) Menteri akan memberikan rekomendasi persetujuan impor BPO dan HFC setelah melakukan evaluasi terhadap permohonan.
+(2) Rekomendasi persetujuan impor BPO dan HFC sebagaimana dimaksud pada ayat (1) berlaku untuk jangka waktu tertentu.
+
+**BAB III**
+KETENTUAN PENUTUP
+
+Pasal 4
+Peraturan Menteri ini mulai berlaku pada tanggal diundangkan.
+
+Agar setiap orang mengetahuinya, memerintahkan pengundangan Peraturan Menteri ini dengan penempatannya dalam Berita Negara Republik Indonesia.
+
+Ditetapkan di Jakarta pada tanggal 14 Mei 2024
+
+MENTERI LINGKUNGAN HIDUP DAN KEHUTANAN REPUBLIK INDONESIA,
+
+SITI NURBAYA
+
+Diundangkan di Jakarta pada tanggal 16 Mei 2024
+
+DIREKTUR JENDERAL PERATURAN PERUNDANG-UNDANGAN KEMENTERIAN HUKUM DAN HAK ASASI MANUSIA REPUBLIK INDONESIA,
+
+ASEP N. MULYANA
+
+**BERITA NEGARA REPUBLIK INDONESIA TAHUN 2024 NOMOR 958**
+
+**LAMPIRAN I**
+
+**PERATURAN MENTERI LINGKUNGAN HIDUP DAN KEHUTANAN REPUBLIK INDONESIA NOMOR 7 TAHUN 2024 TENTANG TATA CARA PENERBITAN REKOMENDASI PERSETUJUAN IMPOR BAHAN PERUSAK LAPISAN OZON DAN HIDROFLUOROKARBON**
+
+**BPO YANG DIKENDALIKAN**
+
+A. METIL BROMIDA
+
+| Pos Tarif | Uraian Barang | ODP | GWP | CAS Number |
+|-----------|---------------|-----|-----|------------|
+| 2903.61.00 | Metil Bromida (Bromometana) | - | - | 74-83-9 |
+
+B. NON METIL BROMIDA
+
+| Pos Tarif | Uraian Barang | ODP | GWP | CAS Number |
+|-----------|---------------|-----|-----|------------|
+| 2903.71.00 | Klorodifluorometana (HCFC-22) | 0.05 | 1810 | 75-45-6 |
+| 2903.72.00 | Diklorotrifluoroetana (HCFC-123) | 0.02 | 77 | 306-83-2 |
+| 2903.73.00 | Diklorofluoroetana (HCFC-141) | 0.10 | 725 | 1717-00-6 |
+| 2903.74.00 | Klorodifluoroetana (HCFC-142, 142b) | 0.05 | 2400 | 75-72-9 |
+
+**BAB V**
+KETENTUAN PENUTUP
+
+Pasal 26
+Peraturan Menteri ini mulai berlaku pada tanggal diundangkan.
+
+Agar setiap orang mengetahuinya, memerintahkan pengundangan Peraturan Menteri ini dengan penempatannya dalam Berita Negara Republik Indonesia.
+
+Ditetapkan di Jakarta pada tanggal 14 Mei 2024
+
+MENTERI LINGKUNGAN HIDUP DAN KEHUTANAN REPUBLIK INDONESIA,
+
+SITI NURBAYA
+
+Diundangkan di Jakarta pada tanggal 16 Mei 2024
+
+DIREKTUR JENDERAL PERATURAN PERUNDANG-UNDANGAN KEMENTERIAN HUKUM DAN HAK ASASI MANUSIA REPUBLIK INDONESIA,
+
+ASEP N. MULYANA
+
+**BERITA NEGARA REPUBLIK INDONESIA TAHUN 2024 NOMOR 958**
+**PERATURAN TENTANG IMPOR SENYAWA KIMIA**
+
+**DENGAN RAHMAT TUHAN YANG MAHA ESA**
+
+**MENTERI PERDAGANGAN REPUBLIK INDONESIA**
+
+**Menimbang:**
+a. bahwa untuk melaksanakan ketentuan dalam peraturan perundang-undangan yang berlaku mengenai impor senyawa kimia, perlu menetapkan peraturan tentang impor senyawa kimia;
+b. bahwa senyawa kimia yang diimpor harus memenuhi standar keselamatan dan kesehatan serta tidak membahayakan lingkungan hidup;
+c. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a dan huruf b, perlu menetapkan peraturan menteri perdagangan tentang impor senyawa kimia.
+
+**Mengingat:**
+1. Undang-Undang Nomor 7 Tahun 2014 tentang Perdagangan;
+2. Undang-Undang Nomor 32 Tahun 2009 tentang Perlindungan dan Pengelolaan Lingkungan Hidup;
+3. Peraturan Pemerintah Nomor 28 Tahun 2008 tentang Lingkungan Hidup;
+4. Peraturan Menteri Perdagangan Nomor 20 Tahun 2017 tentang Ketentuan Umum dan Tata Cara Impor.
+
+**Memutuskan:**
+Menetapkan: PERATURAN MENTERI PERDAGANGAN TENTANG IMPOR SENYAWA KIMIA.
+
+**Pasal 1**
+Dalam peraturan ini yang dimaksud dengan:
+1. Senyawa kimia adalah zat atau campuran yang memiliki sifat fisik dan kimia tertentu.
+2. Impor adalah kegiatan memasukkan barang dari luar negeri ke dalam wilayah Indonesia.
+3. Kementerian adalah Kementerian Perdagangan Republik Indonesia.
+
+**Pasal 2**
+(1) Setiap orang atau badan hukum yang melakukan impor senyawa kimia wajib memiliki izin impor.
+(2) Izin impor sebagaimana dimaksud pada ayat (1) dikeluarkan oleh Kementerian.
+
+**Pasal 3**
+(1) Senyawa kimia yang diimpor harus memenuhi standar keselamatan dan kesehatan.
+(2) Senyawa kimia yang tidak memenuhi standar sebagaimana dimaksud pada ayat (1) dilarang untuk diimpor.
+
+**Pasal 4**
+(1) Setiap senyawa kimia yang diimpor wajib dilengkapi dengan dokumen yang menyatakan bahwa senyawa tersebut telah memenuhi standar yang ditetapkan.
+(2) Dokumen sebagaimana dimaksud pada ayat (1) harus disampaikan kepada Kementerian pada saat pengajuan izin impor.
+
+**Pasal 5**
+(1) Kementerian berwenang untuk melakukan pengawasan dan pemeriksaan terhadap senyawa kimia yang diimpor.
+(2) Dalam hal ditemukan pelanggaran terhadap ketentuan dalam peraturan ini, Kementerian dapat memberikan sanksi sesuai dengan ketentuan perundang-undangan yang berlaku.
+
+**Pasal 6**
+Peraturan ini mulai berlaku pada tanggal ditetapkan.
+
+**Ditetapkan di Jakarta, pada tanggal [tanggal]**
+
+**MENTERI PERDAGANGAN REPUBLIK INDONESIA**
+
+**[Nama Pejabat]**
+**MENTERI LINGKUNGAN HIDUP DAN KEHUTANAN REPUBLIK INDONESIA**
+
+**PERATURAN MENTERI LINGKUNGAN HIDUP DAN KEHUTANAN REPUBLIK INDONESIA NOMOR 7 TAHUN 2024 TENTANG TATA CARA PENERBITAN REKOMENDASI PERSETUJUAN IMPOR BAHAN PERUSAK LAPISAN OZON DAN HIDROFLUOROKARBON**
+
+**DENGAN RAHMAT TUHAN YANG MAHA ESA**
+
+Menimbang:
+a. bahwa untuk melaksanakan ketentuan dalam peraturan perundang-undangan tentang pengendalian bahan perusak lapisan ozon dan hidrofluorokarbon, perlu ditetapkan tata cara penerbitan rekomendasi persetujuan impor;
+b. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a, perlu menetapkan Peraturan Menteri Lingkungan Hidup dan Kehutanan tentang Tata Cara Penerbitan Rekomendasi Persetujuan Impor Bahan Perusak Lapisan Ozon dan Hidrofluorokarbon.
+
+**Menghitung:**
+1. Undang-Undang Nomor 32 Tahun 2009 tentang Perlindungan dan Pengelolaan Lingkungan Hidup;
+2. Peraturan Pemerintah Nomor 70 Tahun 2001 tentang Pengendalian Bahan Perusak Lapisan Ozon;
+3. Peraturan Menteri Lingkungan Hidup dan Kehutanan Nomor 20 Tahun 2017 tentang Pengendalian Bahan Perusak Lapisan Ozon.
+
+**Memutuskan:**
+Menetapkan: Peraturan Menteri Lingkungan Hidup dan Kehutanan tentang Tata Cara Penerbitan Rekomendasi Persetujuan Impor Bahan Perusak Lapisan Ozon dan Hidrofluorokarbon.
+
+**Pasal 1**
+Dalam Peraturan Menteri ini yang dimaksud dengan:
+1. HFC adalah hidrofluorokarbon.
+2. HCFC adalah hidroklorofluorokarbon.
+3. Ozon adalah lapisan ozon yang melindungi bumi dari radiasi ultraviolet.
+4. Rekomendasi adalah surat persetujuan yang diterbitkan oleh Menteri untuk impor bahan perusak lapisan ozon.
+
+**Pasal 2**
+(1) Tata cara penerbitan rekomendasi persetujuan impor bahan perusak lapisan ozon dan hidrofluorokarbon dilakukan secara bertahap.
+(2) Target pengurangan konsumsi HFC secara bertahap untuk Negara Artikel-5 (termasuk Indonesia) sebagai berikut:
+   a. Negara Pihak Artikel-5: Grup 1
+   b. Tahun baseline 2020, 2021 & 2022
+   c. Perhitungan rata-rata produksi/konsumsi HFC di tahun 2020, baseline 2021 dan 2022 ditambah 65% angka baseline produksi/konsumsi HCFC.
+
+**Pasal 3**
+Ketentuan lebih lanjut mengenai tata cara penerbitan rekomendasi persetujuan impor bahan perusak lapisan ozon dan hidrofluorokarbon diatur dengan keputusan Menteri.
+
+**Pasal 4**
+Peraturan Menteri ini mulai berlaku pada tanggal ditetapkan.
+
+**Ditetapkan di Jakarta**
+**Pada tanggal**: [Tanggal Penetapan]
+
+**MENTERI LINGKUNGAN HIDUP DAN KEHUTANAN REPUBLIK INDONESIA,**
+
+**ttd.**
+
+**SITI NURBAYA**
+**MENTERI LINGKUNGAN HIDUP DAN KEHUTANAN REPUBLIK INDONESIA**
+
+Dengan rahmat Tuhan Yang Maha Esa, 
+
+Menimbang:  
+a. bahwa untuk melaksanakan ketentuan dalam peraturan perundang-undangan terkait impor, perlu ditetapkan kebijakan yang jelas dan terarah;  
+b. bahwa dalam rangka pengelolaan lingkungan hidup yang berkelanjutan, diperlukan pengaturan yang lebih baik mengenai impor barang;  
+c. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a dan b, perlu menetapkan peraturan menteri tentang pengaturan impor barang;  
+
+Mengingat:  
+1. Undang-Undang Nomor 32 Tahun 2009 tentang Perlindungan dan Pengelolaan Lingkungan Hidup;  
+2. Undang-Undang Nomor 21 Tahun 2019 tentang Karantina Hewan, Ikan, dan Tumbuhan;  
+3. Peraturan Pemerintah Nomor 82 Tahun 2001 tentang Pengelolaan Kualitas Air dan Pengendalian Pencemaran Air;  
+4. Peraturan Menteri Lingkungan Hidup dan Kehutanan Nomor XX Tahun XXXX tentang Pengaturan Impor Barang;  
+
+Memutuskan:  
+Menetapkan: Peraturan Menteri Lingkungan Hidup dan Kehutanan tentang Pengaturan Impor Barang.
+
+**Pasal 1**  
+(1) Ketentuan umum dalam peraturan ini meliputi pengertian dan ruang lingkup pengaturan.  
+(2) Pengertian dalam peraturan ini adalah sebagai berikut:  
+a. "Impor" adalah kegiatan memasukkan barang dari luar negeri ke dalam wilayah Indonesia;  
+b. "Barang" adalah semua benda yang dapat diperdagangkan;  
+c. "Kementerian" adalah Kementerian Lingkungan Hidup dan Kehutanan.  
+
+**Pasal 2**  
+(1) Setiap orang yang melakukan impor barang wajib mematuhi ketentuan yang diatur dalam peraturan ini.  
+(2) Kementerian berwenang untuk melakukan pengawasan terhadap kegiatan impor barang.  
+
+**Pasal 3**  
+(1) Ketentuan lebih lanjut mengenai tata cara dan syarat-syarat impor barang diatur dalam peraturan menteri ini.  
+(2) Peraturan menteri ini mulai berlaku pada tanggal ditetapkan.  
+
+Ditetapkan di Jakarta pada tanggal 1 Januari 2024.  
+
+MENTERI LINGKUNGAN HIDUP DAN KEHUTANAN REPUBLIK INDONESIA,  
+
+ttd.  
+
+SITI NURBAYA  

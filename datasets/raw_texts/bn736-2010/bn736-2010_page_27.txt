@@ -1,0 +1,129 @@
+2010, No.736
+
+POS TARIF/
+
+NO. HS
+
+8501.62
+
+27
+
+|
+
+URAIAN BARANG KETERANGAN
+
+-Generator AC (alternator) :
+
+--Dengan keluaran metebihi 75 kVA tetapi tidak
+melebihi 375 kVA:
+
+181 |8501.62.10.00
+
+182 | 8501.63.00.00
+
+--Dengan keluaran melebihi 75 kVA tetapi
+tidak melebihi 150 kVA
+--Dengan keluaran melebiht 375 kVA tetapi tidak
+
+183 |8501.64.00.00
+
+melebihi 750 kVA
+--Dengan keluaran melebihi 750 kVA
+
+85.02
+
+Perangkat pembangkit tenaga listrik dan kon-
+
+verter berputar.
+-Perangkat pembangkit tenaga_ istrik dengan
+
+mesin piston pembakaran dalam nyala kompresi
+
+8502.12
+
+8502.12.90.00
+8502.13
+185 |8502.13.10.00
+
+(mesin disel atau mesin semi disel) :
+
+~Dengan keluaran metebini 75KVA tetapi
+tidak melebihi 375 kVA:
+
+~-Dengan keluaran melebihi 125 kVA
+
+—Dengan keluaran melebihi 375 kVA:
+
+Dengan keluaran dari 12.500 kVA (10,000 kW)
+
+atau lebih
+
+186 |8502.13.90.00
+8502.26
+
+-Perangkal pembangkit tenaga listrik dengan
+
+—Lain-lain
+
+187 |8502.20.20.00
+
+mesin piston pembakaran dalam cetus api :
+—Dengan keluaran melebihi 75 kVA tetapi tidak
+
+melebihi 100 kVA
+
+188 |8502.20.30.00
+
+—Dengan keluaran melebihi 100 kVA tetapi
+
+tidak melebihi 10.000 kVA
+
+8502.20.49.00
+
+~-Dengan keluaran melebihi 10.000 KVA:
+—-Lain-lain
+-Petangkat pembangkit tenaga listrik lainnya :
+
+8502.39
+
+—Lain-lain :
+
+190 |8502.39.20.00
+
+—~-Dengan keluaran melebihi 10 «VA tapi tidak
+
+melebihi 10.000 kVA
+—Dengan keluaran melebihi 10.000 kVA:
+
+1914 |8502.39.39.00
+
+—-Lain-lain
+
+Tungku dan oven listrik industri atau labora-
+
+torium (termasuk yang berfungsi induksi atau
+dielectric loss); perlengkapan industri atau
+
+faboratorium lainnya untuk pengolahan panas
+
+bahan dengan induksi atau dielectric foss.
+
+192 |8514.10,00.00
+
+-Tungku dan oven tahan panas
+
+85.17
+
+Perangkat telepon, termasuk telepon untuk
+
+jaringan seluler atau untuk jaringan tanpa
+
+kabel lainnya; aparatus lainnya untuk mengi-
+rimkan atau menerima suara, gambar, atau data
+
+lainnya termasuk aparatus untuk komunikasi
+dalam jaringan kabel atau tanpa kabel (seperti local
+atau wide area network), selain dari aparat
+
+transmisi atau penerima dart pos 84.43, 85.25,
+

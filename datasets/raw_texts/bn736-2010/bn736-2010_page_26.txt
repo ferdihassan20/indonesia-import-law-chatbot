@@ -1,0 +1,100 @@
+2010, No.736
+
+NO.
+
+26
+
+POS TARIF/
+HS
+
+URAIAN BARANG KETERANGAN
+
+8479.82.10.00
+
+~--Dioperasikan secara elektrik
+
+Kotak cetakan untuk pengecoran logam; dasar
+
+cetakan; pola cetakan; cetakan untuk logam
+
+{selain cetakan ingot), karbida logam, kaca,
+
+bahan mineral, karet atau plastik.
+
+8480.30
+
+-Pola cetakan :
+
+168
+
+8480.30.90.00
+
+--Lain-lain
+
+-Cetakan untuk logam atau karbida logam ;
+
+169
+
+8480.41.00.00
+
+~Tipe injeksi atau kompresi
+
+170 |8480.49.00.00 —[—-Lain-lain
+171 | 8480.50.00,00 -Cetakan untuk kaca
+
+-Cetakan untuk bahan karet atau plastik :
+172 | 8480.71.00.00 —Tipe injeksi atau kompresi
+
+Poros transmisi (termasuk poros berputar dan
+poros engkol} dan engkol; rumah bantalan dan
+
+“Tbantalan poros polos; gir dan gearing; ball
+
+screw atau roller screw; gear box dan pengubah
+kecepatan lainnya, termasuk torak konverter;
+roda gaya dan puli, termasuk blok _ puli;
+kopling dan  poros_ perangkai { termasuk
+
+sambungan universal ).
+
+8483.30 -Rumah bantalan, tidak digabung dengan bantal-
+an peiuru atau gulung, bantalan poros polos :
+173 |8483.30.90.00 --Lain-lain
+8483.40 -Gir dan gearing, selain roda bergigi, chain
+—""" “sprocket dan efemen transmisi lainnya, diaju-
+kan secara terpisah; ball screw atau roller
+screw; gear box dan pengubah kecepatan lain-
+nya, termasuk torak konverter :
+--Untuk mesin dari kendaraan pada Bab 87 :
+174 |6483.40.29,00 -—Lain-lain
+4175 |8483.40.30.00 ~Untui Mesin pada Mesin pengolah tanah Hanya untuk industri remanufacturing
+ee rn kompenen AlatBerat_
+176 |8483.40,90.00 —_|-Untuk mesin lainnya __t
+85.01 Motor dan generator listrik (tidak termasuk
+perangkat pembangkit tenaga iistrik).
+8501.10 -Motor dengan keluaran tidak metebihi 37,5 W: ~
+
+--Motor DC
+
+177 |8501.10.19.00  --Lain-lain Motor drive, power supply &
+bagiannya/parts
+8601.20 -Motor universal AC/DC dengan keluaran
+melebihi 37,5W :
+~~Dengan keluaran tidak meiebihi 1 kW:
+178 8501.20.19.00 ---Lain-lain
+
+8501.20.20.00
+
+—Dengan keluaran melebihi 1 KW.
+
+-Motor AC fainnya, multi-phase :
+
+8501.52
+
+Dengan keluaran melebihi 750 W tetapi tidak
+
+8501.52.30.00
+
+melebihi 75 kW :
+—-Dengan keluaran melebihi 37,5 kW
+

@@ -1,0 +1,64 @@
+- 255 -
+
+Pos Tarif/HS
+
+Uraian Barang
+
+Persyaratan
+
+Keterangan
+
+ET
+
+PE
+
+LS
+
+menyelenggarakan urusan
+pemerintahan di bidang
+kelautan dan perikanan.
+
+Perpanjangan PE IKAN:
+
+1. PE IKAN yang masih
+berlaku; dan
+
+2. Perpanjangan SAJI-LN dari
+kementerian yang
+menyelenggarakan urusan
+pemerintahan di bidang
+kelautan dan perikanan.
+
+PE IKAN berlaku
+untuk 1 (satu) kali
+penyampaian
+Pemberitahuan
+Pabean Ekspor
+(transaksional).
+
+Masa berlaku PE
+IKAN sesuai masa
+berlaku SAJI-LN.
+
+Masa berlaku
+perubahan PE
+IKAN selama sisa
+masa berlaku PE
+IKAN.
+
+Masa berlaku
+perpanjangan PE
+IKAN sesuai masa
+berlaku
+perpanjangan
+SAJI-LN.
+
+Elemen data
+dan/atau
+keterangan
+tambahan selain
+yang diatur dalam
+batang tubuh,
+yang dilakukan
+penelitian sesuai
+

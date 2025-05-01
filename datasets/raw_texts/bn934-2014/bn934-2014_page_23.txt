@@ -1,0 +1,53 @@
+23 2014, No.934
+
+No Pos Tarif Uraian Barang
+6108.19.90 --- Lain-lain:
+334 6108.19.90,10 ---- Dari sutra
+335 6108.19.90.90 ---- Lain-lain
+- Celana dalam dan panty:
+336 6108.21.00.00 -- Dari kapas
+337 6108,22,00,00 -- Dari serat buatan.
+338 | 6108.29.00,00 -- Dari bahan tekstil lainnya
+- Gaun tidur dan piyama:
+339 | 6108.31.00.00 -- Dari kapas
+340 6108.32.00.00 -- Dari serat buatan.
+341 | 6108.39,00,00 -- Dari bahan tekstil lainnya
+- Lain-lain:
+342 6108.91.00.00 -- Dari kapas
+343 | 6108.92.00.00 -- Dari serat buatan.
+344 | 6108.99.00,.00 -- Dari bahan tekstil lainnya
+61.09 T- ; shirt, singlet dan kaus kutang lainnya, rajutan atau
+kaitan.
+6109.10 - Dari kapas:
+345 | 6109.10.10.00 -- Untuk pria atau anak laki- laki
+346 | 6109.10.20.00 -- Untuk wanita atau anak perempuan
+6109.90 - Dari bahan tekstil lainnya:
+347 6109.90.10.00 -- Untuk pria atau anak laki- laki, dari rami, linen atau sutra
+348 | 6109.90.20,00 -- Untuk pria atau anak laki- laki, dari bahan lainnya
+349 6109.90.30.00 -- Lain-lain
+
+Jersey, pullover, cardigan, rompi dan barang semacam itu,
+
+61.10 rajutan atau kaitan.
+- Dari wol atau bulu hewan halus:
+350 6110.11.00.00 -- Dari wol
+351 6110.12.00.00 -- Dari kambing Kashmir
+352 6110.19,00,00 -- Lain-lain
+353 | 6110.20.00.00 - Dari kapas
+354 | 6110.30,00.00 - Dari serat buatan
+355 | 6110.90.00.00 - Dari bahan tekstil lainnya
+61.11 Garmen dan aksesori pakaian untuk bayi, rajutan atau
+kaitan.
+356 | 6111.20.00.00 - Dari kapas
+357 | 6111.30,00.00 - Dari serat sintetik
+358 | 6111.90.00.00 - Dari bahan tekstil lainnya
+61.12 Track suit, ski suit dan pakaian renang, rajutan atau kaitan.
+- Track suit:
+359 6112.11.00.00 -- Dari kapas
+360 | 6112.12.00,00 -- Dari serat sintetik
+361 6112.19.00.00 -- Dari bahan tekstil lainnya
+302 6112,20,00,00 - Ski suit
+
+- Pakaian renang pria atau anak laki- laki:
+
+16

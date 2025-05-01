@@ -1,0 +1,32 @@
+- 368 -
+
+No Pos Tarif/HS Uraian Barang Persyaratan Keterangan ET | PE| LS
+392. | ex 2822.00.00 Kobalt Hidroksida (Co(OH)2) dengan kadar = integrasi sistem V
+50% Co informasi
+393. | ex 2823.00.00 Titanium dioksida produk pemurnian dengan mengenai
+ex 3206.11.10 kadar = 85% TiO2 Mineral dan
+ex 3206.11.90 Batubara
+394. | ex 2824.10.00 Timbal oksida dengan kadar = 98% PbO antara V
+395. ex 2824.90.00 Timbal dioksida dengan kadar = 98% PbO2 Kementerian V
+396. | ex 7501.20.00 Mixed Hydroxide Presipitate (MHP) dengan dan Lembaga V
+kadar = 25% Ni belum diberlak
+397. | ex 2825.40.00 Nikel Hidroksida (Ni(OH)2) dengan kadar = 50% ukan. V
+Ni
+398. | ex 2825.40.00 Nikel Oksida (NiO) dengan kadar = 65% Ni V
+ex 7501.20.00
+399. | ex 2825.80.00 Diantimon Trioksida hasil pemurnian lanjut V
+terak dari hasil pemurnian konsentrat timah
+dengan kadar = 90% Sb203
+400. | ex 2825.80.00 Diantimon pentaoksida dengan kadar = 95% V
+Sb20s
+401. | ex 2825.90.00 Niobium oksida dengan kadar = 90% Nb2Os V
+402. | ex 2825.90.00 Seng hidroksida dengan kadar = 98% Zn(OH)2 V
+403. | ex 2825.90.00 Tantalum oksida dengan kadar = 90% Ta2Os V
+404. | ex 2825.90.00 Telurium hidroksida dengan kadar = 98% V
+Te(OH)4
+405. | ex 2825.90.00 Timbal hidroksida dengan kadar = 98% Pb(OH)2 V
+406. | ex 2827.35.00 Nikel klorida dan nikel klorida hidrat (NiClz dan V
+NiCl2.xH20) dengan kadar = 20% Ni
+407. | ex 2827.39.90 Mangan klorida dengan kadar = 90% MnCl2 V
+408. | ex 2827.39.10 Kobalt klorida dan kobalt klorida hidrat (CoCl2 V
+

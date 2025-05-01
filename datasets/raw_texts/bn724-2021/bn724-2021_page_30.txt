@@ -1,0 +1,43 @@
+2021, No.724 -30-
+
+Diisi dengan jumlah dan jenis kemasan untuk setiap jenis barang
+Dalam hal Menteri atau Direktur Jenderal telah memberlakukan
+satuan wajib untuk jenis barang dimaksud, importir harus
+mencantumkan jumlah dan jenis satuan barang sesuai satuan wajib
+yang ditetapkan oleh Menteri atau Direktur Jenderal.
+Contoh:
+Harga barang sesuai invoice adalah USD 10,00 (sepuluh United States
+Dollar) per Pes. Berat bersih adalah 5.000 Kg dengan kemasan
+sejumlah 1.000 Pkg @ 10 Pcs.
+= 10.000 Pcs
+-— 5.000 Kg
+— 1,000 Pkg
+
+7. Nilai Pabean
+Diisi dengan nilai pabean dalam valuta untuk setiap jenis barang
+impor, dalam terminologi CIF.
+
+Contoh:
+Impor barang dengan transaksi jual beli senilai USD100.000,00
+(seratus ribu United States Dollar)
+= 100.000,00
+
+8. Jumlah Barang Impor Eksep
+Diisi dengan jumlah kemasan dan jumlah barang yang tertinggal
+dalam hal barang impor merupakan barang eksep.
+
+Diisi lene vein i estimasi jae barang eksep tiba
+dalam hal barang impor merupakan barang eksep.
+Contoh:
+Terdapat importasi barang eksep dengan sisa 100 Pk @ 20 Pcs yang
+akan tiba pada tanggal 30 Januari 2020
+— 100 PK / 2.000 Pcs
+= 30 Januari 2020
+
+9. Importir wajib mengisi nama kota dan tanggal surat permohonan,
+nama jelas penanggung jawab importir dan jabatannya pada kolom
+yang disediakan. Dalam hal importir merupakan perusahaan, kolom
+ini wajib ditandatangani oleh penanggung jawab importir tersebut,
+yaitu Direktur atau Pimpinan perusahaan.
+
+www.peraturan.go.id

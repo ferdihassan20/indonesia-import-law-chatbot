@@ -1,0 +1,50 @@
+19. 2019, No. 842
+
+pencantuman nilai FOB barang di Negara Anggota
+pengekspor kedua pada Kolom 9 SKA Form D atau pada
+kolom “Value (FOB)” e-Form D Back-to-Back, dalam hal
+kriteria asal barang adalah RVC;
+
+tanda ( v ) atau (xX) harus dicantumkan pada kotak "Back-
+to-Back CO” di kolom 13 SKA Form D atau dalam hal
+e-Form D digunakan, pada kolom “category code” harus
+dicantumkan kode Back-to-Back “BCO”.
+
+dalam hal informasi pada SKA Form D atau e-Form D Back-
+to-Back diragukan atau tidak lengkap, Pejabat Bea dan
+Cukai dapat meminta Importir untuk menyerahkan copy
+atau pindaian SKA Form D atau hasil cetak e-Form D dari
+Negara Anggota pengekspor pertama, dan
+
+apabila Importir tidak dapat menyerahkan lembar copy atau
+pindaian SKA Form D atau hasil cetak e-Form D dari Negara
+Anggota pengekspor pertama, Pejabat Bea dan Cukai akan
+mengirimkan Permintaan Retroactive Check kepada Negara
+Anggota pengekspor pertama dan/atau Negara Anggota
+pengekspor kedua.
+
+Penelitian Third Country Invoicing
+
+Penelitian penggunaan Third Country Invoicing meliputi:
+
+a.
+
+nama perusahaan dan negara yang menerbitkan invoice
+pihak ketiga (Third Country Invoice) harus dicantumkan
+pada Kolom 7 SKA Form D atau dalam hal e-Form D
+digunakan, maka harus dicantumkan pada kolom “Invoice
+Party” dan “Invoice Country”;
+
+nomor invoice pihak ketiga atau nomor invoice asal barang
+harus dicantumkan pada kolom 10 SKA Form D atau e-Form
+D; dan
+
+dalam hal invoice pihak ketiga diterbitkan di negara yang
+berbeda dengan negara tempat diterbitkannya SKA, tanda
+( v ) atau ( X ) harus dicantumkan pada kotak "Third
+Country Invoicing” di kolom 13 SKA Form D atau dalam hal
+e-Form D digunakan, pada kolom category code harus
+
+dicantumkan kode Third Country Invoicing “TCI”.
+
+www.peraturan.go.id

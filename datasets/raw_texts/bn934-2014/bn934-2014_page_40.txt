@@ -1,0 +1,59 @@
+2014, No.934
+
+40
+
+No Pos Tarif Uraian Barang
+instalasi dari jenis yang digunakan untuk keperluan rumah
+tangga; pemanas air instant atau pemanas air dengan
+tempat penyimpanan, bukan listrik.
+- Pemanas air instant atau pemanas air dengan tempat
+penyimpanan, bukan listrik:
+8419.11 -- Pemanas air instant dengan gas:
+755 | 8419.11.10.00 --- Tipe rumah tangga
+756 | 8419.11.90.00 --- Lain-lain
+8419.19 -- Lain-lain:
+757 | 8419.19,.10.00 --- Tipe rumah tangga
+758 8419.19.90.00 --- Lain-lain
+84.50 Mesin cuci tipe rumah tangga atau binatu, termasuk mesin
+. yang dapat digunakan untuk mencuci dan mengeringkan.
+- Mesin, yang mempunyai kapasitas linen kering tidak melebihi
+10 kg:
+8450.11 -- Mesin otomatis penuh:
+759 | 8450.11.10.00 --- Mempunyai kapasitas linen kering tidak melebihi 6 kg
+760 8450. 11.90.00 --- Lain-lain
+8450.12.00 -- Mesin lainnya, dilengkapi dengan pengering sentrifugal:
+761 8450. 12.00.10 --- Mempunyai kapasitas linen kering tidak melebihi 6 kg
+762 | 8450.12.00.20 --- Mempunyai kapasitas linen kering melebihi 6 kg
+8450.19 -- Lain-lain:
+8450.19.10 --- Dioperasikan secara elektrik:
+763 | 8450.19.10.10 ---- Mempunyai kapasitas linen kering tidak melebihi 6 kg
+764 | 8450.19.10.20 ---- Mempunyai kapasitas linen kering melebihi 6 kg
+Mesin pengolah data otomatis dan unitnya; pembaca
+magnetik atau optik, mesin untuk menyalin data pada
+84.71 media data dalam bentuk kode dan mesin untuk mengolah
+data tersebut, tidak dirinci atau termasuk dalam pos
+lainnya.
+- Mesin pengolah data otomatis digital portabel, dengan berat
+8471.30 tidak lebih dari 10 kg, terdiri dari paling tidak satu unit
+pengolah pusat, keyboard dan display:
+765 | 8471.30.20.00 -- Laptop termasuk notebook dan subnotebook
+766 | ex. 8471.30.90.00 | -- Lain-lain (selain komputer tablet)
+- Mesin pengolah data otomatis digital lainnya:
+-- Terdapat dalam wadah yang sama paling tidak satu unit
+8471.41 pengolah pusat dan satu unit masukan serta_ keluaran,
+dikombinasikan maupun tidak:
+767 | 8471.41.10.00 --- Komputer personal tidak termasuk komputer portabel pada
+subpos 847 1.30
+8471.49 -- Lain-lain, disediakan dalam bentuk sistem:
+768 | 8471.49.10.00 --- Komputer personal tidak termasuk komputer portabel pada
+subpos 847 1.30
+85.09 Peralatan rumah tangga mekanik elektrik dengan motor
+. listrik terpasang, selain vacuum cleaner dari pos 85.08
+- Penggiling dan pencampur makanan; pengekstrak jus buah
+769 | 8509.40.00.00 atau sayur
+Pemanas air instan atau pemanas air dengan tempat
+85.16 penyimpanan dan pemanas celup, listrik; aparatus pemanas
+ruangan dan pemanas tanah, listrik; aparatus penata rambut
+
+33
+

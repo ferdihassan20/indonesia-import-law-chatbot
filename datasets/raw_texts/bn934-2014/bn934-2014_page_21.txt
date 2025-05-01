@@ -1,0 +1,70 @@
+21 2014, No.934
+
+No Pos Tarif Uraian Barang
+
+Setelan, ensemble, jas, blazer, celana panjang, pakaian
+terusan berpenutup di depan dan bertali, celana panjang
+
+61.03 sampai lutut dan celana pendek (selain pakaian renang),
+
+untuk pria atau anak laki- laki, rajutan atau kaitan.
+
+280 6103.10.00.00 - Setelan
+- Ensemble:
+
+281 6103.22.00.00 -- Dari kapas
+
+282 6103,.23.00.00 -- Dari serat sintetik
+
+283 | 6103,.29,00,00 -- Dari bahan tekstil lainnya
+- Jas dan blazer:
+
+284 =| 6103.31.00,00 -- Dari wol atau bulu hewan halus
+
+285 6103.32.00.00 -- Dari kapas
+
+286 6103.33.00.00 -- Dari serat sintetik
+
+6103.39.00 -- Dari bahan tekstil lainnya:
+
+287 6103.39.00. 10 --- Dari rami, linen atau sutra
+
+288 6103,.39,00,90 --- Lain-lain
+- Celana panjang, pakaian terusan berpenutup di depan dan
+bertali, celana panjang sampai lutut dan celana pendek:
+
+289 | 6103.41.00.00 -- Dari wol atau bulu hewan halus
+
+290 6103.42.00.00 -- Dari kapas
+
+291 6103.43.00.00 -- Dari serat sintetik
+
+292 | 6103.49.00.00 -- Dari bahan tekstil lainnya
+
+Setelan, ensemble, jas, blazer, gaun, rok, rok terpisah,
+celana panjang, pakaian terusan berpenutup di depan dan
+61.04 bertali, celana panjang sampai lutut dan celana pendek
+(selain pakaian renang), untuk wanita atau anak perempuan,
+rajutan atau kaitan.
+
+- Setelan:
+293 6104,13.00,00 -- Dari serat sintetik
+6104.19 -- Dari bahan tekstil lainnya:
+294 6104, 19,20,00 --- Dari kapas
+295 | 6104.19,90,00 --- Lain-lain
+- Ensemble:
+296 | 6104.22.00,00 -- Dari kapas
+297 | 6104.23.00.00 -- Dari serat sintetik
+298 | 6104.29.00.00 -- Dari bahan tekstil lainnya
+- Jas dan blazer:
+299 | 6104.31.00,00 -- Dari wol atau bulu hewan halus
+300 | 6104.32.00,00 -- Dari kapas
+301 6104.33.00.00 -- Dari serat sintetik
+302 | 6104.39,.00,00 -- Dari bahan tekstil lainnya
+- Gaun:
+303 | 6104.41.00,00 -- Dari wol atau bulu hewan halus
+304 6104.42.00.00 -- Dari kapas
+305 | 6104.43.00.00 -- Dari serat sintetik
+306 | 6104.44,00,00 -- Dari serat artifisial
+
+14

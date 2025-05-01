@@ -1,0 +1,59 @@
+2014, No.934
+
+20
+
+No Pos Tarif Uraian Barang
+Sabun; produk dan preparat aktif-permukaan organik
+digunakan sebagai sabun, dalam bentuk batangan, cake,
+potongan atau bentukan yang dicetak, mengandung sabun
+maupun tidak; produk dan preparat aktif permukaan
+34.01 organik untuk membersihkan kulit dalam bentuk cair atau
+krim dan disiapkan untuk penjualan eceran, mengandung
+sabun maupun tidak; kertas, gumpalan, kain kempa dan
+bukan tenunan, diresapi, dilapisi atau ditutupi dengan sabun
+atau deterjen.
+- Sabun dan produk serta preparat aktif permukaan
+organik,dalam bentuk batangan,cake, potongan atau bentukan
+yang dicetak,dan kertas, gumpalan, kain kempa atau bukan
+tenunan, diresapi, dilapisi atau ditutupi dengan sabun atau
+deterjen:
+3401.11 -- Untuk keperluan toilet (termasuk produk mengandung obat):
+263 | 3401.11.10.00 --- Produk mengandung obat
+204 3401,11,.20,00 --- Sabun mandi
+--- Lain-lain, dari kain kempa atau bukan tenunan, diresapi,
+265 | $401.11.30.00 dilapisi atau ditutupi dengan sabun atau deterjen
+266 3401.11.90.00 --- Lain-lain
+3401.19 -- Lain-lain:
+--- Dari kain kempa atau bukan tenunan, diresapi, dilapisi atau
+267 | 3401.19.10.00 ditutupi dengan sabun atau deterjen
+268 | 3401.19.90.00 --- Lain-lain
+3401.20 - Sabun dalam bentuk lain:
+269 | 3401.20.20,00 -- Kepingan sabun
+-- Lain-lain:
+270 | 3401.20.91.00 --- Dari jenis yang digunakan untuk memisahkan tinta pada
+kertas daur ulang
+271 3401.20.99,00 --- Lain-lain
+- Produk dan preparat aktif-permukaan organik untuk
+272 3401.30.00.00 membersihkan kulit, dalam bentuk cair atau krim dan
+disiapkan untuk penjualan eceran, mengandung sabun
+maupun tidak
+D. PAKAIAN JADI
+1. PAKAIAN JADI DAN SEJENISNYA
+Mantel panjang, car-coat, jubah bertopi, jubah, anorak
+61.01 (termasuk jaket-ski), wind-cheater, wind-jacket dan barang
+. semacam itu, untuk pria atau anak laki-laki, rajutan atau
+kaitan, selain yang dimaksud dalam pos 61.03.
+273 6101.20.00.00 - Dari kapas
+274 | 6101.30.00,00 - Dari serat buatan
+275 | 6101.90.00.00 - Dari bahan tekstil lainnya
+Mantel panjang, car-coat, jubah bertopi, jubah, anorak
+61.02 (termasuk jaket-ski), wind-cheater, wind-jacket dan barang
+. semacam itu, untuk wanita dan anak perempuan, rajutan
+atau kaitan, selain yang dimaksud dalam pos 61.04.
+276 | 6102.10.00.00 - Dari wol atau bulu hewan halus
+277 | 6102.20.00.00 - Dari kapas
+278 | 6102.30,00.00 - Dari serat buatan
+279 | 6102.90.00.00 - Dari bahan tekstil lainnya
+
+13
+

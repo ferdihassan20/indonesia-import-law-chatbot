@@ -1,0 +1,60 @@
+2014, No.934
+
+38
+
+No Pos Tarif Uraian Barang
+64.04 Alas kaki dengan sol luar dari karet, plastik, kulit samak
+. atau kulit komposisi dan bagian atasnya dari bahan tekstil.
+- Alas kaki dengan sol luar dari karet atau plastik:
+6404.11 -- Alas kaki olah raga; sepatu tenis, sepatu bola basket, sepatu
+. senam, sepatu latihan dan sejenisnya:
+727 | 6404.11.10.00 --- Dilengkapi dengan spike, cleat atau sejenisnya
+728 | 6404.11.20.00 --- Alas kaki untuk gulat, angkat beban atau gimnastik
+729° | 6404.11.90.00 --- Lain-lain.
+730 6404, 19.00.00 -- Lain-lain
+731 | 6404.20.00.00 - Alas aki dengan sol luar dari kulit samak atau kulit
+komposisi
+64.05 Alas kaki lainnya.
+732 | 6405.10.00.00 - Dengan bagian atasnya dari kulit samak atau kulit komposisi
+733 | 6405.20.00.00 - Dengan bagian atasnya dari bahan tekstil
+734 | 6405.90.00.00 - Lain-lain
+F, ELEKTRONIKA
+Tungku, kompor, tungku terbuka, alat masak (termasuk
+tungku dengan ketel tambahan untuk pemanasan sentral),
+73.21 panggangan besar, anglo, gelang gas, piring pemanas, dan
+peralatan rumah tangga tanpa listrik semacam itu, dan
+bagiannya, dari besi atau baja.
+- Peralatan masak dan piring pemanas:
+735 | ex. 7321.11.00.00 | 7 Dengan bahan bakar gas atau gabungan gas dan bahan
+bakar lainnya (kompor gas)
+Pompa untuk cairan, dilengkapi dengan alat ukur maupun
+84.13
+tidak; elevator cairan
+8413.60 - Pompa displacement positif berputar lainnya:
+8413.60.30 -- Pompa air, dengan flow rate tidak melebihi 8.000 m3/jam:
+--- Dioperasikan secara elektrik (dengan daya masukan (inpud)
+736 | ex. 8413.60.30.10 kurang dari 1000 W)
+8413.70 - Pompa sentrifugal lainnya:
+-- Pompa air single stage, poros tunggal penyedot horisontal
+cocok digunakan untuk sabuk penggerak atau perangkai
+Jangsung, selain pompa dengan poros yang digunakan dengan
+prime mover:
+--- Dengan ukuran diameter inlet tidak melebihi 200 mm
+737 | ex. 8413.70.11.00 (dengan daya masukan (input) kurang dari 1000 W)
+-- Pompa air lainnya, dengan flow rate tidak melebihi 8.000
+m3/jam:
+8413.70.41 --- Dengan ukuran diameter inlet tidak melebihi 200 mm:
+738 | ex. 8413.70.41.10 | 77 Dioperasikan secara elektrik (dengan daya masukan (input)
+kurang dari 1000 W)
+- Pompa lainnya; elevator cairan:
+8413.81 -- Pompa:
+8413.81.11 oo Pompa air lainnya, dengan flow rate tidak melebihi 8.000
+m3/jam:
+---- Dioperasikan secara elektrik (Pompa air untuk keperluan
+739 | ex. 8413.81.11.10 | rumah tangga dan sejenisnya dengan daya masukan (input)
+kurang dari 1000 watt)
+84.14 Pompa udara atau pompa vakum, kompresor udara atau
+kompresor gas lainnya dan kipas angin atau kipas gas
+
+31
+

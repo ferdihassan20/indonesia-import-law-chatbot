@@ -1,0 +1,50 @@
+2014, No.934
+
+32
+
+No Pos Tarif Uraian Barang
+6211.49 -- Dari bahan tekstil lainnya:
+574 | 6211.49.10,00 --- Pakaian untuk olah raga anggar atau gulat.
+575 | 6211.49.20.00 ~~ Fakaian oe digunakan untuk pelindung dari bahan kimia,
+5376 | 6211.49.30.00 --- Pakaian sembahyang (mukena)
+S77 6211.49,.40,00 --- Lain-lain, dari wol atau bulu hewan halus
+578 | 6211.49,90.00 --- Lain-lain
+Kutang, girdle, korset, brace, suspender, garter dan barang
+62.12 semacam itu serta bagiannya, rajutan atau kaitan maupun
+tidak.
+6212.10 - Kutang:
+979 6212,10,10,00 -- Dari kapas
+580 | 6212.10.90.00 -- Dari bahan tekstil lainnya
+6212.20 - Girdle dan panty girdle:
+581 6212.20.10.00 -- Dari kapas
+582 | 6212.20.90.00 -- Dari bahan tekstil lainnya
+6212.30 - Corselettes:
+583 | 6212.30.10.00 _| -- Dari kapas
+984 | 6212.30,90,00 -- Dari bahan tekstil lainnya
+6212.90 - Lain-lain:
+-- Dari kapas:
+585 |6212.90.11.00 | crawatan luka jaringan dan calgkok kulit
+586 | 6212.90.12.00 --- Perlengkapan atletik
+587 | 6212.90.19.00 --- Lain-lain
+-- Dari bahan tekstil lainnya:
+589 | 6212.90.92.00 --- Perlengkapan atletik
+390 6212,90,99,00 --- Lain-lain
+62.13 Saputangan.
+6213.20 - Dari kapas:
+S91 6213.20.10.00 -- Dicetak dengan proses batik tradisional
+592 6213.20.90.00 -- Lain-lain
+6213.90 - Dari bahan tekstil lainnya:
+-- Dari sutra atau sisa sutra:
+593 | 6213.90.11.00 --- Dicetak dengan proses batik tradisional
+994 =| 6213.90.19.00 --- Lain-lain.
+-- Lain-lain:
+595 | 6213.90.91,00 --- Dicetak dengan proses batik tradisional
+596 6213.90.99.00 --- Lain-lain
+62.14 Syal, scarf, muffler, mantilla, veil dan sejenisnya.
+6214.10 - Dari sutra atau sisa sutra:
+597 | 6214.10.10.00 -- Dicetak dengan proses batik tradisional
+398 6214,.10,90,00 -- Lain-lain
+599 | 6214.20.00.00 - Dari wol atau bulu hewan halus
+
+25
+

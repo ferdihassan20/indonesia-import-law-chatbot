@@ -1,0 +1,73 @@
+43 2014, No.934
+
+No Pos Tarif Uraian Barang
+802 8527.92.10,00 --- Portabel
+--- Lain-lain:
+803 | 8527.92.91.00 ---- Dioperasikan dengan tenaga listrik
+804 8527.92.99,00 ---- Lain-lain
+8527.99 -- Lain-lain:
+805 8527.99.10,00 --- Portabel
+--- Lain-lain:
+806 | 8527.99.91.00 ---- Dioperasikan dengan tenaga listrik
+807 | 8527.99.99.00 ---- Lain-lain
+
+Monitor dan proyektor, tidak digabung dengan aparatus
+penerima televisi; aparatus penerima untuk televisi,
+
+85.28 digabung dengan penerima siaran radio atau aparatus
+perekam atau pereproduksi suara atau video, maupun tidak.
+- Aparatus penerima untuk televisi, digabung dengan penerima
+slaran radio atau aparatus perekam atau pereproduksi suara
+atau video maupun tidak:
+8528.71 -- Tidak dirancang untuk dipasang pada display:
+--- Set top box yang mempunyai fungsi komunikasi
+808 | 8528.71.11.00 ---- Dioperasikan dengan tenaga listrik
+809 8528.71.19.00 ---- Lain-lain
+8528.72 -- Lain-lain, benwarna:
+810 | 8528.72.10.00 --- Dioperasikan dengan baterai
+
+--- Lain-lain:
+
+811 8528.72.91,00
+
+- Tabung sinar katoda
+
+---- Liquid crystal device (LCD), light emitting diode (LED) dan
+
+812 | 8528.72.92.00 tipe panel layar datar lainnya
+
+813 | 8528.72,99,00 ---- Lain-lain
+814 8528.73.00.00 -- Lain-lain, monokrom
+Bagian yang cocok untuk digunakan semata-mata atau
+85.29 terutama dengan aparatus dari pos 85.25 sampai dengan
+85.28.
+
+- Antena dan reflektor antena dari segala jenis; bagian yang
+
+8529.10 cocok untuk digunakan padanya:
+
+-- Antena teleskopik, antena rabbit dan antena dipole untuk
+
+BIS | 8529.10.30.00 penerima televisi atau radio
+
+-- Lain-lain:
+816 8529.10.99.00 --- Lain-lain
+Lampu pijar atau lampu tabung listrik, termasuk unit lampu
+85.39 sealed beam dan lampu ultra violet atau infra merah; lampu
+busur.
+
+- Lampu tabung, selain lampu ultra-violet:
+
+8539.31 -- Fluoresensi, Kkatoda pijar:
+8539.31.90 --- Lain-lain:
+817 8539.31.90,10 - Lampu TL
+818 | 8539.31.90.20 ---- Lampu fluoresensi kompak
+819 8539.31.90,90 ---- Lain-lain
+
+G MAINAN ANAK- ANAK
+
+Sepeda roda tiga, skuter, mobil berpedal dan mainan beroda
+
+95.03 semacam itu; kereta boneka; boneka; mainan lainnya; model
+
+30

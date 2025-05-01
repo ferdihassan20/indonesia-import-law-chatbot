@@ -1,0 +1,130 @@
+2010, No.736
+
+POS TARIF/
+
+NO. HS
+
+20
+
+URAIAN BARANG KETERANGAN
+
+84,52
+
+Mesin jahit, selain darimesin penjahit buku
+
+yang dimaksud dalam pos 84.40; perabotan, da-
+sar dan tutup dirancang secara khusus untuk
+
+mesin jahit; jarum mesin jahit.
+
+-Mesin jahit lainya :
+
+8452.21.00.00
+
+--Unit otomatis
+
+Mesin untuk mengolah, menyamak atau _mengerja-
+
+8453.10
+
+kan jangat, kulit atau kulit samak atau untuk
+membuat atau memperbaiki alas kaki atau ba-
+rang lain dari jangat, kulit atau kulit samak,
+selain mesin jahit.
+
+~Mesin untuk mengolah, menyamak atau mengerja-
+
+kan jangat, Kulit atau kulit samak :
+
+94 |8453.10.10.00
+
+--Dioperasikan secara elektrik
+
+8453.20
+
+95 |8453.20.10.00
+
+-Mesin untuk membuat atau memperbaiki alas kaki :
+~-Dioperasikan secara elektrik
+
+84,54
+
+96 |8454.20.00.00
+
+Converter, ladle, mesin cetakan ingot dan me-
+sintuang, darijenis yang digunakan dalam
+metalurgi atau pengecor logam.
+-Cetakan ingot dan ladle
+
+97 |8454.30.00.00
+
+-Mesin tuang
+
+98 |8454.90.00.00
+
+-Bagian
+
+Mesin perkakas untuk mengerjakan berbagai _ba-
+han dengan penghilangan bahan, melalui proses
+
+penyinaran laser atau sinar lainnya atau sinar
+
+foton, ultrasonik, penyinaran elektro, elektro
+
+kimia, sinar elektron, sinar ionik atau busur
+
+99
+
+8456.10.00.00
+
+plasma.
+-Dioperasikan dengan proses sinar laser atau
+
+sinar lainnya atau sinar foton
+
+100 |8456.30.00.00
+
+~Dioperasikan dengan proses penyinaran elektro
+
+8456.90
+
+-Lain-lain :
+
+8456.90.90.00
+
+--Lain-lain
+
+Machining center, mesin konstruksi unit
+
+(single station) dan mesin transfer multi-
+
+102 |8457,10.00.00
+
+station, untuk mengerjakan lagam.
+-Machining center
+
+Kecuali untuk jenis dan spesifikasi: CNC
+unit 3 Axis Interpolation, ATC 12
+
+Traverse Speed Axs max 60minn,
+
+servodrive motor with encoder, X-travel
+
+300-500mm; Y-travel 250-350 mm; Z-
+
+310-370 mm, 2D simulation (tool path),
+
+403 |8457.20,00.00
+
+a a
+
+Workpiece T
+
+-Mesin konstruksi unit (single-station)
+
+84.58
+
+Mesin bubut (termasuk turning centre) untuk
+
+logam, |
+

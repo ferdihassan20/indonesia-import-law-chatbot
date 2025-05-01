@@ -1,0 +1,79 @@
+2021, No.724 -66-
+
+2. Importir mengajukan permohonan pengeluaran barang dengan
+Pelayanan Segera (Rush Handling) kepada Kantor Bea dan Cukai
+tempat pemasukan barang dengan memasukkan data, paling
+sedikit meliputi:
+
+NPWP/KTP/Paspor/Identitas Lainnya importir;
+
+nama importir;
+
+alamat importir;
+
+invoice - nomor dan tanggal;
+
+Bill of Lading / Airway Bill - House & Master / Dokumen
+
+Pengangkutan Barang Lainnya — nomor dan tanggal;
+
+f. nomor, tanggal, pos, dan subpos dokumen inward manifest
+(BC 1.1);
+
+g. valuta;
+
+h. NDPBM:
+
+nilai barang — FOB;
+
+j. freight;
+
+insurance;
+
+Bea Masuk;
+
+Cukai;
+
+Pajak Pertambahan Nilai (PPN);
+
+Pajak Penjualan Barang Mewah (PPnBM); dan
+
+Pajak Penghasilan (PPh);
+
+pos Tarif / HS Code barang;
+
+uraian jenis barang, merk, tipe, spesifikasi wajib;
+
+negara asal barang;
+
+fasilitas (jenis, nomor, dan tanggal dokumen);
+
+persyaratan larangan atau pembatasan (jenis, nomor, dan
+
+tanggal dokumen);
+
+tarif dan fasilitas;
+
+jumiah dan jenis satuan;
+
+berat bersih (Kg);
+
+jumlah/jenis Kemasan;
+
+z. nilai pabean;
+
+aa. jumlah barang impor eksep; dan
+
+bb. tanggal rencana kedatangan barang impor eksep.
+
+pape
+
+op
+
+ren op o Bg
+
+F
+
+“Fas
+
+www.peraturan.go.id

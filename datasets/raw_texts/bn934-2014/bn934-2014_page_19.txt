@@ -1,0 +1,67 @@
+19 2014, No.934
+
+No Pos Tarif Uraian Barang
+240 | 3304.30.00.00 - Preparat manikur atau pedikur
+- Lain-lain:
+
+241 | 3304.91.00.00 -- Bubuk, dipadatkan maupun tidak
+
+3304.99 -- Lain-lain:
+242 | 3304.99.20.00 --- Krim anti jerawat
+243 | 3304.99,.30,00 --- Krim dan losion lainnya untuk wajah atau kulit
+244 | 3304.99.90.00 --- Lain-lain
+
+33.05 Preparat digunakan untuk rambut.
+
+3305.10 - Sampo:
+245 | 3305.10.10.00 -- Mengandung khasiat anti jamur
+246 3305. 10.90,00 -- Lain-lain
+247 | 3305.20.00.00 - Preparat pengeriting atau pelurmis rambut secara permanen
+248 3305.30.00.00 - Lak rambut
+249 | 3305.90.00.00 - Lain-lain
+
+Preparat kesehatan mulut atau gigi, termasuk pasta dan
+bubuk penguat gigi buatan; benang untuk pembersih sela
+
+33.06 gigi (dental floss), dalam kemasan tersendiri untuk
+penjualan eceran.
+3306.10 - Pasta gigi:
+250 | 3306.10.10.00 -- Pasta atau bubuk profilaktik
+251 3306.10.90.00 -- Lain-lain
+252 3306,90.00.00 - Lain-lain
+Preparat yang digunakan sebelum mencukur, sewaktu
+mencukur, atau sesudah mencukur, deodoran, preparat
+33.07 mandi, preparat perontok bulu dan preparat wewangian,
+
+kosmetika atau rias lainnya, tidak dirinci atau termasuk pos
+lain; preparat penghilang bau ruangan, diberi wewangian
+atau mengandung desinfektan maupun tidak
+
+- Preparat yang digunakan sebelum mencukur, sewaktu
+
+253 | 3307. 10.00.00 mencukur atau sesudah mencukur
+
+254 | 3307.20.00.00 - Deodoran dan antiperspirant
+255 | 3307.30.00,.00 - Garam pewangi dan preparat lainnya untuk mandi
+3307.41 -- Preparat "Agarbatti" dan bau-bauan lainnya yang dibakar:
+
+--- Bubuk wewangian (dupa) dari jenis yang digunakan selama
+
+256 | 3307.41.10,00 ritual keagamaan
+
+257 | 3307.41.90.00 --- Lain-lain
+
+3307.49 -- Lain-lain
+
+--- Preparat pewangi ruangan baik mengandung desinfektan
+
+258 | 3307.49,10,00 maupun tidak
+
+259 3307.49.90.00 --- Lain-lain
+
+3307.90 - Lain-lain:
+260 | 3307.90.30.00 nets dan tisu, diresapi atau dilapisi dengan pewangi atau
+261 3307.90.40.00 -- Wewangian atau kosmetik lainnya, termasuk obat perontok
+262 3307.90.90.00 -- Lain-lain
+
+12

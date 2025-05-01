@@ -1,0 +1,102 @@
+HS
+
+1
+
+|
+0204.21.00.00
+0204.22.00.00
+
+--Karkas dan setengah
+karkas
+
+2
+
+bertulang
+
+--Potongan daging lainnya,
+
+KETERANGAN
+
+Mutton half carcass
+Hogget carcass
+Hogget haif carcass
+Lamb carcass
+Lamb half carcass
+Mutton carcass
+Mutton half carcass
+Hogget carcass
+Hogget half carcass
+
+Lamb rack.
+
+Lamb leg
+
+Mutton leg
+
+Mutton rack
+
+Dan jenis potongan
+daging bertulang lainnya
+
+--Daging tanpa tulang
+
+0204.23.00.00
+
+0204.30.00.00
+
+-Karkas dan setengah
+karkas dari biri-biri muda,
+beku
+
+0204.41.00.00
+
+--Karkas dan setengah
+karkas
+
+0204.42.00.00
+bertulang
+
+--Potongan daging lainnya,
+
+Lamb loin
+Lamb hind shank
+Lamb fore shank
+Lamb rump
+
+Lamb shank
+
+Lamb tenderloin
+Lamb eye of shortloin
+Lamb shortloin
+Mutton loin
+
+Mutton tenderloin
+Mutton trunk boneless
+Mutton trunk meat
+Dan jenis potongan
+daging tanpa tulang
+lainnya
+
+Lamb carcass
+Lamb half carcass
+Mutton carcass
+Mutton half carcass
+Hogget carcass
+
+-Daging lainnya dari biri-
+biri, beku :
+
+Lamb carcass
+Lamb half carcass
+Mutton carcass
+Mutton half carcass
+Hogget carcass
+
+Lamb rack.
+Lamb leg
+Mutton leg
+Mutton rack
+
+Dan jenis potongan
+daging bertulang lainnya
+

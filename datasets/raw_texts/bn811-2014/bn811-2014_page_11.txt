@@ -1,0 +1,98 @@
+2014, No.811
+
+11
+TERMASUK
+NO. URAIAN BARANG SPESIFIKASI DALAM
+POS TARIF
+
+0,5 mm < tebal < 1,0 mm,
+lebar > 1.250 mm
+
+0,17 mm < tebal < 0,5 mm,
+600 mm < lebar < 1.250 mm
+
+tebal tidak melebihi 1,2 mm
+
+Galvanized steel sheet
+in coil
+
+tebal tidak melebihi 1,2 mm
+
+tebal melebihi 1,2 mm
+
+7209.17.00.90
+
+7209.18.99.00
+
+7210.49.11.00
+
+7210.49.12.00
+
+7210.49.13.00
+
+17. | Pre-coated Color Metal | tebal < 1,50 mm, lebar = 600
+(PCM), Vinyl Coated mm
+Metal (VCM)
+
+7210.70.10.00
+
+Pre-coated Color Metal | tebal < 1,5 mm, lebar < 600
+(PCM), Vinyl Coated mm
+Metal (VCM)
+
+7212.40.20.00
+
+Metal mesh material Perforated metal mesh, tidak
+
+dilapisi atau tidak disepuh
+
+dari besi atau baja
+
+dari besi atau baja
+
+7314.49.00.00
+
+7318.15.00.00
+
+7318.16.00.00
+
+0,003 mm < tebal < 0,007
+mm, 0,05
+mm < lebar < 0,25 mm
+
+toroidal power transformer,
+untuk loudspeaker, tidak
+lebih dari 1 kVA
+
+24. | Single board MP3 MP3 player module without
+module radio receiver
+
+Single board MP3 MP3 player module with radio
+module receiver
+
+23. | Transformator
+
+7410.12.00.00
+
+8504.31.99.90
+
+8519.81.99.00
+
+8527.13.90.00
+
+untuk panel modul 50 WP
+s.d. 260 WP
+
+kawat gulung dari tembaga
+dilak/dienamel dengan
+ukuran 0,07 mm < diameter
+< 0,6 mm
+
+25. | Junction box
+
+26. | Copper wire
+
+8536.90.29.00
+
+8544.11.10.00
+

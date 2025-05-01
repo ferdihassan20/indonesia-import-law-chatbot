@@ -1,0 +1,39 @@
+- 374 -
+
+No Pos Tarif/HS Uraian Barang Persyaratan Keterangan ET | PE| LS
+484. | ex 8112.31.00 Hafnium tidak ditempa dengan kadar = 95% Hf V
+485. | ex 8112.31.00 Hafnium dalam bentuk bubuk kadar = 95% Hf V
+
+BATUAN
+486. | ex 2514.00.00 Slate (Batu Sabak) yang telah dilakukan Ekspor Produk V
+ex 6803.00.00 pemotongan Pertambangan
+487. | ex 2515.12.10 Marmer yang hanya dilakukan pemotongan Hasil Pengolahan V
+ex 2515.12.20 dan/atau pemolesan dalam bentuk ubin, dan/atau
+ex 6802.10.00 balok, dan slab tanpa proses lebih lanjut Pemurnian
+ex 6802.21.00 dengan
+ex 6802.91.10 kewajiban
+488. | ex 2516.12.10 Granit yang telah dilakukan pemilahan ukuran Laporan Suveyor V
+ex 2516.12.20 dan/atau pemotongan, dapat dalam bentuk (LS) hanya dapat
+ex 2517.10.00 batu hias, ubin, slab, balok, butir, keping, dilakukan oleh
+ex 2517.49.00 bubuk, kerikil, gravel, batu tumbuk, dan batu perusahaan yang
+ex 6802.10.00 pecah dengan ukuran maksimal 100 cm x 80 memiliki:
+ex 6802.23.00 cm x 60 cm a. IUP Operasi
+ex 6802.93.10 Produksi/IUP,
+ex 6802.93.90 atau
+b. IUPK Operasi
+489. ex 2516.90.00 Basalt, Gabro, Granodiorit, Peridotit dan Produksi/IUP, V
+Andesit yang telah dilakukan pemilahan atau
+ex 2517.49.00 ukuran dan /atau pemotongan, dapat dalam c. IUP Operasi
+bentuk batu hias, ubin, slab, balok, butir, Produksi
+keping, bubuk, kerikil, gravel, batu tumbuk, Khusus untuk
+dan batu pecah dengan ukuran maksimal 100 Pengangkutan
+cm x 80 cm x 60 cm dan
+Penjualan/Izi
+490. ex 2517.10.00 Kerikil, gravel, batu pecah atau batu tumbuk, n V
+yang lazim digunakan untuk campuran beton, Pengangkutan
+untuk mengeraskan jalan atau untuk rel kereta dan
+api atau pemberat lainnya, shingle dan flint, Penjualan,
+diolah dengan dipanaskan maupun tidak, atau
+selain dari granit dan marmer d. IUI/ Perizinan
+491. | ex 2517.49.00 Butir, keping dan bubuk, dari batuan dari pos V
+

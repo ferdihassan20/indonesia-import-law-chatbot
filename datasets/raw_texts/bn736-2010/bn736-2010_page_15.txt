@@ -1,0 +1,84 @@
+2010, No.736 15
+
+KETERANGAN
+
+No, POS TARIF! URAIAN BARANG
+HS
+(1) (2)
+29 |8426,19,90,00 ---Lain-lain
+30 | 8426.20.00.C0 -Tower crane
+-Mesin lainnya, berdaya gerak sendiri :
+
+(4)
+
+31 |8426,41.00.00 --Dengan roda kecuali truck crane
+~ ~-Mesin lainnya :
+32 | 8425.914.00.00 -Dirancang untuk dipasang pada kendaraan
+darat
+84.27 Truk forklift; truk kerja lainnya yang dilengkapi
+
+dengan perlengkapan pengangkat atau pemindah.
+
+33 |8427.10.00.00 -Truk berdaya gerak sendiri yang digerakkan Forklif digerakkan dengan motor listrik
+dengan motor lisirik
+
+34 |8427.20.00.00 -Truk berdaya gerak sendiri lainnya Forklif digerakkan dengan engine
+
+84.29 Buldoser, angledoser, mesin  perata, leveller
+
+mesin  pengikis, sekop mekanik, eskavator,
+shovel loader, mesin pemadat dan mesin giling
+jalan, berdaya gerak sendiri.
+
+-Buldoser dan angledoser :
+
+35 |8429.11.00.00 ~-Track laying kecuali buldozer yang memilik! daya
+160-250 HP
+36 |8429.19.00.00 +-Lain-Lain kecuali buldozer yang memiliki daya
+
+460-250 HP
+
+37 |8429.20.00.00 -Grader dan mesin perata
+
+8429.40 -Mesin pemadat dan mesin giling jalan :
+38 |8429.40.10.00 --Mesin giling jalan kecuali road rotler yang memiliki berat
+10-15 Ton
+39° |8429.40.30.00 --Mesin pemadat kecuali road roller yeng memiliki berat
+10-15 Ton
+-Sekop mekanik, excavator dan shovel loader ;
+40 |8429.51.00.00 _--Front-end shovel {oader
+41 |8429.52.00.00 -Mesin yang berputar 360° diatas bangunan dasarnya kecuali excavator yang memiliki Gaya
+. 70-325 HP
+84.30 Mesin pengolah, perata, levelling, pengikis,
+
+penggali, pemadat, perapi, pengaduk atau
+
+pengebor lainnya, untuk tanah, mineral atau
+
+bijih; pemancang tiang dan pemancang bor;
+
+bajak salju dan blower salju.
+-Pemancang tiang dan pemancang bor
+-Pemotong batu atau
+
+42 [8430.10.00.00
+
+batubara dan mesin
+
+pembuat terowongan :
+--Berdaya gerak sendiri
+
+8430.31.00.00
+
+-Mesin bor atau sinking lainnya :
+
+8430.41.00.00
+8430.49
+
+~-Berdaya gerak sendiri
+--Lain-lain :
+
+8430.49.10.00 -—Platform mulut dan = modul
+
+sumur ‘produksi
+

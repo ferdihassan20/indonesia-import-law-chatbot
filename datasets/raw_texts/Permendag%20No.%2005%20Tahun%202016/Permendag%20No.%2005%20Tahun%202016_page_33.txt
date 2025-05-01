@@ -1,0 +1,96 @@
+POS TARIF /
+
+HS URAIAN BARANG KETERANGAN
+2 3
+11. | 0105.94.10.00 | ---Ayam bibit, selain ayam
+sabung
+- Binatang menyusui:
+ex. -- Kelinci dan hare Bibit Kelinci
+0106.14.00.00
+- Burung:
+13. | ex. -~ Lain-lain Bibit Puyuh dan Bibit
+0106.39.00.00 Merpati
+02.03 Daging babi, segar, dingin
+atau beku.
+|| -Segar atau dingin :
+
+14. --Karkas dan setengah
+
+karkas
+
+Pig carcass
+Pig half carcass
+
+15. | 0203.12.00.00 | --Paha, bahu dan
+
+potongannya, bertulang
+
+16. | 0203.19.00.00 | --Lain-lain
+
+pp Bek
+
+--Karkas dan setengah
+karkas
+
+--Paha, bahu dan
+potongannya, bertulang
+
+0203.21.00.00
+
+18. | 0203.22.00.00
+
+19. | 0203.29.00.00
+
+--Lain-lain
+
+02.04 Daging biri-biri atau
+kambing, segar, dingin
+
+atau beku.
+
+-Daging lainnya dari biri-
+biri, segar atau dingin :
+
+- Karkas dan setengah
+karkas dari biri-biri
+muda, segar atau dingi
+
+0204.10.00.00
+
+Semua jenis berasal dari
+paha, bahu dan
+potongan bertulang.
+
+Pork loin rib bone in
+Pork baby back rib bone
+in
+
+Pork spare rib bone in
+Dan semua jenis
+potongannya baik
+bertulang maupun tidak
+bertulang.
+
+Pig carcass
+
+Pig half carcass
+Semua jenis berasal dari,
+paha, bahu dan
+potongan bertulang.
+
+Pork loin rib bone in
+Pork baby back rib bone
+in
+
+Pork spare rib bone in
+Dan semua jenis
+potongannya baik
+bertulang maupun tidak
+bertulang.
+
+Lamb carcass
+Lamb half carcass
+Mutton carcass
+
+_|
+

@@ -1,0 +1,128 @@
+-75 -
+
+NO
+
+URAIAN BARANG
+
+SPESIFIKASI
+
+TERMASUK
+DALAM
+POS TARIF
+
+Reciprocating Grate
+
+Penggarang mekanis
+digunakan untuk membawa
+bahan bakar pada boiler,
+terbuat dari besi,atau baja
+
+8416.30.00
+
+10.
+
+Breather
+
+Penyaring udara dari luar
+yang masuk ke trafo
+
+8421.39.90
+
+11.
+
+Over Pressure Relief Device/
+Pressure Relief Valve/
+Pressure Relief Device
+
+Alat pengatur pelepasan
+tekanan minyak
+transformator
+
+8481.10.19
+
+12.
+
+Pressure Reducing Valve
+
+Alat pengatur pelepasan
+tekanan uap atau air pada
+boiler
+
+8481.10.19
+
+13.
+
+Swing Check Valve
+
+Katup tipe swing check, dari
+besi tuang dengan diameter
+bagian dalam pemasukan 4
+cm atau lebih tetapi tidak
+melebihi 60 cm
+
+8481.30.10
+
+14.
+
+Safety Valve
+
+Katup pengaman untuk
+menghindari tekanan
+berlebih terbuat dari besi
+atau baja
+
+8481.40.90
+
+15.
+
+Gate Valve
+
+Katup pipa air dari besi
+tuang tipe gate yang
+dioperasikan secara manual
+dengan diameter bagian
+dalam lebih dari 5 cm tetapi
+tidak lebih dari 40 cm
+
+8481.80.61
+
+Katup pipa air dari besi
+tuang tipe gate yang
+dioperasikan secara elektrik
+dengan diameter bagian
+dalam 4 cm atau lebih
+
+8481.80.62
+
+16.
+
+Gate Valve
+
+Katup dari besi atau baja
+tipe gate yang dioperasikan
+secara manual dengan
+diameter bagian dalam lebih
+dari 5 cm tetapi tidak lebih
+dari 40 cm
+
+8481.80.73
+
+Katup dari besi atau baja
+tipe gate yang dioperasikan
+secara elektrik
+
+8481.80.99
+
+17.
+
+Pneumatic Control Valve
+
+Katup yang dikendalikan
+secara pneumatik dari besi
+atau baja
+
+8481.80.82
+
+if
+
+www.jdih.kemenk@u-go.id

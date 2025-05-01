@@ -1,0 +1,43 @@
+2019, No.74
+
+11 4011.90.10 - - Dari jenis yang digunakan untuk kendaraan dari Bab
+87
+12 4011.90.20 - - Dari jenis yang digunakan pada mesin dari pos 84.29
+atau 84.30
+13 4011.90.30 - - Lain-lain, dengan lebar melebihi 450 mm
+14 4011.90.90 - - Lain-lain
+40.13 Ban dalam, dari karet.
+4013.10 - Dari jenis yang digunakan untuk kendaraan bermotor
+(termasuk station wagon dan mobil balap), bus atau lori:
+- - Dari jenis yang digunakan untuk kendaraan
+bermotor (termasuk station wagon dan mobil balap):
+15 4013.10.11 - - - Cocok dipasang pada ban dengan lebar tidak
+melebihi 450 mm
+16 4013.10.19 - - - Cocok dipasang pada ban dengan lebar melebihi
+450 mm
+- - Dari jenis yang digunakan untuk bus atau lori:
+17 4013.10.21 - - - Cocok dipasang pada ban dengan lebar tidak
+melebihi 450 mm
+18 4013.10.29 - - - Cocok dipasang pada ban dengan lebar melebihi
+450 mm
+19 4013.20.00 - Dari jenis yang digunakan untuk sepeda roda dua
+4013.90 - Lain-lain:
+- - Dari jenis yang digunakan pada mesin dari pos 84.29
+atau 84.30:
+20 4013.90.11 - - - Cocok dipasang pada ban dengan lebar tidak
+melebihi 450 mm
+21 4013.90.19 - - - Cocok dipasang pada ban dengan lebar melebihi
+450 mm
+22 4013.90.20 - - Dari jenis yang digunakan untuk sepeda motor
+- - Dari jenis yang digunakan untuk kendaraan lain dari
+Bab 87:
+23 4013.90.31 - - - Cocok dipasang pada ban dengan lebar tidak
+melebihi 450 mm
+24 4013.90.39 - - - Cocok dipasang pada ban dengan lebar melebihi
+
+450 mm
+
+- - Lain-lain:
+
+www.peraturan.go.id
+

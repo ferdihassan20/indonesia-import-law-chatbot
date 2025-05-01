@@ -1,0 +1,85 @@
+re POS TARIF /
+
+URAIAN BARANG KETERANGAN
+
+oe a a
+
+[6 9a031,96.00— | alta
+|__| 0402.29 | --bain-lain:
+---Dalam kemasan dengan
+berat kotor 20 kg atau
+
+7. 0402.29.20.00
+
+9. | 0402.91.00.00
+
+0402.99.00.00
+
+lebih
+
+ff cLain-lain :
+
+--Tidak mengandung
+tambahan gula atau
+bahan pemanis lainnya
+~-Lain-lain
+
+04.03
+
+0403.10
+
+ex.
+0403.10,20.00
+
+Susu mentega, susu dan
+kepala susu dikentalkan,
+yoghurt, kefir dan susu
+dan krim_ difermentasi
+atau diasamkan lainnya,
+dipekatkan atau
+mengandung tambahan
+gula atau bahan pemanis
+lainnya atau diberi rasa
+atau mengandung
+tambahan buah-buahan,
+biji-bijian atau kakao
+maupun tidak
+
+-- Dalam bentuk  cair,
+termasuk dikentalkan
+maupun tidak
+
+ex.
+0403.10.90.00
+0403.90
+
+0403.90.10.00
+0403.90.90.00
+
+---Lain-lain
+
+-Lain-lain :
+
+--Susu mentega
+--Lain-lain
+
+Whey, dipekatkan atau
+mengandung tambahan
+gula atau bahan pemanis
+lainnya maupun tidak;
+produk terdiri dari susu
+alam sebagai unsur
+utama, mengandung
+tambahan gula, bahan
+pemanis lainnya maupun
+tidak, tidak dirinci atau
+termasuk dalam pos
+lainnya.
+
+ex.
+0404.10.00.00
+
+-Whey dan Whey yang
+dimodifikasi, dipekatkan
+atau mengandung
+

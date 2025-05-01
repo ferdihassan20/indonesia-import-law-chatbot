@@ -1,0 +1,54 @@
+2021, No.720 _44-
+
+5. nomor dan tanggal invoice;
+
+6. rincian pengiriman (jika diketahui);
+
+7. kode Harmonized System (HS);
+
+8. tanda, nomor, jumlah dan jenis pengemas, uraian barang;
+
+9. jumlah (unit);
+
+10. kriteria asal barang (termasuk informasi CTC, RVC, dan
+Akumulasi);
+
+11. pernyataan eksportir; dan
+
+12. penandasahan Instansi Penerbit SKA.
+
+Ill, KETENTUAN PENGISIAN PEMBERITAHUAN PABEAN IMPOR
+1. Pengisian Pemberitahuan Impor Barang (BC 2.0)
+
+Untuk tujuan pengenaan Tarif Preferensi, pada Pemberitahuan
+
+Impor Barang (PIB) diisikan kode fasilitas, nomor referensi dan
+
+tanggal SKA Form AJ sebagai berikut:
+
+a. dalam hal Pemberitahuan Impor Barang (PIB) hanya
+menggunakan skema Persetujuan Kemitraan Ekonomi
+Menyeluruh antar Negara-Negara Anggota Perhimpunan
+Bangsa-Bangsa Asia Tenggara dan Jepang, kode fasilitas 61,
+nomor referensi, dan tanggal SKA Form AJ, wajib
+dicantumkan secara benar pada kolom 19 dan/atau kolom
+33 PIB;
+
+b. dalam hal Pemberitahuan Impor Barang (PIB) menggunakan
+skema Persetujuan Kemitraan Ekonomi Menyeluruh antar
+Negara-Negara Anggota Perhimpunan Bangsa-Bangsa Asia
+Tenggara dan Jepang dan fasilitas lainnya:
+
+1) _ kode fasilitas 61 wajib dicantumkan secara benar pada
+kolom 19 Pemberitahuan Impor Barang (PIB), serta diisi
+“Nomor referensi dan tanggal SKA Form AJ, lihat lembar
+lanjutan”; dan
+
+2) kode fasilitas 61 wajib dicantumkan secara benar pada
+kolom 33 Pemberitahuan Impor Barang (PIB),
+sedangkan nomor referensi dan tanggal SKA Form AJ
+wajib dicantumkan secara benar pada Lembar Lanjutan
+Dokumen dan Pemenuhan Persyaratan/Fasilitas Impor
+Pemberitahuan Impor Barang (PIB).
+
+www.peraturan.go.id

@@ -1,0 +1,35 @@
+2014, No.809
+
+TERMASUK
+NO. URAIAN BARANG SPESIFIKASI DALAM POS
+TARIF
+12. | Control valve/emergency | pneumatic actuator 8481.20.90.00
+stop valve
+13. | Gland steam _leakoff/trip | check valve of steel 8481.30.90.00
+valve/valve basket/bleed
+line valve
+14. | Journal bearing/ axial | cylindrical roller bearing | 8482.50.00.00
+bearing
+15. | Gearbox/ turning gear/ | used for turbine 8483.40.90.00
+coupling
+16. | Steam turbine servo motor | with output 37.5 W to 1} 8501.20.19.00
+kw
+17. | Generator with outputs 10 MVA to} 8502.39.31.00
+22 MVA
+18. | Control panels for a voltage not | 8537.10.11.00
+exceeding 1,000 volts
+19. | Temperature gauge temperature gauges are| 9025.19.19.00
+electrically operated
+20. | Control instruments/RTD | apparatus for measuring | 9026.10.30.00
+resistant transmitter/level| or checking the flow or
+indicator/ differential level of liquids
+pressure indicator/ pressure
+gauge/ pressure
+transmitter/ vibration
+sensor
+
+MENTERI KEUANGAN
+REPUBLIK INDONESIA,
+
+MUHAMAD CHATIB BASRI
+

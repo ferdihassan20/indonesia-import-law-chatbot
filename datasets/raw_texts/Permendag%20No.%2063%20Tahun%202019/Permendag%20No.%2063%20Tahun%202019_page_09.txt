@@ -1,0 +1,51 @@
+=O)
+
+dan waktu pemasukan.
+
+(4) Atas permohonan sebagaimana dimaksud pada ayat (1)
+dan ayat (2), Menteri atau Direktur Jenderal menerbitkan
+Persetujuan Impor Garam dengan menggunakan Tanda
+Tangan Elektronik (Digital Signature) yang tidak
+memerlukan cap dan tanda tangan basah serta
+mencantumkan kode QR (Quick Response) paling lama 5
+(lima) hari kerja, terhitung sejak permohonan diterima
+secara lengkap dan benar.
+
+(5) Dalam hal permohonan sebagaimana dimaksud pada
+ayat (1) tidak lengkap dan/atau tidak benar, Menteri atau
+Direktur Jenderal menyampaikan pemberitahuan
+penolakan secara elektronik paling lama 5 (lima) hari
+
+kerja terhitung sejak permohonan diterima.
+
+Pasal 7
+Dalam hal sistem kementerian pemberi rekomendasi
+telah terintegrasi dengan sistem INATRADE, Rekomendasi
+sebagaimana dimaksud dalam Pasal 6 ayat (1)
+dan ayat (2) disampaikan secara_ elektronik melalui
+laman http://inatrade.kemendag.go.id oleh Kementerian
+Perindustrian dan Kementerian Kelautan dan Perikanan.
+
+Pasal 8
+Persetujuan Impor Garam sebagaimana dimaksud dalam
+Pasal 6 ayat (4) berlaku paling lama 1 (satu) tahun.
+
+Pasal 9
+Persetujuan Impor Garam sebagaimana dimaksud dalam
+
+Pasal 6 ayat (4) memuat data dan keterangan paling sedikit
+
+mengenai:
+
+a. jumlah dan jenis Garam;
+
+b. Pos Tarif/HS dan uraian barang;
+
+c. pelabuhan muat;
+
+d. negara asal;
+
+e. pelabuhan tujuan; dan
+
+f. masa berlaku Persetujuan Impor Garam.
+

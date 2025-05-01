@@ -1,0 +1,55 @@
+25 2014, No.934
+
+No Pos Tarif Uraian Barang
+389 | 6116.91.00,00 -- Dari wol atau bulu hewan halus
+390 6116.92,00,00 -- Dari kapas
+6116.93.00 -- Dari serat sintetik:
+391 6116.93,00,10 --- Sarung tangan selam
+392 6116.93.00.90 --- Lain-lain
+393 | 6116.99.00,00 -- Dari bahan tekstil lainnya
+61.17 Aksesori pakaian jadi lainnya, rajutan atau kaitan; bagian
+dari garmen atau bagian dari pakaian, rajutan atau kaitan.
+6117.10 - Syal, scarf, muffler, mantilla, veil dan sejenisnya:
+394 6117.10.10.00 -- Dari kapas
+395 | 6117.10,90.00 -- Lain-lain
+6117.80 - Aksesori lainnya:
+-- Dasi, dasi kupu- kupu dan cravat:
+396 | 6117.80.11.00 --- Dari wol atau bulu hewan halus
+397 6117.80.19.00 --- Lain-lain
+398 6117.80.20.00 -- Wrist band, knee band atau ankle band
+399 6117.80.90.00 -- Lain-lain
+400 6117.90,00.00 - Bagian
+
+Mantel panjang, car-coat, jubah bertopi, cloak, anorak
+(termasuk jaket-ski), wind-cheater, wind-jacket dan barang
+
+62.01 semacam itu, untuk pria atau anak laki-laki, selain yang
+dimaksud dalam pos 62.03.
+- Mantel panjang, jas hujan, car- coat, jubah bertopi, cloak dan
+barang semacam itu:
+401 | 6201.11.00,00 -- Dari wol atau bulu hewan halus
+402 6201.12.00.00 -- Dari kapas
+403 | 6201.13.00.00 -- Dari serat buatan.
+6201.19.00 -- Dari bahan tekstil lainnya:
+404 6201.19.00.10 --- Dari sutra
+405 | 6201.19.00.20 --- Dari rami
+406 6201.19.00.90 --- Lain-lain
+- Lain-lain:
+407 | 6201.91.00.00 -- Dari wol atau bulu hewan halus
+408 6201.92.00.00 -- Dari kapas
+409 | 6201.93.00.00 -- Dari serat buatan
+6201.99.00 -- Dari bahan tekstil lainnya:
+410 6201,.99,00,10 --- Dari sutra
+411 6201.99.00.20 --- Dari rami
+412 6201.99,00,90 --- Lain-lain
+Mantel panjang, car-coat, jubah bertopi, cloak, anorak
+(termasuk jaket-ski), wind-cheater, wind-jacket dan barang
+62.02 : . .
+semacam itu, untuk wanita atau anak perempuan, selain
+yang dimaksud dalam pos 62.04.
+- Mantel panjang, jas hujan, car- coats, jubah bertopi, cloak dan
+barang semacam itu:
+413 | 6202.11.00.00 -- Dari wol atau bulu hewan halus
+414 6202.12.00.00 -- Dari kapas
+
+18

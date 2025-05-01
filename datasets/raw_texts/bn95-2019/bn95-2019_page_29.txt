@@ -1,0 +1,53 @@
+-29- 2019, No.95
+
+Product Specific Rules kriteria asal barang dalam kolom 4
+
+daftar PSR terdiri dari:
+
+1) tunggal, yaitu suatu subpos tarif hanya memiliki 1
+(satu) kriteria asal barang.
+
+Contoh : 8703.10 (A regional value content of not less
+than 40 percent);
+
+2) alternatif, yaitu suatu subpos tarif yang memiliki lebih
+dari 1 (satu) kriteria asal barang yang harus dipilih
+salah satu.
+
+Contoh : 8422.19 (A regional value content of not less
+than 40 percent, or A change to subheading
+8422.19 from any other subheading);
+
+3) alternatif dan kombinasi, yaitu suatu subpos tarif yang
+memiliki lebih dari satu kriteria asal barang, yang
+merupakan gabungan dari alternatif dan kombinasi.
+Contoh : 8422.11 (A regional value content of not less
+
+than 40 percent, or A change to subheading
+8422.11 from any other heading; or A
+change to subheading 8422.11 from any
+other subheading provided that the regional
+value content of not less than 35 percent).
+
+Akumulasi
+
+1) Barang Originating dari Negara Anggota yang
+digunakan sebagai bahan baku untuk suatu barang
+jadi di Negara Anggota lain yang memenuhi Ketentuan
+Asal Barang untuk memperoleh Tarif Preferensi, harus
+dianggap sebagai Barang Originating negara tempat di
+mana proses produksi barang jadi dilakukan.
+
+2) Dalam hal akumulasi atau acumulation digunakan,
+kolom category code pada e-Form D harus diisi dengan
+kode “ACL” atau. tanda (Vv ) atau ( X ) harus
+dicantumkan pada kotak “Acumulation” di kolom 13
+SKA Form D.
+
+Akumulasi Parsial
+
+1) Dalam hal nilai RVC bahan baku kurang dari 40%
+(empat puluh persen), nilai yang dapat diakumulasikan
+dalam perhitungan RVC ASEAN adalah _ nilai
+
+www.peraturan.go.id

@@ -1,0 +1,64 @@
+Al 2014, No.934
+
+No Pos Tarif Uraian Barang
+
+elektrotermal (misalnya, pengering rambut, pengeriting
+rambut, pemanas jepit untuk mengeriting rambut) dan
+pengering tangan; setrika listrik; peralatan elektro-termal
+lainnya dari jenis yang digunakan untuk keperluan rumah
+tangga; resistor panas listrik, selain yang dimaksud dalam
+pos 85.45.
+
+- Pemanas air instan atau pemanas air dengan tempat
+
+8516, 10 penyimpanan dan pemanas celup, listrik:
+8516.10.10 penyimpanan: instan atau pemanas air dengan tempat
+770 | 8516.10.10.10 tunturke Repertusa cana oe ama mata dengan pemanas air
+- Aparatus penata rambut atau pengering tangan elektro-termal:
+771 | 8516.31.00.00 -- Pengering rambut
+8516.40 - Setrika listrik:
+772° | ex, 8516.40.90,00 | -- Lain-lain (untuk rumah tangga dan sejenisnya)
+773 | 8516.50.00.00 - Microwave oven.
+8516.60 - Oven lainnya; pemasak, cooking plate, boiling ring,
+pemanggang dan pembakar:
+774 | 8516.60.10.00 -- Rice cookers
+775 8516.60.90.00 -- Lain-lain
+- Peralatan elektro-termal lainnya:
+776 | 8516.72.00.00 -- Pemanggang roti
+
+Perangkat telepon, termasuk telepon untuk jaringan seluler
+atau untuk jaringan tanpa kabel lainnya; aparatus lainnya
+untuk mengirimkan atau menerima suara, gambar, atau data
+85.17 lainnya termasuk aparatus untuk komunikasi dalam
+jaringan kabel atau tanpa kabel (seperti local atau wide area
+network), selain dari aparat transmisi atau penerima dari
+pos 84.43, 85.25, 85.27 atau 85.28.
+
+- Perangkat telepon, termasuk telepon untuk jaringan seluler
+atau untuk jaringan tanpa kabel lainnya:
+
+777 =| 8517.11.00.00 -- Perangkat telepon dengan gagang set tanpa kabel
+778 | ex. 8517.12.00.00 | -- Telepon untuk jaringan tanpa kabel lainnya (telepon satelit)
+779 | 8517.18.00.00 -- Lain-lain (selain telepon seluler dan telepon satelit)
+
+Mikrofon dan penyangganya; pengeras suara, dipasang pada
+rumahnya maupun tidak; headphone dan _ earphone,
+dikombinasikan dengan mikrofon maupun tidak dan
+
+85.18 perangkat yang terdiri dari satu mikrofon dan satu atau
+lebih pengeras suara; amplifier listrik audio-frequency;
+perangkat amplifier suara listrik.
+
+8518.10 - Mikrofon dan penyangganya:
+
+-- Mikrofon:
+780 | 8518.10.19.00 --- Mikrofon lainnya, dengan penyangga maupun tidak
+- Pengeras suara, dipasang pada rumahnya maupun tidak:
+8518.21 -- Pengeras suara tunggal, dipasang pada rumahnya:
+781 | 8518.21.10.00 --- Tipe box speaker
+782 8518.21.90,00 --- Lain-lain
+8518.22 -- Pengeras suara multipel, dipasang pada rumah yang sama:
+783 | 8518.22.10.00 --- Tipe box speaker
+784 8518.22.90.00 --- Lain-lain
+
+34

@@ -1,0 +1,62 @@
+2)
+
+-81-
+
+permohonan kepada Pejabat Bea dan Cukai penerima
+dokumen untuk diberikan nomor dan _tanggal
+pendaftaran urutan  administrasi permohonan
+Pelayanan Segera (Rush Handling) dimasing-masing
+Kantor Pabean.
+
+Data nomor pendaftaran terdiri dari 9 (sembilan) digit
+
+berupa:
+
+a) 6 (enam) digit pertama berupa angka urutan
+administrasi pendaftaran pada saat mengajukan
+permohonan Pelayanan Segera (Rush Handling).
+
+b) 3 (tiga) digit terakhir berupa identitas dokumen
+Pelayanan Segera (Rush Handling) dengan
+mencantumkan “/RH”.
+
+Tanggal Pendaftaran:
+
+Diisi dengan data berupa tanggal, bulan dan tahun
+
+nomor pendaftaran permohonan diadministrasikan
+
+oleh masing-masing kantor pabean.
+
+Contoh:
+
+Permohonan didaftarkan di kantor pabean pada
+
+urutan ke-17 pada tanggal 1 Oktober 2020.
+
+Maka:
+
+Nomor Pendaftaran Permohonan: 000017/RH Tanggal:
+
+01-10-2020
+
+Dalam hal hasil penelitian menunjukkan dokumen
+
+yang dipersyaratkan belum sesuai dan/atau belum
+
+disampaikan, Pejabat Bea dan Cukai yang menangani
+penelitian ketentuan larangan/pembatasan
+memberitahukan kembali kepada importir untuk
+
+menyampaikan dokumen yang dipersyaratkan.
+
+Dalam hal hasil penelitian menunjukkan barang tidak wajib
+memenuhi ketentuan larangan/pembatasan, Pejabat Bea
+dan Cukai yang menangani penelitian ketentuan larangan/
+
+pembatasan meneruskan permohonan kepada Pejabat Bea
+dan Cukai penerima dokumen untuk diberikan nomor dan
+
+2021, No.724
+
+www.peraturan.go.id

@@ -1,0 +1,65 @@
+(1)
+
+(2)
+
+(1)
+
+(2)
+
+4a. 2021, No.800
+
+Pasal 14
+
+Rekomendasi bagi Perusahaan API-P paling sedikit
+
+memuat informasi mengenai:
+
+a. identitas perusahaan yang meliputi nama
+perusahaan, alamat perusahaan, bidang usaha
+perusahaan, jenis dan _ kapasitas produksi
+perusahaan, dan izin usaha perusahaan;
+
+b. jenis, nomor Chemical Abstracts Service (CAS), dan
+nomor/ Harmonized System (HS) pos tarif B2 yang
+akan diimpor;
+
+c. kegunaan barang;
+
+d. volume Impor yang direkomendasikan;
+
+e. negara asal, negara muat, dan pelabuhan tujuan;
+dan
+
+f. masa berlaku Rekomendasi.
+
+Rekomendasi bagi Perusahaan API-U paling sedikit
+
+memuat informasi mengenai:
+
+a. identitas perusahaan meliputi nama perusahaan,
+alamat perusahaan, bidang usaha perusahaan, jenis
+dan kapasitas produksi perusahaan, dan izin usaha
+perusahaan;
+
+b. jenis, nomor Chemical Abstracts Service (CAS), dan
+nomor/ Harmonized System (HS) pos tarif B2 yang
+
+akan diimpor;
+
+c. kegunaan barang;
+
+d. volume Impor yang direkomendasikan;
+
+e. negara asal, negara muat, dan pelabuhan tujuan;
+f. nama DT-B2;
+
+g. nama PA-B2; dan
+
+h. masa berlaku Rekomendasi.
+
+Pasal 15
+Rekomendasi berlaku selama 1 (satu) tahun sejak tanggal
+diterbitkan.
+Rekomendasi berlaku untuk 1 (satu) permohonan
+
+persetujuan Impor B2.

@@ -1,0 +1,77 @@
+2010, No.736 23
+
+No,| POS TARIF/ URAIAN BARANG KETERANGAN
+
+HS
+
+pin (termasuk pengepres) :
+
+127 |8462.21.00.00 —_|--Dikontrol secara numerik
+[8462.29 ~-Lain-lain :
+
+128 | 8462.29.10.00 --Dioperasikan secara elektrik Kecuali mesin tekuk dengan spesifikasi:
+panjang max 1270 mm; tebal 3 mm;
+
+bending angle 25-179 derajat
+
+-Mesin penggunting (termasuk pengepres), sela-
+in kombinasi mesin pelubang dan penggunting :
+
+~ [6462.39 ~Lain-lain ;
+
+129 | 8462.39.10.00 ---Dioperasikan secara elektrik
+-Mesin pelubang ataumesin penakik (tennasuk
+
+pengepres), termasuk kambinasi mesin pelubang
+dan penggunting :
+
+8462.49 --Lain-lain :
+130 |8462.49.10.00 —-Dioperasikan secara elektrik
+~Lain-lain +
+131 |8462.91.00.00 ~Pengepres hidrolik Kecuali mesin press dengan
+ica ma bencing patos 3mm
+x 1200 mm;
+| 8462.99 —Lain-lain :
+
+132 |8462.99.10.00 —Mesin untuk pembuatan ketak,kaleng dan
+
+kernasan semacam itu daritin plate, diope-
+tasikan secara elektrik
+
+133 |8462.99.50.00 ---Lain-lain, dioperasikan secara elektrik
+84.63 Mesin perkakas lainnya untuk mengerjakan logam
+: atau sermet, tanpa menghilangkan bahannya.
+8463.10 -Draw-bench untuk baiang, tabung, profil, kawat
+
+atau sejenisnya :
+134 |8463.10.10.60 --Dioperasikan secara elektrik
+
+8463.20 -Mesin pencanai ulir :
+435 |8463.20.10.00 —_|--Dioperasikan secara elektrik
+| [8463.30 “Masin untuk mengerjakan kawat :
+136 |8463,30.10.00 __ --Dioperasikan secara elektrik
+8463.90 -Lain-lain ;
+
+—_—— =. ——__ oss
+
+137 |8463.90.10.00 --Dioperasikan secara elektrik
+
+84.64 Mesin perkakas untuk mengerjakan _ batu, kera-
+mik, beton, asbes semen atau bahan mineral se-
+jenisnya atau untuk mengerjakan kaca_ secara
+dingin.
+
+8464.20 -Mesin penggerinda atau pemoles :
+
+138 |8464.20.10.00 | --Dioperasikan secara elektrik
+
+|
+84.65 Mesin perkakas (termasuk mesin untuk memaku, |
+|mengokot, merekati atau merakit secara _lain) |
+Juntuk —mengerjakan kayu, gabus, tulang, karet |
+|keras, plastik keras atau bahan keras semacam
+Jitu. i
+139 |8465.10.00.00 -Mesin yang dapat melakukan berbagai jenis |
+
+UT
+

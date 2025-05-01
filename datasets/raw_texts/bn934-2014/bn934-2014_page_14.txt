@@ -1,0 +1,57 @@
+2014, No.934
+
+14
+
+No Pos Tarif Uraian Barang
+146 1905.90.20.00 -- Biskuit tidak manis lainnya
+147 1905,.90.30,00 -- Kue
+148 1905.90.40.00 -- Kue kering
+149 1905.90.50.00 -- Produk roti tanpa tepung
+150 1903.90.60.00 -- Selongsong kosong dari jenis yang cocok untuk keperluan
+farmasi
+151 1905.90.70.00 ee komuni, sealing wafer, rice paper dan produk semacam
+152 1905.90.80.00 -- Produk makanan garing lainnya
+153 | 1905.90.90.00 -- Lain-lain
+Tomat diolah atau diawetkan selain dengan cuka atau asam
+20.02
+asetat.
+2002.90 - Lain-lain:
+154 | ex. 2002.90.10.00 | -- Pasta tomat (dalam kemasan botol atau sachet)
+Selai, jeli buah, marmelade, pure dan pasta dari buah atau
+20.07 kacang, diperoleh dari pemasakan, mengandung tambahan
+gula atau bahan pemanis lainnya maupun tidak.
+155 | 2007.10.00.00 - Olahan homogen
+- Lain-lain:
+2007.99 -- Lain-lain:
+156 | 2007.99,10.00 --- Butiran dan pasta buah selain mangga, nanas atau stroberi
+157 | 2007.99.90.00 --- Lain-lain
+Buah, kacang dan bagian tanaman lainnya yang dapat
+20.08 dimakan, diolah atau diawetkan secara lain, mengandung
+. tambahan gula atau bahan pemanis lainnya atau alkohol
+maupun tidak, tidak dirinci atau termasuk pos lainnya.
+- Kacang, kacang tanah dan kacang lainnya, dicampur maupun
+tidak:
+2008.11 -- Kacang tanah:
+158 | 2008.11.10.00 --- Digongseng
+159 | 2008.11.20.00 --- Mentega kacang
+160 2008, 11.90.00 --- Lain-lain
+2008.19 -- Lain-lain, termasuk campuran:
+161 2008. 19.10.00 --- Kacang mede
+162 2008, 19,90,00 --- Lain-lain
+2008.40 - Pir:
+163 | 2008.40.10.00 -- Mengandung tambahan gula atau bahan pemanis lainnya
+atau alkohol
+164 2008.40,90,00 -- Lain-lain
+2008.50 - Aprikot:
+165 | 2008.50.10.00 -- Mengandung tambahan gula atau bahan pemanis lainnya
+atau alkohol
+166 2008.50.90.00 -- Lain-lain
+2008.60 - Ceri:
+167. | 2008.60.10.00 -- Mengandung tambahan gula atau bahan pemanis lainnya
+atau alkohol
+168 2008.60.90.00 -- Lain-lain
+2008.70 - Persik, termasuk nektarin:
+169 | 2008.70.10.00 -- Mengandung tambahan gula atau bahan pemanis lainnya
+
+7
+

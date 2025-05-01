@@ -1,0 +1,66 @@
+2019, No. 842
+
+3.
+
+-112-
+
+Not Wholly Obtained atau Produced
+Regional Value Content (RVC)
+RVC dihitung dengan menggunakan metode:
+
+a.
+
+FOB —- VNM
+
+RVG = — Xs 100%
+
+FOB
+
+Keterangan:
+
+a) FOB adalah onilai Free-on-Board suatu barang
+termasuk biaya pengangkutan dari produsen ke
+pelabuhan atau tempat pengapalan akhir di luar
+negerl;
+
+b) RVC adalah besaran regional value content suatu
+barang yang dinyatakan dalam persentase; dan
+
+c) VNM adalah nilai value of non-onginating material,
+
+yaitu bahan baku yang berasal dari luar Negara
+Anggota yang digunakan dalam pembuatan barang.
+
+Change in Tariff Heading (CTH) adalah barang yang proses
+
+produksinya menggunakan Bahan Non-Onginating dan
+
+seluruh Bahan WNon-Originating tersebut mengalami
+
+perubahan klasifikasi barang yaitu perubahan pada 4
+
+(empat) digit pertama HS (pos).
+Product Specific Rules kriteria asal barang dalam daftar PSR
+
+terdiri dari:
+
+1)
+
+2)
+
+tunggal, yaitu suatu bab yang terbagi dalam subpos
+
+tarif hanya memiliki 1 (satu) kriteria asal barang.
+
+Contoh : Chapter 1 : live animals (CC);
+
+alternatif, yaitu suatu subpos tarif yang memiliki lebih
+
+dari 1 (satu) kriteria asal barang yang harus dipilih
+
+salah satu.
+
+Contoh : 2208.30 : Whiskies (RVC 40% or CTH
+except from heading 22.07).
+
+www.peraturan.go.id

@@ -1,0 +1,44 @@
+= 101 -
+
+TERMASUK |
+NO URAIAN BARANG SPESIFIKASI DALAM
+POS TARIF
+31. Screw dengan diameter luar shank | 7318.15.10
+tidak melebihi 16mm
+32. | Nut untuk Baut yang memiliki 7318.16.10
+diameter luar Shank tidak
+melebihi 16mm
+33. Washer Cincin pipih lainnya 7318.22.00
+34. Cotter Pin Pasak Kunci yang 7318.24.00
+kegunaannya untuk
+mengunci Nut
+35. | Alumunium Extrusion Terbuat dari Paduan 7604.29.10
+Alumunium
+36. Alumunium Bar Terbuat dari Paduan 7604.29.90
+Alumunium
+37. | Alumunium sheet Dari paduan Alumunium 7606.12.39
+memiliki ketebalan melebihi
+0,2 mm
+38. Collar yang dipergunakan Terbuat dari Alumunium 7616.10.20
+untuk mengunci Hi lock
+39. Solid Rivet / Paku Keling Terbuat dari Alumunium 7616.10.90
+40. Clamp Terbuat dari Alumunium 7616.99.90
+Al. Blind Rivet / Tubular Rivet | Terbuat dari besi atau baja 8308.20.00
+42. Unit Penukar Panas Tidak dioperasikan secara 8419.50.92
+elektrik
+43. Steam Oven alat pemanas makanan 8419.81.10
+didalam pesawat udara,
+dioperasikan secara elektrik
+44, Check Valve Terbuat dari Stainless Steel 8481.30.90
+45. Ball Bearing Ball Bearing 8482.10.00
+46. Bushing / Shim Bushing / Shim 8483.30.90
+47. | Motor Spindle Motor AC/DC dengan 8501.10.60
+keluaran tidak melebihi
+37,5 W
+48. | Motor-Stabilizer Trim Motor DC lainnya, keluaran 8501.31.40
+tidak melebihi 750 W
+49. Static Inverter mengkonversi daya listrik 8504.40.40
+dari arus searah (DC) ke
+arus bolak balik {AC)
+
+www jdih.kemenkelt.go.id

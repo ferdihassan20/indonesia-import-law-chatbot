@@ -1,0 +1,46 @@
+- 417 -
+
+No Pos Tarif/HS Uraian Barang Persyaratan Keterangan ET | PE| LS
+ex 2846.90.00 99% REOH PE Barang
+640. | ex 2846.10.00 Logam oksida tanah jarang dengan kadar < Pertambangan v |v
+ex 2846.90.00 99% REO untuk keperluan
+641. | ex 2915.29.90 Zirkonium Asetat (ZAC) dengan kadar < 90% penelitian dan v |v
+H2ZrO2(C2H3O2)2 pengembangan
+642. | ex 3802.90.20 Bentonit olahan dengan bleaching power < dikecualikan dari v |v
+70%, Specific Surface Area < 150 m2/g dan kewajiban
+konduktivitas < 300 uS/cm Verifikasi atau
+643. | ex 3824.99.99 Silika dan kuarsa yang dilapisi resin dalam Penelusuran Vv [v
+bentuk resin coated sand dengan bending Teknis (LS)
+strength < 45 kg/m2, lolos saringan 30 mesh <
+90%, kadar air > 0,20%, Loss On Ignition (LOI) PE Barang
+> 2%, dan resin content < 1,20% Pertambangan
+644. | ex 7501.20.00 Mixed Sulfide Presipitate (MSP) dengan kadar < untuk keperluan viv
+45% Ni ekspor kembali
+645. _| ex 7001.00.00 Cullet (leburan kuarsa) dengan kadar < 80% SiO» bahan baku yang Vv iq
+646. | 7103.10.20 Agat, Chert (rijang), Garnet, Giok (jade), termasuk viv
+ex 7103.10.90 Jasper, Kalsedon, Opal, Krisopras, Topas, dan kategori barang
+Onik yang belum dilakukan pemolesan pertambangan .
+647. | ex 7103.10.90 Onik yang tidak dikerjakan dengan pemilahan yang berasal dari Viv
+ukuran dan/atau pemotongan dilaku rere h
+648. | ex 7103.10.90 Onik tidak dikerjakan lebih lanjut, yang telah Vakukan ore Viv
+dilakukan pemilahan ukuran dan/atau Angka Pengenal
+pemotongan, dapat dalam bentuk ubin dan tpors Umum
+slab dengan ukuran ketebalan lebih dari 5 cm, ee enal
+atau bukan dalam bentuk batu hias Imvoctir s
+649. | ex 7106.10.00 Perak dalam bentuk bubuk, dalam bentuk Predusen (APL-P) Vv fv
+ex 7106.91.00 tidak ditempa, dalam bentuk setengah jadi, dan tidak sesuai
+ex 7106.92.00 dengan kadar < 99% Ag d
+650. | ex 7108.11.00 Emas dalam bentuk bubuk, dalam bentuk engan Viv
+
+ex 7108.12.10
+ex 7108.12.90
+ex 7108.13.00
+
+tidak ditempa, dalam bentuk setengah jadi
+lainnya, bukan mata uang, dengan kadar <
+99% Au
+
+spesifikasi yang
+diinginkan oleh
+importir dan/atau
+

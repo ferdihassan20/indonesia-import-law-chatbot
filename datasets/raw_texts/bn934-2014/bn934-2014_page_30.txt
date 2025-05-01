@@ -1,0 +1,51 @@
+2014, No.934
+
+30
+
+No Pos Tarif Uraian Barang
+6208.91.00 -- Dari kapas:
+--- Gaun rumah:
+318 | 6208.91.00.11 ---- Dicetak dengan proses batik tradisional
+319 6208,.91,00,19 ---- Lain-lain
+520 6208.91.00.90 --- Lain-lain
+6208.92.00 -- Dari serat buatan:
+--- Gaun rumah:
+521 | 6208.92.00.11 ---- Dicetak dengan proses batik tradisional
+522 | 6208.92,00.19 ---- Lain-lain
+523 6208.92.00.90 --- Lain-lain
+6208.99 -- Dari bahan tekstil lainnya:
+524 | 6208.99.10.00 --- Dari wol atau bulu hewan halus
+325 6208.99,90.00 --- Lain-lain
+62.09 Garmen dan aksesori pakaian bayi
+6209.20 - Dari kapas:
+326 | 6209.20,30,00 -- T- shirt, kemeja, piyama dan barang semacam itu
+6209.20.90 -- Lain-lain:
+327 = | 6209.20,90,10 --- Setelan, celana dan barang semacam itu
+528 6209.20.90.90 --- Lain-lain
+6209.30 - Dari serat sintetik:
+529 | 6209.30.10,00 -- Setelan, celana dan barang semacam itu
+530 | 6209.30.30.00 -- T- shirt, kemeja, piama dan barang semacam itu
+931 | 6209.30,40,00 -- Aksesori pakaian
+532 6209.30.90.00 -- Lain-lain
+333 | 6209.90.00.00 - Dari bahan tekstil lainnya
+62.10 Garmen, dibuat dari kain dari pos 56.02, 56.03, 59.03,
+59.06, atau 59.07.
+6210.10 - Dari kain dari pos 56.02 atau 56.03:
+-- Pakaian pelindung kerja:
+534 |6210.10.11.00 oy pakaian. oe digunakan untuk pelindung dari bahan kimia,
+935 6210,10,19,00 --- Lain-lain
+536 6210.10.90.00 -- Lain-lain
+6210.20 - Garmen lainnya, dari tipe yang diuraikan dalam sub pos
+6201.11 sampai dengan 6201.19:
+537 | 6210.20.20.00 -- Pakaian yang digunakan untuk pelindung dari api
+538 | 6210.20.30.00 Sn okaian yang digunakan untuk pelindung dari bahan kimia
+539 | 6210.20.40,00 -- Pakaian pelindung kerja lainnya
+540 6210.20.90.00 -- Lain-lain
+6210.30 - Garmen lainnya, dari tipe yang diuraikan dalam sub pos
+6202.11 sampai dengan 6202.19:
+341 6210,.30,20.00 -- Pakaian yang digunakan untuk pelindung dari api
+542 | 6210.30.30.00 a akaian yang digunakan untuk pelindung dari bahan kimia
+543° | 6210.30.40.00 -- Pakaian pelindung kerja lainnya
+
+23
+

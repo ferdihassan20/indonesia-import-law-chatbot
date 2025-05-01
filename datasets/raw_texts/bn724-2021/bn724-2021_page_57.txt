@@ -1,0 +1,60 @@
+-57-
+
+Dalam hal terdapat House BL/AWB dan Master BL/AWB, maka yang
+wajib diisi adalah nomor dan tanggal House BL/ AWB.
+
+Contoh:
+
+SPPB diterbitkan atas barang impor yang diangkut ke dalam daerah
+pabean melalui AWB Nippon Cargo Airlines Nomor V 1131-417
+tanggal 24 November 2020.
+
+No. B/L atau AWB : V 1131-417
+
+Tanggal : 24-11-2020
+
+Nomor dan Tanggal serta Pos BC 1.1.
+
+Diisi pada kolom yang disediakan dengan nomor, tanggal, bulan dan
+tahun BC 1.1 serta nomor Pos BC 1.1., dimana barang impor
+terdaftar sesuai manifes kedatangan sarana pengangkut yang
+disampaikan oleh pengangkut ke Kantor Pabean.
+
+Dalam hal PIB diajukan sebelum pengangkut menyampaikan manifes
+kedatangan sarana pengangkut (inward manifest) ke Kantor Pabean,
+kolom ini dapat diisi setelah pengangkut menyampaikan inward
+manifes. Informasi mengenai nomor dan tanggal BC 1.1 dan nomor
+pos BC 1.1 dapat diperoleh dari pengangkut atau dari portal
+pengguna jasa DJBC.
+
+Contoh:
+
+SPPB diterbitkan atas barang yang terdaftar dalam BC 1.1 nomor
+000482 tanggal 10 November 2020 pada pos 05 subpos 0501.
+
+No. BC 1.1 : 000482
+
+Tanggal : 10-11-2020
+Pos :05
+
+Sub Pos : 0501
+Jumlah Kemasan dan Berat
+
+Wajib diisi oleh SKP atau Pejabat Bea dan Cukai pada kolom yang
+disediakan, dengan data berupa jumlah kemasan yang digunakan
+untuk mengemas barang impor dan berat kotor (bruto) keseluruhan
+barang impor dalam satuan kg (kilogram). Berat kotor adalah berat
+barang impor termasuk dengan pengemasnya.
+
+Contoh:
+
+Berat barang impor keseluruhan sejumlah 10.150 Kgs dengan jumlah
+total kemasan 120 Packages.
+
+Jumlah Kemasan : 120 PK
+
+Berat : 10.150 kg
+
+2021, No.724
+
+www.peraturan.go.id

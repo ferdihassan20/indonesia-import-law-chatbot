@@ -1,0 +1,83 @@
+2014, No.934
+
+15
+
+No Pos Tarif Uraian Barang
+atau alkohol
+
+170 2008.70.90,00 -- Lain-lain
+
+2008.80 - Stroberi:
+
+171. | 2008.80.10.00 -- Mengandung tambahan gula atau bahan pemanis lainnya
+atau alkohol
+
+172 2008,80,90,00 -- Lain-lain
+- Lain-lain, termasuk campuran selain campuran pada subpos
+2008.19:
+
+173 2008.91.00.00 -- Palm hearts
+
+-- Cranberry (Vaccinium macrocarpon, Vaccinium oxycoccos,
+
+174 | 2008.93.00.00 Vaccinium vitis-idaea)
+
+2008.99 -- Lain-lain
+
+175 | 2008.99,10,00 --- Leci
+
+--- Dari batang, akar dan bagian tanaman lainnya yang dapat
+
+176 | 2008.99.30.00 dimakan, tidak meliputi buah atau kacang
+
+177 | 2008.99.40.00 a Lain-lain, mengandung tambahan gula atau bahan pemanis
+lainnya atau alkohol
+
+178 | 2008.99.90.00 --- Lain-lain
+
+Jus buah (termasuk grape must) dan jus sayuran, tidak
+difermentasi dan tidak mengandung tambahan alkohol,
+
+20.09 mengandung tambahan gula atau pemanis lainnya maupun
+tidak.
+- Jus buah jeruk lainnya:
+179 | 2009.31.00.00 -- Dengan nilai Brix tidak melebihi 20
+180 2009.50.00.00 - Jus tomat
+181 | 2009.81.10.00 --- Untuk makanan bayi
+
+182 | ex. 2009.81.90.00 | --- Lain-lain
+
+- Jus dari satu jenis buah atau sayuran lainnya:
+
+-- Lain-lain:
+--- Lain-lain:
+183 | 2009.89.91.00 ---- Untuk makanan bayi
+2009.90 - Campuran jus:
+184 | 2009.90.10,00 -- Untuk makanan bayi
+
+Ekstrak, esens dan konsentrat, dari kopi, teh atau mate dan
+olahan dengan dasar produk ini atau dengan dasar kopi, teh
+
+21.01 : . . .
+atau mate; chicory digongseng dan pengganti kopi yang
+digongseng lainnya, dan ekstrak, esens dan konsentratnya.
+- Ekstrak, esens dan konsentrat kopi, serta olahan dengan
+dasar ekstrak, esens atau konsentrat kopi atau olahan dengan
+dasar kopi:
+2101.11 -- Ekstrak, esens dan konsentrat:
+185 | 2101.11.10.00 --- Kopi instan.
+186 2101.11.90.00 --- Lain-lain
+2101.12 -- Olahan dengan dasar ekstrak, esens atau konsentrat atau
+‘ olahan dengan dasar kopi:
+
+--- Campuran dalam bentuk pasta dengan bahan ground
+
+187 | 2101.12.10.00 roasted coffee, mengandung lemak sayuran.
+
+188 2101.12,.90,00 --- Lain-lain
+- Ekstrak, esens dan konsentrat, dari teh atau mate dan olahan
+2101.20 dengan dasar ekstrak, esens atau konsentrat teh atau olahan
+
+dengan dasar teh atau mate:
+
+8

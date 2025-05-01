@@ -1,0 +1,70 @@
+2018, No.73
+
+-10-
+
+8443.32.11
+
+- - Lainnya, memiliki kemampuan berhubungan
+dengan mesin pengolah data otomatis atau jaringan:
+- - - Printer dot matriks: - - - - Berwarna
+
+8443.32.21
+
+- - Lainnya, memiliki kemampuan berhubungan
+dengan mesin pengolah data otomatis atau jaringan:
+- - - Printer ink-jet: - - - - Berwarna
+
+8443.32.31
+
+- - Lainnya, memiliki kemampuan berhubungan
+dengan mesin pengolah data otomatis atau jaringan:
+- - - Printer laser: - - - - Berwarna
+
+ex 8443.32.90
+
+- - Lainnya, memiliki kemampuan berhubungan
+dengan mesin pengolah data otomatis atau jaringan:
+- - - Lain-lain
+
+10
+
+ex 8443.39.10
+
+- - Lain-lain: - - - Aparatus fotocopy elektrostatik
+beroperasi dengan mereproduksi gambar asli secara
+langsung di atas copy (proses langsung).
+
+11
+
+ex 8443.39.20
+
+- - Lain-lain: - - - Aparatus fotocopy elektrostatik,
+beroperasi dengan mereproduksi gambar asli
+melalui perantara di atas copy (proses tidak
+langsung).
+
+12
+
+ex 8443.39.30
+
+- - Lain-lain: - - - Aparatus fotocopy lainnya
+dilengkapi dengan sistem optik.
+
+13
+
+ex 8443.39.40
+
+- - Lain-lain: - - - Printer ink-jet
+
+14
+
+ex 8443.39.90
+
+- - Lain-lain: - - - Lain-lain.
+
+MENTERI PERDAGANGAN REPUBLIK INDONESIA,
+
+ttd
+
+ENGGARTIASTO LUKITA
+

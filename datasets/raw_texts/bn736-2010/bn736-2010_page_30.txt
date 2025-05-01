@@ -1,0 +1,92 @@
+2010, No.736 30
+
+no, | POS TARIF/ URAIAN BARANG
+
+HS
+220 [8708.94.99.00
+
+—--Lain-Lain
+
+KETERANGAN
+
+Hanya untuk industri remanufacturing
+komponen Alat Berat
+
+—Lain-lain :
+
+8708.99
+
+— Lain-Lain
+
+221 |8708.99.99.00 —|-—- Lain-Lain
+
+Hanya untuk industri remanufacturing
+komponen Alat Berat
+
+8801.00.00.00 |Balon udara dan bafon udara yang dapat dikemu-
+dikan; pesawat layang, pesawatlayang gantung
+[dan kendaraan udara lainnya tanpa tenaga peng-
+
+gerak.
+
+88.02 Kendaraan udara lainnya (misalnya, helikopter,
+pesawat udara); kendaraanluar angkasa ({ter-
+masuk Satelit) serta kendaraan peluncur
+luar angkasa dan suborbital.
+
+-Hetikopter
+
+223 | 8802.11.00.00 --Dengan berat tanpa muatan tidak melebihi 2.000 kg
+
+224 |8802.12.00.00 -- Dengan berat tanpa muatan melebihi 2.000 kg
+
+8802.20 ~ |-Pesawat udara dan kendaraan udara_lainnya,
+
+dengan berat tanpa muatan tidak melebihi 2.000 kg :
+
+225 8802.20.10.00 | --Pesawat udara
+226 |8802.20.90.00 --Lain-lain
+
+8802.30 -Pesawat udaradan kendaraan udara_lainnya,
+dengan berattanpamuatan melebihi 2.000 kg
+
+tetapi tidak melebihi 15.060 kg :
+227 |8802.30.10.00 --Pesawat udara
+228 |8802.30.90.00 --Lainlain
+
+8802.40 -Pesawat udaradan kendaraan udara_lainnya,
+
+dengan berat tanpa muatan melebihi 15.000 ka:
+
+229 | 8802.40.10.00 --Pesawat udara
+
+230 | 8802.40.90.00 --Lain-lain
+
+231 |8802.60.00.00 -Kendaraan luar angkasa (termasuk satel)
+serta kendaraan  peluncur suborbital dan
+peluncur kendaraan luar angkasa
+
+88.03 Bagian dari barang pada pos 88.01 atau $8.02.
+8803.10.00.00 —|-Propeller dan rotor serta bagiannya
+B803.20.00.00 —_|-Rangka hawah dan bagiannya
+
+8803.30,00.00 |-Bagian Jainnya dari pesawat udara atau
+helikopter
+
+8803.90 -Lain-lain :
+235 |8803.90.10.00 --Dari satelit komunikasi
+
+236 |8803.90.20.00 —Dari balon udara, pesawat ayang atau
+layang-layang
+
+237 | 8803.90.90.00 --Lain-lain
+
+238 |8804.00.00.00 | Parasut (termasuk parasut dan paragider yang
+dapat dikemudikan) dan rotochute; bagian dan
+
+aksesorinya.
+
+88.05 Girpeluncur kendaraan udara; deck-arrestor
+
+atau girsemacamitu; pesawat fatih terbang
+

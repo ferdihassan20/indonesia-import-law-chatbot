@@ -1,0 +1,85 @@
+No | POS TARIF / URAIAN BARANG KETERANGAN
+i 2 3
+
+. | 0204.43.00.00 | --Daging tanpa tulang Lamb loin
+
+Lamb hind shank
+Lamb fore shank
+Lamb rump
+
+Lamb shank
+
+Lamb tenderloin
+Lamb eye of shortloin
+Lamb shortloin
+Mutton loin
+
+Mutton tenderloin
+Mutton trunk boneless
+Mutton trunk meat
+Dan jenis potongan
+daging tanpa tulang
+lainnya
+
+| ex. Goat carcass
+| 0204.50.00.00 Half goat carcass
+
+02.07 Daging dan sisanya yang
+
+dapat dimakan, dari
+
+unggas pada pos 01.05,
+
+segar, dingin atau beku.
+
+- Dari ayam spesies Gallus
+domesticus :
+
+ex. --Tidak dipotong menjadi
+0207.11.00.00
+
+Karkas Ayam utuh segar
+dingin
+
+bagian-bagian, segar atau
+dingin
+
+--Tidak dipotong menjadi | Karkas Ayam utuh beku |
+
+bagian-bagian, beku
+
+Karkas Kalkun utuh
+segar dingin
+
+. --Tidak dipotong menjadi
+207.24.00.00 | bagian-bagian, segar atau
+dingin
+
+Karkas Kalkun utuh
+beku
+
+. --Tidak dipotong menjadi
+0207.25.00.00 | bagian-bagian, beku
+
+ex.
+0207.41.00,00
+
+--Tidak dipotong menjadi
+bagian-bagian, segar atau
+dingin
+
+Karkas Itik utuh segar
+dingin
+
+ex. --Tidak dipotong menjadi | Karkas Itik utuh beku
+
+0207.42.00.00 | bagian-bagian, beku
+
+--Hati berlemak, segar
+atau dingin
+
+Hanya dari hati bebek
+(foie gras)
+
+36.fex, --Lain-lain, beku Hanya dari hati bebek
+

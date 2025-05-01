@@ -1,0 +1,48 @@
+9 2014, No.934
+
+No Pos Tarif Uraian Barang
+19 1602.49,99.00 ---- Lain-lain
+20 1602.50.00.00 - Dari binatang jenis lembu
+1602.90 - Lain-lain, termasuk olahan dari darah binatang:
+21 1602.90.10,00 -- Kari domba, dalam kemasan kedap udara
+22 | 1602.90.90.00 -- Lain-lain
+16.03 Ekstrak dan jus daging, ikan atau krustasea, moluska atau
+invertebrata air lainnya.
+23 1603.00. 10,00 - Dari ayam, dibumbui
+24 1603.00.20.00 - Dari ayam, tanpa bumbu
+25 1603.00.30,00 - Lain-lain, dibumbui
+26 1603.00.90.00 - Lain-lain
+16.04 Ikan diolah atau diawetkan; kaviar dan pengganti kaviar
+yang diolah dari telur ikan.
+- Ikan, utuh atau dalam potongan, tetapi tidak dicincang:
+1604.11 -- Salmon:
+27 1604.11.10.00 --- Dalam kemasan kedap udara
+28 1604.11.90.00 --- Lain-lain
+1604.12 -- Herring:
+29 1604. 12.10.00 --- Dalam kemasan kedap udara
+30 1604.12.90,00 --- Lain-lain
+1604.13 -- Sarden, sardinella dan brisling atau sprat:
+--- Sarden:
+31 1604.13.11.00 ---- Dalam kemasan kedap udara
+32 1604.13.19.00 ---- Lain-lain
+--- Lain-lain:
+33 1604.13.91.00 ---- Dalam kemasan kedap udara
+34 1604.13.99.00 ---- Lain-lain
+1604.14 -- Ikan tuna, cakalang dan bonito (Sarda spp):
+--- Dalam kemasan kedap udara:
+35 1604.14.11.00 ---- Tuna
+36 1604.14.19.00 ---- Lain-lain
+37 1604.14,90,00 --- Lain-lain
+1604.15 -- Ikan makarel:
+38 1604. 15.10.00 --- Dalam kemasan kedap udara
+39 1604.15.90,00 --- Lain-lain
+1604.16 kan teri:
+40 1604.16.10.00 Dalam kemasan kedap udara
+41 1604.16.90.00 --- Lain-lain
+1604.17 -- Belut:
+42 1604.17.10.00 --- Dalam kemasan kedap udara
+43 1604. 17.90.00 --- Lain-lain
+1604.19 -- Lain-lain:
+44 1604.19.20.00 --- Ikan makarel kuda, dalam kemasan kedap udara
+45 1604. 19.30,00 --- Lain-lain, dalam kemasan kedap udara
+

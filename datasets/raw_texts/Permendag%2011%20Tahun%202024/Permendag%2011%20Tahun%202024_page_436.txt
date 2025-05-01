@@ -1,0 +1,65 @@
+- 431 -
+
+Pos Tarif/HS
+
+Uraian Barang
+
+Persyaratan
+
+Keterangan
+
+ET
+
+PE
+
+LS
+
+perundang-
+
+undangan antara
+
+yang tercantum
+dalam Persetujuan
+
+Ekspor (PE Barang
+
+Pertambangan
+
+untuk keperluan
+
+penelitian dan
+pengembangan dan
+
+PE Barang
+
+Pertambangan
+
+untuk keperluan
+
+ekspor kembali
+bahan baku yang
+dilakukan oleh
+
+Importir API-U
+
+atau API-P) dengan
+
+dokumen
+pemberitahuan
+pabean ekspor,
+meliputi:
+
+a. pelabuhan
+muat Ekspor;
+dan
+
+b. negara tujuan.
+
+Elemen data
+dan/atau
+keterangan
+tambahan selain
+yang diatur dalam
+batang tubuh,
+yang dilakukan
+

@@ -1,0 +1,52 @@
+2014, No.934
+
+12
+
+No Pos Tarif Uraian Barang
+dihilangkan seluruh lemaknya, tidak dirinci atau termasuk
+pos lainnya.
+1901.10 - Olahan untuk bayi, disiapkan untuk penjualan eceran:
+97 1901,10.10.00 -- Dari ekstrak malt
+98 1901.10.20,00 -- Dari barang dari pos 04.01 sampai dengan 04.04
+99 1901.10.30,00 -- Dari bubuk kacang kedelai
+-- Lain-lain:
+100 1901.10.91.00 --- Makanan medis
+101 | 1901.10.99.00 --- Lain-lain
+1901.20 - Campuran dan adonan untuk pembuatan roti dari pos 19.05:
+102 1901.20.10.00 tidak menbandane hakag e kasar, pati atau ekstrak malt,
+103 1901.20.20.00 vmengan dane kee tepung kasar, pati atau ekstrak malt,
+104 1901.20,30.00 -- Lain-lain, tidak mengandung kakao
+105 1901.20.40.00 -- Lain-lain, mengandung kakao
+1901.90 - Lain-lain:
+-- Makanan bayi, tidak disiapkan untuk penjualan eceran:
+106 1901.90.11.00 --- Makanan medis
+107 | 1901.90,19.00 --- Lain-lain
+108 1901.90.20.00 -- Ekstrak malt
+-- Lain-lain,dari barang dari pos 04.01 sampai dengan 04.04:
+109 1901.90.31.00 --- Filled milk
+110 1901.90.32,00 --- Lain-lain, mengandung bubuk kakao
+111 | 1901.90,39.00 --- Lain-lain
+-- Olahan lainnya berbahan dasar kedelai:
+112 | 1901.90.41,00 --- Dalam bentuk bubuk
+113 | 1901.90.49,.00 --- Dalam bentuk lain
+-- Lain-Lain:
+114 1901.90.91,00 --- Makanan medis
+1901.90.99 --- Lain-lain:
+115 1901.90.99,10 - Kerupuk udang
+116 | 1901.90,99,90 ---- Lain-lain
+Pasta, dimasak atau diisi maupun tidak (dengan daging atau
+19.02 bahan lainnya) atau diolah secara lain, seperti spagheti,
+makaroni, mie, lasagna, gnocchi, ravioli, cannelloni;
+couscous, diolah maupun tidak.
+- Pasta mentah, tidak diisi atau diolah secara lain:
+117 1902.11.00.00 -- Mengandung telur
+1902.19 -- Lain-lain:
+118 1902.19.20.00 --- Bihun.
+119 | 1902.19.30.00 --- Soun
+120 1902.19.40.00 --- Mie
+121 1902.19,90,00 --- Lain-lain
+1902.20 - Pasta diisi, dimasak atau diolah secara lain maupun tidak:
+122 1902.20.10,00 -- Diisi dengan daging atau sisa daging
+
+S)
+

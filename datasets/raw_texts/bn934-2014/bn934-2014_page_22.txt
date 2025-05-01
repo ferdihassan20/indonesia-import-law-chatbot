@@ -1,0 +1,54 @@
+2014, No.934
+
+22
+
+No Pos Tarif Uraian Barang
+307 | 6104.49.00,00 -- Dari bahan tekstil lainnya
+- Rok dan rok terpisah:
+308 | 6104.51.00.00 -- Dari wol atau bulu hewan halus
+309 6104.52.00,00 -- Dari kapas
+310 | 6104.53.00.00 -- Dari serat sintetik
+311 | 6104.59,00,00 -- Dari bahan tekstil lainnya
+- Celana panjang, pakaian terusan berpenutup di depan dan
+bertali, celana panjang sampai lutut dan celana pendek:
+312 | 6104.61,00,00 -- Dari wol atau bulu hewan halus
+313 6104,.62.00.00 -- Dari kapas
+314 | 6104.63.00,.00 -- Dari serat sintetik
+315 | 6104.69.00.00 -- Dari bahan tekstil lainnya
+61.05 Kemeja pria atau anak laki- laki, rajutan atau kaitan.
+316 6105.10.00.00 - Dari kapas
+6105.20.00 - Dari serat buatan:
+317 | 6105.20,00,10 -- Dari serat sintetik
+318 | 6105.20.00.90 -- Dari serat artifisial
+319 | 6105.90.00,00 - Dari bahan tekstil lainnya
+61.06 Blus, kemeja dan kemeja blus, untuk wanita atau anak
+perempuan, rajutan atau kaitan.
+320 6106.10.00.00 - Dari kapas
+321 6106,20.00.00 - Dari serat buatan
+322 | 6106.90,00,00 - Dari bahan tekstil lainnya
+Celana kolor, celana dalam, kemeja tidur, piama, pakaian
+61.07 mandi, dressing gown dan barang semacam itu, untuk pria
+atau anak laki- laki, rajutan atau kaitan.
+- Celana kolor dan celana dalam:
+323 6107.11.00,00 -- Dari kapas
+324 | 6107.12,00,00 -- Dari serat buatan.
+325 | 6107.19.00.00 -- Dari bahan tekstil lainnya
+- Kemeja tidur dan piyama:
+326 6107.21.00.00 -- Dari kapas
+327 | 6107.22.00,00 -- Dari serat buatan.
+328 | 6107.29.00,00 -- Dari bahan tekstil lainnya
+- Lain-lain:
+329 | 6107.91,00,00 -- Dari kapas
+330 | 6107.99.00.00 -- Dari bahan tekstil lainnya
+Rok dalam, petticoat, celana dalam, panty, gaun malam,
+61.08 piama, gaun rumah, pakaian mandi , dressing gown dan
+barang semacam itu, untuk wanita dan anak perempuan,
+rajutan atau kaitan.
+- Rok dalam dan petticoat:
+331 | 6108.11,.00,00 -- Dari serat buatan.
+6108.19 -- Dari bahan tekstil lainnya:
+332 | 6108.19.20,00 --- Dari wol atau bulu hewan halus
+333 6108.19.30.00 --- Dari kapas
+
+15
+

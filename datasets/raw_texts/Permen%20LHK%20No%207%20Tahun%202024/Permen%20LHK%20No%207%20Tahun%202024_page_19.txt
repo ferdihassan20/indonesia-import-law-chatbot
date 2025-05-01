@@ -1,0 +1,63 @@
+-19-
+
+No. Pos Tarif Uraian Barang Jenis Barang | ASHRAE | Nilai Nilai CAS
+Number ODP GWP Numbe
+r
+38.27 Campuran mengandung turunan
+halogenasi dari metana, etana
+atau propane, tidak dirinci atau
+termasuk dalam pos lainnya.
+Mengandung
+hidroklorofluorokarbon (HCFC),
+mengandung perfluorokarbon
+(PFC) atau hidrofluorokarbon
+(HFC) maupun tidak, tetapi tidak
+mengandung klorofluorokarbon
+(CFC):
+39. ex --Mengandung zat Campuran R-401C 0,02 | 932,58 75-45-
+3827.31.0 | dari subpos 2901.41] antara 959 6; 75-
+e) sampai 2903.48 HCFC-22 37-6;
+(31%); HFC- 2837-
+152a (15%); 89-0/
+HCFC-124 63938-
+(52,0%) 10-3
+40. Campuran R-401A 0,03 | 1182,48 | 75-45-
+antara 663 6; 75-
+HCFC-22 37-6;
+(53%); HFC 2837-
+-152a (13%); 89-
+HCFC-124 0/6393
+(34%) 8-10-3
+41. Campuran R-401B 0,03 | 1288,26 | 75-45-
+antara 971 6; 75-
+HCFC-22 37-6;
+(61%); HFC 2837-
+-152a (11%); 89-
+HCFC-124 0/6393
+(28%) 8-10-3
+42. Campuran R-402A 0,02 | 2787,82 | 354-
+antara HFC- 09 33-6;
+125 (60%); 74-98-
+HC-290 6; 75-
+(2%); HCFC- 45-6
+22 (38%)
+43. Campuran R-402B 0,03 | 2416,02 | 354-
+antara HFC- 3 33-6;
+125 (38%); 74-98-
+HC-290 6; 75-
+(2%); HCFC- 45-6
+22 (60%).
+44. Campuran R-405A 0,02 | 5004,73 | 75-45-
+antara 86 6; 75-
+HCFC-22 37-6;
+(45%); HFC- 75-68-
+152a (7%); 3; 115-
+HCFC- 25-3
+142b/
+PFCc-318
+(42,5%)
+45. Campuran R-408A 0,02 | 3151,9 354-
+antara HFC- 585 33-6;
+125 (7%); 420-
+HFC-143a 46-2;
+

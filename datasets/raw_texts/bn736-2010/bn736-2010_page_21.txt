@@ -1,0 +1,60 @@
+2010, No.736
+
+21
+
+416 | 8459.70.10.00
+
+8459.70
+
+-Mesin pembuat uli: atau alur lainnya :
+
+NO. art URAIAN BARANG KETERANGAN
+-Mesin bubut horizontal :
+404 |8458.11.00 00 ntrol secara numerik
+105 |8458.719.00.00 -lain
+_ -Mesin bubut lainnya :
+106 |8458.91.00.00 —|--Dikontrol secara numerik Kecuali untuk jenis dan spesifikasi: CNC
+unit 2 Axis Interpolation, Turret max 6
+Xtravel 136-200 mm; Ztravel 250-320
+workpiece diameter max 300 mm;
+power 2,5 KV; Axis motor power max
+41KW, Axis servodrive motor with encoder,
+Simi
+107 | 8458.99.00.00 —Lain-tain
+~ [84.59 Mesin perkakas (termasuk way-type unit head-
+machine) untuk menggurdi, mengebor, menggi-
+ling dan membuat ulir atau aiurdengan meng-
+hilangkan logam, selain mesin bubut (termasuk
+turning centre} dari pos 84.58.
+8459.10 -Way-type unit head-machines :
+108 |8458.10.10.00 --Dioperasikan secara elekirik
+-Mesin penggurdi lainnya :
+459.29 ~-Lain-lain :
+109 | 8459.29. 10,00 ---Dioperasixan secara elektrik
+-Mesin pengebor-penggiling lainnya :
+110 |8459.31.00.00 --Dikontrol secara numerik
+8459.39 —-Lain-lain :
+111 |8459.39.10.00 ---Dioperasixan secara elektrik
+8459.40 -Mesin pengebor lainnya :
+8459.40.10.00 --Dioperasikan secara elektrik
+~~ 8459.59 ~-Lain-lain :
+8459.59.10,00 ---Dioperasikan secara elektrik
+-Mesin penggiling lainnya :
+114 |8459.61,00.00 —_|--Dikontrol secara numerik
+:
+8459.69 ~-Lain-lain :
+8459.69.10.00 ~-Dioperasikan secara elektrik
+
+—Dioperasikan secara elektsik
+
+Mesin perkakas untuk menghaluskan, menajamkan,
+menggerinda, menggosok, mengasah, memoles atau
+
+merampungkan logam atau cermet secara lain
+
+dengan memakai batu gerinda, amplas atau
+
+produk pemoles, selain mesin pemotong gir,
+
+ee
+

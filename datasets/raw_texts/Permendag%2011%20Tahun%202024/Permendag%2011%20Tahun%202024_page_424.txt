@@ -1,0 +1,40 @@
+- 419 -
+
+No Pos Tarif/HS Uraian Barang Persyaratan Keterangan ET | PE| LS
+665. | ex 7202.91.00 Fero titanium dengan kadar < 65% Ti keterangan Viv
+666. | ex 7202.91.00 Fero-silikon-titanium dengan kadar < 75% Fe tambahan selain Vv |v
+667. | ex 7202.92.00 Fero-vanadium dengan kadar < 75% Fe yang diatur dalam Viv
+668. | ex 7203.10.00 Besi spon paduan besi (sponge ferro alloy) batang tubuh, Viv
+
+dengan kadar < 72% Fe yang diperoleh dengan yang dilakukan
+reduksi langsung dari bijih besi penelitian sesuai
+669. | ex 7203.10.00 Besi spon dengan kadar < 72% Fe ketentuan V |v
+ex 7203.90.00 peraturan
+670. | 7401.00.10 Mate tembaga perundang- Viv
+671. | 7401.00.20 Tembaga semen (tembaga endapan) undangan antara Viv
+672. | 7402.00.10 Tembaga tidak dimurnikan; anoda tembaga vale, tercantum Viv
+. : am Persetujuan
+7402.00.90 untuk pemurnian secara elektrolisa Ekspor untuk
+673. | ex 7403.11.00 Tembaga katoda dimurnikan dengan kadar < k Viv
+99,9% Cu eperluan
+2 - - - penelitian dan
+674. | ex 7403.13.00 Tembaga dimurnikan dalam bentuk billet, pengembangan Viv
+ex 7403.19.00 dalam bentuk ingot atau batang tuangan, untuk kep erluan
+dalam bentuk slab, dengan kadar < 99,9% Cu ekspor kembali
+675. | ex 7403.29.00 Paduan tembaga telurid dengan kadar < 20 % bahan baku yang V |v
+Te - termasuk kategori
+676. _| ex 7501.10.00 Ni mate dengan kadar < 70% Ni barang viv
+677. | ex 7502.10.00 Nikel tidak ditempa dengan kadar < 93% Ni pertambangan Vv iV
+ex 7502.20.00 yang berasal dari
+678. | ex 7504.00.00 Nikel dalam bentuk bubuk dengan kadar < impor yang Viv
+93% Ni dilakukan oleh
+679. | ex 7801.10.00 Timbal tidak ditempa, dalam bentuk bullion Angka Pengenal Viv
+ex 7801.91.00 dengan kadar < 90% Timbal (Pb) Importir Umum
+ex 7801.99.00 (API-U) atau Angka
+680. | ex 7901.12.00 Seng tidak ditempa, dalam bentuk bullion Pengenal Importir Viv
+ex 7901.20.00 dengan kadar < 90% Seng (Zn) Produsen (API-P)
+681. ex 8101.10.00 Wolfram dalam bentuk bubuk dengan kadar < dan tidak sesuai Vv [v
+90% W dengan spesifikasi
+682. ex 8101.94.00 Wolfram tidak ditempa dengan kadar < 90% W yang diinginkan Vv [v
+683. | ex 8105.20.10 Logam kobalt tidak ditempa dengan kadar < 93% Viv
+

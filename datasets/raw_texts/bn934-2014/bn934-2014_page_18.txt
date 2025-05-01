@@ -1,0 +1,89 @@
+2014, No.934 18
+
+No Pos Tarif Uraian Barang
+
+Lemak dan minyak hewani atau nabati serta fraksinya,
+dipanaskan, dioksidasi, didehidrasi, disulfurisasi, ditiup,
+dipolimerisasi dengan panas dalam hampa udara atau dalam
+gas inert, atau dimodifikasi secara kimia lainnya, tidak
+termasuk dari pos 15.16; olahan atau campuran yang tidak
+dapat dimakan dari lemak atau minyak hewani atau nabati
+atau dari fraksi lemak atau minyak yang berbeda dalam Bab
+ini, tidak dirinci atau termasuk dalam pos lainnya.
+
+15.18
+
+- Lemak dan minyak hewani atau nabati serta fraksinya,
+dipanaskan, dioksidasi, didehidrasi, disulfurisasi, ditiup,
+15.18.00.10 dipolimerisasi dengan panas dalam hampa udara atau dalam
+gas inert atau dimodifikasi secara kimia lainnya, tidak termasuk
+dari pos 15.16:
+
+-- Minyak kacang tanah, kacang kedelai, kelapa sawit atau
+
+226 1518.00.14.00
+kelapa
+
+Olahan makanan yang tidak dirinci atau termasuk dalam
+
+21.06
+pos lainnya.
+
+2106.90 - Lain-lain:
+
+-- Olahan tidak beralkohol dari jenis yang digunakan dalam
+
+2106.90.50 pembuatan atau produksi minuman:
+
+227 | 2106.90.53.00 --- Produk dengan bahan dasar ginseng
+
+228 | 2106.90,70,00 -- Suplemen makanan
+
+229 | 2106.90.80,00 -- Premix penambah daya tahan tubuh
+-- Lain-lain:
+--- Campuran lainnya antara bahan kimia dengan bahan
+
+230 | 2106.90,91,00 makanan atau dengan zat lainnya yang bergizi, dari jenis yang
+digunakan untuk pengolahan makanan
+
+231 2106.90.92.00 --- Olahan dengan bahan dasar ginseng
+
+Minyak atsiri (mengandung terpena atau tidak), termasuk
+konkrit dan absolut;  resinoida; ekstrak  oleoresin;
+konsentrat minyak atsiri dalam lemak, dalam fixed oil,
+33.01 dalam malam atau sejenisnya, diperoleh melalui enfleurage
+atau maserasi; produk sertaan bersifat terpena pada proses
+penghilangan terpena dari minyak atsiri; hasil sulingan
+dengan air dan larutan air dari minyak atsiri.
+
+- Minyak atsiri selain dari buah jeruk:
+
+232 | 3301.25,00.00 -- Dari mint lainnya
+
+3301.29.00 -- Lain-lain:
+
+--- Dari rumput lemon, serai, pala, kayu manis, jahe, kapulaga,
+
+233 | 3301.29.00. 10 adas atau palmrose
+
+234 =| 3301.29,00,20 --- Dari cendana
+235 3301.29.00.90 --- Lain-lain
+3301.90 - Lain-lain:
+
+-- Hasil sulingan dan larutan mengandung air dari minyak atsiri
+
+236 | 3301,90.10.00 yang cocok digunakan untuk pengobatan
+
+Cc. KOSMETIK DAN PERBEKALAN KESEHATAN RUMAH TANGGA
+
+237 | 3303.00.00.00 Parfum dan cairan pewangi.
+
+Preparat kecantikan atau rias dan preparat untuk perawatan
+kulit (selain obat-obatan), termasuk preparat penutup atau
+
+33.04 pelindung kulit terhadap sinar matahari; preparat manikur
+atau pedikur.
+238 | 3304.10.00.00 - Preparat rias bibir
+239 | 3304.20,00.00 - Preparat rias mata
+
+11

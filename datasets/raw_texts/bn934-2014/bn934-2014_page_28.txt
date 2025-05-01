@@ -1,0 +1,52 @@
+2014, No.934
+
+28
+
+No Pos Tarif Uraian Barang
+6204.42.00 -- Dari kapas:
+467 | 6204.42.00.10 --- Dicetak dengan proses batik tradisional
+468 6204.42.00.90 --- Lain-lain
+469 6204.43,00,00 -- Dari serat sintetik
+470 | 6204.44.00.00 -- Dari serat artifisial
+6204.49.00 -- Dari bahan tekstil lainnya:
+--- Dari sutra:
+471 | 6204.49.00.11 ---- Dicetak dengan proses batik tradisional
+472 | 6204.49,00,19 ---- Lain-lain
+473 6204.49.00.90 --- Lain-lain
+- Rok dan rok terpisah:
+474 | 6204.51.00.00 -- Dari wol atau bulu hewan halus
+6204.52.00 -- Dari kapas:
+475 | 6204.52.00.10 --- Dicetak dengan proses batik tradisional
+476 6204.52.00.90 --- Lain-lain
+477 6204.53.00,00 -- Dari serat sintetik
+6204.59.00 -- Dari bahan tekstil lainnya:
+--- Dari sutra:
+478 | 6204.59.00.11 ---- Dicetak dengan proses batik tradisional
+479 6204.59.00,19 ---- Lain-lain
+480 | 6204.59,00,90 --- Lain-lain
+- Celana panjang, bib dan brace overall, celana panjang sampai
+tutut dan celana pendek:
+481 | 6204.61.00.00 -- Dari wol atau bulu hewan halus
+482 6204,62.00,00 -- Dari kapas
+6204.63.00 -- Dari serat sintetik:
+483 | 6204.63.00. 10 --- Pakaian penerbang
+484 | 6204.63,00,90 --- Lain-lain
+485 | 6204.69.00.00 -- Dari bahan tekstil lainnya
+62.05 Kemeja pria atau anak laki- laki.
+6205.20.00 - Dari kapas:
+486 | 6205.20.00.10 -- Dicetak dengan proses batik tradisional
+487 6205.20.00.90 -- Lain-lain
+488 | 6205.30.00.00 - Dari serat buatan
+6205.90 - Dari bahan tekstil lainnya:
+489 | 6205.90.10.00 -- Dari wol atau bulu hewan halus
+6205.90.90 -- Lain-lain:
+--- Dari sutra:
+490 | 6205.90,90.11 ---- Dicetak dengan proses batik tradisional
+491 | 6205.90,90,19 ---- Lain-lain
+492 6205.90.90.90 --- Lain-lain
+62.06 Blus, kemeja dan blus kemeja, untuk wanita atau anak
+perempuan.
+6206. 10,00 - Dari sutra atau sisa sutra:
+
+21
+

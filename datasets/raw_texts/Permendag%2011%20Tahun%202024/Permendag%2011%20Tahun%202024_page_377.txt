@@ -1,0 +1,40 @@
+- 372 -
+
+No Pos Tarif/HS Uraian Barang Persyaratan Keterangan ET | PE| LS
+452. | ex 7202.60.00 Luppen FeNi, Nugget FeNi, Spon FeNi (Sponge V
+FeNi) dengan kadar = 4% Ni
+453. | ex 7202.60.00 Luppen FeNi, Nugget FeNi, Spon FeNi (Sponge
+FeNi) dengan kadar 2% < Ni < 4%, dan kadar =
+75% Fe
+454. | ex 7202.70.00 Fero molibdenum dengan kadar = 75% Fe V
+455. | ex 7202.80.00 Logam paduan (alloy) fero-tungsten dan fero- V
+silikon-tungsten dengan kadar = 75% Fe
+456. | ex 7202.91.00 Fero titanium dengan kadar >= 65% Ti V
+457. | ex 7202.91.00 Fero-silikon-titanium dengan kadar 2 75% Fe V
+458. | ex 7202.92.00 Fero-vanadium dengan kadar = 75% Fe V
+459. | ex 7203.10.00 Besi spon dengan kadar = 72% Fe V
+ex 7203.90.00
+460. | ex 7203.10.00 Besi spon paduan besi (sponge ferro alloy) V
+dengan kadar = 72% Fe yang diperoleh dengan
+reduksi langsung dari bijih besi
+461. | ex 7403.11.00 Tembaga katoda dimurnikan dengan kadar = V
+99,9% Cu
+462. | ex 7403.13.00 Tembaga dimurnikan dalam bentuk billet, V
+ex 7403.19.00 dalam bentuk ingot atau batang tuangan,
+dalam bentuk slab, dengan kadar = 99,9% Cu
+463. | ex 7403.29.00 Paduan tembaga telurid dengan kadar = 20 % V
+Te
+464. | ex 7501.10.00 Ni mate dengan kadar = 70% Ni V
+465. | ex 7502.10.00 Nikel tidak ditempa dengan kadar = 93% Ni V
+ex 7502.20.00
+466. | ex 7504.00.00 Nikel dalam bentuk bubuk dengan kadar = V
+93% Ni
+467. | ex 7801.10.00 Timbal tidak ditempa, dalam bentuk bullion V
+ex 7801.91.00 dengan kadar = 90% Timbal (Pb)
+ex 7801.99.00
+468. | ex 7901.11.00 Seng tidak ditempa, dalam bentuk bullion V
+
+ex 7901.12.00
+
+dengan kadar = 90% Seng (Zn)
+

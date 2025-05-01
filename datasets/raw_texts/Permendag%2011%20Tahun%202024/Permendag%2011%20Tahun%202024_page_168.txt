@@ -1,0 +1,53 @@
+- 163 -
+
+Pos Tarif/HS
+
+Uraian Barang
+
+Persyaratan
+
+Keterangan
+
+ET
+
+PE
+
+LS
+
+Chalcocrates bretoni.
+Chalcosoma atlas.
+Chalcosoma caucasus.
+Chalcosoma mollenkampi.
+Clyster itys.
+
+Coenoryctoderus candecei.
+
+Dichodontus grandis.
+Dipelicus alveolatus.
+Dipelicus cantori.
+Dipelicus fastigatus.
+Dipelicus triangularis.
+Hatanus tarsalis.
+Oryctes gnu.
+
+Oryctes rhinoceros.
+Oryctoderus latitarsis.
+Papuana lansbergei.
+Papuana woodlarkiana.
+Scapanes australis.
+Trichogompus bicinus.
+Trichogompus lunicolis.
+Trichogompus simson.
+Xylotrupes florensis.
+Xylotrupes gideon.
+Euchirus longimanus.
+Catharsius molossus.
+Heliocopris bucephalus.
+Heliocopris tyrannus.
+Agestrata orichalca.
+Agestrata punctatosriata.
+Chalcothea neglecta.
+Chalcothea resplendens.
+Chalcothea smaragdina.
+Clerota budda.
+

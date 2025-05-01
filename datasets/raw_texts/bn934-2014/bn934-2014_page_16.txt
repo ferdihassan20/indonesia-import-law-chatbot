@@ -1,0 +1,57 @@
+2014, No.934
+
+16
+
+No Pos Tarif Uraian Barang
+189 | 2101.20.10,00 -- Olahan teh terdiri dari campuran teh, bubuk susu dan gula
+190 | 2101.20.90,00 -- Lain-lain
+- Chicory digongseng dan pengganti kopi digongseng lainnya,
+I91 | 2101.30.00.00 dan ekstrak, esens dan konsentratnya
+Saus dan olahannya; campuran bumbu dan campuran bahan
+21.03 penyedap; tepung mustar dan tepung kasar mustar serta
+mustar olahan.
+192 2103.10.00.00 - Kecap
+193 | 2103.20.00,00 - Tomato ketchup dan saus tomat lainnya
+194 | 2103.30.00.00 - Tepung mustar dan tepung kasar mustar serta mustar olahan
+2103.90 - Lain-lain:
+195 2103,90,30,00 -- Saus ikan
+196 | 2103.90.40.00 -- Campuran rempah lain dan campuran bumbu, termasuk
+terasi
+197 | 2103.90.90.00 -- Lain-lain
+21.04 Sop dan kaldu serta olahannya; olahan makanan campuran
+° homogen.
+2104.10 - Sop dan kaldu serta olahannya:
+-- Mengandung daging:
+198 | 2104.10.11.00 --- Makanan untuk bayi
+199 2104,10,19,00 --- Lain-lain
+-- Lain-lain:
+200 | 2104,10.91.00 --- Makanan untuk bayi
+201 2104.10.99.00 --- Lain-lain
+2104.20 - Olahan makanan campuran homogen:
+-- Mengandung daging:
+202 | 2104.20.11.00 --- Makanan untuk bayi
+203 2104,20,19,00 --- Lain-lain
+-- Lain-lain:
+204 | 2104,20.91,00 --- Makanan untuk bayi
+205 | 2104.20,99.00 --- Lain-lain
+206 | 2105.00.00.00 Es krim dan es lainnya yang dapat dimakan, mengandung
+kakao maupun tidak.
+Air, termasuk air mineral alam atau artifisial dan air soda,
+22.01 tidak mengandung tambahan gula atau bahan pemanis
+lainnya maupun pemberi rasa; es dan salju.
+2201.10.00 - Air mineral dan air soda:
+207 2201,10,00,10 -- Air mineral
+208 | 2201.10.00.20 -- Air soda
+2201.90 - Lain-lain:
+2201.90.90 -- Lain-lain:
+209 | 2201.90.90.10 --- Air demineralisasi
+Air, termasuk air mineral dan air soda, mengandung
+22.02 tambahan gula atau bahan pemanis lainnya atau pemberi
+. rasa, dan minuman yang tidak mengandung alkohol lainnya,
+tidak termasuk jus buah atau sayuran dari pos 20.09
+2202.10 - Air, termasuk air mineral dan air soda, mengandung
+: tambahan gula atau bahan pemanis lainnya atau pemberi rasa:
+210 | 2202.10.10.00 -- Air mineral pancar atau air soda, diberi rasa
+
+9
+

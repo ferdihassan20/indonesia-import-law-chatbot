@@ -1,0 +1,66 @@
+-23-
+
+Impor Beras untuk keperluan tertentu, meliputi
+
+data dan/atau keterangan mengenai:
+
+yp PN agPr OND
+
+ell poll a ol oe soe
+apr ONE OS
+
+16.
+
+17.
+
+18.
+
+nomor dan tanggal penerbitan API;
+
+nomor dan tanggal Rekomendasi;
+
+nama dan alamat eksportir;
+
+nama dan alamat Importir;
+
+jenis Beras;
+
+volume Beras per pelabuhan tujuan;
+
+Pos Tarif/HS;
+
+tingkat kepecahan;
+
+merk Kemasan;
+
+berat Kemasan;
+
+negara asal;
+
+tujuan penggunaan dan/atau pemasaran;
+nomor dan tanggal Persetujuan Impor;
+masa berlaku Persetujuan Impor;
+
+surat jaminan suplai dari eksportir dan
+surat keterangan kemurnian varietas yang
+diterbitkan dari instansi berwenang di
+negara asal untuk jenis Beras Thai Hom
+Mali, Japonica, Basmati;
+
+pencantuman Logo Tara Pangan dan Kode
+Daur Ulang pada Kemasan;
+
+Sertifikat hasil uji Kemasan food grade
+atau surat pernyataaan dari importir yang
+menyatakan bahwa Kemasan yang
+digunakan telah sesuai dengan ketentuan
+peraturan perundang-undangan Indonesia;
+dan
+
+Sertifikat pencantuman Logo Tara Pangan
+dan Kode Daur Ulang atau surat
+pernyataan dari importir yang menyatakan
+bahwa Kemasan yang digunakan telah
+sesuai dengan peraturan perundang-
+
+undangan Indonesia.

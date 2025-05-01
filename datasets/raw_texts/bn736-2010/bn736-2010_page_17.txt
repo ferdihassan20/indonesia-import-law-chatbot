@@ -1,0 +1,115 @@
+2010, No.736 17
+
+POS TARIF/
+
+URAIAN BARANG
+HS
+
+NO,
+
+KETERANGAN
+
+dipoles).
+
+(misalnya, diratakan, dibuat tidak licin atau
+
+8442.30
+‘57 [8442.30.10.00
+
+-Mesin, aparatus dan perlengkapan :
+--Dioperasikan secara elektrik
+
+84.43 Mesin cetak digunakan untuk mencetak dengan
+
+memakai pelat, silinder dan komponen cetak lainnya
+
+dari pos 84.42; mesin cetak, mesin fotocopy dan
+mesin faksimili lainnya, dikombinasi atau tidak;
+bagian dan aksesori lainnya.
+
+-Mesin cetak digunakan untuk mencetak dengan
+memakai pelat, silinderdan komponen cetak
+
+lainnya dari pos 84.42 :
+--Mesin cetak offset; reel-fed
+
+“58 [8443.11.00.00
+
+59 |8443.12.00.00 |--Mesin cetak offset, shect-fed, tipe kantor
+(menggunakan lembaran dengan satu sisinya
+
+tidak melebihi 22 cm dan sisi lainnya tidak
+
+melebihi 36 cm dalam keadaan tidak dilipat)
+
+60 |8443.13.00.00 ~-Mesin cetak offset lainnya
+
+61 |8443,14.00,00 --Mesin cetak letter press, reel-fed
+
+tidak termasuk cetak flexographic
+
+62 |8443.15.00.00 ~Mesin cetak letter press, selain reel-fed, tidak
+
+fermasuk cetak flexographic
+
+63 [8443.16.00.00 _ |--Mesin cetak flexographic
+
+64 |8443.17.00.00 --Mesin cetak grafir
+
+-Printer lainnya, mesin fotocopy dan mesin
+
+faksimili, baik dikombinasi maupun tidak :
+
+8443,39 ~Lain-lain :
+
+-~-Aparatus fotocapy elektrastatik bercperast
+
++
+
+dengan memproduksi gambar asli secara
+
+fangsung diatas copy (proses langsung) :
+
+65 |8443.29.19.00 —|----Lain-iain
+
+Hanya untuk fotocopy tidak berwarna dengan
+Kecepatan copy tidak kurang dari 20 copy/
+menit
+
+8443.39.20 ---Aparatus fotocopy elektrostatik, ber-
+
+aperast dengan mereproduksi gambar asii
+melalui perantara diatascopy (proses
+
+tidak langsung), beroperasi dengan merubah
+dokumen asli menjadi kode digital :
+-~-Lain-lain
+
+66 |8443.39.20.90
+
+Hanya untuk fotocopy tidak berwarna dengan
+
+Kecepatan copy tidak kurang dari 20 copy/
+menit
+
+8443.39.30
+
+~-Aparatus fotocopy fainnya dilengkapi
+dengan sistem optik :
+----Lain-lain
+
+67 |8443.39.30.90
+
+Hanya untuk fotocopy tidak berwarna dengan
+Kecepatan copy tidak kurang dari 20 copy/
+
+[84.44 Mesin untuk mengekstrusi, menarik, mentekstur
+
+memotong bahan tekstil buatan.
+
+-Dioperasikan secara elektrik
+
+68 _[8444,10,00.00
+
+menit
+

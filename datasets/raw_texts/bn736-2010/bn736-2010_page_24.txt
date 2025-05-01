@@ -1,0 +1,83 @@
+2010, No.736 24
+
+NO. os 1 URAIAN BARANG
+
+KETERANGAN
+
+pekeriaan yang berbeda tanpa menukar alat
+diantara beberapa pengerjaan
+-Lain-lain : .
+
+8465.91 Mesin penggergaji :
+
+140 | 8468: Untuk menggores printed circuit board atau printed
+
+10.00
+
+wiring board atau fapisan dasar pnnted crcut
+board atauprinted wiring board, dioperasikan
+
+secara elektrik
+-—Lain-lain, dioperasikan secara elektrik
+
+141 |8465.91.20.00
+
+8465.92
+
+—Mesin pengetam, penggiling atau pencetak
+
+(dengan memotong) :
+
+142 |8465.92.10.00 --Untuk =membuai alur printed circuit board atau printed
+wifirg board atau lapisan dasar printed circuit board
+atau printed wiring board, menggunakan = bit
+
+pengalurdengan diameter tangkai tdak melebihi
+3,175 mm, untuk menggores printed circuit board
+
+atau printed wiring board atau lapisan dasar printed
+
+circuit board atau printed wiring board
+
+143 |8465.92.20.00 ‘| ---Lain-lain, dioperasikan secara etektrik
+8485.92.90.00 _|—Lain-lain
+| [8465.93 ~-Mesin penggerinda, penggosok atau pemoles :
+
+8465,93.10.00 —Dioperasikan secara elektrik
+
+8465.94 ~Mesin pembengkok atau perakit :
+
+1468 | 8465.94.10.00 -~-Dioperasixan secara elektrik
+
+8465.95 ~-Mesin penggurdi atau mortice :
+147 |8465.95.10.00 — |—-NMesin penggurdi untuk pembuatan printed circuit
+board atau printed wiring boarddengan kecepatan
+
+putaran melebihi 50.000 rpmdan menggunakan
+mata bordengan diameter tangkai tidak
+
+melabihi 3,175 mm
+
+148 |8465.95.30.00 ~-Lain-lain, dioperasikan secara elektrik
+
+8465.96 —Mesin pemisah, pengiris atau pengupas :
+149 |8465.96.10.00 =| ---Dioperasikan secara elektrik
+
+3465.99 —Lain-lain +
+150 |8465.99.30.00 — |---Mesin bubut, dioperasikan secara elektrik
+151 |8465.99.50.00 —_|---Mesin untuk menghaluskan permukaan printed circuit
+
+board atau printed wiring board selama pembuatannya;
+
+untuk menggores _ printed circuit board atau printed
+wiring board atau lapisan dasar printed circuit board
+atau printed wring board; pengepres laminasi untuk
+pembuatan printed circuit board/printed wiring board
+
+152 |8465.99.60.00 —-Lain-lain, dioperasikan secara elektrik
+153 8465.99.90.00 ~-Lain-lain
+84.77 Mesin untuk mengerjakankaret atau plastik
+
+atau untuk pembuatan produk dari bahan_ter-
+sebut, tidak dirinci atau termasuk dalam pos
+

@@ -1,0 +1,69 @@
+31 2014, No.934
+
+No Pos Tarif Uraian Barang
+344 6210,30.90,00 -- Lain-lain
+
+6210.40 - Garmen lainnya untuk pria atau anak laki- laki:
+545 | 6210.40.10.00 -- Pakaian yang digunakan untuk pelindung dari api
+
+-- Pakaian yang digunakan untuk pelindung dari bahan kimia
+
+546 | 6210.40.20.00 atau radiasi
+
+947 6210.40,90,00 -- Lain-lain
+6210.50 - Pakaian wanita atau anak perempuan lainnya:
+548 | 6210.50,10.00 -- Pakaian yang digunakan untuk pelindung dari api
+
+-- Pakaian yang digunakan untuk pelindung dari bahan kimia
+
+549 | 6210.50.20.00 atau radiasi
+
+950 | 6210.50,90.00 -- Lain-lain
+
+62.11 Track suit, ski suit dan pakaian renang; garmen lainnya.
+
+- Pakaian renang:
+
+551 | 6211.11.00.00 -- Untuk pria atau anak laki- laki
+552 | 6211.12.00.00 -- Untuk wanita atau anak perempuan
+553 6211.20.00.00 - Ski suit
+- Garmen lainnya, untuk pria atau anak laki- laki:
+6211.32 -- Dari kapas:
+554 | 6211.32.10.00 --- Pakaian untuk olah raga anggar atau gulat
+955 6211,32,20,00 --- Kain ihram
+556 6211.32.90.00 --- Lain-lain
+6211.33 -- Dari serat buatan:
+557 | 6211.33.10,00 --- Pakaian untuk olah raga anggar atau gulat.
+558 | 6211.33.20.00 --- Pakaian yang digunakan untuk pelindung dari api
+
+--- Pakaian yang digunakan untuk pelindung dari bahan kimia
+
+559 | 6211.33.30.00 atau radiasi
+
+360 6211.33,.90,00 --- Lain-lain
+6211.39 -- Dari bahan tekstil lainnya:
+Sel 6211.39,10,.00 --- Pakaian untuk olah raga anggar atau gulat
+562 | 6211.39.20,00 --- Pakaian yang digunakan untuk pelindung dari api
+
+--- Pakaian yang digunakan untuk pelindung dari bahan kimia
+
+363 | 6211.39,30,00 atau radiasi
+
+564 6211.39,.90.00 --- Lain-lain
+- Garmen lainnya, untuk wanita atau anak perempuan:
+6211.42 -- Dari kapas:
+S65 | 6211.42,10.00 --- Pakaian untuk olah raga anggar atau gulat
+566 | 6211.42.20,00 --- Pakaian sembahyang (mukena)
+367 6211.42,90,.00 --- Lain-lain
+6211.43 -- Dari serat buatan:
+568 6211.43.10.00 --- Pakaian bedah
+369 | 6211.43.20,00 --- Pakaian sembahyang (mukena)
+570 | 6211.43.30.00 --- Pakaian pelindung anti ledakan
+S71 | 6211.43.40.00 --- Pakaian untuk olah raga anggar atau gulat
+
+572 | 6211.43.50.00 oo Pakaian yang digunakan untuk pelindung dari bahan kimia,
+radiasi atau api
+
+373 | 6211.43,90,00 --- Lain-lain
+
+24

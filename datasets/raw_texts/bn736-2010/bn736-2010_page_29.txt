@@ -1,0 +1,87 @@
+2010, No.736
+
+29
+
+KETERANGAN
+
+kontrak purna jual dengan operator
+di Indonesia dan tidak untuk dijual
+
+bebas
+
+NO. POS TARIF! URAIAN BARANG
+HS
+--Dari aparatus transmisi selain penyiaran
+radio atau transmisi televisi, atau pene-
+rima portabel untuk panggilan, peringatan
+atau pesan, dan peralatan paging alert,
+termasuk penyeranta :
+206 |8517.70.21.00 --Dari telepon seluler
+207 |8517.70.29.00 ---Lain-lain
+iz --Printed circuit board lainnya, dirakit :
+208 |8517.70,.31.00 |---Untuk saluran telefoni atau telegrafi
+209 |8517.70.32.00 | ---Untuk saluran radio-telefoni atau radio- telegrafi
+210 |8517.70.39.00 ---Lain-lain
+
+§708,30.90.00
+
+211 |8517.70.40.00 |—Antena dari jenis yang digunakan dengan apa-
+ratus untuk radio-telefoni atau radio-telegrafi
+—Lain-lain :
+212 (8517.70.91.00  |---Untuk saluran telefoni atautelegrafi == ~~
+213 |8517.70.92.00 | ---Untuk radio-telefani atau radio-telegrafi
+214 |8517.70.99.00 | -~Lain-lain
+87.08 Bagian dan aksesori kendaraan bermotor dari
+pos 87.01 sampai dengan 87.05
+8708.30 -Rem dan rem servo; bagiannya :
+
+—Lain-iain
+
+-Poros penggerak dengan diferensial, baik
+dilengkapi maupun tidak dilengkapi dengan
+
+Hanya untuk industri remanufacturing
+komponen Alat Berat
+
+komponen transmisi lainnya, dan poros tanpa
+
+penggerak: bagiannya :
+
+218 |8708.70,14.00
+
+8708.80
+
+--Tidak dirakit :
+216 |8708.50.19.00 | ---Lain-Lain Hanya untuk industri remanufacturing
+komporen Alat Berat
+—Dirakit :
+217 |8708.50,.24.00 ---Untuk kendaraan dari subpos 8704.10 atau Hanya untuk industri remanufacturing
+kompenen Alat Berat
+pos 87.05
+8708.70 -Roda dan bagian serta aksesorinya :
+
+—Pelek dan penutup :
+
+--Untuk kendaraan dari subpos 8704.10 atau
+
+Hanya untuk industri remanufacturing —!
+komponen Alat Berat
+
+pos 87.05
+
+-Sistem suspensi dan bagiannya (termasuk
+peredam kejut) :
+
+--Sistem suspensi :
+
+Hanya untuk industri remanufacturing
+Komponen Alat Berat
+
+219 |8708,80.14.00 __ --- Untuk kendaraan dari sub pos
+atau pos 87.05
+8708.94 -- Reda kemudi, kolom kemudi dan rumah kemudi;
+
+bagiannya :
+
+~--Lain-Lain
+

@@ -1,0 +1,57 @@
+33.
+
+34.
+
+35.
+
+36.
+
+37.
+
+38.
+
+-9- 2019, No.95
+
+dalamnya terdapat pernyataan bahwa barang yang
+akan memasuki Daerah Pabean dapat diberikan
+Tarif Preferensi.
+
+Invoice Declaration adalah pernyataan dari Eksportir
+Bersertifikat yang menyatakan bahwa barang di
+dalam invoice dapat diberikan Tarif Preferensi.
+ASEAN Single Window yang selanjutnya disingkat
+ASW adalah suatu lingkungan (environment) di mana
+sistem National Single Window dari Negara Anggota
+ASEAN dioperasikan dan diintegrasikan sehingga
+mampu meningkatkan kinerja penanganan atas lalu
+lintas barang antar Negara Anggota ASEAN, untuk
+mendorong percepatan proses customs clearance dan
+cargo release.
+
+Surat Keterangan Asal Elektronik Form D yang
+selanjutnya disebut e-Form D adalah SKA Form D
+yang disusun sesuai dengan e-ATIGA Form D Process
+Specification and Message Implementation Guideline,
+dan dikirim secara elektronik antar Negara Anggota
+ASEAN melalui ASW sesuai dengan ketentuan
+mengenai keamanan dan kerahasiaan informasi.
+Penerbitan Invoice dari Negara/Pihak Ketiga (Third
+Country Invoicing/Third Party Invoicing) yang
+selanjutnya disebut Third Country Invoicing/Third
+Party Invoicing adalah penerbitan invoice oleh
+perusahaan lain yang berlokasi di negara ketiga
+(baik Negara Anggota atau bukan Negara Anggota)
+atau yang berlokasi di negara yang sama dengan
+negara tempat diterbitkannya SKA.
+
+Surat Keterangan Asal Back-to-Back (Back-to-Back
+Certificate of Origin) atau Movement Certificate yang
+selanjutnya disebut SKA Back-to-Back adalah SKA
+yang diterbitkan oleh Negara Anggota pengekspor
+kedua berdasarkan SKA yang diterbitkan oleh
+Negara Anggota pengekspor pertama.
+
+Tanggal Pengapalan atau Tanggal Eksportasi adalah
+tanggal Bill of Lading untuk moda pengangkutan
+
+www.peraturan.go.id

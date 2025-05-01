@@ -1,0 +1,24 @@
+a 75.0
+
+2003. 79.0
+
+Uraian Barang
+
+--Dikloropenta
+fluoropropana
+(HCFC-225, 225ca,
+225cb)
+
+--Lain-lain
+
+-17-
+
+ASHRAE
+Number
+
+CAS
+Number
+
+127564-
+92-5;
+

@@ -1,0 +1,67 @@
+(17)
+
+(18)
+(9)
+
+(20)
+
+(21)
+
+(22)
+(23)
+
+(24)
+
+61. 2021, No. 987
+
+-4- Diisi dengan jumlah komponen Mesin dan Peralatan sesuai
+dengan uraian jenis Mcsin dan Peralatan pada -2-.
+-5- _ Diisi dengan satuan komponen Mesin dan Peralatan.
+Tabel rincian daftar Mesin dan Peralatan untuk Penyedia Pekerjaan EPC
+-l-  Diisi dengan nomor urut sub item.
+-2-  Diisi dengan uraian jenis Mesin dan Peralatan beserta
+spesifikasinya.
+-3-  Diisi dengan Kode HS.
+-4- _ Diisi dengan jumlah komponen Mesin dan Peralatan sesuai
+dengan uraian jenis Mesin dan Peralatan pada -2-.
+-5-  Diisi dengan satuan komponen Mesin dan Peralatan.
+Daftar Mesin (Perolehan)
+Diisi dengan nama dan NPWP PKP yang menyerahkan Mesin dan
+Peralatan Pabrik (PKP Penjual).
+Tabel daftar Mesin dan Peralatan untuk PKP yang menghasilkan BKP
+-1-  Diisi dengan nomor urut.
+-2-  Diisi dengan jenis barang.
+-3- Diisi dengan Kode HS.
+-4-  Diisi dengan spesifikasi teknis Mesin dan Peralatan.
+-5- _ Diisi dengan jumlah Mesin dan Peralatan.
+-6- Diisi dengan satuan Mesin dan Peralatan.
+-7- Diisi dengan perkiraan harga Mesin dan Peralatan.
+-8- _ Diisi dengan perkiraan PPN terutang.
+Tabel daftar Mesin dan Peralatan untuk Penyedia Pekerjaan EPC
+-l- _ Diisi dengan nomor urut.
+-2-  _Diisi dengan jenis barang.
+-3-  Diisi dengan Kode HS.
+-4-  Diisi dengan spesifikasi teknis Mesin dan Peralatan.
+-5-  Diisi dengan jumlah Mesin dan Peralatan.
+-6- _ Diisi dengan satuan Mesin dan Peralatan.
+-7-  Diisi dengan perkiraan harga Mesin dan Peralatan.
+-8- Diisi dengan perkiraan PPN terutang.
+Rincian Daftar Mesin (Perolehan)
+Tabel rincian daftar Mesin dan Peralatan untuk PKP yang menghasilkan
+BKP
+-1-  Diisi dengan nomor urut sub item.
+-2-  Diisi dengan uraian jenis Mesin dan Peralatan beserta
+spesifikasinya.
+-3- _ Diisi dengan Kode HS.
+-4-  Diisi dengan jumlah komponen Mesin dan Peralatan sesuai
+dengan uraian jenis Mesin dan Peralatan pada -2-.
+-5- _ Diisi dengan satuan komponen Mesin dan Peralatan.
+Tabel rincian daftar Mesin dan Peralatan untuk Penyedia Pekerjaan EPC
+-1- _ Diisi dengan nomor urut sub item.
+-2- Diisi dengan uraian jenis Mesin dan Peralatan beserta
+spesifikasinya.
+-3-  Diisi dengan Kode HS.
+
+f f
+
+www.peraturan.go.id

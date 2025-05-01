@@ -1,0 +1,107 @@
+No | POS TARIF / URAIAN BARANG KETERANGAN
+2
+
+3
+|_| 0407.29
+0407.29.10.00 | --- Dari bebek
+
+0407.29.90.00
+
+|| 0407.90 - Lain-lain:
+
+36. | ex. -- Unggas dari spesies
+0407.90.10.00 | Gallus Domesticus
+
+Telur Ayam
+
+37. | 0407.90.20.00
+
+-- Dari bebek
+
+38. | 0407.90.90.00
+
+-- Lain-lain
+
+04.08
+
+Telur unggas, tanpa kulit,
+dan kuning telur, segar,
+
+kering, dikukus atau
+direbus, dibentuk, beku
+atau diawetkan secara
+lain, mengandung
+tambahan gula atau
+bahan pemanis lainnya
+maupun tidak.
+
+-Kuning telur :
+
+0408.11.00.00 | -- Dikeringkan
+
+40. | 0408.19.00.00 | --Lain-lain
+
+i
+41. | 0408.91.00.00 | -- Dikeringkan
+
+42.
+43
+44,
+
+0408.99,.00.00
+
+--Lain-lain
+
+. | 0409.00.00.00 | Madu alam
+
+0511.10.00.00
+
+-Mani dari binatang jenis
+lembu
+
+----Mani Babi, kambing
+atau biri-biri
+
+Sosis dan produk
+semacamnya, dari daging,
+sisa daging atau darah;
+olahan makanan berasal
+dari produk ini.
+~Dalam kemasan kedap
+udara.
+
+45. | 05.11.99.11.00
+
+16.01
+
+ex.
+1601.00.10.00
+
+-Lain-lain
+
+ex.
+1601.00.90.00
+
+16.02
+
+Daging, sisa daging atau
+darah lainnya yang diolah
+atau _diawetkan.
+
+1602.10 - Olahan homogen:
+
+|_|
+
+Sapi dan Kerbau
+
+Mini straw dan standar
+
+Sosis dan produk
+semacamnya, berasal dari
+daging, olahan makanan
+berasal dari produk ini.
+Sosis dan produk
+semacamnya,berasal dari
+daging, olahan makanan
+berasal dari produk ini.
+

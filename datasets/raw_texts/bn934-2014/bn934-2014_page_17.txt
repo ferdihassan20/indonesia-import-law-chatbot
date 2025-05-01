@@ -1,0 +1,74 @@
+17 2014, No.934
+
+No Pos Tarif Uraian Barang
+211 2202, 10.90.00 -- Lain-lain
+2202.90 - Lain-lain:
+212 | 2202.90.10,.00 -- Minuman susu UHT diberi rasa
+213 | 2202.90.20,00 -- Minuman susu Kedelai
+
+-- Minuman tidak mengandung soda yang siap untuk
+
+214 | 2202.90.30.00 dikonsumsi langsung tanpa diencerkan
+
+215 | 2202.90.90.00 -- Lain-lain
+
+Cerutu, cheroot, cerutu kecil dan sigaret, dari tembakau
+
+24.02 atau pengganti tembakau.
+
+216 | 2402.10.00.00 - Cerutu, cheroot dan cerutu kecil, mengandung tembakau
+2402.20 - Sigaret mengandung tembakau:
+
+217 2402.20.10.00 -- Beedies
+
+218 2402,20,20,00 -- Sigaret kretek
+
+219 2402.20.90.00 -- Lain-lain
+
+B. OBAT TRADISIONAL DAN SUPLEMEN KESEHATAN
+12.07 Biji dan buah lainnya yang mengandung minyak, pecah
+
+maupun tidak.
+220 | 1207.30,00.00 - Biji jarak
+
+Tanaman dan bagiannya (termasuk biji dan buah), yang
+terutama dipakai dalam pembuatan wewangian, dalam
+12.11 farmasi atau untuk insektisida, fungisida atau untuk tujuan
+yang semacam itu, segar atau dikeringkan, baik dipotong,
+dihancurkan atau dijadikan bubuk maupun tidak.
+
+1211.20 - Akar ginseng:
+
+221 1211.20.10.00 -- Bentuk potongan, hancur atau bubuk
+
+Swedes (sejenis lobak), mangold (sejenis bit), akar makanan
+ternak, rumput kering, lucerne (alfalfa), semanggi, sainfoin,
+
+12.14 Kale makanan ternak, lupine, Vetch dan produk makanan
+ternak sejenis lainnya, dalam bentuk pelet maupun tidak.
+222 1214.10.00,00 - Tepung kasar dan pelet lucerne (alfalfa)
+Sap dan ekstrak nabati; zat pektik, pektinat dan pektat;
+13.02 Agar-agar dan lendir serta bahan pengental lainnya,
+dimodifikasi maupun tidak, berasal dari produk nabati.
+1302.10 - Sap dan ekstrak nabati:
+1302.19 -- Lain-lain:
+223 1302.19,.30,00 --- Ekstrak obat lainnya
+Minyak biji bunga matahari, safflower atau biji kapas dan
+15.12 fraksinya, dimurnikan maupun tidak, tetapi tidak
+dimodifikasi secara kimia.
+1512.10 - Minyak biji bunga matahari atau safflower dan fraksinya:
+15.12.19 -- Lain-lain:
+204 1512,19,10.00 --- Fraksi dari minyak biji bunga matahari atau minyak
+
+safflower tidak dimurnikan.
+
+Lemak dan minyak hewani atau nabati dan fraksinya,
+sebagian atau seluruhnya dihidrogenasi, diinter-esterifikasi,
+
+15.16 dire-esterifikasi atau dielaidinisasi, dimurnikan maupun
+tidak, tetapi tidak diolah lebih lanjut.
+15.16.20 - Minyak dan lemak nabati serta fraksinya:
+15.16.20.10 -- Lemak dan minyak dire-esterifikasi serta fraksinya:
+225 | 1516.20.18.00 --- Dari biji rami
+
+10

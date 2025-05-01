@@ -1,0 +1,73 @@
+2021, No. 987 -60-
+
+(1)
+(2)
+(3)
+(4)
+(5)
+
+(6)
+(7)
+(8)
+(9)
+(10)
+(11)
+(12)
+
+(13)
+
+(14)
+
+(15)
+(16)
+
+PETUNJUK PENGISIAN CONTOH FORMAT RKIP
+
+Diisi dengan nama PKP.
+Diisi dengan NPWP PKP.
+Diisi dengan alamat PKP.
+Diisi dengan nomor RKIP.
+Diisi dengan tanggal penerbitan RKIP (sama dengan tanggal penerbitan
+SKB PPN).
+Diisi dengan nomor SKB PPN.
+Diisi dengan periode SKB PPN.
+Diisi dengan nomor kontrak, jika ada.
+Diisi dengan lokasi proyek.
+Daftar Mesin (Impor)
+Diisi dengan nama pelabuhan tempat Mesin dan Peralatan diimpor.
+Diisi dengan nama Kantor Pelayanan Utama Bea dan Cukai atau Kantor
+Pengawasan dan Pelayanan Bea dan Cukai tempat Mesin dan Peralatan
+diimpor,
+Tabel daftar Mesin dan Peralatan untuk PKP yang menghasilkan BKP
+-1- Diisi dengan nomor urut.
+-2- Diisi dengan jenis barang.
+-3- Diisi dengan Kode HS.
+-4- Diisi dengan negara asal Mesin dan Peralatan.
+-5- _ Diisi dengan spesifikasi teknis Mesin dan Peralatan.
+-6- _ Diisi dengan jumlah Mesin dan Peralatan,
+-7-  Diisi dengan satuan Mesin dan Peralatan.
+-8-  Diisi dengan perkiraan harga Mesin dan Peralatan.
+-9- —_ Diisi dengan perkiraan PPN terutang.
+-10- Diisi dengan jumlah Bea Masuk.
+Tabel daftar Mesin dan Peralatan untuk Penyedia Pekerjaan EPC
+-1-  Diisi dengan nomor urut.
+-2- Diisi dengan jenis barang.
+-3- Diisi dengan Kode HS.
+-4-  Diisi dengan negara asal Mesin dan Peralatan.
+-5-  Diisi dengan spesifikasi teknis Mesin dan Peralatan.
+-6- Diisi dengan jumlah Mesin dan Peralatan.
+-7- _ Diisi dengan satuan Mesin dan Peralatan.
+-8- _ Diisi dengan perkiraan harga Mesin dan Peralatan.
+-9-_ Diisi dengan perkiraan PPN terutang.
+-10- Diisi dengan jumlah Bea Masuk .
+Rincian Daftar Mesin
+Tabel rincian daftar Mesin dan Peralatan untuk PKP yang menghasilkan
+BKP
+-l-  Diisi dengan nomor urut sub item.
+-2- Diisi dengan uraian jenis Mesin dan Peralatan beserta
+spesifikasinya.
+-3- Diisi dengan Kode HS.
+
+t +f
+
+www.peraturan.go.id

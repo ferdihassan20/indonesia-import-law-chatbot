@@ -1,0 +1,72 @@
+-29-
+
+Dalam hal barang impor bukan merupakan Barang Kena Cukai (BKC)
+
+kolom ini tidak perlu diisi.
+
+Ada 2 (dua) jenis tarif/ pembebanan untuk Cukai:
+
+a. Advalorum, yang mempergunakan % (persentase), yang dalam
+perhitungan nilai Cukai nya = Nilai % dikalikan nilai pabean
+ditambah Bea Masuk dalam Rupiah;
+
+b. Spesifik, yang mempergunakan nilai Rupiah per unit satuan,
+sehingga jumlah satuan yang diisikan pada jumlah barang
+adalah merupakan jumlah satuan unit, perhitungan Cukai-nya =
+Nilai Rupiah per unit satuan dikalikan dengan jumlah satuan
+unit.
+
+PPN
+
+Diisi pembebanan PPN dalam persentase (%) sesuai ketentuan yang
+
+berlaku serta besarnya fasilitas dalam persentase (%) bila ada fasilita
+
+dan kode jenis fasilitasnya.
+
+PPnBM
+
+Diisi pembebanan PPnBM sesuai ketentuan yang berlaku. Dalam hal
+
+tidak ada pungutan PPnBM, ruang ini tidak perlu diisi.
+
+PPh
+
+Diisi pembebanan PPh Ps 22 dalam persentase (%) sesuai ketentuan
+
+yang berlaku serta besarnya fasilitas dalam persentase (%) bila ada
+
+fasilitas dan kode jenis fasilitasnya.
+
+Contoh:
+
+BM 10% (dibebaskan 50%), BMAD 10%, PPN 10% (tidak dipungut
+
+100%) dan PPh 2,5%.
+
+Maka penulisan pada kolom:
+
+- BM 10%, 50% BBS.
+
+- BMAD 10%
+
+—  PPN 10%, 100% TDP.
+
+— PPh 2,5%
+
+Jumlah & Jenis Satuan Barang
+
+Diisi dengan jumlah dan jenis satuan barang yang dipergunakan
+
+dalam nilai satuan barang
+
+Berat Bersih (kg)
+
+Diisi dengan berat bersih (netto) dalam satuan kilogram untuk setiap
+
+jenis barang
+Jumlah & Jenis Kemasan
+
+2021, No.724
+
+www.peraturan.go.id

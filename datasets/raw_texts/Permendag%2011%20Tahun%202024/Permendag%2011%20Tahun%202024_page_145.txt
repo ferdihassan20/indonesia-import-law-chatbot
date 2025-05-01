@@ -1,0 +1,51 @@
+- 140 -
+
+Pos Tarif/HS
+
+Uraian Barang
+
+Persyaratan
+
+Keterangan
+
+ET
+
+PE
+
+LS
+
+Atrophaneura kuehni.
+Atrophaneura luchti.
+Atrophaneura nox.
+Atrophaneura palu.
+Atrophaneura priapus.
+Chilasa clytia.
+
+Chilasa paradoxa.
+Chilasa veiovis.
+Cressida cressida.
+Graphium agamemnon.
+Graphium agetes.
+Graphium androcles.
+Graphium antiphates.
+Graphium aristeus.
+Graphium batjanensis.
+Graphium cloanthus.
+Graphium codrus.
+Graphium delesserti.
+Graphium deucalion.
+Graphium dorcus.
+Graphium doson.
+Graphium empedovana.
+Graphium encelades.
+Graphium eurypylus.
+Graphium evemon.
+Graphium macareus.
+Graphium macfarlanei.
+Graphium meyeri.
+Graphium milon.
+Graphium ramaceus.
+Graphium rhesus.
+Graphium sarpedon.
+Graphium stresemanni.
+

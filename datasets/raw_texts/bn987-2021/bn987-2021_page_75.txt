@@ -1,0 +1,35 @@
+(1)
+(2)
+
+(3)
+(4)
+(5)
+(6)
+
+(8)
+(9)
+
+75. 2021, No. 987
+
+PETUNJUK PENGISIAN CONTOH FORMAT PEMBATALAN SKB PPN
+
+Diisi nama Kantor Pelayanan Pajak tempat PKP terdaftar.
+
+Diisi dengan nomor pembatalan SKB PPN BKP tertentu yang bersifat
+strategis sesuai dengan tata cara penomoran yang berlaku.
+
+Diisi dengan nama PKP pemohon SKB PPN.
+
+Diisi dengan Nomor Pokok Wajib Pajak PKP pemohon SKB PPN.
+
+Diisi dengan alamat PKP pemohon Pembatalan SKB PPN.
+
+Diisi lokasi proyek di mana Mesin dan Peralatan ditempatkan.
+
+Diisi nomor SKB PPN yang dibatalkan.
+
+Diisi tanggal penerbitan SKB PPN yang dibatalkan.
+
+Diisi tempat dan tanggal penerbitan pembatalan SKB PPN.
+
+www.peraturan.go.id

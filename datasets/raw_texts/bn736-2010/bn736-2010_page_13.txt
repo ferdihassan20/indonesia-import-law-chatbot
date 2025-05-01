@@ -1,0 +1,55 @@
+2010, No.736
+
+13
+
+POS TARIF/
+NO. | HS URAIAN BARANG KETERANGAN
+(1) (3) (4)
+terutama dengan mesin piston pembakaran
+dalam cetus api :
+—-Untuk mesin pengolah tanah :
+@ |8409.91.12.00 ~--Gyliner block Hanya untuk industri remanufakturing
+kemponen Alat Berat
+10 |8409.91,.14.00 -~-Lain-lain Hanya untuk industri remanufakturing
+komponen Alat Berat
+a 84.11 Turbo-jet, turbo-propeller dan turbin gas
+lainnya.
+-Turbin gas lainnya :
+11 |8411.81.00.00 --Dengan daya tidak melebihi 5.000 kW
+12 |8411.82.00.00 +-Dengan daya metebini 5.000 kW
+84.13 Pompa untuk cairan, dilengkapi dengan afat
+ukur maupun tidak; elevator cairan
+8413.70 -Pompa sentrifugal lainnya :
+--Lain - lain , dioperasikan secara elektrik :
+13 |8413.70.29.00 ~~Lain-lain Hanya untuk industri remanufakturing
+komponen Alat Berat
+14 |8413.70.30.00 --Tidak dioperasikan secara elektrik Hanya untuk industri remanufakturing
+komponen Alat Berat
+-Pompa lainnya; elevator cairan ;
+8413.81 --Pompa
+15 |844 ---Dioperasikan secara elektrik Hanya untuk industri remanufakturing
+komponen Alat Berat
+16 |8413 812000 ---Tidak dioperasikan secara elektrik Hanya untuk industri remanufakturing
+Komponen Alat Berat
+84.14 Pompa udara atau pompa vakum, kompresor udara
+atau kompresor gas dan kipas angin lainnya;
+hood ventilasi atau hood daur ulang yang diga-
+bung dengan kipas angin, dilengkapl dengan sa-
+ringan maupun tidak.
+17 |8414,40.00.00 -Kompresor udara yang dipasang di atas sasis
+beroda untuk ditarik
+18 |8444.59,10.00 — Dengan kapasitas tidak melebihi 125 kW compressor, fan
+84.17 Tungku dan oven industri atau laboratorium,
+termasuk incinerator, bukan listrik.
+19 18417.10,00,00 |-Tungku dan oven untuk memanggang, melelehkan
+atau pengolahanpanas lainnya untuk _ bijih,
+pirit atau logam
+84.18 Lemari pendingin, lemari pembeku dan perleng-
+kapan pendingin atau pembeku lainnya, _ listrik
+_ atau lainnya; pompa panas selain mesin peng-
+atur suhu udara dari pos 84.15.
+841869 ~Lain-lain :
+20 |8418.69.20.00 --Water chiller dengan kapasitas pendinginan
+100.000 } atau lebih
+84.22 Mesin pencuci piring; mesin untuk membersihkan
+atau mengeringkan botol atau kemasan fainnya;

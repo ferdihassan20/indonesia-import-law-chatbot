@@ -1,0 +1,59 @@
+2014, No.934
+
+42
+
+No Pos Tarif Uraian Barang
+8518.29 -- Lain-lain:
+785 8518.29.90,00 --- Lain-lain
+8518.50 - Perangkat amplifier suara listrik:
+786 | 8518.50.10.00 -- Mempunyai tingkat kekuatan 240 W atau lebih
+-- Lainnya, dengan pengeras suara,dari jenis yang cocok untuk
+787 | 8518.50,20.00 penyiaran, mempunyai voltage rating 50 V atau lebih tetapi
+tidak melebihi 100 V
+788 8518.50.90.00 -- Lain-lain
+85.19 Aparatus untuk perekam dan reproduksi suara.
+- Aparatus lainnya:
+8519.81 -- Menggunakan magnet, media optik atau semi konduktor:
+789 | 8519.81.30.00 --- Compact disc player untuk audio
+Aparatus perekam atau pereproduksi video, digabung
+85.21
+dengan video tuner maupun tidak.
+8521.10 - Tipe pita magnetik:
+790 8521.10.90.00 -- Lain-lain
+8521.90 - Lain-lain
+-- Laser disc player:
+791 8521.90.19,00 --- Lain-lain
+-- Lain-lain:
+792 8521.90.99,00 --- Lain-lain
+Aparatus penerima untuk penyiaran radio, dikombinasi
+85.27 maupun tidak, dalam rumah yang sama, dengan aparatus
+perekam atau pereproduksi suara atau penunjuk waktu.
+- Penerima siaran radio dapat dioperasikan tanpa sumber
+tenaga dari luar:
+793 | 8527.12,00.00 -- Radio-cassette player ukuran saku.
+-- Aparatus lainnya dikombinasikan dengan aparatus perekam
+8527.13 :
+atau pereproduksi suara:
+794 8527.13.10.00 --- Portabel
+798 8527.13.90,00 --- Lain-lain
+8527.19 -- Lain-lain:
+Lain-lain:
+796 8527.19.91,00 ---- Portabel
+797 8527.19.99.00 ---- Lain-lain
+- Penerima siaran radio tidak dapat dioperasikan tanpa sumber
+tenaga dari luar, dari jenis yang digunakan dalam kendaraan
+bermotor:
+798 | 8527.21.00.00 -- Dikombinasikan dengan aparatus perekam atau pereproduksi
+suara
+799 8527.29.00.00 -- Lain-lain
+- Lain-lain:
+8527.91 -- Dikombinasikan dengan aparatus perekam atau pereproduksi
+‘ suara:
+800 8527.91.10.00 --- Portabel
+801 8527.91.90,00 --- Lain-lain
+-- Tidak dikombinasikan dengan aparatus perekam atau
+8527.92 pereproduksi suara tapi dikombinasikan dengan penunjuk
+waktu:
+
+35
+

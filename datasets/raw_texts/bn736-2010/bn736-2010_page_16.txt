@@ -1,0 +1,91 @@
+2010, No.736
+
+16
+
+terpadu untuk digunakan dalam  oparasi
+
+ate URAIAN BARANG KETERANGAN
+a (2) (3) 2
+
+pengeboran
+
+46 |8430.50.00.00
+
+-Mesin lainnya, berdaya gerak sendiri
+
+Bagian yang cocok untuk digunakan semata-mata
+atau terutama dengan mesin dari pos 84,25
+
+sampai dengan 84.30.
+
+8431.10
+
+-Dari mesin pada pos 84.25 :
+
+--Dari mesin yang dioperasikan secara eletrik:
+
+47 |8431.10.13.00
+
+---Dari barang pada sub pos 8425.19, 8425.39
+
+dan 8425.49
+
+| 48 [8431,43.00.00
+
+--Bagian dari mesin pengebor atau sinking pada
+
+subpos 8430.41 atau 8430.49
+
+84,39
+
+Mesin untuk membuat pulp dari bahanserat
+
+selulosa atau untuk membuat atau merampungkan
+
+49 |8439.20.00.00
+
+kertas atau kertas karton.
+-Mesin untuk membuat kertas atau kertas karton
+
+50 |8439,30.00.00 -Mesin untuk merampungkan kertas etau kertas
+karton
+84.40 Mesin penjilid buku, termasuk mesin penjahit
+buku, .
+8440.10 -Mesin :
+
+54 |8440.10.10.00
+
+--Dioperasikan secara elektrik :
+
+84.41 Mesin fainnya untuk membuat pulp kertas,
+kerlas afau kertas karton, ternasuk mesin
+pemotongdarisemuajenis. |
+8441.10 -Mesin pemotong :
+62 |8441.10.10.00 --Dioperasikan secara elektrik
+8444.20 -Mesin untuk membuat kantong, sak atau amplop:
+§3 |8441.20.10.00 | --Dioperasikan secara elektrik ae
+8441.30 -Mesin untuk membuat kardus, kotak, peti, ta-
+bung, drum atau kemasan semacam itu, selain
+dengan pencetakan :
+54 |8441.30.10.00 --Dioperasikan secara elektrik
+8441.40 -Mesin untuk mencetak barang dari pulp
+kertas, kertas atau kertas karton :
+55 |8441.40.10.00 | --Dioperasikan secara elektrik
+8441.80 -Mesin lainnya :
+56 |8441.80.10.00 --Dioperasikan secara elektrik
+
+84.42
+
+Mesin, aparatus dan perlengkapan (selain mesin
+
+perkakas yang dimaksud dalam pos 84.56 sampai
+dengan 84.65), untuk menyiapkan atau membuat
+
+pelat, silinder cetakatau komponen cetak
+
+lainnya; _pelat, silindercetak dan komponen
+
+i cetak lainnya; pelat, silinder dan batu Iito-
+
+graf, disiapkan untuk keperluan pencetakan
+

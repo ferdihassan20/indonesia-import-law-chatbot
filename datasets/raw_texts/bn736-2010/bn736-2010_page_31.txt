@@ -1,0 +1,124 @@
+2010, No.736
+
+POS TARIF/
+HS
+
+31
+
+URAIAN BARANG KETERANGAN
+
+239 |8805,10.00,00
+
+di darat; bagian dari barang tersebut.
+-Gir peiuncur kendaraan udara dan bagiannya;
+
+deck-arrestor atau alat semacam itu dan bagiannya
+
+240 |8805.21.00.00
+
+-Pesawat latin terbang di darat dan bagiannya:
+--Simulator pertempuran udara dan bagiannya
+--Lain-lain :
+
+--Pesavwat latih terbang di darat
+---Lain-lain
+
+Kapal pesiar, kapal ekskursi, kapal feri,kapal kargo,
+tongkang dan kendaraan airsemacam itu untuk
+
+pengangkutan orang atau barang
+
+8901.10
+
+-Kapal pesiar, kapal ekskursi dan kendaraan
+
+air semacam iu terutama dirancang unluk
+
+pengangkutan orang; kapal fer dari semua
+
+jenis :
+
+243 |6901.10.10.00
+
+--Dengan tonase kotor tidak melebihi 26
+
+244 [8801.10.20.00
+
+--Dengan tonase kotor melebihi 26 tetapi tidak
+
+melebihi 500
+
+245 |8991.10.30.00
+
+--Dengan tonase kotor melebihi 500 tetapi
+tidak melebihi 4.000
+
+246 |8901.10.50.00
+
+~-Dengan tonase kotor melebihi 4.000 tetapi
+
+247 |8901.10.60.00
+
+tidak melebihi 5.000
+--Dengan tonase kotor melebini 5.000
+
+8901.20
+
+-Tanker :
+
+248
+249
+
+8801 .20.50.00
+8901 20.60.00
+
+8901.30
+
+--Dengan tonase kotor tidak melebihi 5.000
+--Dengan tonase kotor melebihi 5.000
+
+-Kapat berpendingin, selain yang disebut dalam
+Subpos 8901.20
+
+260 |8991.30.50.00
+251 |8901.30.60.00
+
+--Dengan tonase kotor tidak melebihi 5.000
+--Dengan tonase kotor metebihi 5.000
+
+8901.90 -Kendaraan air lainnya untuk —pengangkutan
+. barang dan kendaraan air lainnya untuk
+pengangkutan orang dan barang :
+--Tidak bermotor :
+252 |8901.90.11.00 | ---Dengan tonase kotor tidak mefebihi 26
+
+-~-Dengan tonase kotor melebihi 26 tetapi
+tidak melebihi 500
+
+---Dengan tonase kotor melebihi 500
+
+--Bermotor :
+
+8901.90.22.00
+
+-—-Dengan tonase kotor tidak melebihi 26
+---Dengan tonase kotor melebihi 26 tetapi
+
+8901.90.23.00
+
+8901.90.24.00
+
+| tidak mefebihi 250
+-—-Dengan tonase kotor melebihi 250 tetapi
+tidak melebihi 500
+
+---Dengan tonase kotor melebihi 500 tetapi
+
+tidak melebihi 4.000
+
+8901.90.25.00
+
+--Dengan tonase kotor meledihi 4.000
+
+tetapi tonase melebihi 5.000
+

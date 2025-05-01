@@ -1,0 +1,712 @@
+**BERITA NEGARA REPUBLIK INDONESIA**
+
+No. 800 Tahun 2021
+
+**PERATURAN MENTERI PERINDUSTRIAN REPUBLIK INDONESIA**
+
+NOMOR 16 TAHUN 2021 TENTANG Rekomendasi Impor Bahan Berbahaya
+
+**DENGAN RAHMAT TUHAN YANG MAHA ESA**
+
+MENTERI PERINDUSTRIAN REPUBLIK INDONESIA,
+
+**Menimbang:**
+
+a. bahwa untuk mendukung kelancaran pelaksanaan impor bahan berbahaya, diperlukan adanya kepastian hukum dalam pemberian rekomendasi impor bahan berbahaya dan pengaturan mengenai tata cara pemberian rekomendasi impor bahan berbahaya yang menjadi kewenangan Kementerian Perindustrian;
+
+b. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a, perlu menetapkan Peraturan Menteri Perindustrian tentang Rekomendasi Impor Bahan Berbahaya;
+
+**Mengingat:**
+
+1. Pasal 17 ayat (3) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945;
+
+2. Undang-Undang Nomor 39 Tahun 2008 tentang Kementerian Negara (Lembaran Negara Republik Indonesia Tahun 2008 Nomor 166, Tambahan Lembaran Negara Republik Indonesia Nomor 4916);
+
+3. Undang-Undang Nomor 3 Tahun 2014 tentang Perindustrian (Lembaran Negara Republik Indonesia Tahun 2014 Nomor 4, Tambahan Lembaran Negara Republik Indonesia Nomor 5492);
+
+4. Undang-Undang Nomor 11 Tahun 2020 tentang Cipta Kerja (Lembaran Negara Republik Indonesia Tahun 2020 Nomor 245, Tambahan Lembaran Negara Republik Indonesia Nomor 6573);
+
+5. Peraturan Pemerintah Nomor 5 Tahun 2021 tentang Penyelenggaraan Perizinan Berusaha Berbasis Risiko (Lembaran Negara Republik Indonesia Tahun 2021 Nomor 15, Tambahan Lembaran Negara Republik Indonesia Nomor 6617);
+
+6. Peraturan Presiden Nomor 107 Tahun 2020 tentang Kementerian Perindustrian (Lembaran Negara Republik Indonesia Tahun 2020 Nomor 254);
+
+7. Peraturan Menteri Perindustrian Nomor 67/M-IND/PER/8/2016 tentang Pedoman Penerbitan Pertimbangan Teknis, Rekomendasi, Surat Keterangan, dan Tanda Pendaftaran dengan Sistem Elektronik di Kementerian Perindustrian (Berita Negara Republik Indonesia Tahun 2016 Nomor 1212) sebagaimana telah diubah dengan Peraturan Menteri Perindustrian Nomor 33 Tahun 2018 tentang Perubahan atas Peraturan Menteri Perindustrian Nomor 67/M-IND/PER/8/2016;
+
+8. Peraturan Menteri Perindustrian Nomor 45 Tahun 2020 tentang Jenis Industri Binaan Unit Organisasi di Kementerian Perindustrian (Berita Negara Republik Indonesia Tahun 2020 Nomor 1308);
+
+9. Peraturan Menteri Perindustrian Nomor 7 Tahun 2021 tentang Organisasi dan Tata Kerja Kementerian Perindustrian (Berita Negara Republik Indonesia Tahun 2021 Nomor 170).
+
+**Menetapkan:**
+
+**MEMUTUSKAN:**
+
+**PERATURAN MENTERI PERINDUSTRIAN TENTANG Rekomendasi Impor Bahan Berbahaya.**
+
+**BAB I KETENTUAN UMUM**
+
+**Pasal 1**
+
+Dalam Peraturan Menteri ini yang dimaksud dengan:
+
+1. Bahan Berbahaya yang selanjutnya disebut B2 adalah zat, bahan kimia, dan biologi, baik dalam bentuk tunggal maupun campuran yang dapat membahayakan kesehatan dan lingkungan hidup secara langsung atau tidak langsung, yang mempunyai sifat racun (toksisitas), karsinogenik, teratogenik, mutagenik, korosif, dan iritasi.
+
+2. Impor adalah kegiatan memasukkan barang ke daerah pabean.
+
+3. Bahan Baku adalah bahan mentah, barang setengah jadi, atau barang jadi yang dapat diolah menjadi barang setengah jadi atau barang jadi yang mempunyai nilai ekonomi yang lebih tinggi.
+
+4. Bahan Penolong adalah bahan yang digunakan sebagai pelengkap dalam proses produksi untuk menghasilkan produk yang fungsinya sempurna sesuai parameter produk yang diharapkan.
+
+5. Nomor Induk Berusaha yang selanjutnya disingkat NIB adalah identitas Pelaku Usaha yang diterbitkan oleh lembaga online single submission setelah Pelaku Usaha melakukan pendaftaran.
+
+6. Angka Pengenal Importir Produsen yang selanjutnya disingkat API-P adalah tanda pengenal sebagai importir produsen.
+
+7. Angka Pengenal Importir Umum yang selanjutnya disingkat API-U adalah tanda pengenal sebagai importir umum.
+
+8. Perusahaan Pemilik API-P yang selanjutnya disebut Perusahaan API-P adalah perusahaan yang memiliki NIB yang berlaku sebagai API-P di bidang industri nonfarmasi.
+
+9. Perusahaan Pemilik API-U yang selanjutnya disebut Perusahaan API-U adalah perusahaan yang memiliki NIB yang berlaku sebagai API-U dan melakukan impor.
+
+10. Distributor Terdaftar Bahan Berbahaya yang selanjutnya disebut DT-B2 adalah perusahaan yang ditunjuk oleh Perusahaan API-U untuk melakukan pendistribusian B2.
+
+11. Pengguna Akhir Bahan Berbahaya yang selanjutnya disebut PA-B2 adalah perusahaan industri yang menggunakan B2 sebagai bahan baku/penolong untuk memperoleh nilai tambah, dan/atau badan usaha atau lembaga yang menggunakan B2 sebagai bahan penolong dan/atau penelitian sesuai peruntukannya, memiliki perizinan berusaha dari instansi yang berwenang, dan tidak bergerak di bidang pengolahan pangan.
+
+12. Rekomendasi Impor B2 yang selanjutnya disebut Rekomendasi adalah surat yang diterbitkan oleh pejabat yang berwenang di lingkungan Kementerian Perindustrian yang memuat keterangan teknis dalam rangka penerbitan persetujuan impor B2.
+
+13. Sistem Informasi Industri Nasional yang selanjutnya disebut SIINas adalah tatanan prosedur dan mekanisme kerja yang terintegrasi meliputi unsur institusi, sumber daya manusia, basis data, perangkat keras dan lunak, serta jaringan komunikasi data yang terkait satu sama lain dengan tujuan untuk penyampaian, pengelolaan, penyajian, pelayanan, serta penyebarluasan data dan/atau informasi industri.
+
+14. Menteri adalah menteri yang menyelenggarakan urusan pemerintahan di bidang perindustrian.
+
+15. Direktur Jenderal adalah direktur jenderal yang mempunyai tugas menyelenggarakan perumusan dan pelaksanaan kebijakan kegiatan usaha industri kimia di Kementerian Perindustrian.
+
+16. Direktur adalah direktur yang mempunyai tugas perumusan dan pelaksanaan kebijakan teknis pengembangan industri kimia hulu di Kementerian Perindustrian.
+
+**Pasal 2**
+
+(1) Perusahaan API-P dan Perusahaan API-U dapat melakukan impor B2 setelah mendapatkan persetujuan impor.
+
+(2) Persetujuan impor B2 sebagaimana dimaksud pada ayat (1) hanya dapat diberikan setelah mendapatkan rekomendasi yang diterbitkan oleh Menteri.
+
+(3) Rekomendasi sebagaimana dimaksud pada ayat (2) untuk Perusahaan API-U hanya dapat diberikan kepada Badan Usaha Milik Negara.
+
+(4) Penerbitan rekomendasi sebagaimana dimaksud pada ayat (2) didelegasikan kepada Direktur Jenderal.
+
+**Pasal 3**
+
+(1) Perusahaan API-P dilarang menjual dan/atau memindahtangankan B2 yang diimpor kepada pihak lain.
+
+(2) Perusahaan API-U bertanggung jawab terhadap peredaran B2 yang diimpor.
+
+(3) Perusahaan API-U dilarang mendistribusikan B2 yang diimpor kepada pihak yang tidak sesuai dengan rekomendasi.
+
+**BAB II VERIFIKASI**
+
+**Pasal 4**
+
+(1) Untuk mendapatkan rekomendasi sebagaimana dimaksud dalam Pasal 2 ayat (2), Perusahaan API-P dan Perusahaan API-U mengajukan permohonan.
+
+(2) Perusahaan API-P dan Perusahaan API-U sebagaimana dimaksud pada ayat (1) merupakan perusahaan yang telah diverifikasi oleh lembaga pelaksana verifikasi yang ditetapkan oleh Menteri.
+
+**Pasal 5**
+
+(1) Untuk dapat ditetapkan sebagai lembaga pelaksana verifikasi sebagaimana dimaksud dalam Pasal 4 ayat (2), lembaga pelaksana verifikasi harus memenuhi persyaratan:
+
+a. memiliki dokumen perizinan berusaha di bidang jasa survei;
+
+b. memiliki pengalaman sebagai surveor di bidang industri paling sedikit 5 (lima) tahun; dan
+
+c. memiliki sumber daya manusia yang kompeten di bidang industri.
+
+(2) Menteri mendelegasikan kewenangan penetapan lembaga pelaksana verifikasi sebagaimana dimaksud pada ayat (1) kepada Direktur Jenderal.
+
+(3) Penetapan lembaga pelaksana verifikasi sebagaimana dimaksud pada ayat (2) berlaku untuk jangka waktu 5 (lima) tahun dan dapat diperpanjang berdasarkan hasil evaluasi yang dilakukan oleh Direktur Jenderal.
+
+**Pasal 6**
+
+(1) Perusahaan API-P mengajukan permohonan verifikasi kepada lembaga pelaksana verifikasi sebagaimana dimaksud dalam Pasal 4 ayat (2) dengan melampirkan dokumen paling sedikit berupa:
+
+a. NIB;
+
+b. izin usaha industri dan/atau izin usaha perluasan atau perizinan berusaha lain dalam lingkup bidang usaha industri nonfarmasi yang diterbitkan oleh instansi berwenang;
+
+c. rencana impor;
+
+d. daftar stok B2 yang dimiliki;
+
+e. daftar jenis dan jumlah mesin utama yang digunakan serta alur proses produksi;
+
+f. daftar jumlah tenaga kerja;
+
+g. lembar data keselamatan barang;
+
+h. kemampuan produksi dan jenis produk yang dihasilkan;
+
+i. laporan realisasi produksi 3 (tiga) tahun terakhir;
+
+j. laporan realisasi pemanfaatan B2 3 (tiga) tahun terakhir; dan
+
+k. rencana produksi dan kebutuhan B2 selama 1 (satu) tahun produksi.
+
+(2) Perusahaan API-U mengajukan permohonan verifikasi kepada lembaga pelaksana verifikasi sebagaimana dimaksud dalam Pasal 4 ayat (2) dengan melampirkan dokumen paling sedikit berupa:
+
+a. NIB;
+
+b. surat izin usaha perdagangan B2 yang diterbitkan oleh instansi berwenang;
+
+c. rencana impor;
+
+d. daftar stok B2 yang dimiliki;
+
+e. daftar jumlah tenaga kerja;
+
+f. lembar data keselamatan barang;
+
+g. kemampuan distribusi dan jenis produk yang didistribusikan;
+
+h. laporan realisasi distribusi B2 3 (tiga) tahun terakhir; dan
+
+i. daftar DT-B2 dan PA-B2, serta rencana distribusi B2 selama 1 (satu) tahun.
+
+(3) Industri nonfarmasi sebagaimana dimaksud pada ayat (1) merupakan industri yang menggunakan B2 sebagai bahan baku dan/atau bahan penolong untuk memperoleh nilai tambah yang dijalankan oleh:
+
+a. perusahaan industri; dan/atau
+
+b. badan usaha yang memiliki izin dari instansi yang berwenang, yang tidak bergerak di bidang farmasi, kosmetik, dan pangan olahan.
+
+**Pasal 7**
+
+(1) Berdasarkan permohonan sebagaimana dimaksud dalam Pasal 6, lembaga pelaksana verifikasi melakukan verifikasi atas kebenaran dokumen dalam jangka waktu paling lama 20 (dua puluh) hari kerja sejak permohonan diajukan dengan lengkap dan benar.
+
+**Pasal 8**
+
+(1) Verifikasi terhadap Perusahaan API-P sebagaimana dimaksud dalam Pasal 6 ayat (1) dilakukan untuk:
+
+a. menilai kebenaran aspek legalitas perusahaan;
+
+b. menilai kelengkapan administrasi rencana kebutuhan B2;
+
+c. menilai realisasi produksi, kapasitas terpasang, dan kemampuan produksi;
+
+d. mengevaluasi jenis, spesifikasi B2, jumlah pemanfaatan B2, stok B2 yang tersedia, dan rencana kebutuhan B2;
+
+e. menilai kesesuaian antara rencana kebutuhan B2 dengan rencana produksi, kapasitas terpasang, dan kemampuan produksi; dan
+
+f. mengevaluasi fasilitas produksi dan penyimpanan B2.
+
+(2) Verifikasi terhadap Perusahaan API-U sebagaimana dimaksud dalam Pasal 6 ayat (1) dilakukan untuk:
+
+a. menilai kebenaran aspek legalitas perusahaan;
+
+b. menilai kelengkapan administrasi rencana impor B2;
+
+c. mengevaluasi jenis, spesifikasi B2, realisasi distribusi B2, stok B2 yang tersedia, dan rencana distribusi B2;
+
+d. mengevaluasi DT-B2 dan PA-B2, termasuk bidang usaha PA-B2;
+
+e. menilai kesesuaian antara rencana kebutuhan B2 dengan rencana distribusi B2 ke DT-B2 dan PA-B2; dan
+
+f. mengevaluasi fasilitas penyimpanan B2.
+
+**Pasal 9**
+
+(1) Hasil verifikasi sebagaimana dimaksud dalam Pasal 8 dituangkan dalam laporan hasil verifikasi.
+
+(2) Laporan hasil verifikasi sebagaimana dimaksud pada ayat (1) disampaikan kepada Direktur Jenderal melalui SIINas.
+
+**Pasal 10**
+
+(1) Biaya pelaksanaan verifikasi sebagaimana dimaksud dalam Pasal 7 dibebankan kepada perusahaan pemohon verifikasi.
+
+**BAB III Rekomendasi**
+
+**Pasal 11**
+
+(1) Perusahaan API-P dan Perusahaan API-U yang telah diverifikasi menyampaikan permohonan rekomendasi melalui SIINas kepada Direktur Jenderal dengan menggunakan surat permohonan sesuai format surat permohonan rekomendasi sebagaimana tercantum dalam Lampiran I yang merupakan bagian tidak terpisahkan dari Peraturan Menteri ini.
+
+(2) Pengajuan permohonan rekomendasi bagi Perusahaan API-P sebagaimana dimaksud pada ayat (1) dilakukan dengan mengunggah hasil pindai/scan asli dokumen paling sedikit berupa:
+
+a. NIB;
+
+b. izin usaha industri dan/atau izin usaha perluasan atau perizinan berusaha lain dalam lingkup bidang usaha industri nonfarmasi yang diterbitkan oleh instansi berwenang;
+
+c. surat persetujuan impor B2 terakhir dan kartu kendali realisasi impor;
+
+d. laporan hasil verifikasi yang diterbitkan oleh lembaga pelaksana verifikasi; dan
+
+e. surat pernyataan bermeterai dari penanggung jawab perusahaan yang menyatakan bahwa B2 yang diimpor tidak diperdagangkan dan/atau dipindahtangankan kepada pihak lain.
+
+(3) Pengajuan permohonan rekomendasi bagi Perusahaan API-U sebagaimana dimaksud pada ayat (1) dilakukan dengan mengunggah hasil pindai/scan asli dokumen paling sedikit berupa:
+
+a. NIB;
+
+b. surat izin usaha perdagangan B2 yang diterbitkan oleh instansi berwenang;
+
+c. surat persetujuan impor B2 terakhir dan kartu kendali realisasi impor;
+
+d. laporan hasil verifikasi yang diterbitkan oleh lembaga pelaksana verifikasi; dan
+
+e. surat pernyataan bermeterai dari penanggung jawab perusahaan yang menyatakan perusahaan bertanggung jawab terhadap peredaran B2 yang diimpor.
+
+(4) Ketentuan sebagaimana dimaksud pada ayat (2) huruf c dan ayat (3) huruf c dikecualikan bagi perusahaan yang belum pernah melakukan impor B2.
+
+**Pasal 12**
+
+(1) Berdasarkan permohonan sebagaimana dimaksud dalam Pasal 11, Direktur Jenderal menerbitkan:
+
+a. rekomendasi; atau
+
+b. surat penolakan.
+
+(2) Penerbitan surat penolakan sebagaimana dimaksud pada ayat (1) huruf b dilakukan oleh Direktur atas nama Direktur Jenderal.
+
+**Pasal 13**
+
+(1) Rekomendasi diterbitkan oleh Direktur Jenderal menggunakan tanda tangan elektronik (digital signature) paling lambat 5 (lima) hari setelah permohonan sebagaimana dimaksud dalam Pasal 11 dinyatakan lengkap dan benar.
+
+(2) Unit kerja yang mengelola SIINas meneruskan rekomendasi yang diterbitkan secara daring ke portal Indonesia National Single Window.
+
+**Pasal 14**
+
+(1) Rekomendasi bagi Perusahaan API-P paling sedikit memuat informasi mengenai:
+
+a. identitas perusahaan yang meliputi nama perusahaan, alamat perusahaan, bidang usaha perusahaan, jenis dan kapasitas produksi perusahaan, dan izin usaha perusahaan;
+
+b. jenis, nomor Chemical Abstracts Service (CAS), dan nomor/ Harmonized System (HS) dari B2 yang diimpor;
+
+c. jumlah dan asal negara B2 yang diimpor; dan
+
+d. masa berlaku rekomendasi.
+
+(2) Rekomendasi bagi Perusahaan API-U paling sedikit memuat informasi mengenai:
+
+a. identitas perusahaan yang meliputi nama perusahaan, alamat perusahaan, bidang usaha perusahaan, jenis dan kapasitas produksi perusahaan, dan izin usaha perusahaan;
+
+b. jenis, nomor Chemical Abstracts Service (CAS), dan nomor/ Harmonized System (HS) dari B2 yang diimpor;
+
+c. jumlah dan asal negara B2 yang diimpor; dan
+
+d. masa berlaku rekomendasi.
+
+**Pasal 15**
+
+(1) Rekomendasi yang diterbitkan oleh Direktur Jenderal berlaku selama 1 (satu) tahun terhitung sejak tanggal diterbitkan.
+
+(2) Rekomendasi dapat diperpanjang dengan mengajukan permohonan perpanjangan kepada Direktur Jenderal dengan melampirkan dokumen yang diperlukan.
+
+**Pasal 16**
+
+(1) Perusahaan API-P dan Perusahaan API-U wajib menyimpan dan mendokumentasikan semua dokumen terkait dengan impor B2 selama 5 (lima) tahun.
+
+(2) Perusahaan API-P dan Perusahaan API-U wajib melaporkan penggunaan B2 kepada Kementerian Perindustrian setiap 6 (enam) bulan.
+
+**Pasal 17**
+
+Peraturan Menteri ini mulai berlaku pada tanggal ditetapkan.
+
+**Ditetapkan di Jakarta**  
+**pada tanggal 1 Januari 2021**  
+**MENTERI PERINDUSTRIAN REPUBLIK INDONESIA**  
+**[Nama Menteri]**  
+**NIP. [Nomor Induk Pegawai]**
+**PERATURAN MENTERI PERINDUSTRIAN REPUBLIK INDONESIA NOMOR 16 TAHUN 2021 TENTANG REKOMENDASI IMPOR BAHAN BERBAHAYA**
+
+Dengan rahmat Tuhan Yang Maha Esa, Menteri Perindustrian Republik Indonesia,
+
+Menimbang:
+a. bahwa untuk melaksanakan ketentuan dalam peraturan perundang-undangan di bidang impor bahan berbahaya, perlu menetapkan rekomendasi impor bahan berbahaya;
+b. bahwa rekomendasi impor bahan berbahaya perlu diatur agar sesuai dengan ketentuan yang berlaku;
+c. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a dan b, perlu menetapkan Peraturan Menteri Perindustrian tentang Rekomendasi Impor Bahan Berbahaya;
+
+Mengingat:
+1. Undang-Undang Nomor 7 Tahun 2014 tentang Perdagangan;
+2. Undang-Undang Nomor 3 Tahun 2014 tentang Perindustrian;
+3. Peraturan Pemerintah Nomor 24 Tahun 2014 tentang Pelayanan Terpadu Satu Pintu;
+4. Peraturan Menteri Perindustrian Nomor 16 Tahun 2021 tentang Rekomendasi Impor Bahan Berbahaya;
+
+Memutuskan:
+Menetapkan: PERATURAN MENTERI PERINDUSTRIAN TENTANG REKOMENDASI IMPOR BAHAN BERBAHAYA.
+
+**Pasal 1**
+Dalam Peraturan Menteri ini yang dimaksud dengan:
+1. Rekomendasi adalah surat yang diterbitkan oleh Direktur Jenderal untuk memberikan izin kepada perusahaan dalam melakukan impor bahan berbahaya.
+2. Perusahaan API-P adalah perusahaan yang memiliki izin untuk memproduksi bahan berbahaya.
+3. Perusahaan API-U adalah perusahaan yang memiliki izin untuk menggunakan bahan berbahaya.
+
+**Pasal 2**
+Rekomendasi bagi Perusahaan API-P paling sedikit memuat informasi mengenai:
+a. identitas perusahaan meliputi nama perusahaan, alamat perusahaan, bidang usaha perusahaan, jenis dan kapasitas produksi perusahaan, dan izin usaha perusahaan;
+b. jenis, nomor Chemical Abstracts Service (CAS), dan nomor Harmonized System (HS) pos tarif B2 yang akan diimpor;
+c. kegunaan barang;
+d. volume impor yang direkomendasikan;
+e. negara asal, negara muat, dan pelabuhan tujuan;
+f. masa berlaku rekomendasi.
+
+**Pasal 3**
+Rekomendasi bagi Perusahaan API-U paling sedikit memuat informasi mengenai:
+a. identitas perusahaan meliputi nama perusahaan, alamat perusahaan, bidang usaha perusahaan, jenis dan kapasitas produksi perusahaan, dan izin usaha perusahaan;
+b. jenis, nomor Chemical Abstracts Service (CAS), dan nomor Harmonized System (HS) pos tarif B2 yang akan diimpor;
+c. kegunaan barang;
+d. volume impor yang direkomendasikan;
+e. negara asal, negara muat, dan pelabuhan tujuan;
+f. nama DT-B2;
+g. nama PA-B2; dan
+h. masa berlaku rekomendasi.
+
+**Pasal 4**
+Rekomendasi berlaku selama 1 (satu) tahun sejak tanggal diterbitkan dan berlaku untuk 1 (satu) permohonan persetujuan impor B2.
+
+**Pasal 5**
+(1) Dalam hal terdapat perubahan yang terkait dengan dokumen mengenai identitas perusahaan, negara asal, negara muat dan/atau pelabuhan tujuan, Perusahaan API-P atau Perusahaan API-U dapat mengajukan permohonan perubahan rekomendasi dengan menyampaikan dokumen berupa:
+a. surat pernyataan bermeterai cukup yang menyatakan permohonan perubahan rekomendasi dan persetujuan impor B2; dan
+b. rekomendasi yang masih berlaku.
+(2) Direktur Jenderal menerbitkan perubahan rekomendasi berdasarkan permohonan sebagaimana dimaksud pada ayat (1).
+
+**Pasal 6**
+Penerbitan rekomendasi atau penerbitan surat penolakan sebagaimana dimaksud dalam Pasal 12 dan penerbitan perubahan rekomendasi sebagaimana dimaksud dalam Pasal 16 dilakukan dengan menggunakan format sebagaimana tercantum dalam Lampiran II yang merupakan bagian tidak terpisahkan dari Peraturan Menteri ini.
+
+**Pasal 7**
+Permohonan rekomendasi periode berikutnya dapat disampaikan:
+a. dalam jangka waktu 3 (tiga) bulan sebelum masa berlaku persetujuan impor yang telah diperoleh berakhir; atau
+b. setelah realisasi impor B2 telah mencapai paling sedikit 80% (delapan puluh persen).
+
+**Pasal 8**
+Proses permohonan dan penerbitan rekomendasi sebagaimana dimaksud dalam Pasal 11 dan Pasal 12 serta permohonan dan penerbitan perubahan rekomendasi sebagaimana dimaksud dalam Pasal 16 dilakukan secara elektronik melalui SIINas sesuai dengan ketentuan peraturan perundang-undangan.
+
+**BAB IV LAPORAN DAN PENGAWASAN**
+
+**Pasal 9**
+Perusahaan API-P dan Perusahaan API-U yang telah mendapatkan rekomendasi wajib menyampaikan laporan perkembangan impor kepada Direktur Jenderal paling sedikit 1 (satu) kali dalam 1 (satu) bulan sejak persetujuan impor terbit. Laporan sebagaimana dimaksud pada ayat (1) paling sedikit memuat informasi mengenai:
+a. realisasi impor; dan
+b. realisasi distribusi B2, bagi Perusahaan API-U.
+
+**Pasal 10**
+Laporan sebagaimana dimaksud pada ayat (1) disampaikan paling lambat setiap tanggal 15 bulan berikutnya dengan menggunakan format sebagaimana tercantum dalam Lampiran III yang merupakan bagian tidak terpisahkan dari Peraturan Menteri ini. Penyampaian laporan sebagaimana dimaksud pada ayat (1) dilakukan secara elektronik melalui SIINas.
+
+**Pasal 11**
+Dalam hal diperlukan, Direktur Jenderal dapat melakukan pengawasan berupa:
+a. pemeriksaan di lokasi pabrik Perusahaan API-P; dan
+b. pemeriksaan di lokasi gudang penyimpanan Perusahaan API-U. Pengawasan sebagaimana dimaksud pada ayat (1) huruf b dilakukan dengan melibatkan kementerian/lembaga terkait.
+
+**Pasal 12**
+Untuk melaksanakan pengawasan sebagaimana dimaksud dalam Pasal 11, Direktur Jenderal dapat membentuk satuan tugas.
+
+**BAB V SANKSI**
+
+**Pasal 13**
+Perusahaan API-P yang melanggar ketentuan sebagaimana dimaksud dalam Pasal 3 ayat (1) dikenai sanksi administratif. Perusahaan API-U yang melanggar ketentuan sebagaimana dimaksud dalam Pasal 3 ayat (3) dikenai sanksi administratif. Perusahaan API-P dan Perusahaan API-U yang tidak menyampaikan laporan sebagaimana dimaksud dalam Pasal 9 dikenai sanksi administratif.
+
+**Pasal 14**
+Sanksi administratif sebagaimana dimaksud pada ayat (1), ayat (2), dan ayat (3) berupa:
+a. penolakan permohonan rekomendasi pada periode berikutnya; dan/atau
+b. rekomendasi pencabutan atas persetujuan impor yang telah diterbitkan kepada menteri yang menyelenggarakan urusan pemerintahan di bidang perdagangan.
+
+**BAB VI KETENTUAN PENUTUP**
+
+**Pasal 15**
+Peraturan Menteri ini mulai berlaku pada tanggal diundangkan. Agar setiap orang mengetahuinya, memerintahkan pengundangan Peraturan Menteri ini dengan penempatannya dalam Berita Negara Republik Indonesia.
+
+Ditetapkan di Jakarta pada tanggal 6 Juli 2021
+
+MENTERI PERINDUSTRIAN REPUBLIK INDONESIA,
+
+ttd
+
+AGUS GUMIWANG KARTASASMITA
+
+Diundangkan di Jakarta pada tanggal 13 Juli 2021
+
+DIREKTUR JENDERAL PERATURAN PERUNDANG-UNDANGAN KEMENTERIAN HUKUM DAN HAK ASASI MANUSIA REPUBLIK INDONESIA,
+
+ttd
+
+BENNY RIYANTO
+
+**LAMPIRAN I**
+
+**FORMAT SURAT PERMOHONAN REKOMENDASI**
+
+A. Surat Permohonan Rekomendasi Impor Bahan Berbahaya (B2) Bagi Perusahaan API-P
+
+KOP PERUSAHAAN  
+Nomor:  
+Jakarta,  
+Lampiran:  
+Hal: Permohonan Rekomendasi Impor Bahan Berbahaya bagi Perusahaan API-P.
+
+Kepada Yth.  
+Direktur Jenderal Industri Kimia, Farmasi, dan Tekstil  
+Kementerian Perindustrian  
+di Jakarta
+
+Sehubungan dengan Peraturan Menteri Perindustrian Nomor ... Tahun 20XX tentang Rekomendasi Impor Bahan Berbahaya, bersama ini kami mengajukan permohonan rekomendasi impor bahan berbahaya dengan rincian data sebagai berikut:
+
+Nama Perusahaan:  
+Jenis Industri/KBLI:  
+Alamat Perusahaan:  
+Alamat Pabrik:  
+NPWP:  
+Nomor Izin Usaha:  
+NIB dengan API-P:  
+
+Nama Barang:  
+Nomor HS/Pos Tarif:  
+Nomor CAS:  
+Kegunaan:  
+Volume Impor:  
+Negara Asal/Muat:  
+
+Terlampir kami sampaikan kelengkapan permohonan sebagai berikut:
+1. data legalitas perusahaan;
+2. surat pernyataan impor B2 untuk penggunaan sendiri;
+3. salinan surat PI-B2 sebelumnya;
+4. salinan kartu kendali realisasi impor;
+5. salinan laporan hasil verifikasi.
+
+Demikian atas perhatian Saudara, kami sampaikan terima kasih.
+
+Hormat kami,  
+Perusahaan API-P  
+ttd.
+
+B. Surat Permohonan Rekomendasi Bahan Berbahaya (B2) Bagi Perusahaan API-U
+
+KOP PERUSAHAAN  
+Nomor:  
+Jakarta,  
+Lampiran:  
+Hal: Permohonan Rekomendasi Impor Bahan Berbahaya bagi Perusahaan API-U.
+
+Kepada Yth.  
+Direktur Jenderal Industri Kimia, Farmasi, dan Tekstil  
+Kementerian Perindustrian  
+di Jakarta
+
+Sehubungan dengan Peraturan Menteri Perindustrian Nomor ... Tahun 20XX tentang Rekomendasi Impor Bahan Berbahaya, bersama ini kami mengajukan permohonan rekomendasi impor bahan berbahaya dengan rincian data sebagai berikut:
+
+Nama Perusahaan:  
+Alamat Perusahaan:  
+Nomor Telepon/Faks:  
+NPWP:  
+Nomor Izin Usaha:  
+NIB dengan API-U:  
+
+Nama Barang:  
+Nomor HS/Pos Tarif:  
+Nomor CAS:  
+Kegunaan:  
+Volume Impor:  
+Negara Asal/Muat:  
+
+Terlampir kami sampaikan kelengkapan permohonan sebagai berikut:
+1. data legalitas perusahaan;
+2. data rencana distribusi perusahaan sampai ke PA-B2;
+3. surat pernyataan impor B2 sesuai peruntukkannya;
+4. salinan surat PI-B2 sebelumnya;
+5. salinan kartu kendali realisasi impor;
+6. salinan laporan hasil verifikasi.
+
+Demikian atas perhatian Saudara, kami sampaikan terima kasih.
+
+Hormat kami,  
+Perusahaan API-U  
+ttd.
+
+**LAMPIRAN II**
+
+**FORMAT REKOMENDASI DAN SURAT PENOLAKAN**
+
+A. Rekomendasi Impor Bahan Berbahaya (B2) Bagi Perusahaan API-P
+
+KOP DIREKTUR JENDERAL  
+Nomor:  
+Lampiran:  
+Hal: Surat Rekomendasi Impor B2 Bagi Perusahaan API-P
+
+Yth.  
+Direktur Jenderal Perdagangan Luar Negeri  
+Kementerian Perdagangan  
+di Jakarta
+
+Sehubungan dengan surat dari PT ... No. ... Tanggal ... hal Permohonan Rekomendasi Impor Bahan Berbahaya bagi Perusahaan API-P, maka berdasarkan Peraturan Menteri Perindustrian Nomor ... Tahun ..., tentang Rekomendasi Impor Bahan Berbahaya, dengan ini diberitahukan bahwa:
+
+Nama Perusahaan:  
+Jenis Industri:  
+Alamat Perusahaan:  
+Alamat Pabrik:  
+Nomor Telepon/Faks:  
+NPWP:  
+Nomor Izin Usaha:  
+NIB dengan API-P:  
+
+Dapat direkomendasikan untuk mengimpor Bahan Berbahaya (B2) dan wajib memenuhi ketentuan sebagai berikut:
+1. melaporkan realisasi impor Bahan Berbahaya (B2) setiap 1 (satu) bulan;
+2. melaporkan neraca Bahan Berbahaya (B2) setiap periode pengimporan;
+3. menjaga proses produksi untuk senantiasa menekan sisa Bahan Baku seminimal mungkin, tidak menghasilkan sisa produksi berlimpah (zero waste); dan
+4. menyampaikan semua data dan informasi berkenaan dengan proses produksi dan penggunaan Bahan Berbahaya (B2) setiap tahun.
+
+PT ... direkomendasikan untuk mengimpor Bahan Berbahaya (B2) dengan data Bahan Berbahaya sebagaimana terlampir.
+
+Demikian disampaikan, atas perhatian dan kerjasama Saudara kami sampaikan terima kasih.
+
+DIREKTUR JENDERAL,
+
+Tembusan:
+1. Menteri Perindustrian;
+2. Sesditjen Industri Kimia, Farmasi, dan Tekstil; dan
+3. Direktur Industri Kimia Hulu.
+
+B. Rekomendasi Impor Bahan Berbahaya (B2) Bagi Perusahaan API-U
+
+KOP DIREKTUR JENDERAL  
+Nomor:  
+Lampiran:  
+Hal: Surat Rekomendasi Impor B2 Bagi Perusahaan API-U
+
+Yth.  
+Direktur Jenderal Perdagangan Luar Negeri  
+Kementerian Perdagangan  
+di Jakarta
+
+Sehubungan dengan surat dari PT ... No. ... Tanggal ... hal Permohonan Rekomendasi Impor Bahan Berbahaya bagi Perusahaan API-U, maka berdasarkan Peraturan Menteri Perindustrian Nomor ... Tahun ..., tentang Rekomendasi Impor Bahan Berbahaya, dengan ini diberitahukan bahwa:
+
+Nama Perusahaan:  
+Alamat Perusahaan:  
+Nomor Telepon/Faks:  
+NPWP:  
+Nomor Izin Usaha:  
+NIB dengan API-U:  
+
+Dapat direkomendasikan untuk mengimpor Bahan Berbahaya (B2) dan wajib memenuhi ketentuan sebagai berikut:
+1. melaporkan realisasi impor Bahan Berbahaya (B2) setiap 1 (satu) bulan;
+2. melaporkan realisasi distribusi Bahan Berbahaya (B2) setiap 1 (satu) bulan; dan
+3. menyampaikan semua data dan informasi berkenaan dengan proses impor dan distribusi Bahan Berbahaya (B2).
+
+PT ... direkomendasikan untuk mengimpor Bahan Berbahaya dengan data Bahan Berbahaya sebagaimana terlampir.
+
+Demikian disampaikan, atas perhatian dan kerjasama Saudara kami sampaikan terima kasih.
+
+DIREKTUR JENDERAL,
+
+Tembusan:
+1. Menteri Perindustrian;
+2. Sesditjen Industri Kimia, Farmasi, dan Tekstil; dan
+3. Direktur Industri Kimia Hulu.
+
+C. Surat Penolakan Rekomendasi Impor Bahan Berbahaya (B2)
+
+KOP DIREKTUR JENDERAL  
+Nomor:  
+Lampiran:  
+Hal: Surat Penolakan Rekomendasi Impor B2
+
+Yth.  
+Direktur  
+CV/PT ...  
+di Tempat
+
+Sehubungan dengan surat Saudara No. ... Tanggal ... beserta kelengkapan datanya tentang Permohonan Rekomendasi Impor, dengan ini diberitahukan bahwa:
+
+Nama Perusahaan:  
+Jenis Industri:  
+Alamat Perusahaan:  
+Alamat Pabrik:  
+
+Pengajuan permohonan rekomendasi impor bahan kimia dengan rincian sebagaimana terlampir dinyatakan ditolak. Permohonan Rekomendasi Saudara tidak memenuhi syarat yang ditetapkan.
+
+Atas perhatian dan kerjasamanya, kami sampaikan terima kasih.
+
+a.n. DIREKTUR JENDERAL  
+Direktur Industri Kimia Hulu,
+
+Tembusan:  
+Sesditjen Industri Kimia, Farmasi, dan Tekstil.
+
+**LAMPIRAN III**
+
+**DAFTAR RENCANA IMPOR BARANG**
+
+Nomor | Uraian | Nomor HS | Kegunaan | Negara Asal/Muat | Pelabuhan Tujuan
+
+DIREKTUR JENDERAL,
+
+MENTERI PERINDUSTRIAN REPUBLIK INDONESIA,
+
+ttd
+
+AGUS GUMIWANG KARTASASMITA
+**PERATURAN MENTERI PERINDUSTRIAN REPUBLIK INDONESIA**
+
+**TENTANG**
+
+**REKOMENDASI IMPOR BAHAN BERBAHAYA**
+
+**DENGAN RAHMAT TUHAN YANG MAHA ESA**
+
+Menimbang:
+a. bahwa untuk melaksanakan ketentuan dalam peraturan perundang-undangan terkait impor bahan berbahaya, perlu dilakukan rekomendasi impor;
+b. bahwa laporan dari perusahaan yang melakukan impor bahan berbahaya merupakan bagian penting dalam proses pengawasan dan evaluasi;
+c. bahwa berdasarkan pertimbangan tersebut, perlu menetapkan peraturan menteri tentang rekomendasi impor bahan berbahaya.
+
+Mengacu pada:
+1. Undang-Undang Nomor 7 Tahun 2014 tentang Perdagangan;
+2. Undang-Undang Nomor 32 Tahun 2009 tentang Perlindungan dan Pengelolaan Lingkungan Hidup;
+3. Peraturan Pemerintah Nomor 28 Tahun 2008 tentang Izin Usaha Perdagangan;
+4. Peraturan Menteri Perindustrian Nomor 34 Tahun 2018 tentang Pengendalian Bahan Berbahaya.
+
+Memutuskan:
+Menetapkan: PERATURAN MENTERI PERINDUSTRIAN TENTANG REKOMENDASI IMPOR BAHAN BERBAHAYA.
+
+**PASAL 1**
+
+(1) Setiap perusahaan yang melakukan impor bahan berbahaya wajib mengajukan rekomendasi impor kepada Kementerian Perindustrian.
+(2) Rekomendasi impor sebagaimana dimaksud pada ayat (1) harus dilengkapi dengan laporan realisasi impor.
+
+**PASAL 2**
+
+(1) Laporan realisasi impor harus memuat informasi sebagai berikut:
+a. Nama perusahaan;
+b. Nomor rekomendasi;
+c. Tanggal rekomendasi;
+d. Data realisasi impor.
+
+**FORMAT LAPORAN**
+
+**A. Laporan Perusahaan API-P**
+
+**KOP PERUSAHAAN**  
+Nama Perusahaan  
+Nomor Rekomendasi  
+Tanggal Rekomendasi  
+
+Data Realisasi Impor:  
+[Data Realisasi Impor]  
+
+Demikian laporan ini kami buat dengan sebenarnya, apabila melanggar ketentuan, maka fasilitas yang telah kami dapatkan bersedia untuk dibatalkan/dicabut.
+
+Direktur
+
+**B. Laporan Perusahaan API-U**
+
+**KOP PERUSAHAAN**  
+Nama Perusahaan  
+Nomor Rekomendasi  
+Tanggal Rekomendasi  
+
+Data Realisasi Impor:  
+[Data Realisasi Impor]  
+
+Data Realisasi Distribusi:  
+Nama DT | Nama | Jumlah | Tanggal | Keterangan  
+a -B2 | B2 Distribusi  
+a B2 | DT-B2/PA-B2 -B2  
+
+Demikian laporan ini kami buat dengan sebenarnya, apabila melanggar ketentuan, maka fasilitas yang telah kami dapatkan bersedia untuk dibatalkan/dicabut.
+
+Ttd.  
+Direktur
+
+MENTERI PERINDUSTRIAN REPUBLIK INDONESIA,  
+ttd  
+AGUS GUMIWANG KARTASASMITA  
+
+www.peraturan.go.id  
+2021, No. 800 _28-

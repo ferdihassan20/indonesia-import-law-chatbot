@@ -1,0 +1,80 @@
+2010, No.736 32
+
+KETERANGAN
+
+no, | POSTARIFT | URAIAN BARANG
+HS .
+260 |8901.90.26.00 ---Dengan tonase kotor melebihi 5.000
+89.02 Kapal penangkap ikan; kapal pabrik dan kendaraan air
+lainnya untuk pemrosesan atau pengawetan produk
+perikanan.
+
+-Kapal penangkap ikan :
+261 |8902.00.11.00 --Dengan tonase kotor tidak melebihi 26
+
+262 |8902.00.12.00 --Dengan tonase kotor melebihi 26 tetapi kurang dari 40
+
+263 |8902.00.13.00 | --Dengan tonase kotor 40 atau lebih tetapi
+
+kurang dari 100
+
+264 |8902.00.14.00 — --Dengan tonase kotor 100 atau lebih tetapi
+tidak metebihi 250
+
+265 |8902.00.15.00 --Dengan tonase kotor melebihi 250 tetapi
+
+tidak melebihi 4,000
+266 |8902.00.16.00 —_| --Dengan tonase kotor melebihi 4,000
+
+-Lain-tain :
+
+267 |8902.00,91.00 --Dengan tonase kotor tidak metebihi 25
+
+268 |8902.00,92.00 |--Dengan tonase kotor melebihi 26 tetapi kurang dari 40
+
+89.03 Yacht dan kendaraan air lainnya untuk _pelesir atau
+
+olah raga; sampan dan kano.
+
+269 |8903.10.00.00 |-Dapat digembungkan
+
+-Lain-lain :
+
+270 |8903.91.00.00 —Parahu layar, dengan atau fanpa motor pembantu
+271 |8903.92.00.00 --Perahu motor, selain perahu motor tempel
+
+272 |8903.99.00.00 = |—Lain-lain
+
+Kapal penarik dan pendorong.
+
+-Kapal penarik :
+273 |8904.00,11.00 ~|—Dengan tonase kotor tidak melebihi 26
+274 |8904,00.19.00 --Dengan tonase kotor metebihi 26
+
+2 -Kapal pendorong :
+275 |8304.00.21.00 _|--Dengan tonase kotor tidak melebihi 26
+276 | 8304,00.29.00 --Dengan tonase kotor melebihi 26
+
+Kapalsuar, kapal pemadam kebakaran, kapal keruk,
+
+crane terapung, dan kendaraan air lainnya yang fungsi
+berlayarnya bukan merupakan fungsi utama, dok terapung;
+
+platform pengeboran atau produksi terapung atau dibawah
+
+277 |8905.10.00.00
+
+8905.20.00.00
+
+8905.90
+
+8906.90, 10.00
+8905.90.90.00
+
+--Lain-fain
+
+89.06 Kendaraan air lainnya, termasuk kapal perang
+dan perahu penyelamat selain sampan.
+
+281 |8906.10.00.00 -Kapal perang
+

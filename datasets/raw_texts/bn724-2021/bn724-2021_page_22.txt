@@ -1,0 +1,48 @@
+2021, No.724 -29-
+
+pengenal diri atau identitas wajib pajak dalam melaksanakan
+hak dan kewajiban perpajakannya.
+
+Dalam hal importir tidak memiliki NPWP, importir dapat
+mengisikan data KTP atau Paspor atau identitas lainnya yang
+merupakan tanda pengenal importir yang memuat nomor
+identitas, nama, jenis kelamin, umur/tanggal dan tempat lahir,
+dan alamat jelas importir.
+
+2) Nama dan Alamat
+Diisi pada kolom yang disediakan dengan nama dan alamat
+
+importir.
+
+Contoh:
+
+NPWP : 01.061.747.0-092.000
+
+Nama : Sumber Makmur, PT
+
+Alamat : Jalan Samudera 1 No. 15, Jakarta Utara.
+
+3) Nomor dan Tanggal Invoice
+Diisi pada kolom yang disediakan dengan nomor, tanggal, bulan
+dan tahun invoice yang digunakan dalam transaksi barang
+impor. Dalam hal barang impor bukan merupakan obyek
+transaksi jual beli, wajib diisi dengan nomor, tanggal, bulan dan
+tahun dokumen yang diterbitkan oleh pengirim sebagai
+pemberitahuan nilai barang untuk keperluan penyelesaian
+kewajiban pabean (for Customs purpose only) seperti proforma
+invoice. Dalam hal invoice lebih dari 1 (satu), kolom diisi dengan
+“terlampir”. Rincian invoice selanjutnya diisi dalam lampiran
+
+surat permohonan, dengan format:
+
+Contoh:
+
+Barang impor dibeli dengan bukti invoice nomor 0999020997
+tanggal 28 Maret 2020.
+
+Nomor dan Tanggal Invoice: 0999020997 / 28-03-2020
+
+b. Nomor dan Tanggal Airway Bill/Bill of Lading/Dokumen
+Pengangkutan Barang Lainnya
+
+www.peraturan.go.id

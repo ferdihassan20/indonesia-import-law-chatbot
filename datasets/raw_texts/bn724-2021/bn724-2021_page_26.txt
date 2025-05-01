@@ -1,0 +1,54 @@
+2021, No.724 _26-
+
+Diisi uraian barang secara lengkap meliputi jenis, jumlah, merek,
+tipe, ukuran dan spesifikasi lainnya. Pengisian uraian jumlah dan
+jenis barang harus diisi secara jelas dan lengkap, sehingga dengan
+uraian barang tersebut dapat ditetapkan klasifikasi dari barang
+impor.
+
+Uraian jenis barang harus dilengkapi dengan spesifikasi wajib apabila
+barang dimaksud memerlukan spesifikasi tertentu agar dapat
+ditentukan tarif atau ketentuan larangan atau pembatasan.
+
+Contoh:
+
+IRON FORTIFIED CALF SERUM US ORIGIN 500ML/ BTL BAIK/BARU
+
+3. Negara Asal
+
+Diisi pada kolom yang disediakan dengan negara asal barang untuk
+
+setiap jenis barang. Dalam hal terdapat sertifikat negara asal barang
+
+atas barang dimaksud, negara asal barang harus diisi sesuai dengan
+sertifikat negara asal barang.
+
+Contoh:
+
+Negara Asal : Korea Selatan
+
+4. Keterangan Fasilitas dan Nomor Urut serta Persyaratan dan Nomor
+
+Urut
+
+a. Diisi dengan jenis fasilitas yang digunakan untuk mengimpor
+barang berdasarkan surat keputusan yang menjadi dasar
+penggunaan fasilitas dimaksud.
+
+Contoh:
+
+Fasilitas impor antara lain impor kembali, penundaan
+pembayaran bea masuk, KITE, fasilitas perwakilan negara asing,
+dan lain-lain. Dalam hal barang yang diiimpor tidak
+menggunakan fasilitas impor, maka kolom ini tidak perlu diisi.
+
+b. Diisi dengan keterangan dari importir mengenai jenis
+persyaratan larangan atau pembatasan atas barang yang
+diimpor sesuai ketentuan larangan dan pembatasan impor
+berdasarkan dokumen pemenuhan persyaratan larangan atau
+pembatasan dimaksud. Pencantuman dokumen pemenuhan
+persyaratan larangan atau pembatasan merupakan keterangan
+atau pernyataan dari importir bahwa ketentuan larangan atau
+pembatasan dimaksud telah dipenuhi dengan dokumen
+
+www.peraturan.go.id

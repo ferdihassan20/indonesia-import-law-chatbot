@@ -1,0 +1,49 @@
+2021, No.722
+
+-38-
+
+b. alternatif, yaitu suatu subpos tarif yang memiliki lebih dari 1
+(satu) kriteria asal barang yang harus dipilih salah satu.
+Contoh =: +7405.00 (CTSH or QVC40);
+
+ce. kombinasi, yaitu suatu subpos tarif yang memiliki lebih dari 1
+(satu) kriteria asal barang yang harus dipenuhi seluruhnya.
+Contoh = :_- 2309.10 (CC provided there is QVC40);
+
+d. alternatif dan kombinasi, yaitu suatu subpos tarif yang
+memiliki lebih dari 1 (satu) kriteria asal barang, yang
+merupakan gabungan dari alternatif dan kombinasi yang
+harus dipilih salah satu.
+
+Contoh : 3004.10 (CTH except from heading 30.03;
+QVC40; or No required CTC provided that non-
+originating materials used undergo a chemical
+reaction, purification, isomer separation or
+Biotechnological processes in a Party).
+
+KETENTUAN PROSEDURAL
+SKA Back-to-Back tidak berlaku untuk skema Persetujuan antara
+Republik Indonesia dan Jepang mengenai Suatu Kemitraan Ekonomi.
+
+. KETENTUAN PENGISIAN PEMBERITAHUAN PABEAN IMPOR
+
+1. Pengisian Pemberitahuan Impor Barang (BC 2.0)
+Untuk tujuan pengenaan Tarif Preferensi, pada Pemberitahuan
+Impor Barang (PIB) diisikan kode fasilitas, nomor referensi dan
+tanggal SKA Form JIEPA sebagai berikut:
+
+a. dalam hal Pemberitahuan Impor Barang (PIB) hanya
+menggunakan skema Persetujuan antara Republik Indonesia
+dan Jepang mengenai Suatu Kemitraan Ekonomi, kode
+fasilitas 56, nomor referensi, dan tanggal SKA Form JIEPA,
+wajib dicantumkan secara benar pada kolom 19 dan/atau
+kolom 33 Pemberitahuan Impor Barang (PIB);
+
+b. dalam hal Pemberitahuan Impor Barang (PIB) menggunakan
+skema Persetujuan antara Republik Indonesia dan Jepang
+mengenai Suatu Kemitraan Ekonomi dan fasilitas lainnya:
+
+1) kode fasilitas 56 wajib dicantumkan secara benar pada
+kolom 19 Pemberitahuan Impor Barang (PIB), serta diisi
+
+www.peraturan.go.id

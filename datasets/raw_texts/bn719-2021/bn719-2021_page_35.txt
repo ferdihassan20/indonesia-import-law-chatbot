@@ -1,0 +1,40 @@
+35. 2021, No.719
+
+Keterangan:
+
+1) nilai CIF pada saat importasi bahan baku atau
+pembuktian importasi; atau
+2) harga pasti yang pertama dibayarkan untuk bahan
+baku yang tidak dapat ditentukan keasalannya di
+wilayah Negara Anggota tempat barang tersebut
+dikerjakan atau diproses.
+b. Kumulasi
+Barang Originating dari Negara Anggota yang digunakan
+sebagai bahan baku untuk memproduksi barang jadi di
+Negara Anggota lain, dianggap sebagai Bahan Originating
+Negara Anggota tempat dilakukan proses _produksi,
+sepanjang barang jadi memiliki kandungan nilai bilateral
+yang mencapai nilai persentase paling sedikit 40% (empat
+puluh persen) dari nilai Free-on-Board (FOB).
+c. Product Specific Rules (PSR)
+Barang yang termasuk dalam daftar PSR sesuai dengan
+ketentuan yang diatur dalam Attachment B Perjanjian
+Perdagangan Preferensial antara Pemerintah Republik
+Indonesia dan Pemerintah Republik Islam Pakistan.
+
+Il. KETENTUAN PROSEDURAL
+1. SKA Back-to-Back tidak berlaku untuk skema Perjanjian
+Perdagangan Preferensial antara Pemerintah Republik Indonesia
+2. Third Country Invoice/Third Party Invoice tidak berlaku untuk
+skema Perjanjian Perdagangan Preferensial antara Pemerintah
+Republik Indonesia dan Pemerintah Republik Islam Pakistan.
+
+Ill. KETENTUAN PENGISIAN PEMBERITAHUAN PABEAN IMPOR
+1. Pengisian Pemberitahuan Impor Barang (BC 2.0)
+Untuk tujuan pengenaan Tarif Preferensi, pada Pemberitahuan
+Impor Barang (PIB) diisikan kode fasilitas, nomor referensi dan
+tanggal SKA Form IP sebagai berikut:
+a. dalam hal Pemberitahuan Impor Barang (PIB) hanya
+menggunakan skema Perjanjian Perdagangan Preferensial
+
+www.peraturan.go.id

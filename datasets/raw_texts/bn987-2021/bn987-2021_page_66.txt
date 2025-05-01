@@ -1,0 +1,58 @@
+2021, No. 987 66-
+
+-18- Diisi dengan lokasi proyek dimana Mesin dan Peralatan pabrik
+ditempatkan sekarang.
+
+{12) Tabel Rencana Kebutuhan Perolehan Barang Kena Pajak Tertentu yang
+Bersifat Strategis Perubahan
+
+-1- _ Diisi dengan nomor urut.
+
+-2- Diisi dengan nama PKP yang menyerahkan/PKP penjual semula.
+
+-3- Diisi dengan nama PKP yang menyerahkan/PKP penjual
+sekarang.
+
+-4- —_ Diisi dengan jenis Mesin dan Peralatan semula.
+
+-5- Diisi dengan jenis Mesin dan Peralatan sekarang.
+
+-6- Diisi dengan cara pengiriman Mesin dan Peralatan secara utuh
+atau secara terlepas..
+
+-7-  Diisi dengan jenis barang komponen Mesin dan Peralatan, jika
+diimpor/diperoleh secara terlepas
+
+-8- Diisi dengan jumlah Mesin dan Peralatan, baik jika
+diimpor/diperoleh secara utuh maupun jika diimpor/diperoleh
+secara terlepas semula.
+
+-9- Diisi dengan jumlah Mesin dan Peralatan, baik jika
+diimpor/diperoleh secara utuh maupun jika diimpor/diperoleh
+secara terlepas sekarang.
+
+-10- Diisi dengan kode HS Mesin dan Peralatan, baik jika
+diimpor/diperoleh secara utuh maupun jika diimpor/diperoleh
+secara terlepas.
+
+-11-  Diisi dengan spesifikasi teknis Mesin dan Peralatan, baik jika
+diimpor/diperoleh secara utuh maupun jika diimpor/diperoleh
+secara terlepas.
+
+-12- Diisi dengan perkiraan nilai impor per satuan Mesin dan
+Peralatan.
+
+-13- _ Diisi dengan perkiraan nilai impor total Mesin dan Peralatan.
+
+-14- Diisi dengan perkiraan PPN terutang.
+
+-15- Diisi dengan lokasi proyek dimana Mesin dan Peralatan pabrik
+ditempatkan semula.
+
+-16- Diisi dengan lokasi proyek dimana Mesin dan Peralatan pabrik
+ditempatkan sekarang.
+
+(13) Diisi dengan tempat dan tanggal permohonan perubahan RKIP.
+(14) Diisi dengan nama dan jabatan pemohon.
+
+www.peraturan.go.id

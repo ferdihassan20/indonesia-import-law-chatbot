@@ -1,0 +1,21 @@
+-10-
+-11-
+-12-
+-13-
+
+69- 2021, No. 987
+
+Diisi jumlah Mesin dan Peralatan, baik jika diimpor/diperoleh
+secara utuh maupun jika diimpor/diperoleh secara terlepas.
+Diisi harga jual per satuan Mesin dan Peralatan.
+
+Diisi harga jual total Mesin dan Peralatan.
+
+Diisi PPN terutang.
+
+Diisi lokasi proyek di mana Mesin dan Peralatan pabrik
+ditempatkan.
+
+L +
+
+www.peraturan.go.id

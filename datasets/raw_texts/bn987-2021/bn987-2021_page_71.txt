@@ -1,0 +1,52 @@
+(1)
+(2)
+(3)
+(4)
+(5)
+(6)
+(7)
+(8)
+(9)
+(10)
+
+71. 2021, No. 987
+
+PETUNJUK PENGISIAN CONTOH FORMAT
+LAPORAN REALISASI PENYERAHAN MESIN DAN PERALATAN PABRIK
+KEPADA PEMILIK PROYEK
+
+Diisi dengan nama PKP Penyedia Pekerjaan EPC.
+
+Diisi dengan Nomor Pokek Wajib Pajak PKP Penyedia Pekerjaan EPC.
+Diisi dengan alamat PKP Penyedia Pekerjaan EPC,
+
+Diisi dengan nomor kontrak.
+
+Diisi dengan nomor SKB PPN Penyedia Pekerjaan EPC.
+
+Diisi dengan nama Pemilik Proyek.
+
+Diisi dengan Nomor Pokok Wajib Pajak Pemilik Proyek.
+
+Diisi dengan alamat Pemilik Proyek.
+
+Diisi dengan nomor SKB PPN Pemilik Proyek.
+
+Tabel Realisasi Penyerahan Mesin dan Peralatan Pabrik
+
+-1- _ Diisi dengan nomor urut
+
+-2- _ Diisi dengan jenis Mesin dan Peralatan.
+
+-3- _ Diisi dengan jumlah Mesin dan Peralatan.
+
+-4-  Diisi dengan spesifikasi teknis Mesin dan Peralatan, baik jika
+diimpor/diperoleh secara utuh maupun jika diimpor/diperoleh
+secara terlepas.
+
+-5-  Diisi kode HS Mesin dan Peralatan, baik jika diimpor/diperoleh
+secara utuh maupun jika diimpor/diperoleh secara terlepas.
+
+-6- _ Diisi lokasi proyek di mana Mesin dan Peralatan ditempatkan.
+
+www.peraturan.go.id

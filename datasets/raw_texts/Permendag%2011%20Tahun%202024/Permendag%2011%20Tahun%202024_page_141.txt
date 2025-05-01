@@ -1,0 +1,51 @@
+- 136 -
+
+Pos Tarif/HS
+
+Uraian Barang
+
+Persyaratan
+
+Keterangan
+
+ET
+
+PE
+
+LS
+
+Chrysochroa purpureiventris.
+
+Chrysochroa variabilis.
+Chrysodema aurifera.
+Chrysodema elongata.
+Chrysodema instabilis.
+Chrysodema impressicollis.
+Chrysodema mniszechi.
+Chrysodema pyrospictica.
+Chrysodema radians.
+Chrysodema smaragdula.
+Chrysodema subrevisa.
+Chrysodema wallacei.
+Cyphogastra angulicollis.
+Cyphogastra bryini.
+Cyphogastra calepyga.
+Cyphogastra celebensis.
+Cyphogastra falinosa.
+Cyphogastra gloriosa.
+Cyphogastra ignicauda.
+Cyphogastra javanica.
+Cyphogastra lansbergi.
+Cyphogastra nigripennis.
+Cyphogastra rollei.
+Cyphogastra rothschildi.
+Cyphogastra staudingeri.
+Cyphogastra wallacei.
+Demochroa detanii.
+Demochroa glatiosa.
+Demochroa lacordairei.
+Gelaeus walkeri.
+Megaloxantha bicolor.
+Megaloxantha hemixantha.
+Metataenia quadrisignata.
+

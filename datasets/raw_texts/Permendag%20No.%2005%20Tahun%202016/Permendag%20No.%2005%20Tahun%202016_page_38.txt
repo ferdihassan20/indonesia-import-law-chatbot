@@ -1,0 +1,86 @@
+POS we / URAIAN BARANG KETERANGAN
+
+tambahan gula atau
+
+bahan pemanis lainnya
+maupun tidak
+(16. | 0404.90.00.00 _| -Lain-lain
+
+04.05 Mentega dan lemak serta
+minyak lainnya yang
+diperoleh dari susu; dairy
+spreads.
+
+17. | 0405. 10.00.00
+
+18. | 0405.20.00.00 | -Dairy spreads
+
+0405.90 -Lain-lain :
+
+19. --Lemak mentega anhidrat
+20. --Minyak mentega
+
+21. | 0405.90.30.00_ | --Ghee
+
+22. | 0405.90.90.00 |--Lain-lain |
+04.06 Keju dan dadih susu. fC
+
+0406.10 -Keju segar (tidak dimasak
+atau tidak diawetkan)
+termasuk keju whey dan
+dadih susu:
+
+23. | 0406.10.10.00 | --Keju segar (tidak
+
+dimasak atau tidak
+
+diawetkan}, termasuk keju
+whe
+
+24. | 0406.10.20.00
+
+0406.20 -Keju parut dan keju
+bubuk, dari semua jenis:
+
+25. --Dalam kemasan dengan
+berat kotor melebihi 20 kg
+
+26. --Lain-lain
+
+27.1 0406.30.00.00 {| -Keju  olahan, bukan
+
+parutan atau bubuk
+
+28. | 0406.40.00.00 | -Keju blue-vein dan keju
+
+lainnya yang mengandung
+
+vein dibuat dengan
+
+Penicillium roqueforti
+
+29. | 0406.90.00.00 | -Keju lainnya
+
+04.07 Telur unggas berkulit,
+segar, diawetkan atau
+dimasak,
+
+- Telur yang difertilasi
+
+untuk inkubasi:
+
+-- Unggas dari spesies | Telur Ayam
+0407.11.00.00 | Gallus Domesticus
+
+| __[0407.19 | -- Lain-lain:
+
+--: Dari bebek
+
+=
+
+eo
+-Telur segar lainnya: ee
+33. | ex. -- Unggas dari spesies | Telur Ayam
+
+0407.21.00.00 | Gallus Domesticus
+

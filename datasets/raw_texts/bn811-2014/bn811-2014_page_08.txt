@@ -1,0 +1,73 @@
+2014, No.811
+
+8
+TERMASUK
+NO. URAIAN BARANG SPESIFIKASI DALAM
+POS TARIF
+9. | Woven fabric for cloth | kain tenunan polos 5208.11.00.00
+
+material of spider
+
+mengandung kapas 2 85%,
+tidak dikelantang dan berat <
+100 gr/m?
+
+kain tenunan polos
+mengandung kapas 2 85%,
+tidak dikelantang dan berat >
+100 gr/m?
+
+kain tenunan polos
+mengandung kapas 2 85%,
+dikelantang dan berat < 100
+gr/m?
+
+kain tenunan polos
+mengandung kapas 2 85%,
+dikelantang dan berat > 100
+gr/m?
+
+kain tenunan polos
+mengandung kapas 2 85%,
+tidak dikelantang dan berat >
+200 gr/m?
+
+kain tenunan polos
+mengandung kapas < 85%,
+tidak dikelantang dan berat <
+200 gr/m?
+
+kain tenunan stapel sintetik
+poliester = 85%, tidak
+dikelantang atau dikelantang
+
+kain tenunan serat stapel
+sintetik = 85%, mengandung
+serat stapel akrilik atau
+modakrilik 85% atau lebih
+menurut beratnya, tidak
+dikelantang atau dikelantang
+
+kain tenunan serat stapel
+sintetik = 85%, mengandung
+serat stapel akrilik atau
+modakrilik kurang dari 85%,
+tidak dikelantang atau
+dikelantang
+
+5208.12.00.00
+
+5208.21.00.00
+
+5208.22.00.00
+
+5209.11.00.00
+
+5210.11.00.00
+
+5512.11.00.00
+
+5512.21.00.00
+
+5512.91.00.00
+

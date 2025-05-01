@@ -1,0 +1,131 @@
+- 76-
+
+NO
+
+URAIAN BARANG
+
+SPESIFIKASI
+
+TERMASUK
+DALAM
+POS TARIF
+
+18.
+
+Blowdown Valve
+
+Katup untuk mengeluarkan
+sludge dari dalam boiler yang
+sedang beroperasi. Terbuat
+dari besi atau baja dan
+dikendalikan secara
+pneumatik
+
+8481.80.82
+
+Katup untuk mengeluarkan
+sludge dari dalam boiler yang
+sedang beroperasi. Terbuat
+dari besi atau baja dan
+dikendalikan secara manual
+
+8481.80.99
+
+19.
+
+Globe Valve
+
+Katup untuk mengalirkan
+cairan bertemperatur tinggi
+atau uap bertekanan tinggi,
+beroperasi secara manual,
+terbuat dari besi atau baja
+
+8481.80.99
+
+20.
+
+Feed Water Control Valve
+
+Katup untuk mengontrol
+ketinggian air, beroperasi
+secara otomatis, terbuat dari
+besi atau baja
+
+8481.80.99
+
+21.
+
+Control Valve
+
+Katup untuk mengontrol
+aliran cairan bertemperatur
+tinggi atau uap bertekanan
+tinggi, beroperasi secara
+otomatis, terbuat dari besi
+atau baja
+
+8481.80.99
+
+22.
+
+Auto Recirculation Valve
+(ARV)
+
+Katup dari besi atau baja
+yang dioperasikan secara
+manual dengan satu arah
+masukan dan dua arah
+keluaran secara bergantian
+
+8481.80.99
+
+23.
+
+Fuse
+
+Untuk voltase melebihi 1000
+Volt
+
+8535.10.00
+
+24.
+
+Tap Changer
+
+Alat untuk menyesuaikan
+dengan tinggi listrik yang
+masuk trafo
+
+8535.90.10
+
+25.
+
+On Load Tap Changer/
+Neutral Grounding Resistor
+
+Aparatus listrik untuk
+memindahkan tegangan/
+daya atau perangkat yang
+dipasang di trafo untuk
+membuang kelebihan beban
+listrik ke tanah dengan
+tegangan melebihi dari 1000
+Volt
+
+8535.90.90
+
+26.
+
+DMCR/ DMCR Protection
+Relay/ DGPT2
+
+Relai untuk mengatur
+pelepasan gas pada
+transformator
+
+8536.49.90
+
+if
+
+www. jdih. kemenkeu-go.id

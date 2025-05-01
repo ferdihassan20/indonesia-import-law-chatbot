@@ -1,0 +1,78 @@
+2021, No. 987 68-
+
+PETUNJUK PENGISIAN CONTOH FORMAT
+LAPORAN REALISASI IMPOR DAN PEROLEHAN
+MESIN DAN PERALATAN PABRIK
+
+(1)  Diisi dengan nama PKP.
+
+(2) Diisi dengan Nomor Pokok Wajib Pajak PKP.
+
+(3)  Diisi dengan alamat PKP.
+
+(4) Diisi dengan lokasi proyek.
+
+(5) Diisi dengan nomor kontrak (untuk Pemilik Proyek dan Penyedia
+Pekerjaan EPC).
+
+(6) Diisi dengan nomor SKB PPN.
+
+(7) Tabel Realisasi Impor Mesin dan Peralatan Pabrik
+
+-l-  Diisi dengan nomor urut.
+
+-2- Diisi dengan nomor Pemberitahuan Impor Barang (PIB).
+
+-3-  Diisi dengan jenis Mesin dan Peralatan.
+
+-4- _ Diisi dengan cara pengiriman Mesin dan Peralatan secara utuh
+atau secara terlepas.
+
+-5- Diisi dengan jenis barang komponen Mesin dan Peralatan, jika
+diimpor/diperoleh secara terlepas.
+
+-6- _‘ Diisi dengan spesifikasi teknis Mesin dan Peralatan, baik jika
+diimpor/diperoleh secara utuh maupun jika diimpor/diperoleh
+secara terlepas.
+
+-7-  Diisi kode HS Mesin dan Peralatan, baik jika diimpor/diperoleh
+secara utuh maupun jika diimpor/diperoleh secara terlepas.
+
+-8-  Diisi jumlah Mesin dan Peralatan, baik jika diimpor/diperoleh
+secara utuh maupun jika diimpor/diperoleh secara terlepas.
+
+-9- _ Diisi nilai impor per satuan Mesin dan Peralatan.
+
+-10- Diisi nilai impor total Mesin dan Peralatan.
+
+-11- _ Diisi nilai PPN terutang.
+
+-12- Diisi lokasi proyek di mana Mesin dan Peralatan pabrik
+ditempatkan.
+
+(8) Tabel Realisasi Perolehan Mesin dan Peralatan Pabrik
+
+-1- _ Diisi dengan nomor urut.
+
+-2-  Diisi dengan nomor Faktur Pajak.
+
+-3-  Diisi dengan jenis Mesin dan Peralatan.
+
+-4-  Diisi dengan cara pengiriman Mesin dan Peralatan secara utuh
+atau secara terlepas.
+
+-5- Diisi dengan jenis barang komponen Mesin dan Peralatan, jika
+diimpor/diperoleh secara terlepas.
+
+-6- —_ Diisi dengan Nomor Pokok Wajib Pajak PKP Penjual.
+
+-7-  Diisi dengan spesifikasi teknis Mesin dan Peralatan, baik jika
+diimpor/diperoleh secara utuh maupun jika diimpor/diperoleh
+secara terlepas.
+
+-8-  Diisi kode HS Mesin dan Peralatan, baik jika diimpor/diperoleh
+secara utuh maupun jika diimpor/diperolch secara terlepas.
+
+£ +
+
+www.peraturan.go.id

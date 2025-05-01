@@ -1,0 +1,61 @@
+13 2014, No.934
+
+No Pos Tarif Uraian Barang
+123 1902.20.30,00 -- Diisi dengan ikan, siput atau moluska
+124 1902.20.90.00 -- Lain-lain
+1902.30 - Pasta lainnya:
+125 1902.30,20.00 -- Bihun instan
+126 1902.30.30.00 -- Soun.
+127 1902.30.40,00 -- Mi instan lainnya
+128 | 1902.30.90.00 -- Lain-lain
+129 1902.40.00.00 - Couscous
+
+Makanan olahan diperoleh dengan cara menggembungkan
+atau menggongseng serealia atau produk serealia (misalnya,
+keripik jagung); serealia (selain jagung), dalam bentuk butir
+
+19.04 atau serpih atau butir yang dikerjakan secara lain (kecuali
+tepung, menir dan tepung kasar), belum dimasak atau diolah
+secara lain, tidak dirinci atau termasuk pos lainnya.
+
+1904.10 - Makanan olahan diperoleh dengan menggembungkan atau
+
+: menggongseng serealia atau produk serealia:
+130 1904.10.10.00 -- Mengandung kakao
+131 1904. 10,90,00 -- Lain-lain
+- Makanan olahan yang diperoleh dari keripik serealia tidak
+
+1904 digongseng atau campuran keripik serealia tidak digongseng
+dengan keripik serelia yang digongseng atau serealia yang
+digembungkan.
+
+132 1904.20.10.00 ii Makanan olahan yang diambil dari keripik serealia yang tidak
+igongseng
+133 | 1904,20,90,00 -- Lain-lain
+134 1904.30.00.00 - Gandum bulgur
+1904.90 - Lain-lain:
+135 1904.90.10.00 -- Olahan nasi, termasuk nasi belum matang
+136 1904.90,90.00 -- Lain-lain
+
+Roti, kue kering, kue, biskuit dan produk roti lainnya,
+mengandung kakao maupun_ tidak; wafer komuni,
+19.05 selongsong kosong dari jenis yang cocok untuk keperluan
+farmasi, sealing wafers, rice paper dan produk yang
+semacam itu
+
+137 1905.10.00.00 - Roti kering
+138 1905.20.00.00 - Roti jahe dan sejenisnya
+- Biskuit manis; wafel dan wafer:
+1905.31 -- Biskuit manis:
+139 1905.31.10.00 --- Tidak mengandung kakao
+140 1905.31.20.00 --- Mengandung kakao
+141 1905.32.00.00 -- Wafel dan water
+1905.40 - Rusk, roti panggang dan produk panggang semacam itu:
+1905.40.10 7 tak mengandung tambahan gula, madu, telur, lemak, keju
+142 1905.40.10,10 --- Remah roti
+143 | 1905.40.10.90 --- Lain-lain
+144 1905.40.90,00 -- Lain-lain
+1905.90 - Lain-lain:
+145 1905.90.10.00 -- Biskuit gigit tidak manis
+
+ie)

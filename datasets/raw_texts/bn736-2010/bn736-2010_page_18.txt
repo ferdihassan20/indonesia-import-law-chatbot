@@ -1,0 +1,119 @@
+2010, No.736
+
+POS TARIF/
+
+No. HS
+
+18
+
+URAIAN BARANG |
+
+84.45
+
+KETERANGAN
+
+Mesin untuk pengolahan serat  tekstil; mesin
+
+pemintal, penggandaan atau pemilinan dan mesin
+
+mesin pengikal atau penggulung — tekstil
+{termasuk penggulung benang pakan} dan _mesin
+
+lainnya untuk memproduksi benang _ tekstit;
+
+untuk menyiapkan benang tekstil untuk diguna-
+
+kan pada mesinyang dimaksud pada pos 84.46
+atau 84.47,
+
+-Mesin untuk pengolahan serat tekstil :
+
+8445.19
+6445.19.10.00
+0445.20
+| 73 [8445.20.10.00
+2445 50
+
+8445.14 ~-Mesin penggaruk :
+
+68 |8445.11.10.00 ---Dioperasikan secara elektrik
+8445.12 --Mesin penyisir :
+
+70 |8445.12.10.00  |—-Dioperasikan secara elektrik
+8445.13 --Mesin penarik atau mesin roving :
+
+71 = |8445.13.10.00
+
+—Dioperasikan secara elektrik
+~Lainelain : 7
+—-Dioperasikan secara elektrik
+
+-Mesin pemintal benang tekstit :
+~-Dioperasikan secara elektrik
+-Mesin pengganda atau pemintal benang tekstil:
+
+74 |8445.30,10.00
+
+--Dioperasikan secara elektrik
+-Mesin penggulung (termasuk penggulung benang
+
+75 |8445.40.10.00
+
+pakan) atau mesin pengikal benang tekstil :
+--Dioperasikan secara elektrik
+
+84.46
+8446.10
+
+Mesin tenun (loom).
+
+-Untuk menenun kain dengan lebar tidak mele-
+
+bihi 30 cm :
+
+76 |8446.10.10.00
+
+--Dioperasikan secara elektrik
+
+-Untuk menenun kain dengan lebar metebihi
+
+30 cm, tipe puntalan :
+
+8446.21.00.00
+
+--Power loom
+
+78 |8446.30.00.00
+
+-Untuk menenun kain dengan lebar melebihi
+
+30 cm, tipe tanpa puntalan
+
+Mesin rajut, mesin stitch-bonding dan mesin
+
+untuk membuat benang —berpalut, tulle, renda,
+
+bordir, perapih, jalinan atau jaring dan mesin
+
+pembuat rumbai.
+
+-Mesin rajut bundar :
+
+8447.11
+
+--Dengan garis tengah silinder tidak melebihi 165 mm:
+
+79 |8447.4114.10.00
+
+-—Dioperasikan secara elektrik
+
+—Dengan gars tengah  silinder melebihi 165mm:
+
++--Dioperasikan secara elektrik
+
+-Mesin rajut datar; mesin tusuk ikat :
+
+8447.20.10,00
+
+~-Djoperasikan secara elektrik
+

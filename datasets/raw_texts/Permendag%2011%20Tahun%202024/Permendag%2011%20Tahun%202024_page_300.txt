@@ -1,0 +1,50 @@
+- 295 -
+
+Pos Tarif/HS
+
+Uraian Barang
+
+Persyaratan
+
+Keterangan
+
+ET
+
+PE
+
+LS
+
+Masa berlaku
+perubahan PE
+Intan Kasar selama
+sisa masa berlaku
+PE Intan Kasar.
+
+Eksportir hanya
+dapat memiliki 1
+(satu) PE Intan
+Kasar Yang
+Diekspor Kembali.
+
+PE Intan Kasar
+Yang Diekspor
+Kembali berlaku
+untuk 1 (satu) kali
+penyampaian
+Pemberitahuan
+Pabean Ekspor
+(transaksional).
+
+Masa berlaku PE
+Intan Kasar Yang
+Diekspor Kembali
+paling lama 1
+(satu) bulan.
+
+Elemen data
+dan/atau
+keterangan
+tambahan selain
+yang diatur dalam
+batang tubuh,
+

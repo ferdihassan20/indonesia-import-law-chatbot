@@ -1,0 +1,52 @@
+2014, No.934
+
+36
+
+No Pos Tarif Uraian Barang
+678 6306, 19.20.00 --- Dari kapas
+679 6306.19.90.00 --- Lain-lain
+- Tenda:
+680 6306,22,00,00 -- Dari serat sintetik
+6306.29 -- Dari bahan tekstil lainnya:
+681 6306,29,10,00 --- Dari kapas
+682 | 6306.29.90.00 --- Lain-lain
+6306.40 - Matras bertekanan udara:
+683 | 6306.40.10.00 -- Dari kapas
+684 6306.40.90.00 -- Lain-lain
+6306.90,00 - Lain-lain:
+685 6306.90.00.10 -- Dari kapas
+-- Dari bahan tekstil lainnya:
+686 | 6306.90.00.91 --- Dari bukan tenunan,
+687 6306,90.00,99 --- Lain-lain
+63.07 Barang jadi lainnya, termasuk pola pakaian.
+6307.10 - Kain pembersih lantai, kain pencuci piring, penyapu debu dan
+lap pembersih semacam itu:
+688 | 6307.10.10.00 -- Bukan tenunan
+689 6307.10.20,00 -- Dari kain kempa
+690 6307.10.90,00 -- Lain-lain
+691 | 6307.20.00.00 - Jaket penyelamat dan sabuk penyelamat
+6307.90 - Lain-lain:
+692 | 6307.90.30.00 -- Penutup payung dalam potongan berbentuk segitiga
+693 | 6307.90.40.00 -- Masker bedah
+-- Harness pengaman:
+694 | 6307.90.61.00 --- Cocok untuk kegunaan industri
+695 6307.90.69,00 --- Lain-lain
+696 | 6307.90.70.00 -- Kipas dan handscreen
+697 6307.90.90,00 -- Lain-lain
+Handuk (pad) dan tampon saniter, popok dan pembebat
+96.19 popok untuk bayi dan barang semacam itu, dari bahan
+apapun.
+- Barang sekali pakai:
+698 | 9619.00.11.00 -- Dengan gumpalan kapas penyerap dari bahan tekstil
+699 | 9619.00.19.00 -- Lain-lain
+- Lain-lain:
+9619.00.91 -- Rajutan atau kaitan:
+700 | 9619.00.91.10 --- Dengan gumpalan kapas penyerap dari bahan tekstil
+701 9619,00.91.90 --- Lain-lain
+9619.00.99 -- Lain-lain:
+702 | 9619.00.99.10 --- Dengan gumpalan kapas penyerap dari bahan tekstil
+703 | 9619.00.99.90 ~~ Lain-lain
+E. ALAS KAKI
+
+29
+

@@ -1,0 +1,49 @@
+-27-
+
+dimaksud. Dalam hal atas item barang impor wajib memenuhi
+lebih dari satu ketentuan larangan dan pembatasan, importir
+harus mencantumkan semua ketentuan larangan atau
+pembatasan terkait barang impor dimaksud. Dalam hal
+pemenuhan ketentuan larangan atau pembatasan tidak
+dipersyaratkan adanya dokumen yang dilampirkan serta dalam
+hal barang yang diimpor bukan merupakan barang yang dilarang
+atau dibatasi impornya, maka kolom ini tidak perlu diisi.
+Contoh:
+
+Izin Impor Kementerian Pertanian Nomor 245/Kemtan/2020
+tanggal 11 April 2020.
+
+Tarif dan Fasilitas
+Diisi pada kolom yang disediakan dengan:
+
+Tarif Bea Masuk, tarif Bea Masuk tambahan seperti Bea Masuk
+Anti Dumping, Bea Masuk Anti Dumping Sementara, Bea Masuk
+Tindakan Pengamanan, Bea Masuk Tindakan Pengamanan
+Sementara, Bea Masuk Imbalan, Bea Masuk Imbalan Sementara,
+Bea Masuk Pembalasan, Cukai, PPN, PPnBM, dan PPh; dan
+Fasilitas pembebasan, keringanan, ditanggung pemerintah, tidak
+dipungut, atau penundaan pembayaran bea masuk, bea masuk
+tambahan, Cukai, PPN, PPnBM, dan PPh,
+
+pada tanggal pengajuan permohonan Pelayanan Segera (Rush
+Handling).
+Kode fasilitas terdiri atas:
+
+DTP untuk ditanggung pemerintah;
+DTG untuk ditunda;
+
+TDP untuk tidak dipungut;
+
+BBS untuk dibebaskan; dan
+LNS untuk telah dilunasi.
+
+Pembebasan, keringanan, ditanggung pemerintah, tidak dipungut,
+atau penundaan pembayaran bea masuk yang dicantumkan
+disesuaikan dengan pos tarif BTKI yang digunakan.
+
+Diisi pembebanan Bea Masuk sesuai ketentuan yang berlaku.
+Ada 2 (dua) jenis tarif/pembebanan untuk BM:
+
+2021, No.724
+
+www.peraturan.go.id

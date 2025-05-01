@@ -4,8 +4,13 @@ import logging
 import openai
 import chardet
 import tiktoken
+import sys
 
 from tqdm import tqdm
+import sys
+import os
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "../../")))
+
 from models.llm_runtime import LLMRuntime
 from utils.prompt.cleaning_prompt import *
 
@@ -23,7 +28,7 @@ class LLMDataCleaning(LLMRuntime):
 
     def fix_file_name(self):
         """ Memperbaiki format nama file agar konsisten """
-        root_dir = "datasets/coba"
+        root_dir = "datasets/raw_texts"
         list_legal_docs = os.listdir(root_dir)
 
         num_convert = {f"page_{i}.txt": f"page_0{i}.txt" for i in range(1, 10)}
@@ -62,8 +67,8 @@ class LLMDataCleaning(LLMRuntime):
     def load_dataset(self):
         """ Memproses dan membersihkan seluruh dataset hukum, lalu menyimpan hasilnya """
         self.fix_file_name()
-        root_dir = "datasets/datasets_text"
-        output_dir = "datasets/cleaned_legal_datasets"
+        root_dir = "datasets/raw_texts"
+        output_dir = "datasets/cleaned_texts"
         
         # Buat folder output jika belum ada
         os.makedirs(output_dir, exist_ok=True)

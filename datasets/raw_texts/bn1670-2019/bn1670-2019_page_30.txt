@@ -1,7 +1,0 @@
-2019, No.1670 -30-
-
-" butir e. digunakan hanya jika barang yang dimintakan pembebasan bea masuk adalah
-kendaraan bermotor. Untuk barang selain kendaraan bermotor, butir ¢ dapat dihapus_
-“| dipilih yang sesuai
-
-www.peraturan.go.id

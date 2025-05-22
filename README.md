@@ -50,16 +50,6 @@ Raw input and structured legal documents:
 
 ---
 
-## ⚙️ Installation
-
-```bash
-python -m venv env
-source env/bin/activate  # or .\env\Scripts\activate on Windows
-pip install -r requirements.txt
-```
-
----
-
 ## ▶️ Usage
 
 ```bash

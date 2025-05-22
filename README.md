@@ -36,7 +36,8 @@ Referensi: DOC001, DOC103
 
 ```
 
-![Architecture Diagram](./images/Pipeline.png)
+![Architecture Diagram](images/Pipeline.png)
+
 
 ---
 

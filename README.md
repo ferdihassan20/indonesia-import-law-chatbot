@@ -34,19 +34,6 @@ Referensi: DOC001, DOC103
 
 ## 🧱 System Architecture
 
-The system includes the following major modules:
-
-```mermaid
-graph TD
-    A[User Query] --> B[Decomposer (LLM)]
-    B --> C[Query Embedding (LaBSE)]
-    C --> D{Semantic Cache Hit?}
-    D -- Yes --> E[Return Cached Answer]
-    D -- No --> F[FAISS Nearest Neighbor Search]
-    F --> G[Metadata Retrieval]
-    G --> H[Prompt Construction]
-    H --> I[LLM Answer Generation]
-    I --> J[Final Answer + References]
 ```
 
 ![Architecture Diagram](./images/Pipeline.png)

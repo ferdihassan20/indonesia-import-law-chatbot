@@ -1,0 +1,40 @@
+# Core dependencies
+pandas
+numpy
+faiss-cpu
+sentence-transformers
+openai
+tiktoken
+requests
+
+# PDF processing
+pdf2image
+pytesseract
+Pillow
+
+# Progress bars
+tqdm
+
+# System utilities
+psutil
+chardet
+
+# Logging
+logging
+
+# Data processing
+re
+csv
+os
+sys
+time
+pickle
+atexit
+
+# Optional dependencies (for specific use cases)
+# Uncomment if needed:
+# torch
+# transformers
+# langchain
+# chromadb
+# weaviate-client

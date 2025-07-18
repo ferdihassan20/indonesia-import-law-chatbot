@@ -1,0 +1,17 @@
+groq_api.txt
+openai_api.txt
+generate_faiss_embeddings.py
+llm_extract_new.py
+retrieve_faiss.py
+agent.py
+chatbot_rag.py
+error_handling.py
+semantic_cache.py
+datasets/pdfs
+datasets/images
+datasets/images(old)
+datasets/texts
+datasets/pdfs(too big)
+datasets/raw_texts
+groq_data_cleaning.py
+llm_data_cleaning.py

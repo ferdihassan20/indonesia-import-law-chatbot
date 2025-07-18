@@ -14,7 +14,7 @@ datasets/texts
 datasets/pdfs(too big)
 datasets/raw_texts
 datasets/embeddings
-datasets/embeddings/faiss_index.index 
+datasets/embeddings/faiss_index.index
 datasets/embeddings/metadata.pkl
 groq_data_cleaning.py
 llm_data_cleaning.py
